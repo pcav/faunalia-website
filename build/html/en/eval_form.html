@@ -1,0 +1,410 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Questionario di valutazione corsi &mdash; Faunalia  documentation</title>
+    
+    <link rel="stylesheet" href="_static/basic.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/bootstrap/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="_static/faunalia.css" type="text/css" />
+    <link rel="stylesheet" href="_static/bootstrap/css/bootstrap-responsive.min.css" type="text/css" />
+    <link rel="stylesheet" href="http://ct1.addthis.com/static/r07/widgetbig056.css" type="text/css" />
+    <link rel="stylesheet" href="http://ct1.addthis.com/static/r07/widget115.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '',
+        VERSION:     '',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/javascript" src="_static/bootstrap3/js/bootstrap.js"></script>
+    <link rel="shortcut icon" href="_static/favicon_faunalia.ico"/>
+    <link rel="top" title="Faunalia  documentation" href="index.html" />
+
+  <script>
+    var currentPage = 'eval_form.html'; // coming from sphinx, always without starting '/'
+    var currentLang = 'en';
+    $(document).ready(function(){
+        var search = new RegExp('\/[a-zA-Z_]{2,8}\/'+ currentPage, 'gi');
+        var langPlusPage = window.location.href.match(search);
+        if (langPlusPage==undefined){
+            // it's possible this is a index.html page called without 'index.html', try without the currentPage
+            search = new RegExp('\/[a-zA-Z_]{2,8}\/$', 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        if (langPlusPage == undefined || langPlusPage.length != 1){
+            alert('This is an documentation error, please report back to QGIS devs.');
+            return;
+        }
+        langPlusPage = langPlusPage[0];
+        currentLang = langPlusPage.replace(currentPage, '');
+
+        // put some style around the current locale flag, we have to remove the '/' here
+        $('#flag_'+currentLang.replace(/\//g,'')).css('background-color', '#eee');
+    });
+
+    // load current page in a different language
+    function gotoLang(lang){
+        var currentUrl = window.location.href;
+        var newUrl = currentUrl.replace(currentLang, '/'+lang+'/');
+        window.location.href = newUrl;
+    }
+  </script>
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- Fav and touch icons -->
+    <link rel="shortcut icon" href="_static/logo_faunalia.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  </head>
+  <body>
+
+    <div class="navbar navbar-inverse">
+        <div class="navbar-inner">
+            <div class="container">
+                
+                <a class="btn btn-navbar" data-toggle="collapse"
+                   data-target=".nav-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+                <a class="brand" href="index.html">
+                  <img src="_static/logo_faunalia.png" alt="Faunalia logo">
+                </a>
+                <div class="nav-collapse collapse">
+                    <ul class="nav pull-right">
+                        <li><a href="training.html">Corsi</a></li>
+                        <li><a href="support.html">Assistenza</a></li>
+                        <li><a href="dev.html">Sviluppo</a></li>
+                        <li><a href="jobs.html">Cosa facciamo</a></li>
+                        <li><a href="staff.html">Chi siamo</a>
+                        <li><a href="contacts.html">Contatti</a>
+                        <li><a href="#">Inscription</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+    </div> 
+    <div class="language-switch">
+      <div class="container">
+         
+
+
+<div id="language" class="pull-left">
+  <ul id="locales">
+    <li id="flag_en" onclick="gotoLang('en');">
+      <img src="_static/img/flags/en.png" title="en" alt="en">
+    </li>
+    <li id="flag_es" onclick="gotoLang('es');">
+      <img src="_static/img/flags/es.png" title="es" alt="es">
+    </li>
+    <li id="flag_fr" onclick="gotoLang('fr');">
+      <img src="_static/img/flags/fr.png" title="fr" alt="fr">
+    </li>
+    <li id="flag_it" onclick="gotoLang('it');">
+      <img src="_static/img/flags/it.png" title="it" alt="it">
+    </li>
+    <li id="flag_pt_BR" onclick="gotoLang('pt_BR');">
+      <img src="_static/img/flags/pt_BR.png" title="pt_BR" alt="pt_BR">
+    </li>
+    <li id="flag_pt_PT" onclick="gotoLang('pt_PT');">
+      <img src="_static/img/flags/pt_PT.png" title="pt_PT" alt="pt_PT">
+    </li>
+  </ul>
+</div> 
+
+        <div id="searchbox" class="pull-right">
+          <form class="navbar-form" id="search" action="" method="get">
+          <input type="text" name="q" placeholder="Search"/>
+          <input type="submit" value="Go" class="btn btn-warning btn-small"/>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+          </form>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+
+    <div class="container main-container">
+
+    <!-- normal pages == non frontpage -->
+      <div class="row-fluid" >
+        <div class="span3" >
+          <div class="well sidebar-nav">
+            <!-- sidebar -->
+          </div><!--/.well -->
+        </div><!--/span3-->
+        <div class="span9 sub-pages">
+            
+  
+  <div class="section" id="questionario-di-valutazione-corsi">
+<h1>Questionario di valutazione corsi<a class="headerlink" href="#questionario-di-valutazione-corsi" title="Permalink to this headline">¶</a></h1>
+<p>Minimo 0, Massimo 5</p>
+      <?php
+              $pageName = basename($_SERVER['SCRIPT_NAME']);
+              if ($_POST["SUBMIT"]) {
+
+                      // sender data
+                      $sender_name = 'Faunalia';
+                      $sender_email ="info@faunalia.it";
+
+                      // form data
+                      $aspettative = $_POST["aspettative"];
+                      $durata = $_POST["durata"];
+                      $infrastrutture = $_POST["infrastrutture"];
+                      $qualita = $_POST["qualita"];
+                      $logistica = $_POST["logistica"];
+                      $docenza = $_POST["docenza"];
+                      $competenze = $_POST["competenze"];
+                      $obiettivi = $_POST["obiettivi"];
+                      $stimola = $_POST["stimola"];
+                      $esposizione = $_POST["esposizione"];
+                      $disponibilita = $_POST["disponibilita"];
+                      $osservazioni = $_POST["osservazioni"];
+                      $amici = $_POST["know_amici"];
+                      $internet = $_POST["know_internet"];
+                      $mail_list = $_POST["know_mail_list"];
+                      $email = $_POST["know_email"];
+                      $altro = $_POST["know_altro"];
+                      $sito = $_POST["know_sito"];
+                      $quale = $_POST["quale_sito"];
+                      $nome_corso = $_POST["nome_corso"];
+
+                      // compose submitter mail
+                      $from = 'From: ' . $sender_email;
+                      $to = $e_mail;
+                      $subject = "Invio della valutazione avvenuto con successo";
+                      $message = "Dati registrati";
+                      $body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n $message";
+                      if (mail ($to, $subject, $body, $from)) {
+                              echo "<p>Iscrizione al corso " . $corso . " avvenuta con successo</p>";
+                      } else {
+                              echo '<h2>Qualcosa non ha funzionato (campi non compilati?). Riprova!</h2>';
+                      }
+
+                      // compose internal archive mail
+                      $from = 'From: ' . $sender_email;
+                      $to = $sender_email;
+                      $subject = "Iscrizione corso: " . $corso . " per " . $nome . " " . $cognome;
+
+                              // key:value message
+                              //$message = "Nome: " . $nome . "\n" .
+                              //                 "Cognome: " . $cognome . "\n" .
+                              //                 "Indirizzo: " . $indirizzo  . "\n" .
+                              //                 "Telefono: " . $telefono  . "\n" .
+                              //                 "Email: " . $e_mail  . "\n" .
+                              //                 "Corso: " . $corso  . "\n" .
+                              //                 "Dati per Fatturazione: " . $dati_per_fatturazione  . "\n" .
+                              //                 "Note: " . $note  . "\n";
+
+                              // with header csv message
+                              $message = "Valutazione corso\n" .
+                                      $aspettative  ."," .
+                                      $durata  ."," .
+                                      $infrastrutture  ."," .
+                                      $qualita  ."," .
+                                      $logistica  ."," .
+                                      $docenza  ."," .
+                                      $competenze  ."," .
+                                      $obiettivi  ."," .
+                                      $stimola  ."," .
+                                      $esposizione  ."," .
+                                      $disponibilita  ."," .
+                                      $osservazioni  ."," .
+                                      $amici  ."," .
+                                      $internet  ."," .
+                                      $mail_list  ."," .
+                                      $email  ."," .
+                                      $altro  ."," .
+                                      $sito  ."," .
+                                      $quale  ."," .
+                                      $nome_corso . "\n";
+
+                      $body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n $message";
+                      if (mail ($to, $subject, $body, $from)) {
+                              // do nothing
+                      } else {
+                              error_log("Error sending internal inscription mail: ". $body);
+                      }
+              }
+      ?>
+      <form action="<?php echo $pageName; ?>" method="post" class="vertical-space">
+
+      <label for="edit-submitted-question-1">Il corso ha corrisposto alle tue aspettative? <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+      <select id="edit-submitted-question-1" name="aspettative" class="input-xlarge required">
+      <option value="" selected="selected">- Scegliere -</option>
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option></select>
+
+      <label for="edit-submitted-question-2">La durata del corso è stata sufficiente? <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+      <select id="edit-submitted-question-2" name="durata" class="input-xlarge required"><option value="" selected="selected">- Scegliere -</option><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select>
+
+      <label for="edit-submitted-question-3">Come valuti le infrastrutture utilizzate? <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+      <select id="edit-submitted-question-3" name="infrastrutture" class="input-xlarge required"><option value="" selected="selected">- Scegliere -</option><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select>
+
+      <label for="edit-submitted-question-4">Come valuti la qualità del corso? <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+      <select id="edit-submitted-question-4" name="qualita" class="input-xlarge required"><option value="" selected="selected">- Scegliere -</option><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select>
+
+      <label for="edit-submitted-question-5">Come valuti l'organizzazione logistica del corso? <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+      <select id="edit-submitted-question-5" name="logistica" class="input-xlarge required"><option value="" selected="selected">- Scegliere -</option><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select>
+
+      <label for="edit-submitted-question-6">Come valuti il livello della docenza? <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+      <select id="edit-submitted-question-6" name="docenza" class="input-xlarge required"><option value="" selected="selected">- Scegliere -</option><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select>
+
+      <label for="edit-submitted-question-7">Pensi che le competenze acquisite possano esserti utili nella tua professione? <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+      <select id="edit-submitted-question-7" name="competenze" class="input-xlarge required"><option value="" selected="selected">- Scegliere -</option><option value="0">Si</option><option value="1">Parzialmente</option><option value="2">No</option></select>
+
+      <label for="edit-submitted-question-8">Pensi che gli obiettivi del corso siano stati raggiunti? <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+      <select id="edit-submitted-question-8" name="obiettivi" class="input-xlarge required"><option value="" selected="selected">- Scegliere -</option><option value="0">Si</option><option value="1">Parzialmente</option><option value="2">No</option></select>
+
+      <label for="edit-submitted-question-9">Il docente stimola l'interesse per la materia? <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+      <select id="edit-submitted-question-9" name="stimola" class="input-xlarge required"><option value="" selected="selected">- Scegliere -</option><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select>
+
+        <label for="edit-submitted-question-10">Come valuti la capacità di esposizione degli argomenti? <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+       <select id="edit-submitted-question-10" name="esposizione" class="input-xlarge required"><option value="" selected="selected">- Scegliere -</option><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select>
+
+      <label for="edit-submitted-question-11">Come valuti il grado di disponibilità per chiarimenti ed approfondimenti? <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+      <select id="edit-submitted-question-11" name="disponibilita" class="input-xlarge required"><option value="" selected="selected">- Scegliere -</option><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select>
+
+      <label for="edit-submitted-osservazioni-e-suggerimenti">Osservazioni e suggerimenti </label>
+      <textarea id="edit-submitted-osservazioni-e-suggerimenti" name="osservazioni" cols="60" rows="5" class="input-xlarge"></textarea>
+
+        <label for="edit-submitted-come-sei-venuto-a-sapere-del-corso">Come sei venuto a sapere del corso? <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <label class="option checkbox" for="edit-submitted-come-sei-venuto-a-sapere-del-corso-1">
+  Amici o colleghi
+       <input type="checkbox" id="edit-submitted-come-sei-venuto-a-sapere-del-corso-1" name="amici" value="Amici o colleghi" class="form-checkbox" />
+ </label>
+ <label class="option checkbox" for="edit-submitted-come-sei-venuto-a-sapere-del-corso-2">
+  Internet
+       <input type="checkbox" id="edit-submitted-come-sei-venuto-a-sapere-del-corso-2" name="internet" value="Internet" class="form-checkbox" />
+ </label>
+<label class="option checkbox" for="edit-submitted-come-sei-venuto-a-sapere-del-corso-3">
+  Mailing list o forum
+       <input type="checkbox" id="edit-submitted-come-sei-venuto-a-sapere-del-corso-3" name="mail_list" value="Mailing list o forum" class="form-checkbox" />
+</label>
+ <label class="option checkbox" for="edit-submitted-come-sei-venuto-a-sapere-del-corso-4">
+  E-mail
+       <input type="checkbox" id="edit-submitted-come-sei-venuto-a-sapere-del-corso-4" name="email" value="E-mail" class="form-checkbox" />
+ </label>
+ <label class="option checkbox" for="edit-submitted-come-sei-venuto-a-sapere-del-corso-5">
+  Altro
+       <input type="checkbox" id="edit-submitted-come-sei-venuto-a-sapere-del-corso-5" name="altro" value="Altro" class="form-checkbox" />
+ </label>
+
+        <label for="edit-submitted-sito">Sito </label>
+       <input type="text" id="edit-submitted-sito" name="sito" value="" size="60" maxlength="128" class="input-xlarge" />
+
+      <label for="edit-submitted-quale">Quale </label>
+      <input type="text" id="edit-submitted-quale" name="quale" value="" size="60" maxlength="128" class="input-xlarge" />
+
+      <input type="hidden" name="nome_corso" value="Corso di prova" />
+<br>
+      <input type="submit" name="SUBMIT" value="Submit inscription" class="btn btn-primary"/>
+      </form></div>
+
+ 
+        </div><!--/span9-->
+      </div><!--/.row-->
+
+      <script type='text/javascript'>
+        $('.sub-pages h1, .sub-pages h2').addClass('page-header');
+      </script>
+
+    
+
+    </div><!--/.fluid-container-->
+    
+   
+    <div class="footer-upper">
+      <div class="container">
+        <div class="row-fluid">
+          <div class="span3">
+            <h3>Contatti</h3>
+            <p><a class="reference external" href="mailto:info@faunalia.it">info@faunalia.it</a></p>
+            <p><a class="reference external" href="mailto:paolo.cavallini@pec.it">paolo.cavallini@pec.it</a></p>
+            <p>Fax +390587213742</p>
+            <p>Phone/Viber/Line +393483801953</p>
+            <p>Skype paolo.gg.cavallini</p>
+            <p>Hangouts <a class="reference external" href="mailto:paolo.cavallini@gmail.com">paolo.cavallini@gmail.com</a></p>
+          </div>
+          <div class="span4">
+            <div class="span6">
+              <h3>Address1</h3>
+              <p>Faunalia</p>
+              <p>Piazza Garibaldi, 5</p>
+              <p>56025 Pontedera (PI)</p>
+              <p>Italy</p>
+            </div>
+            <div class="span6">
+              <h3>Address1</h3>
+              <p>Faunalia</p>
+              <p>Rua do Cano 56</p>
+              <p>7000-596 Évora</p>
+              <p>Portugal</p>
+            </div>
+          </div>
+          <div class="span5">
+            <h3>Faunalia @ social networks</h3> 
+            <!-- AddThis Follow BEGIN -->
+            <p>Follow Us</p>
+            <div class="addthis_toolbox addthis_32x32_style addthis_default_style">
+            <a class="addthis_button_facebook_follow" addthis:userid="faunaliagis"></a>
+            <a class="addthis_button_twitter_follow" addthis:userid="faunaliagis"></a>
+            <a class="addthis_button_linkedin_follow" addthis:userid="faunalia" addthis:usertype="company"></a>
+            <a class="addthis_button_google_follow" addthis:userid="115690725489468238151"></a>
+            <a class="addthis_button_youtube_follow" addthis:userid="faunaliagis"></a>
+            </div>
+            <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51fb95b90abe8ec7"></script>
+            <!-- AddThis Follow END -->
+          </div> 
+        </div>
+      </div>
+    </div> 
+    <div class="footer-lower">
+      <div class="container">
+        <p class="centered">&copy; Copyright 2013, Faunalia</p>
+      </div>
+    </div>
+
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li><a href="index.html">Faunalia  documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2013, Faunalia.
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.
+    </div>
+  </body>
+</html>

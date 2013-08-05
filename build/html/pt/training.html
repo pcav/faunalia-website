@@ -1,0 +1,598 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Corsi &mdash; Faunalia  documentation</title>
+    
+    <link rel="stylesheet" href="_static/basic.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/bootstrap/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="_static/faunalia.css" type="text/css" />
+    <link rel="stylesheet" href="_static/bootstrap/css/bootstrap-responsive.min.css" type="text/css" />
+    <link rel="stylesheet" href="http://ct1.addthis.com/static/r07/widgetbig056.css" type="text/css" />
+    <link rel="stylesheet" href="http://ct1.addthis.com/static/r07/widget115.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '',
+        VERSION:     '',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/javascript" src="_static/bootstrap3/js/bootstrap.js"></script>
+    <link rel="shortcut icon" href="_static/favicon_faunalia.ico"/>
+    <link rel="top" title="Faunalia  documentation" href="index.html" />
+    <link rel="next" title="Assistenza" href="support.html" />
+    <link rel="prev" title="Faunalia" href="index.html" />
+
+  <script>
+    var currentPage = 'training.html'; // coming from sphinx, always without starting '/'
+    var currentLang = 'en';
+    $(document).ready(function(){
+        var search = new RegExp('\/[a-zA-Z_]{2,8}\/'+ currentPage, 'gi');
+        var langPlusPage = window.location.href.match(search);
+        if (langPlusPage==undefined){
+            // it's possible this is a index.html page called without 'index.html', try without the currentPage
+            search = new RegExp('\/[a-zA-Z_]{2,8}\/$', 'gi');
+            langPlusPage = window.location.href.match(search);
+        }
+        if (langPlusPage == undefined || langPlusPage.length != 1){
+            alert('This is an documentation error, please report back to QGIS devs.');
+            return;
+        }
+        langPlusPage = langPlusPage[0];
+        currentLang = langPlusPage.replace(currentPage, '');
+
+        // put some style around the current locale flag, we have to remove the '/' here
+        $('#flag_'+currentLang.replace(/\//g,'')).css('background-color', '#eee');
+    });
+
+    // load current page in a different language
+    function gotoLang(lang){
+        var currentUrl = window.location.href;
+        var newUrl = currentUrl.replace(currentLang, '/'+lang+'/');
+        window.location.href = newUrl;
+    }
+  </script>
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- Fav and touch icons -->
+    <link rel="shortcut icon" href="_static/logo_faunalia.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  </head>
+  <body>
+
+    <div class="navbar navbar-inverse">
+        <div class="navbar-inner">
+            <div class="container">
+                
+                <a class="btn btn-navbar" data-toggle="collapse"
+                   data-target=".nav-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+                <a class="brand" href="index.html">
+                  <img src="_static/logo_faunalia.png" alt="Faunalia logo">
+                </a>
+                <div class="nav-collapse collapse">
+                    <ul class="nav pull-right">
+                        <li><a href="#">Corsi</a></li>
+                        <li><a href="support.html">Assistenza</a></li>
+                        <li><a href="dev.html">Sviluppo</a></li>
+                        <li><a href="jobs.html">Cosa facciamo</a></li>
+                        <li><a href="staff.html">Chi siamo</a>
+                        <li><a href="contacts.html">Contatti</a>
+                        <li><a href="eval_form.html">Inscription</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+    </div> 
+    <div class="language-switch">
+      <div class="container">
+         
+
+
+<div id="language" class="pull-left">
+  <ul id="locales">
+    <li id="flag_en" onclick="gotoLang('en');">
+      <img src="_static/img/flags/en.png" title="en" alt="en">
+    </li>
+    <li id="flag_es" onclick="gotoLang('es');">
+      <img src="_static/img/flags/es.png" title="es" alt="es">
+    </li>
+    <li id="flag_fr" onclick="gotoLang('fr');">
+      <img src="_static/img/flags/fr.png" title="fr" alt="fr">
+    </li>
+    <li id="flag_it" onclick="gotoLang('it');">
+      <img src="_static/img/flags/it.png" title="it" alt="it">
+    </li>
+    <li id="flag_pt_BR" onclick="gotoLang('pt_BR');">
+      <img src="_static/img/flags/pt_BR.png" title="pt_BR" alt="pt_BR">
+    </li>
+    <li id="flag_pt_PT" onclick="gotoLang('pt_PT');">
+      <img src="_static/img/flags/pt_PT.png" title="pt_PT" alt="pt_PT">
+    </li>
+  </ul>
+</div> 
+
+        <div id="searchbox" class="pull-right">
+          <form class="navbar-form" id="search" action="" method="get">
+          <input type="text" name="q" placeholder="Search"/>
+          <input type="submit" value="Go" class="btn btn-warning btn-small"/>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+          </form>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+
+    <div class="container main-container">
+
+    <!-- normal pages == non frontpage -->
+      <div class="row-fluid" >
+        <div class="span3" >
+          <div class="well sidebar-nav">
+            <!-- sidebar -->
+          </div><!--/.well -->
+        </div><!--/span3-->
+        <div class="span9 sub-pages">
+            
+  
+  <div class="section" id="corsi">
+<h1>Corsi<a class="headerlink" href="#corsi" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="perche-scegliere-i-corsi-di-faunalia">
+<h2>Perché scegliere i corsi di Faunalia?<a class="headerlink" href="#perche-scegliere-i-corsi-di-faunalia" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>indici di gradimento sempre molto alti (fra l&#8216;82% e il 93%, sulla base di questionari anonimi), e sono completamente interattivi</li>
+<li>Faunalia ha l&#8217;esperienza più vasta nel mondo nella formazione sui GIS liberi, avendo realizzato oltre 150 fra corsi, seminari e workshops, in italiano, inglese, portoghese e francese</li>
+<li>i docenti di Faunalia contribuiscono attivamente, da anni, allo sviluppo dei software che usiamo. Paolo Cavallini è membro dello <em>Steering Committee</em> di QGIS. Faunalia ha sviluppato parti di GRASS, PostGIS, GDAL ecc. Questo garantisce docenze della massima qualità: non siamo solo utenti dei software che spieghiamo, ma li conosciamo &#8220;dall&#8217;interno&#8221;</li>
+<li>costo sensibilmente inferiore alle alternative proprietarie</li>
+<li>reinvestiamo nel software: iscrivendovi contribuite direttamente al miglioramento del programma che usate</li>
+<li>Paolo Cavallini è <a class="reference external" href="http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c">esaminatore ECDL-GIS</a>. Frequentando i corsi di Faunalia potrete quindi accedere agli esami AICA ed ottenere la <a class="reference external" href="http://www.aicanet.it/aica/ecdl-gis/">certificazione ECDL-GIS</a>.</li>
+</ul>
+<p>Possiamo realizzare sia corsi standard che personalizzati, sia presso la nostra sede che nella vostra.</p>
+<p>Iscrivetevi alla <a class="reference external" href="http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi">mailing list</a> per ricevere gli annunci di nuovi corsi.</p>
+</div>
+<div class="section" id="cartografia-con-qgis">
+<h2>Cartografia con QGIS<a class="headerlink" href="#cartografia-con-qgis" title="Permalink to this headline">¶</a></h2>
+<p>Per imparare ad installare ed utilizzare QGIS, ad accedere ai dati, tematizzarli e produrre mappe di qualità.</p>
+<p>Adatto anche a chi ha poca esperienza sui GIS e sulla cartografia. È necessario avere dimestichezza con l&#8217;uso del PC.</p>
+<div class="section" id="argomenti-principali">
+<h3>Argomenti principali<a class="headerlink" href="#argomenti-principali" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Breve introduzione ai Sistemi Informativi Geografici opensource</li>
+<li>Introduzione a QGIS</li>
+<li>Installazione di QGIS nei vari sistemi operativi</li>
+<li>Interfaccia utente e criteri di utilizzo</li>
+<li>Configurazione dell&#8217;ambiente di lavoro</li>
+<li>Progetti</li>
+<li>Gestione dei plugins</li>
+<li>I dati geografici vettoriali<ul>
+<li>proprietà, importazione ed esportazione, conversione fra formati</li>
+<li>tematizzazione vettoriale ed etichettatura avanzata</li>
+<li>tabelle dati, attributi ed azioni; importazione di dati tabellari</li>
+</ul>
+</li>
+<li>Gestione delle proiezioni</li>
+<li>Interfacciamento con GPS</li>
+<li>Digitalizzazione dei vettori, vettorializzazione avanzata di tipo &#8220;CAD&#8221;</li>
+<li>I geodatabase e QGIS: PostGIS e SpatiaLite</li>
+<li>Caricare dati dal web: soluzioni proprietarie, libere e standard (Google Maps, OpenLayers, WMS, WFS, WFS-T, CSW, WPS)</li>
+<li>I dati geografici raster<ul>
+<li>caratteristiche e proprietà, tematizzazione</li>
+<li>gestione dei sistemi di riferimento, mosaici</li>
+<li>georeferenziazione</li>
+</ul>
+</li>
+<li>Stampa avanzata</li>
+</ul>
+</div>
+<div class="section" id="durata">
+<h3>Durata<a class="headerlink" href="#durata" title="Permalink to this headline">¶</a></h3>
+<p>Tre giorni <em>full time</em></p>
+</div>
+</div>
+<div class="section" id="analisi-con-qgis">
+<h2>Analisi con QGIS<a class="headerlink" href="#analisi-con-qgis" title="Permalink to this headline">¶</a></h2>
+<p>Per imparare a realizzare analisi raster e vettoriali, e modellistica spaziale, unendo la potenza di elaborazione GIS di GRASS, SAGA, Orfeo ToolBox con la semplicità d&#8217;uso di QGIS. Al termine del corso, l&#8217;utente avrà appreso a gestire con facilità l&#8217;ambiente di lavoro di QGIS, e ad effettuare analisi anche complesse in modo semplice ed intuitivo. Il corso è adatto per chi desidera approfondire l&#8217;uso analitico e predittivo dei GIS, avendo già nozioni di base.</p>
+<p>È necessaria una conoscenza base del GIS. È altamente consigliabile una conoscenza di base di QGIS.</p>
+<div class="section" id="id1">
+<h3>Argomenti principali<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Introduzione ai vari software<ul>
+<li>QGIS e i suoi plugins</li>
+<li>Plugins addizionali</li>
+<li>SEXTANTE</li>
+<li>GRASS</li>
+<li>SAGA</li>
+<li>Orfeo ToolBox (OTB)</li>
+</ul>
+</li>
+<li>Analisi vettoriali di base: dissolve, merge, overlay, gestione delle tabelle di attributi, ecc.</li>
+<li>Correzione di errori topologici e semplificazione dei vettori</li>
+<li>Analisi geomorfologica: creazione di modelli digitali del terreno, curve di livello, mappe di pendenza, esposizione, ombreggiatura</li>
+<li>Interpolazioni</li>
+<li>Buffer raster e vettoriali, analisi di distanza, percorsi di minimo costo</li>
+<li>Riclassificazione dei raster, algebra delle mappe</li>
+<li>Statistiche zonali</li>
+<li>Analisi di intervisibilità</li>
+<li>Analisi idrologiche: calcolo dei bacini</li>
+<li>Visualizzazioni tridimensionali</li>
+<li>Analisi multicriterio: mappe di priorità, mappe di rischio</li>
+<li>Classificazione automatica dell&#8217;uso del suolo, estrazione di elementi</li>
+<li>Analisi dei cambiamenti (land use change)</li>
+<li>Creazione di modelli, tramite interfaccia grafica o testuale; script per l&#8217;automazione di processo</li>
+</ul>
+</div>
+<div class="section" id="id2">
+<h3>Durata<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h3>
+<p>Tre giorni <em>full time</em></p>
+</div>
+</div>
+<div class="section" id="come-creare-un-plugin-in-python-per-qgis">
+<h2>Come creare un plugin in Python per QGIS<a class="headerlink" href="#come-creare-un-plugin-in-python-per-qgis" title="Permalink to this headline">¶</a></h2>
+<p>Per sviluppare plugins (estensioni) per QGIS, utilizzando il linguaggio di programmazione Python. La finalità principale è fornire i concetti fondamentali e l&#8217;esperienza pratica per lo sviluppo di plugins. Dopo una breve introduzione al linguaggio di programmazione, i partecipanti saranno guidati passo a passo nella creazione di un plugin.</p>
+<p>È preferibile, ma non obbligatoria, una conoscenza di base di Phyton. È necessaria una conoscenza di base dei principi di programmazione.</p>
+<div class="section" id="id3">
+<h3>Argomenti principali<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Come creare un plugin Python per QGIS<ul>
+<li>la sintassi Python (indentazione, punto e virgola, ...)</li>
+<li>il mio primo plugin in python: mostra un messaggio in un riquadro</li>
+<li>creare interfacce utente con QtDesigner (.ui)</li>
+<li>secondo plugin: aggiungere un layer all’area di mappa di QGis</li>
+<li>creare un file di risorse (.qrc)</li>
+</ul>
+</li>
+<li>Le classi principali delle API Qt<ul>
+<li>il modulo QTCore (QObject, QString, QAction, QFile, ...)</li>
+<li>il modulo QTGui (QWidget, QDialog, QMessageBox, QFileDialog, ...)</li>
+<li>accedere alla API QT tramite Python: PyQT (tipi QT mappati da tipi nativi Python, parametro di uscita)</li>
+</ul>
+</li>
+<li>Le principali classi API QGIS e le loro relazioni<ul>
+<li>costanti e impostazioni: classi QGis e QgsApplication</li>
+<li>l’interfaccia del plugin: QgisInterface e metodi comuni usati nei plugins</li>
+<li>area mappa, strati e legenda: QgsMapCanvas, QgsMapLayer, QgsLegendInterface, QgsMapLayerRegistry</li>
+<li>strati vettoriali: QgsVectorLayer, QgsVectorDataProvider, QgsField, QgsFeature, QgsGeometry</li>
+<li>strati raster: QgsRasterLayer, QgsRasterDataProvider</li>
+<li>strumenti di mappa e banda elastica: QgsMapTool, QgsMapToolEmitPoint, QgsRubberBand</li>
+<li>elementi della mappa e snap: QgsMapCanvasItem, QgsVertexMarker, QgsSnapper</li>
+<li>classi dei sistemi di riferimento: QgsCoordinateReferenceSystem, QgsCoordinateTransform</li>
+<li>classi di utilità: QgsDataSourceURI</li>
+</ul>
+</li>
+<li>Usiamo pyQGIS<ul>
+<li>esempi di codice</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="id4">
+<h3>Durata<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h3>
+<p>Tre giorni <em>full time</em></p>
+</div>
+</div>
+<div class="section" id="geodatabase-postgresql-e-postgis">
+<h2>Geodatabase: PostgreSQL e PostGIS<a class="headerlink" href="#geodatabase-postgresql-e-postgis" title="Permalink to this headline">¶</a></h2>
+<p>Nuovo! Ora aggiornato a PostGIS 2.0: nuova procedura di installazione e configurazione, nuovi comandi, supporto a gestione e analisi raster, topologia.</p>
+<p>Il corso è rivolto a chi, per la gestione di banche dati geografiche complesse, per la necessità di svolgere analisi approfondite e per la visualizzazione on line in tempo reale delle analisi fatte, vuole utilizzare una banca dati evoluta e di ottima stabilità. Il corso permette di familiarizzare con la gestione dei dati vettoriali tramite SQL, con l&#8217;importazione dei dati geografici in PostgreSQL (a partire da formati di interscambio standard), con l&#8217;interrogazione di dati sia geografici che alfanumerici tramite numerose applicazioni. Permette inoltre di apprendere l&#8217;uso di funzioni di analisi geografica effettuata direttamente da database.</p>
+<p>Preferibile conoscenza del linguaggio SQL. È necessario avere dimestichezza con l&#8217;uso del PC.</p>
+<div class="section" id="id5">
+<h3>Argomenti principali<a class="headerlink" href="#id5" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Introduzione ai sistemi informativi territoriali opensource</li>
+<li>Vantaggi dell&#8217;uso di un database nel GIS</li>
+<li>Introduzione al RDBMS Open Source PostgreSQL</li>
+<li>Schemi tabelle, viste, domini, funzioni</li>
+<li>Prima configurazione del database</li>
+<li>Utenti, permessi, accessi</li>
+<li>Introduzione a PostGIS (standard Open Geospatial Consortium)</li>
+<li>Geodatabase: struttura e formato dati</li>
+<li>Creazione di un database geografico</li>
+<li>Amministrazione del database e accesso ai dati</li>
+<li>Amministrazione da riga di comando: psql</li>
+<li>I front-ends grafici: QGIS, PhpPgAdmin, PgAdmin 3, OpenOffice, ecc.</li>
+<li>PostGIS e QGIS: Importazione shapefile, Digitalizzazione, Query, Plugins avanzati per queries: RT SQL Layer e RT SQL extractor</li>
+<li>Funzioni avanzate di geodatabase: Funzioni standard OGC, Estensioni di PostGIS, Conversione tra sistemi di coordinate</li>
+<li>I raster in PostGIS</li>
+<li>Cenni sulla topologia</li>
+<li>Copia e salvataggio</li>
+</ul>
+</div>
+<div class="section" id="id6">
+<h3>Durata<a class="headerlink" href="#id6" title="Permalink to this headline">¶</a></h3>
+<p>Tre giorni <em>full time</em></p>
+</div>
+</div>
+<div class="section" id="webmapping-con-quantum-gis">
+<h2>WebMapping con Quantum GIS<a class="headerlink" href="#webmapping-con-quantum-gis" title="Permalink to this headline">¶</a></h2>
+<p>Per apprendere in breve tempo il più innovativo e semplice ambiente di sviluppo per WebGIS e WebMapping, basato su QGIS.</p>
+<p>Sono necessarie nozioni di base sui GIS, sulla cartografia e sul web. È consigliabile una conoscenza di base di QGIS. È necessario avere piena dimestichezza con l&#8217;uso del PC.</p>
+<div class="section" id="id7">
+<h3>Argomenti principali<a class="headerlink" href="#id7" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Gli standard Open Geospatial Consortium per la pubblicazione<ul>
+<li>WMS, WFS, WFS-T, WCS, WPS</li>
+</ul>
+</li>
+<li>Installazione e configurazione di QGIS server</li>
+<li>Pubblicare WMS e WFS</li>
+<li>Editing online: WFS-T</li>
+<li>Installazione e configurazione di QGIS web client</li>
+<li>Installazione e configurazione di LizMap</li>
+<li>Criteri di ottimizzazione</li>
+</ul>
+</div>
+<div class="section" id="id8">
+<h3>Durata<a class="headerlink" href="#id8" title="Permalink to this headline">¶</a></h3>
+<p>Due giorni <em>full time</em></p>
+</div>
+</div>
+<div class="section" id="calendario">
+<h2>Calendario<a class="headerlink" href="#calendario" title="Permalink to this headline">¶</a></h2>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">can we add an &#8220;export as calendar&#8221; link?</p>
+</div>
+<table border="1" class="table docutils">
+<colgroup>
+<col width="51%" />
+<col width="22%" />
+<col width="28%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Corso</th>
+<th class="head">Date</th>
+<th class="head">Iscrizione entro il</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>Cartografia con QGIS</td>
+<td>25-27 Settembre</td>
+<td>10 Settembre</td>
+</tr>
+<tr class="row-odd"><td>Analisi con QGIS</td>
+<td>16-18 Ottobre</td>
+<td>1 Ottobre</td>
+</tr>
+<tr class="row-even"><td>Creare un plugin in Python per QGIS</td>
+<td>13-15 Novembre</td>
+<td>28 Ottobre</td>
+</tr>
+<tr class="row-odd"><td>Geodatabase (PostgreSQL / PostGIS)</td>
+<td>11-13 Dicembre</td>
+<td>25 Novembre</td>
+</tr>
+<tr class="row-even"><td>Web Mapping con QGIS</td>
+<td>23-24 Gennaio</td>
+<td>10 Gennaio</td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="costi">
+<h3>Costi<a class="headerlink" href="#costi" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA (meno la ritenuta d&#8217;acconto, da versare 323,41 €)</li>
+<li>Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la ritenuta d&#8217;acconto, da versare 272,88 €)</li>
+<li>Sconto 5% per l&#8217;iscrizione simultanea a più corsi</li>
+</ul>
+</div>
+<div class="section" id="logistica">
+<h3>Logistica<a class="headerlink" href="#logistica" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Sede: <a class="reference external" href="http://www.pont-tech.it/?page_id=957">Pont-Tech</a>, oppure <a class="reference external" href="http://www.openstreetmap.org/?lat=43.66154&amp;lon=10.63763&amp;zoom=17">Faunalia</a>, facilmente raggiungibili con mezzi pubblici (treno ed aereo)</li>
+<li><a class="reference external" href="http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico">Dettagli sulla città</a> (incluse strutture ricettive)</li>
+<li>B&amp;B <a class="reference external" href="http://www.ilpiccolorooms.it/">Il Piccolo</a>, adiacente: 45/60/80 € per camere singole/doppie/triple</li>
+</ul>
+</div>
+</div>
+<div class="section" id="modulo-di-iscrizione">
+<h2>Modulo di iscrizione<a class="headerlink" href="#modulo-di-iscrizione" title="Permalink to this headline">¶</a></h2>
+      <?php
+              if ($_POST["SUBMIT"]) {
+
+                      // sender data
+                      $sender_name = 'Faunalia';
+                      $sender_email ="info@faunalia.it";
+
+                      $sender_name = 'Iscrizione corsi';
+                      $sender_email ="info@faunalia.it";
+                      // form data
+                      $nome = $_POST["nome"];
+                      $cognome = $_POST["cognome"];
+                      $indirizzo = $_POST["indirizzo"];
+                      $telefono = $_POST["telefono"];
+                      $email = $_POST["email"];
+                      $corso = $_POST["corso"];
+                      $dati_per_fatturazione = $_POST["dati_per_fatturazione"];
+                      $note = $_POST["note"];
+
+                      // compose submitter mail
+                      $from = 'From: ' . $sender_email;
+                      $to = $email;
+                      $subject = "Iscrizione al corso " . $corso . " avvenuta con successo";
+                      $message = "La tua iscrizione è stata registrata. Verrai contattato.\n Grazie.";
+                      $body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n $message";
+                      if (mail ($to, $subject, $body, $from)) {
+                              echo "<h2>Iscrizione al corso " . $corso . " avvenuta con successo</h2>";
+                      } else {
+                              echo '<h2>Qualcosa non ha funzionato. Riprova!</h2>';
+                      }
+
+                      // compose internal archive mail
+                      $from = 'From: ' . $sender_email;
+                      $to = $sender_email;
+                      $subject = "Iscrizione corso: " . $corso . " per " . $nome . " " . $cognome;
+
+                              // key:value message
+                              $message = "Nome: " . $nome . "\n" .
+                                                 "Cognome: " . $cognome . "\n" .
+                                                 "Indirizzo: " . $indirizzo  . "\n" .
+                                                 "Telefono: " . $telefono  . "\n" .
+                                                 "Email: " . $email  . "\n" .
+                                                 "Corso: " . $corso  . "\n" .
+                                                 "Dati per Fatturazione: " . $dati_per_fatturazione  . "\n" .
+                                                 "Note: " . $note  . "\n";
+
+                              // with header csv message
+                              $message = "Nome,Cognome,Indirizzo,Telefono,Email,Corso,Dati per Fatturazione,Note\n" .
+                                                      $nome  ."," .
+                                                      $cognome  ."," .
+                                                      $indirizzo ."," .
+                                                      $telefono ."," .
+                                                      $email ."," .
+                                                      $corso ."," .
+                                                      $dati_per_fatturazione  ."," .
+                                                      $note . "\n";
+
+                      $body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n $message";
+                      if (mail ($to, $subject, $body, $from)) {
+                              // do nothing
+                      } else {
+                              error_log("Error sending internal inscription mail: ". $body);
+                      }
+              }
+      ?>
+      <form action="training.html" method="post">
+
+      <label for="edit-submitted-nome">Nome <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+      <input type="text" id="edit-submitted-nome" name="nome" value="" size="60" maxlength="128" class="input-xlarge required" />
+
+      <label for="edit-submitted-cognome">Cognome <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+      <input type="text" id="edit-submitted-cognome" name="cognome" value="" size="60" maxlength="128" class="input-xlarge required" />
+
+      <label for="edit-submitted-indirizzo">Indirizzo <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+      <input type="text" id="edit-submitted-indirizzo" name="indirizzo" value="" size="60" maxlength="128" class="input-xlarge required" />
+
+      <label for="edit-submitted-telefono">Telefono <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+      <input type="text" id="edit-submitted-telefono" name="telefono" value="" size="60" maxlength="128" class="input-xlarge required" />
+
+      <label for="edit-submitted-e-mail">E-Mail <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+      <input class="email input-xlarge form-email required" type="email" id="edit-submitted-e-mail" name="email" size="60" />
+
+      <label for="edit-submitted-corso">Corso <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+      <select id="edit-submitted-corso" name="corso" class="input-xlarge required"><option value="" selected="selected">- Scegliere -</option><option value="qgis_cartografia">QGIS cartografia</option><option value="qgis_analisi">QGIS analisi</option><option value="pyqgis">Python-QGIS</option><option value="postgis">Geodatabase</option><option value="webgis">WebMapping</option></select>
+
+      <label for="edit-submitted-dati-per-fatturazione">Dati per fatturazione <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+
+      <textarea id="edit-submitted-dati-per-fatturazione" name="dati_per_fatturazione" cols="60" rows="5" class="input-xlarge required"></textarea></div>
+
+<div>
+      <label for="edit-submitted-note">Note </label>
+      <textarea id="edit-submitted-note" name="note" cols="60" rows="5" class="input-xlarge"></textarea>
+</div>
+
+      <input type="submit" name="SUBMIT" value="Invia" class="btn btn-primary"/>
+      </form></div>
+</div>
+
+ 
+        </div><!--/span9-->
+      </div><!--/.row-->
+
+      <script type='text/javascript'>
+        $('.sub-pages h1, .sub-pages h2').addClass('page-header');
+      </script>
+
+    
+
+    </div><!--/.fluid-container-->
+    
+   
+    <div class="footer-upper">
+      <div class="container">
+        <div class="row-fluid">
+          <div class="span3">
+            <h3>Contatti</h3>
+            <p><a class="reference external" href="mailto:info@faunalia.it">info@faunalia.it</a></p>
+            <p><a class="reference external" href="mailto:paolo.cavallini@pec.it">paolo.cavallini@pec.it</a></p>
+            <p>Fax +390587213742</p>
+            <p>Phone/Viber/Line +393483801953</p>
+            <p>Skype paolo.gg.cavallini</p>
+            <p>Hangouts <a class="reference external" href="mailto:paolo.cavallini@gmail.com">paolo.cavallini@gmail.com</a></p>
+          </div>
+          <div class="span4">
+            <div class="span6">
+              <h3>Address1</h3>
+              <p>Faunalia</p>
+              <p>Piazza Garibaldi, 5</p>
+              <p>56025 Pontedera (PI)</p>
+              <p>Italy</p>
+            </div>
+            <div class="span6">
+              <h3>Address1</h3>
+              <p>Faunalia</p>
+              <p>Rua do Cano 56</p>
+              <p>7000-596 Évora</p>
+              <p>Portugal</p>
+            </div>
+          </div>
+          <div class="span5">
+            <h3>Faunalia @ social networks</h3> 
+            <!-- AddThis Follow BEGIN -->
+            <p>Follow Us</p>
+            <div class="addthis_toolbox addthis_32x32_style addthis_default_style">
+            <a class="addthis_button_facebook_follow" addthis:userid="faunaliagis"></a>
+            <a class="addthis_button_twitter_follow" addthis:userid="faunaliagis"></a>
+            <a class="addthis_button_linkedin_follow" addthis:userid="faunalia" addthis:usertype="company"></a>
+            <a class="addthis_button_google_follow" addthis:userid="115690725489468238151"></a>
+            <a class="addthis_button_youtube_follow" addthis:userid="faunaliagis"></a>
+            </div>
+            <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51fb95b90abe8ec7"></script>
+            <!-- AddThis Follow END -->
+          </div> 
+        </div>
+      </div>
+    </div> 
+    <div class="footer-lower">
+      <div class="container">
+        <p class="centered">&copy; Copyright 2013, Faunalia</p>
+      </div>
+    </div>
+
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="support.html" title="Assistenza"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="index.html" title="Faunalia"
+             accesskey="P">previous</a> |</li>
+        <li><a href="index.html">Faunalia  documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2013, Faunalia.
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.
+    </div>
+  </body>
+</html>
