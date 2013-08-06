@@ -1,56 +1,4 @@
-/* adding qgis specific css here, overriding bootstrap or adding new classes */
-
-
-/* some helper media queries for rules that are size dependent */
-@media (max-width: 767px){
-
-}
-@media (max-width: 480px) {
-
-}
-@media (min-width: 768px) and (max-width: 979px) {
-
-}
-@media (min-width: 1200px) {
-
-}
-@media (max-width: 979px) {
-
-}
-
-/*
-our sphinx :refs: become anchors. But linking to an anchor in top of the page
-makes it hide it beneath our header/menu.
-To jump a little lower (below header/menu), we use a negative margin hack, see
-http://nicolasgallagher.com/jump-links-and-viewport-positioning/
-and
-http://coding.smashingmagazine.com/2009/07/27/the-definitive-guide-to-using-negative-margins/
-*/
-div.section:before {
-   content:"";
-   display:block;
-   height:60px;
-   margin:-60px 0 0 0;      /*this is working for non frontpages*/
-}
-/* special case for marketing divs on frontpage */
-div.marketing div.section:before {
-   content:"";
-   display:block;
-   height:60px;
-   margin:0 0 -60px 0;  /*this is working for frontpage*/
-}
-/* span achors are a little more difficult,
-these are for internal refs, eg: en/docs/user_manual/working_with_vector/editing_geometry_attributes.html#sec-advanced-edit
-hopefully this is unique enough for the :ref: spans we use */
-div.section > span:before {
-   content:"";
-   display:block;
-   height:60px;
-   margin:0 0 0 0;
-}
-
-/* Imported from InaSAFE theme */
-
+/****** START: Faunalia styles **********/
 body {
   font-size: 14px;
   color: #555;
@@ -58,10 +6,6 @@ body {
 
 h3 {
   font-size: 22px;
-}
-
-.search input[type=text] {
-  width:90%;
 }
 
 .navbar {
@@ -74,9 +18,12 @@ h3 {
   padding-right: 15px;
   border-radius: 6px;
 }
-.centered { text-align: center; }
 
-a:hover, a:active {
+.centered {
+  text-align: center;
+}
+
+a:hover, a:active, a:focus {
   outline: 0;
 }
 
@@ -96,7 +43,6 @@ a {
   text-decoration: underline;
 }
 
-/****** START: Faunalia styles **********/
 .navbar-inverse .navbar-inner {
   box-shadow: none;
   background: url('../_static/debut_light.png');
@@ -108,6 +54,32 @@ a {
 .brand > img {
   width: 120px;
   height: 60px;
+}
+
+.hero-unit {
+  text-align: center;
+  background: #49afcd;
+  color: #fff;
+  margin-bottom: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+
+.hero-unit h1 {
+  margin-bottom: 10px;
+  text-shadow: 0 1px 0 #ccc,
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 3px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px -4px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
+  font-size: 70px;
 }
 
 .main-container {
@@ -182,27 +154,51 @@ a.map {
   margin-right:  40px !important;
 }
 
+.footer-upper {
+  padding-bottom: 10px;
+}
+
 .footer-upper h3 {
   display: inline-block;
   border-bottom: 1px dotted #fff;
   color: #fff;
 }
 
-.footer-upper, .footer-lower {
-  background: #86BD46;
+.footer-upper, .footer {
+  background: #3B3934;
 }
 
 .footer-upper, .footer-upper a,
-.footer-lower {
+.footer {
   color: #fff;
 }
 
-.footer-lower {
-  border-top: 1px solid #538518;
-  padding-top: 5px;
+.footer-upper p {
+  margin-bottom: 0;
 }
 
-.footer, .related {
+.footer {
+  border-top: 1px solid #000;
+  padding: 5px 0;
+  text-align: center;
+}
+
+.related {
   display: none;
 }
 /****** END: Faunalia styles ************/
+@media (max-width: 767px){
+
+}
+@media (max-width: 480px) {
+
+}
+@media (min-width: 768px) and (max-width: 979px) {
+
+}
+@media (min-width: 1200px) {
+
+}
+@media (max-width: 979px) {
+
+}
