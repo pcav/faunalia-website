@@ -42,8 +42,16 @@
                         <li><a href="{{ pathto('dev') }}">Sviluppo</a></li>
                         <li><a href="{{ pathto('jobs') }}">Cosa facciamo</a></li>
                         <li><a href="{{ pathto('staff') }}">Chi siamo</a>
-                        <li><a href="{{ pathto('contacts') }}">Contatti</a>
-                        <li><a href="{{ pathto('eval_form') }}">Inscription</a>
+                        </li>
+                        <li><div id="searchbox">
+                                <form class="navbar-form pull-right" id="search" action="{{ pathto(master_doc) }}/../search.html" method="get">
+                                <input type="text" name="q" placeholder="Search"/>
+                                <input type="submit" value="Go" class="btn btn-warning btn-small"/>
+                                <input type="hidden" name="check_keywords" value="yes" />
+                                <input type="hidden" name="area" value="default" />
+                                </form>
+                            </div>
+                        <script type="text/javascript">$('#searchbox').show(0);</script>
                         </li>
                     </ul>
                 </div>{# end of nav-collapse #}
