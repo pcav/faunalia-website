@@ -1,0 +1,8 @@
+AuthType Basic
+AuthName "Faunalia new site"
+AuthUserFile /var/www/www.faunalia.eu/.htpasswd
+Require user pippo
+#AddHandler application/x-httpd-php5 .html
+AddType application/x-httpd-php .html
+Options +Indexes
+
