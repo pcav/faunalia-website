@@ -12,13 +12,6 @@
     Referenze <jobs>
     Chi siamo <staff>
 
-.. rst-class:: frontpageintro
-
-Faunalia
-===============================================================================
-
-Sistemi informativi territoriali liberi ed open source
-
 Corsi
 ===============================================================================
 Need to know, quickly and effectively, how to master your free GIS?

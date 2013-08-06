@@ -59,6 +59,7 @@
         </div>
         {# Manually implementing breadcrumbs because sphinx strips markup away when doing it in macro #}
     </div> {# Navbar ends #}
+    <!--
     <div class="language-switch">
       <div class="container">
         {% block i18nflags1 %} {{ i18nflags() }} {% endblock %}
@@ -74,21 +75,22 @@
         <div class="clearfix"></div>
       </div>
     </div>
+    -->
+    {%- if pagename in ('index') %}
+      <div class="hero-unit">
+        <div class="container">
+          <h1>Faunalia</h1>
+          <p>Sistemi informativi territoriali liberi ed open source</p>
+        </div>
+      </div>
+    {%- endif %}
 
     <div class="container main-container">
 
-    <!-- normal pages == non frontpage -->
     {%- if pagename not in ('index') %}
       <div class="row-fluid" >
         <div class="span3" >
           <div class="well sidebar-nav">
-            <!-- sidebar -->
-            {%- if sidebars != None %}
-                {#- new style sidebar: explicitly include/exclude templates #}
-                {%- for sidebartemplate in sidebars %}
-                {%- include sidebartemplate %}
-                {%- endfor %}
-            {%- endif %}
           </div><!--/.well -->
         </div><!--/span3-->
         <div class="span9 sub-pages">
@@ -130,8 +132,6 @@
 
         $('.marketing .reference.internal').addClass('btn btn-info');
       </script>
-
-
     {%- endif %}
 
     </div><!--/.fluid-container-->
@@ -182,9 +182,4 @@
         </div>
       </div>
     </div> 
-    <div class="footer-lower">
-      <div class="container">
-        <p class="centered">&copy; Copyright 2013, Faunalia</p>
-      </div>
-    </div>
 {% endblock content %}
