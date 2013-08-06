@@ -268,7 +268,8 @@ Modulo di iscrizione
 			$subject = "Iscrizione corso: " . $corso . " per " . $nome . " " . $cognome;
 				
 				// key:value message
-				$message = "Nome: " . $nome . "\n" .
+				$message = "Timestamp: " . date("c") . "\n" .
+						   "Nome: " . $nome . "\n" .
 						   "Cognome: " . $cognome . "\n" .
 						   "Indirizzo: " . $indirizzo  . "\n" .
 						   "Telefono: " . $telefono  . "\n" .
@@ -278,14 +279,15 @@ Modulo di iscrizione
 						   "Note: " . $note  . "\n";
 				
 				// with header csv message
-				$message = "Nome,Cognome,Indirizzo,Telefono,Email,Corso,Dati per Fatturazione,Note\n" .
-							$nome  ."," .
-							$cognome  ."," .
-							$indirizzo ."," .
-							$telefono ."," .
-							$email ."," .
-							$corso ."," .
-							$dati_per_fatturazione  ."," .
+				$message = "Timestamp;Nome;Cognome;Indirizzo;Telefono;Email;Corso;Dati per Fatturazione;Note\n" .
+							date("c") .";" .
+							$nome  .";" .
+							$cognome  .";" .
+							$indirizzo .";" .
+							$telefono .";" .
+							$email .";" .
+							$corso .";" .
+							$dati_per_fatturazione  .";" .
 							$note . "\n";
 				
 			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n $message";
@@ -293,6 +295,12 @@ Modulo di iscrizione
 				// do nothing
 			} else { 
 				error_log("Error sending internal inscription mail: ". $body); 
+			}
+			
+			// write message on a local file
+			$report_filename = '/var/lib/form_results/training.log';
+			if ( !file_put_contents ( $report_filename , $message.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
+				error_log("Error writing inscription log file for this message: ". $message); 
 			}
 		}
 	?>
