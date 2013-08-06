@@ -7,8 +7,8 @@
     jquery.js from sphinx is a 1.4 version, while bootstrap uses 1.8 version
     and two versions together clash (besides the bootstrap stuff, also the
     sphinx search stuff)  -->
-{#% set script_files = script_files + ['_static/bootstrap/js/jquery.js'] %#}
-{% set script_files = script_files + ['_static/bootstrap3/js/bootstrap.js'] %}
+{% set script_files = script_files + ['_static/bootstrap/js/jquery.js'] %}
+{#% set script_files = script_files + ['_static/bootstrap3/js/bootstrap.js'] %#}
 
 {% set css_files = css_files + ['_static/bootstrap/css/bootstrap.min.css'] %}
 <!-- qgis.css BEFORE bootstrap-responsive !! -->
@@ -151,15 +151,14 @@
           </div>
           <div class="span4">
             <div class="span6">
-              <h3>Address1</h3>
+              <h3>Address 1</h3>
               <p>Faunalia</p>
               <p>Piazza Garibaldi, 5</p>
               <p>56025 Pontedera (PI)</p>
               <p>Italy</p>
             </div>
             <div class="span6">
-              <h3>Address1</h3>
-              <p>Faunalia</p>
+              <h3>Address 2</h3>
               <p>Rua do Cano 56</p>
               <p>7000-596 Évora</p>
               <p>Portugal</p>
