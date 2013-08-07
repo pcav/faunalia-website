@@ -181,7 +181,7 @@ Sono necessarie nozioni di base sui GIS, sulla cartografia e sul web. È consigl
 Argomenti principali
 ===================================================
 
-* Gli standard Open Geospatial Consortium per la pubblicazione
+* Gli standard Open Geospatial Consortiumgit@github.com:soundarapandian/faunalia.git per la pubblicazione
 
   * WMS, WFS, WFS-T, WCS, WPS
 
@@ -279,8 +279,8 @@ Modulo di iscrizione
 						   "Note: " . $note  . "\n";
 				
 				// with header csv message
-				$message = "Timestamp;Nome;Cognome;Indirizzo;Telefono;Email;Corso;Dati per Fatturazione;Note\n" .
-							date("c") .";" .
+				//$message = "Timestamp;Nome;Cognome;Indirizzo;Telefono;Email;Corso;Dati per Fatturazione;Note\n" .
+				$message =  date("c") .";" .
 							$nome  .";" .
 							$cognome  .";" .
 							$indirizzo .";" .
@@ -288,9 +288,9 @@ Modulo di iscrizione
 							$email .";" .
 							$corso .";" .
 							$dati_per_fatturazione  .";" .
-							$note . "\n";
+							$note;
 				
-			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n $message";
+			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n $message\n";
 			if (mail ($to, $subject, $body, $from)) {
 				// do nothing
 			} else { 
