@@ -309,7 +309,7 @@ Modulo di iscrizione
 			}
 		}
 	?>
-	<form action="training.html" method="post">
+	<form action="training.html#modulo-di-iscrizione" method="post">
 
 	<label for="edit-submitted-nome">Nome <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
 	<input type="text" id="edit-submitted-nome" name="nome" value="" size="60" maxlength="128" class="input-xlarge required" />
