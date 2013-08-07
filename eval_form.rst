@@ -63,33 +63,64 @@ Minimo 0, Massimo 5
 				//		   "Note: " . $note  . "\n";
 				
 				// with header csv message
-				$message = "Valutazione corso\n" .
-					$aspettative  ."," .
-					$durata  ."," .
-					$infrastrutture  ."," .
-					$qualita  ."," .
-					$logistica  ."," .
-					$docenza  ."," .
-					$competenze  ."," .
-					$obiettivi  ."," .
-					$stimola  ."," .
-					$esposizione  ."," .
-					$disponibilita  ."," .
-					$osservazioni  ."," .
-					$amici  ."," .
-					$internet  ."," .
-					$mail_list  ."," .
-					$email  ."," .
-					$altro  ."," .
-					$sito  ."," .
-					$quale  ."," .
-					$nome_corso . "\n";
+				$header =   "aspettative" . ";" .
+							"durata" . ";" .
+							"infrastrutture" . ";" .
+							"qualita" . ";" .
+							"logistica" . ";" .
+							"docenza" . ";" .
+							"competenze" . ";" .
+							"obiettivi" . ";" .
+							"stimola" . ";" .
+							"esposizione" . ";" .
+							"disponibilita" . ";" .
+							"osservazioni" . ";" .
+							"amici" . ";" .
+							"internet" . ";" .
+							"mail_list" . ";" .
+							"email" . ";" .
+							"altro" . ";" .
+							"sito" . ";" .
+							"quale" . ";" .
+							"nome_corso";
+							
+				$message =  $aspettative  .";" .
+							$durata  .";" .
+							$infrastrutture  .";" .
+							$qualita  .";" .
+							$logistica  .";" .
+							$docenza  .";" .
+							$competenze  .";" .
+							$obiettivi  .";" .
+							$stimola  .";" .
+							$esposizione  .";" .
+							$disponibilita  .";" .
+							$osservazioni  .";" .
+							$amici  .";" .
+							$internet  .";" .
+							$mail_list  .";" .
+							$email  .";" .
+							$altro  .";" .
+							$sito  .";" .
+							$quale  .";" .
+							$nome_corso;
 				
-			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n $message";
+			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n$header\n$message";
 			if (mail ($to, $subject, $body, $from)) {
 				// do nothing
 			} else { 
 				error_log("Error sending internal inscription mail: ". $body); 
+			}
+			
+			// write message on a local file
+			$report_filename = '/var/lib/form_results/eval_form.log';
+			if ( !file_exists($report_filename) ) {
+				if ( !file_put_contents ( $report_filename , $header.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
+					error_log("Error writing eval_form log file for this header: ". $header); 
+				}
+			}			
+			if ( !file_put_contents ( $report_filename , $message.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
+				error_log("Error writing eval_form log file for this message: ". $message); 
 			}
 		}
 	?>
