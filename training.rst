@@ -232,6 +232,16 @@ Modulo di iscrizione
 .. raw:: html
 
 	<?php
+		// set default form values
+		$nome = "";
+		$cognome = "";
+		$indirizzo = "";
+		$telefono = "";
+		$email = "";
+		$corso = "";
+		$dati_per_fatturazione = "";
+		$note = "";
+
 		if ($_POST["SUBMIT"]) {
 			
 			$found_error = 0;
@@ -322,30 +332,37 @@ Modulo di iscrizione
 	<form action="training.html#modulo-di-iscrizione" method="post">
 
 	<label for="edit-submitted-nome">Nome <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-nome" name="nome" value="" size="60" maxlength="128" class="input-xlarge required" />
+	<input type="text" id="edit-submitted-nome" name="nome" value="$nome" size="60" maxlength="128" class="input-xlarge required" />
 
 	<label for="edit-submitted-cognome">Cognome <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-cognome" name="cognome" value="" size="60" maxlength="128" class="input-xlarge required" />
+	<input type="text" id="edit-submitted-cognome" name="cognome" value="$cognome" size="60" maxlength="128" class="input-xlarge required" />
 
 	<label for="edit-submitted-indirizzo">Indirizzo <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-indirizzo" name="indirizzo" value="" size="60" maxlength="128" class="input-xlarge required" />
+	<input type="text" id="edit-submitted-indirizzo" name="indirizzo" value="$indirizzo" size="60" maxlength="128" class="input-xlarge required" />
 
 	<label for="edit-submitted-telefono">Telefono <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-telefono" name="telefono" value="" size="60" maxlength="128" class="input-xlarge required" />
+	<input type="text" id="edit-submitted-telefono" name="telefono" value="$telefono" size="60" maxlength="128" class="input-xlarge required" />
 
 	<label for="edit-submitted-e-mail">E-Mail <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input class="email input-xlarge form-email required" type="email" id="edit-submitted-e-mail" name="email" size="60" />
+	<input class="email input-xlarge form-email required" type="email" value="$email" id="edit-submitted-e-mail" name="email" size="60" />
 
 	<label for="edit-submitted-corso">Corso <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<select id="edit-submitted-corso" name="corso" class="input-xlarge required"><option value="" selected="selected">- Scegliere -</option><option value="qgis_cartografia">QGIS cartografia</option><option value="qgis_analisi">QGIS analisi</option><option value="pyqgis">Python-QGIS</option><option value="postgis">Geodatabase</option><option value="webgis">WebMapping</option></select>
+	<select id="edit-submitted-corso" name="corso" class="input-xlarge required">
+		<option value="" <?php if ($corso=="") echo 'selected="selected"';?> >- Scegliere -</option>
+		<option value="qgis_cartografia" <?php if ($corso=="qgis_cartografia") echo 'selected="selected"';?> >QGIS cartografia</option>
+		<option value="qgis_analisi" <?php if ($corso=="qgis_analisi") echo 'selected="selected"';?> >QGIS analisi</option>
+		<option value="pyqgis" <?php if ($corso=="pyqgis") echo 'selected="selected"';?> >Python-QGIS</option>
+		<option value="postgis" <?php if ($corso=="postgis") echo 'selected="selected"';?> >Geodatabase</option>
+		<option value="webgis" <?php if ($corso=="webgis") echo 'selected="selected"';?> >WebMapping</option>
+	</select>
 
 	<label for="edit-submitted-dati-per-fatturazione">Dati per fatturazione <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
 
-	<textarea id="edit-submitted-dati-per-fatturazione" name="dati_per_fatturazione" cols="60" rows="5" class="input-xlarge required"></textarea></div>
+	<textarea id="edit-submitted-dati-per-fatturazione" name="dati_per_fatturazione" cols="60" rows="5" class="input-xlarge required"><?php echo htmlspecialchars($dati_per_fatturazione); ?></textarea></div>
 
   <div>
 	<label for="edit-submitted-note">Note </label>
-	<textarea id="edit-submitted-note" name="note" cols="60" rows="5" class="input-xlarge"></textarea>
+	<textarea id="edit-submitted-note" name="note" cols="60" rows="5" class="input-xlarge"><?php echo htmlspecialchars($note); ?></textarea>
   </div>
 
 	<input type="submit" name="SUBMIT" value="Invia" class="btn btn-primary"/>
