@@ -234,6 +234,8 @@ Modulo di iscrizione
 	<?php
 		if ($_POST["SUBMIT"]) {
 			
+			$notified_error = 0;
+			
 			// sender data
 			$sender_name = 'Faunalia';
 			$sender_email ="info@faunalia.it";
@@ -259,7 +261,7 @@ Modulo di iscrizione
 			if (mail ($to, $subject, $body, $from)) {
 				echo "<h2>Iscrizione al corso " . $corso . " avvenuta con successo</h2>";
 			} else { 
-				echo '<h2>Qualcosa non ha funzionato. Riprova!</h2>'; 
+				echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>'; 
 			}
 			
 			// compose internal archive mail 
@@ -293,18 +295,30 @@ Modulo di iscrizione
 			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n$header\n$message\n";
 			if (mail ($to, $subject, $body, $from)) {
 				// do nothing
-			} else { 
-				error_log("Error sending internal inscription mail: ". $body); 
+			} else {
+				if (!$notified_error) {
+					echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>';
+					$notified_error = 1;
+				}
+				error_log("Error sending internal inscription mail: ". $body);
 			}
 			
 			// write message on a local file
 			$report_filename = '/var/lib/form_results/training.log';
 			if ( !file_exists($report_filename) ) {
 				if ( !file_put_contents ( $report_filename , $header.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
+					if (!$notified_error) {
+						echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>';
+						$notified_error = 1;
+					}
 					error_log("Error writing inscription log file for this header: ". $header); 
 				}
 			}			
 			if ( !file_put_contents ( $report_filename , $message.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
+				if (!$notified_error) {
+					echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>';
+					$notified_error = 1;
+				}
 				error_log("Error writing inscription log file for this message: ". $message); 
 			}
 		}
