@@ -268,18 +268,18 @@ Modulo di iscrizione
 			$subject = "Iscrizione corso: " . $corso . " per " . $nome . " " . $cognome;
 				
 				// key:value message
-				$message = "Timestamp: " . date("c") . "\n" .
-						   "Nome: " . $nome . "\n" .
-						   "Cognome: " . $cognome . "\n" .
-						   "Indirizzo: " . $indirizzo  . "\n" .
-						   "Telefono: " . $telefono  . "\n" .
-						   "Email: " . $email  . "\n" .
-						   "Corso: " . $corso  . "\n" .
-						   "Dati per Fatturazione: " . $dati_per_fatturazione  . "\n" .
-						   "Note: " . $note  . "\n";
-				
+				// $message = "Timestamp: " . date("c") . "\n" .
+						   // "Nome: " . $nome . "\n" .
+						   // "Cognome: " . $cognome . "\n" .
+						   // "Indirizzo: " . $indirizzo  . "\n" .
+						   // "Telefono: " . $telefono  . "\n" .
+						   // "Email: " . $email  . "\n" .
+						   // "Corso: " . $corso  . "\n" .
+						   // "Dati per Fatturazione: " . $dati_per_fatturazione  . "\n" .
+						   // "Note: " . $note  . "\n";	
+						   			
 				// with header csv message
-				$header = "Timestamp;Nome;Cognome;Indirizzo;Telefono;Email;Corso;Dati per Fatturazione;Note" .
+				$header = "Timestamp;Nome;Cognome;Indirizzo;Telefono;Email;Corso;Dati per Fatturazione;Note";
 				$message =  date("c") .";" .
 							$nome  .";" .
 							$cognome  .";" .
