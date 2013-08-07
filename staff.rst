@@ -68,20 +68,18 @@ Giovanni Manghi |pt|
    :width: 150 px
    :align: left
 
-Giovanni Manghi é licenciado em Biologia pela Universidade de Évora e trabalhou durante anos no campo da Biologia da Conservação, em particular na área da gestão e conservação de pequenos mamíferos carnívoros.
+Giovanni Manghi è laureato in Biologia presso l'Università di Évora, Portogallo e ha lavorato per molti anni nel campo della conservation biology, in particolare riguardo lo studio e gestione dei piccoli mamiferi carnivori.
 
-Giovanni Manghi tem mais de quinze anos de experiência na área da informática, em particular com as tecnologias relacionadas com a Web, tendo desenvolvido como programador freelancer vários sites, alguns dos quais para o Ministério da Educação Português e para a Universidade de Évora.
+Giovanni Manghi ha più di 20 anni di esperienza nell'area dell'IT, dal 2004 abbraccia in modo incondizionale la filosofia FOSS (Free and Open Source Software), utilizzando esclusivamente sistemi GNU/Linux e strumenti GIS Open Source:  QGIS, GRASS, PostgreSQL/PostGIS, Mapserver, p.:apper, OpenLayers, tra gli altri.
 
-Desde 2004 abraça de forma incondicional a filosofia do FOSS (Free and Open Source Software), utilizando em exclusivo sistemas operativos GNU/Linux (em particular as distribuções Debian e Ubuntu) e ferramentas SIG Open Source: QGIS, Grass, PostgreSQL/PostGIS, MapServer, p.mapper, OpenLayers, entre outras.
+Negli ultimi anni è coinvolto personalmente nella divulgazione del Software Libero, compito che l'ha portato a co-organizzare corsi, incontri e congressi come per esempio le l'incontro degli utenti QGIS e le "Jornadas de Software Aberto para Sistemas de Informação Geográfica" in Portogallo dove a Faunalia ha partecipato attivamente.
 
-Nos últimos anos envolveu-se pessoalmente na divulgação do Software Livre, tarefa que o levou a co-organizar cursos e encontros, bem como a fazer parte do recém criado capítulo Português da OSGeo, que anualmente dá vida às "Jornadas de Software Aberto para Sistemas de Informação Geográfica" onde a Faunalia.pt tem vindo a participar activamente.
+Riesiede in Portogallo dal 2002 e è socio fundatore di Faunalia nella stesso paese.
 
-Reside em Portugal desde 2002 e é sócio-fundador da Faunalia em Portugal.
+Giovanni Manghi è:
 
-Giovanni Manghi é:
-
-    Sócio e charter member da OSGeo "Open Source Geospatial Foundation"
-    Membro do "IUCN Small Carnivore Specialist Group".
+* Socio e charter member della fondazione OSGeo "Open Source Geospatial Foundation"
+* Membro dell'"IUCN Small Carnivore Specialist Group"
 
 * :doc:`Curriculum Vitae (html) <cv_gm>`
 * `Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_
@@ -89,11 +87,11 @@ Giovanni Manghi é:
 
 *e-mail*: giovanni.manghi@faunalia.pt
 
-*Tel/Viber/Line*: +39-348-3801953
+*Tel/Viber/Line*: +351967058216
 
-*Skype*: paolo.gg.cavallini
+*Skype*: toirao
 
-*Hangout*: paolo.cavallini@gmail.com
+*Hangout*: giovanni.manghi@gmail.com
 
 Vania Neves |pt|
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -102,13 +100,13 @@ Vania Neves |pt|
    :width: 150 px
    :align: left
 
-Vânia Neves é licenciada em Biologia pela Universidade de Évora, desde Maio de 2002. Após alguns anos a desenvolver trabalho essencialmente na área da educação e formação ambiental, concluiu o Mestrado em Biologia da Conservação promovido pela Universidade de Évora.
+Vânia Neves è laureata in Biologia presso l'Università di Évora, Portogallo. Passati alcuni anni a sviluppare progetti nell'area dell'educazione ambientale ha ottenuto il master in conservation biology promosso dall'Università di Évora.
 
-O projecto de tese para obtenção do grau de mestre, que desenvolveu na Unidade de Biologia da Conservação da Universidade de Évora, teve como objectivos avaliar os efeitos relativos do habitat, densidade e características das rodovias, na mortalidade de mamíferos carnívoros e avaliar o impacto das rodovias na abundância e uso do espaço de mamíferos carnívoros. Esta investigação levou-a ao uso aprofundado de ferramentas SIG - em particular de modelação, análise espacial e geoestatística.
+Il progetto di testi del master l'ha portata ad approfondire l'uso degli strumenti GIS, con applicazione alla modellazione e geo-statisctica.
 
-O contacto com a filosofia FOSS (Free and Open Source Software) levou-a a experimentar e usar desde então sistemas operativos e programas Open Source generalizados. Esta experiência, juntamente com o crescente interesse pela área dos SIG, fez com que se envolvesse directamente na co-organização de eventos relacionados com os SIG abertos ou livres.
+Il contatto con la filosofia FOSS (Free and Open Source Software) l'ha portata a usare esclusivamente software libero. Questa esperienza insieme al crescente interesse per i GIS ha fatto in modo che sia coinvolta direttamente nell'organizzazione di corsi ed eventi relazionati a questi strumenti.
 
-É sócia-fundadora e gerente da Faunalia em Portugal, dal 2009.
+È socia fondatrice e gestore di Faunalia in Portogallo.
 
 * :doc:`Curriculum Vitae (html) <cv_vn>`
 * `Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_
@@ -116,8 +114,8 @@ O contacto com a filosofia FOSS (Free and Open Source Software) levou-a a experi
 
 *e-mail*: vania.neves@faunalia.pt
 
-*Tel/Viber/Line*: +39-348-3801953
+*Tel/Viber/Line*: +351939320104
 
-*Skype*: paolo.gg.cavallini
+*Skype*: vaniavanilla
 
-*Hangout*: paolo.cavallini@gmail.com
+*Hangout*: vbneves@gmail.com
