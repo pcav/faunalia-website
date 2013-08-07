@@ -279,7 +279,7 @@ Modulo di iscrizione
 						   "Note: " . $note  . "\n";
 				
 				// with header csv message
-				//$message = "Timestamp;Nome;Cognome;Indirizzo;Telefono;Email;Corso;Dati per Fatturazione;Note\n" .
+				$header = "Timestamp;Nome;Cognome;Indirizzo;Telefono;Email;Corso;Dati per Fatturazione;Note" .
 				$message =  date("c") .";" .
 							$nome  .";" .
 							$cognome  .";" .
@@ -290,7 +290,7 @@ Modulo di iscrizione
 							$dati_per_fatturazione  .";" .
 							$note;
 				
-			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n $message\n";
+			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n$header\n$message\n";
 			if (mail ($to, $subject, $body, $from)) {
 				// do nothing
 			} else { 
@@ -299,6 +299,11 @@ Modulo di iscrizione
 			
 			// write message on a local file
 			$report_filename = '/var/lib/form_results/training.log';
+			if ( !file_exists($report_filename) ) {
+				if ( !file_put_contents ( $report_filename , $header.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
+					error_log("Error writing inscription log file for this header: ". $header); 
+				}
+			}			
 			if ( !file_put_contents ( $report_filename , $message.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
 				error_log("Error writing inscription log file for this message: ". $message); 
 			}
