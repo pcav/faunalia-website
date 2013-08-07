@@ -9,7 +9,7 @@ Minimo 0, Massimo 5
 		$pageName = basename($_SERVER['SCRIPT_NAME']);
 		if ($_POST["SUBMIT"]) {
 			
-			$notified_error = 0;
+			$found_error = 0;
 			
 			// sender data
 			$sender_name = 'Faunalia';
@@ -53,7 +53,7 @@ Minimo 0, Massimo 5
 				//		   "Note: " . $note  . "\n";
 				
 				// with header csv message
-				$header =   "timesptamp" . ";" .
+				$header =   "timestamp" . ";" .
 							"aspettative" . ";" .
 							"durata" . ";" .
 							"infrastrutture" . ";" .
@@ -98,33 +98,28 @@ Minimo 0, Massimo 5
 							$nome_corso;
 				
 			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n$header\n$message";
-			if (mail ($to, $subject, $body, $from)) {
-				// do nothing
-			} else { 
-				if (!$notified_error) {
-					echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>';
-					$notified_error = 1;
-				}
-				error_log("Error sending internal evaluation mail: ". $body); 
+			if ( !mail ($to, $subject, $body, $from) ) { 
+				error_log("Error sending internal evaluation mail: ". $body);
+				$found_error = 1;
 			}
 			
 			// write message on a local file
 			$report_filename = '/var/lib/form_results/eval_form.log';
 			if ( !file_exists($report_filename) ) {
 				if ( !file_put_contents ( $report_filename , $header.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
-					if (!$notified_error) {
-						echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>';
-						$notified_error = 1;
-					}
 					error_log("Error writing eval_form log file for this header: ". $header); 
+					$found_error = 1;
 				}
 			}			
 			if ( !file_put_contents ( $report_filename , $message.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
-				if (!$notified_error) {
-					echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>';
-					$notified_error = 1;
-				}
 				error_log("Error writing eval_form log file for this message: ". $message); 
+				$found_error = 1;
+			}
+			
+			if ( $found_error ) {
+				echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>';
+			} else {
+				echo "<h2>Valutazione del corso " . $nome_corso . " inviata con successo</h2>";
 			}
 		}
 	?>
