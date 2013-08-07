@@ -262,6 +262,7 @@ Modulo di iscrizione
 				echo "<h2>Iscrizione al corso " . $corso . " avvenuta con successo</h2>";
 			} else { 
 				echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>'; 
+				$notified_error = 1;
 			}
 			
 			// compose internal archive mail 
