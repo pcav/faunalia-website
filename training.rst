@@ -332,19 +332,19 @@ Modulo di iscrizione
 	<form action="training.html#modulo-di-iscrizione" method="post">
 
 	<label for="edit-submitted-nome">Nome <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-nome" name="nome" value=<?php echo "$nome"; ?> size="60" maxlength="128" class="input-xlarge required" />
+	<input type="text" id="edit-submitted-nome" name="nome" value="<?=$nome ?>" size="60" maxlength="128" class="input-xlarge required" />
 
 	<label for="edit-submitted-cognome">Cognome <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-cognome" name="cognome" value=<?php echo "$cognome"; ?> size="60" maxlength="128" class="input-xlarge required" />
+	<input type="text" id="edit-submitted-cognome" name="cognome" value="<?=$cognome ?>" size="60" maxlength="128" class="input-xlarge required" />
 
 	<label for="edit-submitted-indirizzo">Indirizzo <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-indirizzo" name="indirizzo" value=<?php echo "$indirizzo"; ?> size="60" maxlength="128" class="input-xlarge required" />
+	<input type="text" id="edit-submitted-indirizzo" name="indirizzo" value="<?=$indirizzo ?>" size="60" maxlength="128" class="input-xlarge required" />
 
 	<label for="edit-submitted-telefono">Telefono <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-telefono" name="telefono" value=<?php echo "$telefono"; ?> size="60" maxlength="128" class="input-xlarge required" />
+	<input type="text" id="edit-submitted-telefono" name="telefono" value="<?=$telefono ?>" size="60" maxlength="128" class="input-xlarge required" />
 
 	<label for="edit-submitted-e-mail">E-Mail <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input class="email input-xlarge form-email required" type="email" value=<?php echo "$email"; ?> id="edit-submitted-e-mail" name="email" size="60" />
+	<input class="email input-xlarge form-email required" type="email" value="<?=$email ?>" id="edit-submitted-e-mail" name="email" size="60" />
 
 	<label for="edit-submitted-corso">Corso <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
 	<select id="edit-submitted-corso" name="corso" class="input-xlarge required">
