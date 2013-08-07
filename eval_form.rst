@@ -9,6 +9,8 @@ Minimo 0, Massimo 5
 		$pageName = basename($_SERVER['SCRIPT_NAME']);
 		if ($_POST["SUBMIT"]) {
 			
+			$notified_error = 0;
+			
 			// sender data
 			$sender_name = 'Faunalia';
 			$sender_email ="info@faunalia.it";
@@ -35,22 +37,10 @@ Minimo 0, Massimo 5
 			$quale = $_POST["quale_sito"];
 			$nome_corso = $_POST["nome_corso"];
 			
-			// compose submitter mail
-			$from = 'From: ' . $sender_email; 
-			$to = $e_mail; 
-			$subject = "Invio della valutazione avvenuto con successo";
-			$message = "Dati registrati";
-			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n $message";
-			if (mail ($to, $subject, $body, $from)) {
-				echo "<p>Iscrizione al corso " . $corso . " avvenuta con successo</p>";
-			} else { 
-				echo '<h2>Qualcosa non ha funzionato (campi non compilati?). Riprova!</h2>'; 
-			}
-			
 			// compose internal archive mail 
 			$from = 'From: ' . $sender_email; 
 			$to = $sender_email; 
-			$subject = "Iscrizione corso: " . $corso . " per " . $nome . " " . $cognome;
+			$subject = "Valutazione corso: " . $nome_corso;
 				
 				// key:value message
 				//$message = "Nome: " . $nome . "\n" .
@@ -63,7 +53,8 @@ Minimo 0, Massimo 5
 				//		   "Note: " . $note  . "\n";
 				
 				// with header csv message
-				$header =   "aspettative" . ";" .
+				$header =   "timesptamp" . ";" .
+							"aspettative" . ";" .
 							"durata" . ";" .
 							"infrastrutture" . ";" .
 							"qualita" . ";" .
@@ -84,7 +75,8 @@ Minimo 0, Massimo 5
 							"quale" . ";" .
 							"nome_corso";
 							
-				$message =  $aspettative  .";" .
+				$message =  date("c")  .";" .
+							$aspettative  .";" .
 							$durata  .";" .
 							$infrastrutture  .";" .
 							$qualita  .";" .
@@ -109,17 +101,29 @@ Minimo 0, Massimo 5
 			if (mail ($to, $subject, $body, $from)) {
 				// do nothing
 			} else { 
-				error_log("Error sending internal inscription mail: ". $body); 
+				if (!$notified_error) {
+					echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>';
+					$notified_error = 1;
+				}
+				error_log("Error sending internal evaluation mail: ". $body); 
 			}
 			
 			// write message on a local file
 			$report_filename = '/var/lib/form_results/eval_form.log';
 			if ( !file_exists($report_filename) ) {
 				if ( !file_put_contents ( $report_filename , $header.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
+					if (!$notified_error) {
+						echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>';
+						$notified_error = 1;
+					}
 					error_log("Error writing eval_form log file for this header: ". $header); 
 				}
 			}			
 			if ( !file_put_contents ( $report_filename , $message.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
+				if (!$notified_error) {
+					echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>';
+					$notified_error = 1;
+				}
 				error_log("Error writing eval_form log file for this message: ". $message); 
 			}
 		}
