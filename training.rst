@@ -268,58 +268,58 @@ Modulo di iscrizione
 			$subject = "Iscrizione al corso " . $corso . " avvenuta con successo";
 			$message = "La tua iscrizione è stata registrata. Verrai contattato.\n Grazie.";
 			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n $message";
-			if (mail ($to, $subject, $body, $from)) {
-				echo "<h2>Iscrizione al corso " . $corso . " avvenuta con successo</h2>";
-			} else { 
-				echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>'; 
-				$notified_error = 1;
-			}
-			
-			// compose internal archive mail 
-			$from = 'From: ' . $sender_email; 
-			$to = $sender_email; 
-			$subject = "Iscrizione corso: " . $corso . " per " . $nome . " " . $cognome;
-				
-				// key:value message
-				// $message = "Timestamp: " . date("c") . "\n" .
-						   // "Nome: " . $nome . "\n" .
-						   // "Cognome: " . $cognome . "\n" .
-						   // "Indirizzo: " . $indirizzo  . "\n" .
-						   // "Telefono: " . $telefono  . "\n" .
-						   // "Email: " . $email  . "\n" .
-						   // "Corso: " . $corso  . "\n" .
-						   // "Dati per Fatturazione: " . $dati_per_fatturazione  . "\n" .
-						   // "Note: " . $note  . "\n";	
-						   			
-				// with header csv message
-				$header = "Timestamp;Nome;Cognome;Indirizzo;Telefono;Email;Corso;Dati per Fatturazione;Note";
-				$message =  date("c") .";" .
-							$nome  .";" .
-							$cognome  .";" .
-							$indirizzo .";" .
-							$telefono .";" .
-							$email .";" .
-							$corso .";" .
-							$dati_per_fatturazione  .";" .
-							$note;
-				
-			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n$header\n$message\n";
-			if ( !mail ($to, $subject, $body, $from) ) {
-				error_log("Error sending internal inscription mail: ". $body);
+			if ( !mail ($to, $subject, $body, $from) ) { 
+				error_log("Error sending inscription receipt email: " . $body); 
 				$found_error = 1;
-			}
+				
+			} else {
 			
-			// write message on a local file
-			$report_filename = '/var/lib/form_results/training.log';
-			if ( !file_exists($report_filename) ) {
-				if ( !file_put_contents ( $report_filename , $header.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
-					error_log("Error writing inscription log file for this header: ". $header); 
+				// compose internal archive mail 
+				$from = 'From: ' . $sender_email; 
+				$to = $sender_email; 
+				$subject = "Iscrizione corso: " . $corso . " per " . $nome . " " . $cognome;
+					
+					// key:value message
+					// $message = "Timestamp: " . date("c") . "\n" .
+							   // "Nome: " . $nome . "\n" .
+							   // "Cognome: " . $cognome . "\n" .
+							   // "Indirizzo: " . $indirizzo  . "\n" .
+							   // "Telefono: " . $telefono  . "\n" .
+							   // "Email: " . $email  . "\n" .
+							   // "Corso: " . $corso  . "\n" .
+							   // "Dati per Fatturazione: " . $dati_per_fatturazione  . "\n" .
+							   // "Note: " . $note  . "\n";	
+							   			
+					// with header csv message
+					$header = "Timestamp;Nome;Cognome;Indirizzo;Telefono;Email;Corso;Dati per Fatturazione;Note";
+					$message =  date("c") .";" .
+								$nome  .";" .
+								$cognome  .";" .
+								$indirizzo .";" .
+								$telefono .";" .
+								$email .";" .
+								$corso .";" .
+								$dati_per_fatturazione  .";" .
+								$note;
+					
+				$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n$header\n$message\n";
+				if ( !mail ($to, $subject, $body, $from) ) {
+					error_log("Error sending internal inscription mail: ". $body);
 					$found_error = 1;
 				}
-			}			
-			if ( !file_put_contents ( $report_filename , $message.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
-				error_log("Error writing inscription log file for this message: ". $message); 
-				$found_error = 1;
+				
+				// write message on a local file
+				$report_filename = '/var/lib/form_results/training.log';
+				if ( !file_exists($report_filename) ) {
+					if ( !file_put_contents ( $report_filename , $header.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
+						error_log("Error writing inscription log file for this header: ". $header); 
+						$found_error = 1;
+					}
+				}			
+				if ( !file_put_contents ( $report_filename , $message.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
+					error_log("Error writing inscription log file for this message: ". $message); 
+					$found_error = 1;
+				}
 			}
 			
 			if ( $found_error ) {
