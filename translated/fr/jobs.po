@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Faunalia
+# This file is distributed under the same license as the Faunalia package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Faunalia \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-07 15:46\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../jobs.rst:2
+# 7bef6c408e054bbfb082e3e71e299bca
+msgid "Referenze"
+msgstr ""
+
+#: ../../jobs.rst:5
+# ee632cfc6bc94e17b40abcbf082bd295
+msgid "Mappa dei lavori di Faunalia"
+msgstr ""
+
+#: ../../jobs.rst:19
+# cfeb9a33a90d4120a53d4b79b2921818
+msgid "I clienti più importanti"
+msgstr ""
+
+#: ../../jobs.rst:31
+# 541297be935c408ab472c2adbf6bca47
+msgid "Amministrazione pubblica"
+msgstr ""
+
+#: ../../jobs.rst:37
+# 3d663ff2de764559b42734cdb56d8434
+msgid "Università e centri di ricerca"
+msgstr ""
+
+#: ../../jobs.rst:43
+# 340895fddfeb41a0abaeb26b75ea8bc3
+msgid "Società"
+msgstr ""
+
+#: ../../jobs.rst:49
+# 2cf4ff73bf384a97b17957cf3e037ee5
+msgid "Associazioni ed organizzazioni"
+msgstr ""
+
+#: ../../jobs.rst:55
+# 7e1c52786577482bb298cfd65b4a7c8d
+msgid "Corsi e Seminari"
+msgstr ""
+
+#: ../../jobs.rst:61
+# a64b7b2ec2e8470da49954558f731d32
+msgid "Assistenza e sviluppo"
+msgstr ""
+
+#: ../../jobs.rst:67
+# b54ad168450f471a85cd4bd0d97807c2
+msgid "Le pubblicazioni"
+msgstr ""
+
