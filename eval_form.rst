@@ -295,5 +295,5 @@ Minimo 0, Massimo 5
 
 	<input type="hidden" name="nome_corso" value="Corso di prova" />
   <br>
-	<input type="submit" name="SUBMIT" value="Submit inscription" class="btn btn-primary"/>
+	<input type="submit" name="SUBMIT" value="Invia" class="btn btn-primary"/>
 	</form>
