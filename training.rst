@@ -256,7 +256,7 @@ Modulo di iscrizione
 			$from = 'From: ' . $sender_email; 
 			$to = $email; 
 			$subject = "Iscrizione al corso " . $corso . " avvenuta con successo";
-			$message = "La tua iscrizione è stata registrata. Verrai contattato.\n Grazie.";
+			$message = "La tua iscrizione e' stata registrata. Verrai contattato.\n Grazie.";
 			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n $message";
 			if (mail ($to, $subject, $body, $from)) {
 				echo "<h2>Iscrizione al corso " . $corso . " avvenuta con successo</h2>";
