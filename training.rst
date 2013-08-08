@@ -232,9 +232,19 @@ Modulo di iscrizione
 .. raw:: html
 
 	<?php
+		// set default form values
+		$nome = "";
+		$cognome = "";
+		$indirizzo = "";
+		$telefono = "";
+		$email = "";
+		$corso = "";
+		$dati_per_fatturazione = "";
+		$note = "";
+
 		if ($_POST["SUBMIT"]) {
 			
-			$notified_error = 0;
+			$found_error = 0;
 			
 			// sender data
 			$sender_name = 'Faunalia';
@@ -258,99 +268,101 @@ Modulo di iscrizione
 			$subject = "Iscrizione al corso " . $corso . " avvenuta con successo";
 			$message = "La tua iscrizione e' stata registrata. Verrai contattato.\n Grazie.";
 			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n $message";
-			if (mail ($to, $subject, $body, $from)) {
-				echo "<h2>Iscrizione al corso " . $corso . " avvenuta con successo</h2>";
-			} else { 
-				echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>'; 
-				$notified_error = 1;
-			}
-			
-			// compose internal archive mail 
-			$from = 'From: ' . $sender_email; 
-			$to = $sender_email; 
-			$subject = "Iscrizione corso: " . $corso . " per " . $nome . " " . $cognome;
+			if ( !mail ($to, $subject, $body, $from) ) { 
+				error_log("Error sending inscription receipt email: " . $body); 
+				$found_error = 1;
 				
-				// key:value message
-				// $message = "Timestamp: " . date("c") . "\n" .
-						   // "Nome: " . $nome . "\n" .
-						   // "Cognome: " . $cognome . "\n" .
-						   // "Indirizzo: " . $indirizzo  . "\n" .
-						   // "Telefono: " . $telefono  . "\n" .
-						   // "Email: " . $email  . "\n" .
-						   // "Corso: " . $corso  . "\n" .
-						   // "Dati per Fatturazione: " . $dati_per_fatturazione  . "\n" .
-						   // "Note: " . $note  . "\n";	
-						   			
-				// with header csv message
-				$header = "Timestamp;Nome;Cognome;Indirizzo;Telefono;Email;Corso;Dati per Fatturazione;Note";
-				$message =  date("c") .";" .
-							$nome  .";" .
-							$cognome  .";" .
-							$indirizzo .";" .
-							$telefono .";" .
-							$email .";" .
-							$corso .";" .
-							$dati_per_fatturazione  .";" .
-							$note;
-				
-			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n$header\n$message\n";
-			if (mail ($to, $subject, $body, $from)) {
-				// do nothing
 			} else {
-				if (!$notified_error) {
-					echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>';
-					$notified_error = 1;
+			
+				// compose internal archive mail 
+				$from = 'From: ' . $sender_email; 
+				$to = $sender_email; 
+				$subject = "Iscrizione corso: " . $corso . " per " . $nome . " " . $cognome;
+					
+					// key:value message
+					// $message = "Timestamp: " . date("c") . "\n" .
+							   // "Nome: " . $nome . "\n" .
+							   // "Cognome: " . $cognome . "\n" .
+							   // "Indirizzo: " . $indirizzo  . "\n" .
+							   // "Telefono: " . $telefono  . "\n" .
+							   // "Email: " . $email  . "\n" .
+							   // "Corso: " . $corso  . "\n" .
+							   // "Dati per Fatturazione: " . $dati_per_fatturazione  . "\n" .
+							   // "Note: " . $note  . "\n";	
+							   			
+					// with header csv message
+					$header = "Timestamp;Nome;Cognome;Indirizzo;Telefono;Email;Corso;Dati per Fatturazione;Note";
+					$message =  date("c") .";" .
+								$nome  .";" .
+								$cognome  .";" .
+								$indirizzo .";" .
+								$telefono .";" .
+								$email .";" .
+								$corso .";" .
+								$dati_per_fatturazione  .";" .
+								$note;
+					
+				$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n$header\n$message\n";
+				if ( !mail ($to, $subject, $body, $from) ) {
+					error_log("Error sending internal inscription mail: ". $body);
+					$found_error = 1;
 				}
-				error_log("Error sending internal inscription mail: ". $body);
+				
+				// write message on a local file
+				$report_filename = '/var/lib/form_results/training.log';
+				if ( !file_exists($report_filename) ) {
+					if ( !file_put_contents ( $report_filename , $header.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
+						error_log("Error writing inscription log file for this header: ". $header); 
+						$found_error = 1;
+					}
+				}			
+				if ( !file_put_contents ( $report_filename , $message.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
+					error_log("Error writing inscription log file for this message: ". $message); 
+					$found_error = 1;
+				}
 			}
 			
-			// write message on a local file
-			$report_filename = '/var/lib/form_results/training.log';
-			if ( !file_exists($report_filename) ) {
-				if ( !file_put_contents ( $report_filename , $header.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
-					if (!$notified_error) {
-						echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>';
-						$notified_error = 1;
-					}
-					error_log("Error writing inscription log file for this header: ". $header); 
-				}
-			}			
-			if ( !file_put_contents ( $report_filename , $message.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
-				if (!$notified_error) {
-					echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>';
-					$notified_error = 1;
-				}
-				error_log("Error writing inscription log file for this message: ". $message); 
+			if ( $found_error ) {
+				echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>';
+			} else {
+				echo "<h2>Iscrizione al corso " . $corso . " avvenuta con successo</h2>";
 			}
 		}
 	?>
 	<form action="training.html#modulo-di-iscrizione" method="post">
 
 	<label for="edit-submitted-nome">Nome <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-nome" name="nome" value="" size="60" maxlength="128" class="input-xlarge required" />
+	<input type="text" id="edit-submitted-nome" name="nome" value="<?=$nome ?>" size="60" maxlength="128" class="input-xlarge required" />
 
 	<label for="edit-submitted-cognome">Cognome <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-cognome" name="cognome" value="" size="60" maxlength="128" class="input-xlarge required" />
+	<input type="text" id="edit-submitted-cognome" name="cognome" value="<?=$cognome ?>" size="60" maxlength="128" class="input-xlarge required" />
 
 	<label for="edit-submitted-indirizzo">Indirizzo <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-indirizzo" name="indirizzo" value="" size="60" maxlength="128" class="input-xlarge required" />
+	<input type="text" id="edit-submitted-indirizzo" name="indirizzo" value="<?=$indirizzo ?>" size="60" maxlength="128" class="input-xlarge required" />
 
 	<label for="edit-submitted-telefono">Telefono <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-telefono" name="telefono" value="" size="60" maxlength="128" class="input-xlarge required" />
+	<input type="text" id="edit-submitted-telefono" name="telefono" value="<?=$telefono ?>" size="60" maxlength="128" class="input-xlarge required" />
 
 	<label for="edit-submitted-e-mail">E-Mail <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input class="email input-xlarge form-email required" type="email" id="edit-submitted-e-mail" name="email" size="60" />
+	<input class="email input-xlarge form-email required" type="email" value="<?=$email ?>" id="edit-submitted-e-mail" name="email" size="60" />
 
 	<label for="edit-submitted-corso">Corso <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<select id="edit-submitted-corso" name="corso" class="input-xlarge required"><option value="" selected="selected">- Scegliere -</option><option value="qgis_cartografia">QGIS cartografia</option><option value="qgis_analisi">QGIS analisi</option><option value="pyqgis">Python-QGIS</option><option value="postgis">Geodatabase</option><option value="webgis">WebMapping</option></select>
+	<select id="edit-submitted-corso" name="corso" class="input-xlarge required">
+		<option value="" <?php if ($corso=="") echo 'selected="selected"';?> >- Scegliere -</option>
+		<option value="qgis_cartografia" <?php if ($corso=="qgis_cartografia") echo 'selected="selected"';?> >QGIS cartografia</option>
+		<option value="qgis_analisi" <?php if ($corso=="qgis_analisi") echo 'selected="selected"';?> >QGIS analisi</option>
+		<option value="pyqgis" <?php if ($corso=="pyqgis") echo 'selected="selected"';?> >Python-QGIS</option>
+		<option value="postgis" <?php if ($corso=="postgis") echo 'selected="selected"';?> >Geodatabase</option>
+		<option value="webgis" <?php if ($corso=="webgis") echo 'selected="selected"';?> >WebMapping</option>
+	</select>
 
 	<label for="edit-submitted-dati-per-fatturazione">Dati per fatturazione <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
 
-	<textarea id="edit-submitted-dati-per-fatturazione" name="dati_per_fatturazione" cols="60" rows="5" class="input-xlarge required"></textarea></div>
+	<textarea id="edit-submitted-dati-per-fatturazione" name="dati_per_fatturazione" cols="60" rows="5" class="input-xlarge required"><?php echo htmlspecialchars($dati_per_fatturazione); ?></textarea></div>
 
   <div>
 	<label for="edit-submitted-note">Note </label>
-	<textarea id="edit-submitted-note" name="note" cols="60" rows="5" class="input-xlarge"></textarea>
+	<textarea id="edit-submitted-note" name="note" cols="60" rows="5" class="input-xlarge"><?php echo htmlspecialchars($note); ?></textarea>
   </div>
 
 	<input type="submit" name="SUBMIT" value="Invia" class="btn btn-primary"/>

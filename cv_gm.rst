@@ -2,15 +2,4 @@ Giovanni Manghi
 -------------------------------------------------------------------------------
 
 .. raw:: html
-
-	<?php require_once('/usr/local/src/website_scripts/backend_ufficio.inc'); ?>
-
-.. note:: change $op_en=0; nelle traduzioni
-
-.. raw:: html
-
-	<?php 
-	$chi_sigla="gm";
-	$op_en=0;
-	include('/usr/local/src/website_scripts/pdf/generator.php'); 
-	?>
+   :file: Manghi_CV_it.html
