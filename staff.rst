@@ -27,15 +27,11 @@ Paolo Cavallini |it| |pt|
 * `Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`_
 * `Curriculum Vitae europeo (pdf) <pdf/Cavallini_CV_eu.pdf>`_
 
-*e-mail*: cavallini@faunalia.it
-
-*PEC*: paolo.cavallini@pec.it
-
-*Tel/Viber/Line*: +39-348-3801953
-
-*Skype*: paolo.gg.cavallini
-
-*Hangout*: paolo.cavallini@gmail.com
+* *e-mail*: cavallini@faunalia.it
+* *PEC*: paolo.cavallini@pec.it
+* *Tel/Viber/Line*: +39-348-3801953
+* *Skype*: paolo.gg.cavallini
+* *Hangout*: paolo.cavallini@gmail.com
 
 .. raw:: html
 
@@ -59,7 +55,7 @@ Renzo Cavallini |it|
   * esecuzione ed elaborazione di prove in situ: penetrometriche statiche con punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o senza rivestimento, PLT, densità in situ
   * installazione e messa a punto di apparecchiature di laboratorio e di sistemi di acquisizione automatica; calibrazione di trasduttori elettrici
 
-*e-mail*: renzo.cavallini@faunalia.it
+* *e-mail*: renzo.cavallini@faunalia.it
 
 Giovanni Manghi |pt|
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -85,13 +81,10 @@ Giovanni Manghi è:
 * `Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_
 * `Curriculum Vitae europeo (pdf) <pdf/Manghi_CV_eu.pdf>`_
 
-*e-mail*: giovanni.manghi@faunalia.pt
-
-*Tel/Viber/Line*: +351967058216
-
-*Skype*: toirao
-
-*Hangout*: giovanni.manghi@gmail.com
+* *e-mail*: giovanni.manghi@faunalia.pt
+* *Tel/Viber/Line*: +351967058216
+* *Skype*: toirao
+* *Hangout*: giovanni.manghi@gmail.com
 
 Vania Neves |pt|
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -112,10 +105,7 @@ Il contatto con la filosofia FOSS (Free and Open Source Software) l'ha portata a
 * `Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_
 * `Curriculum Vitae europeo (pdf) <pdf/Neves_CV_eu.pdf>`_
 
-*e-mail*: vania.neves@faunalia.pt
-
-*Tel/Viber/Line*: +351939320104
-
-*Skype*: vaniavanilla
-
-*Hangout*: vbneves@gmail.com
+* *e-mail*: vania.neves@faunalia.pt
+* *Tel/Viber/Line*: +351939320104
+* *Skype*: vaniavanilla
+* *Hangout*: vbneves@gmail.com
