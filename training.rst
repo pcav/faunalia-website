@@ -1,7 +1,9 @@
 Corsi
 ---------------------------------------------------
 
-Faunalia ha l'esperienza più vasta nel mondo nella formazione sui GIS liberi, avendo realizzato oltre 150 fra corsi, seminari e workshops, in italiano, inglese, portoghese e francese
+Faunalia ha l'esperienza più vasta nel mondo nella formazione sui GIS liberi, avendo realizzato oltre 150 fra corsi, seminari e workshops, in italiano, inglese, portoghese e francese.
+
+I corsi sono sempre aggiornati, utilizzando le ultime versioni disponibili di ciascun software.
 
 Possiamo realizzare sia corsi standard che personalizzati, sia presso la nostra sede che nella vostra.
 
@@ -20,7 +22,8 @@ Perché scegliere i corsi di Faunalia?
 Cartografia con QGIS
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Per imparare ad installare ed utilizzare QGIS, ad accedere ai dati, tematizzarli e produrre mappe di qualità.
+Per imparare ad installare ed utilizzare QGIS, ad accedere ai dati, tematizzarli e produrre mappe di alta qualità grafica ed informativa.
+ad elevato contenuto informativo e ad alta qualità grafica
 
 Adatto anche a chi ha poca esperienza sui GIS e sulla cartografia. È necessario avere dimestichezza con l'uso del PC.
 
@@ -60,7 +63,9 @@ Tre giorni *full time*
 Analisi con QGIS
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Per imparare a realizzare analisi raster e vettoriali, e modellistica spaziale, unendo la potenza di elaborazione GIS di GRASS, SAGA, Orfeo ToolBox con la semplicità d'uso di QGIS. Al termine del corso, l'utente avrà appreso a gestire con facilità l'ambiente di lavoro di QGIS, e ad effettuare analisi anche complesse in modo semplice ed intuitivo. Il corso è adatto per chi desidera approfondire l'uso analitico e predittivo dei GIS, avendo già nozioni di base.
+Per imparare a realizzare analisi raster e vettoriali, e modellistica spaziale, unendo la potenza di elaborazione GIS di GRASS, SAGA, Orfeo ToolBox con la semplicità d'uso di QGIS. Al termine del corso, l'utente avrà appreso a gestire con facilità l'ambiente di lavoro di QGIS, e ad effettuare analisi anche complesse in modo semplice ed intuitivo. 
+
+Adatto a chi desidera approfondire l'uso analitico e predittivo dei GIS, avendo già delle nozioni di base.
 
 È necessaria una conoscenza base del GIS. È altamente consigliabile una conoscenza di base di QGIS.
 
@@ -98,7 +103,7 @@ Tre giorni *full time*
 Come creare un plugin in Python per QGIS
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Per sviluppare plugins (estensioni) per QGIS, utilizzando il linguaggio di programmazione Python. La finalità principale è fornire i concetti fondamentali e l'esperienza pratica per lo sviluppo di plugins. Dopo una breve introduzione al linguaggio di programmazione, i partecipanti saranno guidati passo a passo nella creazione di un plugin.
+Per sviluppare plugins (estensioni) per QGIS, utilizzando il linguaggio di programmazione Python. La finalità principale è fornire i concetti fondamentali e l'esperienza pratica per lo sviluppo di plugins. Dopo una breve introduzione a questo linguaggio, i partecipanti saranno guidati passo a passo nella creazione di un plugin.
 
 È preferibile, ma non obbligatoria, una conoscenza di base di Phyton. È necessaria una conoscenza di base dei principi di programmazione.
 
@@ -143,9 +148,7 @@ Tre giorni *full time*
 Geodatabase: PostgreSQL e PostGIS
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Nuovo! Ora aggiornato a PostGIS 2.0: nuova procedura di installazione e configurazione, nuovi comandi, supporto a gestione e analisi raster, topologia.
-
-Il corso è rivolto a chi, per la gestione di banche dati geografiche complesse, per la necessità di svolgere analisi approfondite e per la visualizzazione on line in tempo reale delle analisi fatte, vuole utilizzare una banca dati evoluta e di ottima stabilità. Il corso permette di familiarizzare con la gestione dei dati vettoriali tramite SQL, con l'importazione dei dati geografici in PostgreSQL (a partire da formati di interscambio standard), con l'interrogazione di dati sia geografici che alfanumerici tramite numerose applicazioni. Permette inoltre di apprendere l'uso di funzioni di analisi geografica effettuata direttamente da database.
+Per apprendere a creare e gestire banche dati geografiche complesse, e realizzare analisi approfondite con visualizzazione in tempo reale delle analisi fatte. Il corso permette di familiarizzare con la gestione dei dati vettoriali tramite SQL, con l'importazione dei dati geografici e l'interrogazione di dati sia geografici che alfanumerici tramite numerose applicazioni.
 
 Preferibile conoscenza del linguaggio SQL. È necessario avere dimestichezza con l'uso del PC.
 
@@ -178,12 +181,14 @@ WebMapping con Quantum GIS
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 Per apprendere in breve tempo il più innovativo e semplice ambiente di sviluppo per WebGIS e WebMapping, basato su QGIS.
 
+Consente di pubblicare sul web le mappe sviluppate e configurate tramite QGIS Desktop, senza necessità di complesse operazioni di configurazione del loro aspetto grafico.
+
 Sono necessarie nozioni di base sui GIS, sulla cartografia e sul web. È consigliabile una conoscenza di base di QGIS. È necessario avere piena dimestichezza con l'uso del PC.
 
 Argomenti principali
 ===================================================
 
-* Gli standard Open Geospatial Consortiumgit@github.com:soundarapandian/faunalia.git per la pubblicazione
+* Gli standard *Open Geospatial Consortium* per la pubblicazione webGIS
 
   * WMS, WFS, WFS-T, WCS, WPS
 
@@ -205,7 +210,7 @@ Calendario
 .. note:: can we add an "export as calendar" link?
 .. rst-class:: table  
 ===================================  ===============  ====================
-Corso                                Date             Scadenza iscrizione
+Corso                                Date e durata    Scadenza iscrizione
 ===================================  ===============  ====================
 Cartografia con QGIS                 25-27 Settembre  10 Settembre
 Analisi con QGIS                     16-18 Ottobre    1 Ottobre
@@ -224,7 +229,7 @@ Costi
 Logistica
 ===================================================
 
-* Sede: `Pont-Tech <http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi pubblici (treno ed aereo)
+* Sede: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi pubblici (treno ed aereo)
 * `Dettagli sulla città <http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluse strutture ricettive)
 * B&B `Il Piccolo <http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple
 
