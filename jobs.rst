@@ -45,13 +45,13 @@ Società
 	
 	<?php printListOfCommittenti($soc); ?>
 
-Associazioni ed organizzazioni
+Associazioni e organizzazioni
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 .. raw:: html
 
 	<?php printListOfCommittenti($org); ?>
 
-Corsi e Seminari
+Corsi e workshop
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 .. raw:: html
 	
