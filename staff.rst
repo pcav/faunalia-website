@@ -66,11 +66,11 @@ Giovanni Manghi |pt|
 
 Giovanni Manghi è laureato in Biologia presso l'Università di Évora, Portogallo e ha lavorato per molti anni nel campo della conservation biology, in particolare riguardo lo studio e gestione dei piccoli mamiferi carnivori.
 
-Giovanni Manghi ha più di 20 anni di esperienza nell'area dell'IT, dal 2004 abbraccia in modo incondizionale la filosofia FOSS (Free and Open Source Software), utilizzando esclusivamente sistemi GNU/Linux e strumenti GIS Open Source:  QGIS, GRASS, PostgreSQL/PostGIS, Mapserver, p.:apper, OpenLayers, tra gli altri.
+Giovanni Manghi ha più di 20 anni di esperienza nell'area dell'IT, dal 2004 abbraccia in modo incondizionato la filosofia FOSS (Free and Open Source Software), utilizzando esclusivamente sistemi GNU/Linux e strumenti GIS Open Source:  QGIS, GRASS, PostgreSQL/PostGIS, Mapserver, p.:apper, OpenLayers, tra gli altri.
 
-Negli ultimi anni è coinvolto personalmente nella divulgazione del Software Libero, compito che l'ha portato a co-organizzare corsi, incontri e congressi come per esempio le l'incontro degli utenti QGIS e le "Jornadas de Software Aberto para Sistemas de Informação Geográfica" in Portogallo dove a Faunalia ha partecipato attivamente.
+Negli ultimi anni è coinvolto personalmente nella divulgazione del Software Libero, compito che lo ha portato a co-organizzare corsi, incontri e congressi, come, per esempio, l'incontro degli utenti QGIS e le "Jornadas de Software Aberto para Sistemas de Informação Geográfica" in Portogallo dove a Faunalia ha partecipato attivamente.
 
-Riesiede in Portogallo dal 2002 e è socio fundatore di Faunalia nella stesso paese.
+Risiede in Portogallo dal 2002 è socio fondatore di Faunalia nello stesso Paese.
 
 Giovanni Manghi è:
 
@@ -93,7 +93,7 @@ Vania Neves |pt|
    :width: 150 px
    :align: left
 
-Vânia Neves è laureata in Biologia presso l'Università di Évora, Portogallo. Passati alcuni anni a sviluppare progetti nell'area dell'educazione ambientale ha ottenuto il master in conservation biology promosso dall'Università di Évora.
+Vânia Neves è laureata in Biologia presso l'Università di Évora, Portogallo. Passati alcuni anni a sviluppare progetti nell'area dell'educazione ambientale ha ottenuto il master in Conservation Biology promosso dall'Università di Évora.
 
 Il progetto di testi del master l'ha portata ad approfondire l'uso degli strumenti GIS, con applicazione alla modellazione e geo-statisctica.
 
