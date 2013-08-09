@@ -1,19 +1,21 @@
 Corsi
 ---------------------------------------------------
 
-Perché scegliere i corsi di Faunalia?
-+++++++++++++++++++++++++++++++++++++++++++++++++++
-
-* indici di gradimento sempre molto alti (fra l'82% e il 93%, sulla base di questionari anonimi), e sono completamente interattivi
-* Faunalia ha l'esperienza più vasta nel mondo nella formazione sui GIS liberi, avendo realizzato oltre 150 fra corsi, seminari e workshops, in italiano, inglese, portoghese e francese
-* i docenti di Faunalia contribuiscono attivamente, da anni, allo sviluppo dei software che usiamo. Paolo Cavallini è membro dello *Steering Committee* di QGIS. Faunalia ha sviluppato parti di GRASS, PostGIS, GDAL ecc. Questo garantisce docenze della massima qualità: non siamo solo utenti dei software che spieghiamo, ma li conosciamo "dall'interno"
-* costo sensibilmente inferiore alle alternative proprietarie
-* reinvestiamo nel software: iscrivendovi contribuite direttamente al miglioramento del programma che usate
-* Paolo Cavallini è `esaminatore ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_. Frequentando i corsi di Faunalia potrete quindi accedere agli esami AICA ed ottenere la `certificazione ECDL-GIS <http://www.aicanet.it/aica/ecdl-gis/>`_.
+Faunalia ha l'esperienza più vasta nel mondo nella formazione sui GIS liberi, avendo realizzato oltre 150 fra corsi, seminari e workshops, in italiano, inglese, portoghese e francese
 
 Possiamo realizzare sia corsi standard che personalizzati, sia presso la nostra sede che nella vostra.
 
 Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi.
+
+Perché scegliere i corsi di Faunalia?
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* hanno un'alta qualità didattica: sono regolarmente valutati con indici di gradimento sempre molto alti (fra l'82% e il 93%, sulla base di questionari anonimi)
+* sono completamente interattivi: la teoria è quindi sempre abbinata alla pratica
+* sono tenuti da docenti che contribuiscono attivamente, da anni, allo sviluppo dei software oggetto dei corsi. In particolare, Paolo Cavallini è membro dello *Steering Committee* di QGIS, e Faunalia ha sviluppato parti di GRASS, PostGIS, GDAL ecc.
+* hanno un costo sensibilmente inferiore alle alternative proprietarie presenti sul mercato
+* contribuiscono al miglioramento dei software utilizzati, destinando al loro sviluppo parte delle quote di iscrizione
+* consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://www.aicanet.it/aica/ecdl-gis/>`_ Paolo Cavallini è `esaminatore ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_.
 
 Cartografia con QGIS
 +++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -106,9 +108,9 @@ Argomenti principali
 * Come creare un plugin Python per QGIS
 
   * la sintassi Python (indentazione, punto e virgola, ...)
-  * il mio primo plugin in python: mostra un messaggio in un riquadro
+  * il mio primo plugin in Python: mostra un messaggio in un riquadro
   * creare interfacce utente con QtDesigner (.ui)
-  * secondo plugin: aggiungere un layer all’area di mappa di QGis
+  * secondo plugin: aggiungere un layer all’area di mappa di QGIS
   * creare un file di risorse (.qrc)
 
 * Le classi principali delle API Qt
@@ -202,15 +204,15 @@ Calendario
 
 .. note:: can we add an "export as calendar" link?
 .. rst-class:: table  
-===================================  ===============  ===================
-Corso                                Date             Iscrizione entro il
-===================================  ===============  ===================
+===================================  ===============  ====================
+Corso                                Date             Scadenza iscrizione
+===================================  ===============  ====================
 Cartografia con QGIS                 25-27 Settembre  10 Settembre
 Analisi con QGIS                     16-18 Ottobre    1 Ottobre
 Creare un plugin in Python per QGIS  13-15 Novembre   28 Ottobre
 Geodatabase (PostgreSQL / PostGIS)   11-13 Dicembre   25 Novembre
 Web Mapping con QGIS                 23-24 Gennaio    10 Gennaio
-===================================  ===============  ===================
+===================================  ===============  ====================
 
 Costi
 ===================================================
