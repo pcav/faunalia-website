@@ -12,12 +12,12 @@ Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/listinf
 Perché scegliere i corsi di Faunalia?
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-* hanno un'alta qualità didattica: sono regolarmente valutati con indici di gradimento sempre molto alti (fra l'82% e il 93%, sulla base di questionari anonimi)
-* sono completamente interattivi: la teoria è quindi sempre abbinata alla pratica
-* sono tenuti da docenti che contribuiscono attivamente, da anni, allo sviluppo dei software oggetto dei corsi. In particolare, Paolo Cavallini è membro dello *Steering Committee* di QGIS, e Faunalia ha sviluppato parti di GRASS, PostGIS, GDAL ecc.
-* hanno un costo sensibilmente inferiore alle alternative proprietarie presenti sul mercato
-* contribuiscono al miglioramento dei software utilizzati, destinando al loro sviluppo parte delle quote di iscrizione
-* consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://www.aicanet.it/aica/ecdl-gis/>`_ Paolo Cavallini è `esaminatore ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_.
+* Hanno un'alta qualità didattica: sono regolarmente valutati con indici di gradimento sempre molto alti (fra l'82% e il 93%, sulla base di questionari anonimi)
+* Sono completamente interattivi: la teoria è quindi sempre abbinata alla pratica
+* Sono tenuti da docenti che contribuiscono attivamente, da anni, allo sviluppo dei software oggetto dei corsi. In particolare, Paolo Cavallini è membro dello *Steering Committee* di QGIS, e Faunalia ha sviluppato parti di GRASS, PostGIS, GDAL ecc.
+* Hanno un costo sensibilmente inferiore alle alternative proprietarie presenti sul mercato
+* Contribuiscono al miglioramento dei software utilizzati, destinando al loro sviluppo parte delle quote di iscrizione
+* Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://www.aicanet.it/aica/ecdl-gis/>`_ Paolo Cavallini è `esaminatore ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_.
 
 Cartografia con QGIS
 +++++++++++++++++++++++++++++++++++++++++++++++++++
