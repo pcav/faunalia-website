@@ -15,7 +15,7 @@ Mappa dei lavori di Faunalia
 
 	<?php require_once('/usr/local/src/website_scripts/backend_ufficio.inc'); ?>
 
-I clienti più importanti
+Maggiori clienti
 ...............................................................................
 .. raw:: html
 	
@@ -63,7 +63,7 @@ Assistenza e sviluppo
 	
 	<?php getTableOfLavoriGis(true); ?>
 
-Le pubblicazioni
+Pubblicazioni
 ...............................................................................
 
 .. raw:: html
