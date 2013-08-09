@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-07 15:46\n"
+"POT-Creation-Date: 2013-08-09 11:08\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,10 +19,5 @@ msgstr ""
 #: ../../cv_gm.rst:2
 # cbaa287c86ba4865973df34d74b3b886
 msgid "Giovanni Manghi"
-msgstr ""
-
-#: ../../cv_gm.rst:8
-# adc0f9ca0b104533a439fb91ff7e2f4a
-msgid "change $op_en=0; nelle traduzioni"
 msgstr ""
 

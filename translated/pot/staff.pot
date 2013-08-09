@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-07 15:46\n"
+"POT-Creation-Date: 2013-08-09 11:08\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -91,207 +91,207 @@ msgstr ""
 msgid "*e-mail*: cavallini@faunalia.it"
 msgstr ""
 
-#: ../../staff.rst:32
+#: ../../staff.rst:31
 # 4fdb623e0c714eb8a3a338bc165c17b2
 msgid "*PEC*: paolo.cavallini@pec.it"
 msgstr ""
 
-#: ../../staff.rst:34
+#: ../../staff.rst:32
 # 2796ab88a4474c5fa01132a029cc64b8
 msgid "*Tel/Viber/Line*: +39-348-3801953"
 msgstr ""
 
-#: ../../staff.rst:36
+#: ../../staff.rst:33
 # ede2f46ba5724b5dbac2da31e1010a23
 msgid "*Skype*: paolo.gg.cavallini"
 msgstr ""
 
-#: ../../staff.rst:38
+#: ../../staff.rst:34
 # 50a86c9746184c10af024785c66b0169
 msgid "*Hangout*: paolo.cavallini@gmail.com"
 msgstr ""
 
-#: ../../staff.rst:45
+#: ../../staff.rst:41
 # 7fbaf8236c9e46d590fb8cc752c2198a
 msgid "Renzo Cavallini |it|"
 msgstr ""
 
-#: ../../staff.rst:52
+#: ../../staff.rst:48
 # a01dda5df8d644749a4e0295093fe1e0
 msgid "Geologo, specializzato in geofisica"
 msgstr ""
 
-#: ../../staff.rst:53
+#: ../../staff.rst:49
 # 82cd43493dd24a64a12263b97becaa4a
 msgid "Ha collaborato a livello scientifico e didattico con l'Università di Pisa"
 msgstr ""
 
-#: ../../staff.rst:54
+#: ../../staff.rst:50
 # 03cf91c1fa8a4b42aaf5e7a990980471
 msgid "Ha pubblicato nel settore geofisico"
 msgstr ""
 
-#: ../../staff.rst:55
+#: ../../staff.rst:51
 # 1200ea1bce804534904223f3b14800ea
 msgid "Conduce attività di prospezione geotecnica, in laboratorio ed *in situ*"
 msgstr ""
 
-#: ../../staff.rst:57
+#: ../../staff.rst:53
 # 7a363e92386745399f180ff13897da58
 msgid "esecuzione ed elaborazione di prove di laboratorio su terreni naturali: consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), compressione semplice, analisi granulometrica, limiti di consistenza (LL, LP, LR), peso specifico dei granuli, permeabilità in cella edometrica, triassiale e in permeametro (norme seguite: racc. AGI, CNR, ASTM)"
 msgstr ""
 
-#: ../../staff.rst:58
+#: ../../staff.rst:54
 # 78a0702041e84c08aa141038a65d979f
 msgid "esecuzione ed elaborazione di prove di laboratorio su materiali stradali e da costruzione: compattazione Proctor Standard e modificata, penetrazione CBR, miscelazione delle terre con calce (norme seguite: EN, CNR, ASTM)"
 msgstr ""
 
-#: ../../staff.rst:59
+#: ../../staff.rst:55
 # e42944834a8a4a808fe3288ea5d1bc04
 msgid "esecuzione ed elaborazione di prove in situ: penetrometriche statiche con punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o senza rivestimento, PLT, densità in situ"
 msgstr ""
 
-#: ../../staff.rst:60
+#: ../../staff.rst:56
 # 80067180141f4a7982ea07c0fe694e59
 msgid "installazione e messa a punto di apparecchiature di laboratorio e di sistemi di acquisizione automatica; calibrazione di trasduttori elettrici"
 msgstr ""
 
-#: ../../staff.rst:62
+#: ../../staff.rst:58
 # a9ce1c992be34c53bd43f385da4f4bab
 msgid "*e-mail*: renzo.cavallini@faunalia.it"
 msgstr ""
 
-#: ../../staff.rst:65
+#: ../../staff.rst:61
 # b49d1ac6a130438b9c4770674f677d65
 msgid "Giovanni Manghi |pt|"
 msgstr ""
 
-#: ../../staff.rst:71
+#: ../../staff.rst:67
 # c3c7c8f6291d4053ba9e40d4479a845e
 msgid "Giovanni Manghi è laureato in Biologia presso l'Università di Évora, Portogallo e ha lavorato per molti anni nel campo della conservation biology, in particolare riguardo lo studio e gestione dei piccoli mamiferi carnivori."
 msgstr ""
 
-#: ../../staff.rst:73
+#: ../../staff.rst:69
 # 2d000dc4280b4dceaedca80effe1a727
 msgid "Giovanni Manghi ha più di 20 anni di esperienza nell'area dell'IT, dal 2004 abbraccia in modo incondizionale la filosofia FOSS (Free and Open Source Software), utilizzando esclusivamente sistemi GNU/Linux e strumenti GIS Open Source:  QGIS, GRASS, PostgreSQL/PostGIS, Mapserver, p.:apper, OpenLayers, tra gli altri."
 msgstr ""
 
-#: ../../staff.rst:75
+#: ../../staff.rst:71
 # 65d387015ac143739b227d16c387efb2
 msgid "Negli ultimi anni è coinvolto personalmente nella divulgazione del Software Libero, compito che l'ha portato a co-organizzare corsi, incontri e congressi come per esempio le l'incontro degli utenti QGIS e le \"Jornadas de Software Aberto para Sistemas de Informação Geográfica\" in Portogallo dove a Faunalia ha partecipato attivamente."
 msgstr ""
 
-#: ../../staff.rst:77
+#: ../../staff.rst:73
 # 4bf750fcd58b452c8886b19d915eb183
 msgid "Riesiede in Portogallo dal 2002 e è socio fundatore di Faunalia nella stesso paese."
 msgstr ""
 
-#: ../../staff.rst:79
+#: ../../staff.rst:75
 # 824ee961d8e448afa22ffc1d13b23af9
 msgid "Giovanni Manghi è:"
 msgstr ""
 
-#: ../../staff.rst:81
+#: ../../staff.rst:77
 # 1ff752e4688f49f68c349006183077a3
 msgid "Socio e charter member della fondazione OSGeo \"Open Source Geospatial Foundation\""
 msgstr ""
 
-#: ../../staff.rst:82
+#: ../../staff.rst:78
 # 4c0ce266cf8b43569f903764c8767570
 msgid "Membro dell'\"IUCN Small Carnivore Specialist Group\""
 msgstr ""
 
-#: ../../staff.rst:84
+#: ../../staff.rst:80
 # 95dca4087d374ece822ccbd1aee35dec
 msgid ":doc:`Curriculum Vitae (html) <cv_gm>`"
 msgstr ""
 
-#: ../../staff.rst:85
+#: ../../staff.rst:81
 # 5b545c847c054fcd85c5ede7db0d9953
 msgid "`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_"
 msgstr ""
 
-#: ../../staff.rst:86
+#: ../../staff.rst:82
 # 3b8d4881b4ef49a9ae33dfff59d647d0
 msgid "`Curriculum Vitae europeo (pdf) <pdf/Manghi_CV_eu.pdf>`_"
 msgstr ""
 
-#: ../../staff.rst:88
+#: ../../staff.rst:84
 # 3472687752ef4624a6d1046f9ab20882
 msgid "*e-mail*: giovanni.manghi@faunalia.pt"
 msgstr ""
 
-#: ../../staff.rst:90
+#: ../../staff.rst:85
 # 15522c498725496f856475a620fcdd2a
 msgid "*Tel/Viber/Line*: +351967058216"
 msgstr ""
 
-#: ../../staff.rst:92
+#: ../../staff.rst:86
 # b1ddd3fd79b94726be56cce19351906f
 msgid "*Skype*: toirao"
 msgstr ""
 
-#: ../../staff.rst:94
+#: ../../staff.rst:87
 # e7f575a193b44b1bb55a712f99f32844
 msgid "*Hangout*: giovanni.manghi@gmail.com"
 msgstr ""
 
-#: ../../staff.rst:97
+#: ../../staff.rst:90
 # 3cff42186bd64d37bf7b4f240aa08b11
 msgid "Vania Neves |pt|"
 msgstr ""
 
-#: ../../staff.rst:103
+#: ../../staff.rst:96
 # 2b23b9685fce48e79147cbfb75e5c53a
 msgid "Vânia Neves è laureata in Biologia presso l'Università di Évora, Portogallo. Passati alcuni anni a sviluppare progetti nell'area dell'educazione ambientale ha ottenuto il master in conservation biology promosso dall'Università di Évora."
 msgstr ""
 
-#: ../../staff.rst:105
+#: ../../staff.rst:98
 # a7e81559f7f6475ca5c1f852186e7135
 msgid "Il progetto di testi del master l'ha portata ad approfondire l'uso degli strumenti GIS, con applicazione alla modellazione e geo-statisctica."
 msgstr ""
 
-#: ../../staff.rst:107
+#: ../../staff.rst:100
 # c47764f98a874c6285bdabb5df9bf5cb
 msgid "Il contatto con la filosofia FOSS (Free and Open Source Software) l'ha portata a usare esclusivamente software libero. Questa esperienza insieme al crescente interesse per i GIS ha fatto in modo che sia coinvolta direttamente nell'organizzazione di corsi ed eventi relazionati a questi strumenti."
 msgstr ""
 
-#: ../../staff.rst:109
+#: ../../staff.rst:102
 # 92fabff5a8624df3835bc487c4d7102a
 msgid "È socia fondatrice e gestore di Faunalia in Portogallo."
 msgstr ""
 
-#: ../../staff.rst:111
+#: ../../staff.rst:104
 # 4470a96116a3455bb5c0d0c2300e4859
 msgid ":doc:`Curriculum Vitae (html) <cv_vn>`"
 msgstr ""
 
-#: ../../staff.rst:112
+#: ../../staff.rst:105
 # b4774407f5f4434e85b360162f644107
 msgid "`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_"
 msgstr ""
 
-#: ../../staff.rst:113
+#: ../../staff.rst:106
 # f6ae1371bb6049548203415bdea4393e
 msgid "`Curriculum Vitae europeo (pdf) <pdf/Neves_CV_eu.pdf>`_"
 msgstr ""
 
-#: ../../staff.rst:115
+#: ../../staff.rst:108
 # 12db5196f90647d8b593e6b4c685d9d4
 msgid "*e-mail*: vania.neves@faunalia.pt"
 msgstr ""
 
-#: ../../staff.rst:117
+#: ../../staff.rst:109
 # a5ec7d08d5c3410284e5988b9eb304f4
 msgid "*Tel/Viber/Line*: +351939320104"
 msgstr ""
 
-#: ../../staff.rst:119
+#: ../../staff.rst:110
 # b5e761cc9e0f4d81bf792684f1f0a921
 msgid "*Skype*: vaniavanilla"
 msgstr ""
 
-#: ../../staff.rst:121
+#: ../../staff.rst:111
 # 24ccae109629408ea3fa8831fac20a97
 msgid "*Hangout*: vbneves@gmail.com"
 msgstr ""

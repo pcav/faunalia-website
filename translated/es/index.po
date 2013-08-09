@@ -8,76 +8,79 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-07 15:46\n"
+"POT-Creation-Date: 2013-08-09 11:08\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../index.rst:16
 # 74d5fd586c43466aafb1f532dfbf4ead
+#: ../../../../faunalia/index.rst:16
 msgid "Corsi"
 msgstr ""
 
-#: ../../index.rst:17
 # 55bf7bed85504530b00f5d792f50f06f
+#: ../../../../faunalia/index.rst:17
 msgid "Need to know, quickly and effectively, how to master your free GIS?"
 msgstr ""
 
-#: ../../index.rst:19
 # 80549d17aca94c20ba96853e17c8154d
+#: ../../../../faunalia/index.rst:19
 msgid ":doc:`More info <training>`"
 msgstr ""
 
-#: ../../index.rst:22
 # 2c65bd5329b9402b8ff3cdd828a1c810
+#: ../../../../faunalia/index.rst:22
 msgid "Assistenza"
 msgstr ""
 
-#: ../../index.rst:23
 # 3d6b78da3f9a4ed8a3c78e9c126a151b
-msgid "Want peace of mind, knowing you can call for help and have your problems solved?"
+#: ../../../../faunalia/index.rst:23
+msgid ""
+"Want peace of mind, knowing you can call for help and have your problems "
+"solved?"
 msgstr ""
 
-#: ../../index.rst:25
 # a2069a3f48204eed95a4f2d71236ff50
+#: ../../../../faunalia/index.rst:25
 msgid ":doc:`More info <support>`"
 msgstr ""
 
-#: ../../index.rst:28
 # b29116aece954590a864d9174f6d8416
+#: ../../../../faunalia/index.rst:28
 msgid "Sviluppo"
 msgstr ""
 
-#: ../../index.rst:29
 # beeb32ab0588461fa0ba1dee16742cf8
-msgid "Need a new command, a plugin to speed up your work, a fix of your worst bug?"
+#: ../../../../faunalia/index.rst:29
+msgid ""
+"Need a new command, a plugin to speed up your work, a fix of your worst bug?"
 msgstr ""
 
-#: ../../index.rst:31
 # 2fd4a8b1ef644db38dcea8a1e8a61c03
+#: ../../../../faunalia/index.rst:31
 msgid ":doc:`More info <dev>`"
 msgstr ""
 
-#: ../../index.rst:34
 # eb43e86e26f04b5981a0773800b46daf
+#: ../../../../faunalia/index.rst:34
 msgid "Cosa facciamo"
 msgstr ""
 
-#: ../../index.rst:35
 # 991f0deeb98e44e9aa684ccc0e5e931d
+#: ../../../../faunalia/index.rst:35
 msgid ":doc:`More info <jobs>`"
 msgstr ""
 
-#: ../../index.rst:38
 # 376793a3f58043c9b6f0f0bf22a3efd0
+#: ../../../../faunalia/index.rst:38
 msgid "Chi siamo"
 msgstr ""
 
-#: ../../index.rst:39
 # 8b1d74fd505143fa92f52d472cc10beb
+#: ../../../../faunalia/index.rst:39
 msgid ":doc:`More info <staff>`"
 msgstr ""
-

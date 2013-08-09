@@ -8,21 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-07 15:46\n"
+"POT-Creation-Date: 2013-08-09 11:08\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../cv_pc.rst:2
 # 5c8169e8e0e84d92b1c5fd39103db184
+#: ../../cv_pc.rst:2
 msgid "Paolo Cavallini"
 msgstr ""
-
-#: ../../cv_pc.rst:8
-# d9cff76d97984df9a8e4b71ce36301d8
-msgid "change $op_en=0; nelle traduzioni"
-msgstr ""
-

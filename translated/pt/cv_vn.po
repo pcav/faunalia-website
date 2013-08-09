@@ -8,21 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-07 15:46\n"
+"POT-Creation-Date: 2013-08-09 10:55\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../cv_vn.rst:2
 # da55549a8fd04dfc84e2c85c9bf02494
+#: ../../cv_vn.rst:2
 msgid "Vania Neves"
 msgstr ""
-
-#: ../../cv_vn.rst:8
-# c883bf55440b489f87b8deb9fb07a189
-msgid "change $op_en=0; nelle traduzioni"
-msgstr ""
-

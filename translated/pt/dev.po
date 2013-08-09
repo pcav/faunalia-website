@@ -8,66 +8,77 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-07 15:46\n"
+"POT-Creation-Date: 2013-08-09 10:55\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../dev.rst:2
 # 4e4267e056b54b4285d741002e12df7c
+#: ../../../../faunalia/dev.rst:2
 msgid "Sviluppo"
 msgstr ""
 
-#: ../../dev.rst:4
 # a765048a1a764d1aacdbff50d85a3c8d
+#: ../../../../faunalia/dev.rst:4
 msgid "Faunalia fornisce:"
 msgstr ""
 
-#: ../../dev.rst:6
 # f08f7331cf78489899f60dac239e0742
+#: ../../../../faunalia/dev.rst:6
 msgid "Sviluppo di *plugin* per `QGIS <http://www.qgis.org/>`_"
 msgstr ""
 
-#: ../../dev.rst:7
 # 5b38585e1e384ef6bb57dfd79cb4902b
-msgid "Sviluppo di funzioni *core* per `QGIS <http://www.qgis.org/>`_, `PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
+#: ../../../../faunalia/dev.rst:7
+msgid ""
+"Sviluppo di funzioni *core* per `QGIS <http://www.qgis.org/>`_, `PostGIS "
+"<http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer "
+"<http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
 
-#: ../../dev.rst:8
 # cf99310f7e6e429a841b3f255af7dd46
-msgid "Riparazione dei malfunzionamenti per `QGIS <http://www.qgis.org/>`_, `PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
+#: ../../../../faunalia/dev.rst:8
+msgid ""
+"Riparazione dei malfunzionamenti per `QGIS <http://www.qgis.org/>`_, "
+"`PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, "
+"`MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
 
-#: ../../dev.rst:9
 # d650ef8ee81b4e4584a51093561c5e93
+#: ../../../../faunalia/dev.rst:9
 msgid "Sviluppo di applicazioni webGIS ad hoc"
 msgstr ""
 
-#: ../../dev.rst:11
 # dfe28156cafb481dbf5fce372538fc3f
+#: ../../../../faunalia/dev.rst:11
 msgid "Garantiamo che tutto il codice sviluppato:"
 msgstr ""
 
-#: ../../dev.rst:13
 # a66b6e581f2549c2817abb09f3eb1f1d
+#: ../../../../faunalia/dev.rst:13
 msgid "è pubblicato con licenza libera ed *open source*"
 msgstr ""
 
-#: ../../dev.rst:14
 # e9533e31a92d4e6caba072eab2464cbb
+#: ../../../../faunalia/dev.rst:14
 msgid "viene incluso nel codice sorgente ufficiale dei rispettivi progetti."
 msgstr ""
 
-#: ../../dev.rst:16
 # c746457b76d44f6a842b3ce1ec6be241
-msgid "In questo modo sarete certi della sua fruibilità e facilità di manutenzione anche nel futuro."
+#: ../../../../faunalia/dev.rst:16
+msgid ""
+"In questo modo sarete certi della sua fruibilità e facilità di manutenzione "
+"anche nel futuro."
 msgstr ""
 
-#: ../../dev.rst:18
 # a651117ca4a943738387342da7f07ecc
-msgid "Faunalia ha sviluppato direttamente, già da molti anni, funzioni per tutti i software elencati e fra i nostri collaboratori annoveriamo molti dei più importanti sviluppatori di questi progetti."
+#: ../../../../faunalia/dev.rst:18
+msgid ""
+"Faunalia ha sviluppato direttamente, già da molti anni, funzioni per tutti i "
+"software elencati e fra i nostri collaboratori annoveriamo molti dei più "
+"importanti sviluppatori di questi progetti."
 msgstr ""
-
