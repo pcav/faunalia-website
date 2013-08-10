@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-09 11:08\n"
+"POT-Creation-Date: 2013-08-10 09:25\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,69 +18,72 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 # 74d5fd586c43466aafb1f532dfbf4ead
-#: ../../../../faunalia/index.rst:16
+#: ../../index.rst:16
 msgid "Corsi"
 msgstr ""
 
-# 55bf7bed85504530b00f5d792f50f06f
-#: ../../../../faunalia/index.rst:17
-msgid "Need to know, quickly and effectively, how to master your free GIS?"
+# 1e7ec7a2516c48aa90fbd6563a143a77
+#: ../../index.rst:17
+msgid ""
+"Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il "
+"tuo GIS?"
 msgstr ""
 
 # 80549d17aca94c20ba96853e17c8154d
-#: ../../../../faunalia/index.rst:19
+#: ../../index.rst:19
 msgid ":doc:`More info <training>`"
 msgstr ""
 
 # 2c65bd5329b9402b8ff3cdd828a1c810
-#: ../../../../faunalia/index.rst:22
+#: ../../index.rst:22
 msgid "Assistenza"
 msgstr ""
 
-# 3d6b78da3f9a4ed8a3c78e9c126a151b
-#: ../../../../faunalia/index.rst:23
+# 0413ebabaffd4d768717bd48f723e880
+#: ../../index.rst:23
 msgid ""
-"Want peace of mind, knowing you can call for help and have your problems "
-"solved?"
+"Vuoi la certezza e la tranquillità di un supporto costante per la soluzione "
+"dei tuoi problemi?"
 msgstr ""
 
 # a2069a3f48204eed95a4f2d71236ff50
-#: ../../../../faunalia/index.rst:25
+#: ../../index.rst:25
 msgid ":doc:`More info <support>`"
 msgstr ""
 
 # b29116aece954590a864d9174f6d8416
-#: ../../../../faunalia/index.rst:28
+#: ../../index.rst:28
 msgid "Sviluppo"
 msgstr ""
 
-# beeb32ab0588461fa0ba1dee16742cf8
-#: ../../../../faunalia/index.rst:29
+# 1e0a20d246044004ba27ccf7bbb05251
+#: ../../index.rst:29
 msgid ""
-"Need a new command, a plugin to speed up your work, a fix of your worst bug?"
+"Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro "
+"o di correggere un bug?"
 msgstr ""
 
 # 2fd4a8b1ef644db38dcea8a1e8a61c03
-#: ../../../../faunalia/index.rst:31
+#: ../../index.rst:31
 msgid ":doc:`More info <dev>`"
 msgstr ""
 
-# eb43e86e26f04b5981a0773800b46daf
-#: ../../../../faunalia/index.rst:34
-msgid "Cosa facciamo"
+# 6b6a7e7df7a64e8eb22e79f72ef832f4
+#: ../../index.rst:34
+msgid "Attività svolte"
 msgstr ""
 
 # 991f0deeb98e44e9aa684ccc0e5e931d
-#: ../../../../faunalia/index.rst:35
+#: ../../index.rst:35
 msgid ":doc:`More info <jobs>`"
 msgstr ""
 
 # 376793a3f58043c9b6f0f0bf22a3efd0
-#: ../../../../faunalia/index.rst:38
+#: ../../index.rst:38
 msgid "Chi siamo"
 msgstr ""
 
 # 8b1d74fd505143fa92f52d472cc10beb
-#: ../../../../faunalia/index.rst:39
+#: ../../index.rst:39
 msgid ":doc:`More info <staff>`"
 msgstr ""

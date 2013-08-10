@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-09 11:08\n"
+"POT-Creation-Date: 2013-08-10 09:25\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,66 +18,57 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 # e4147a488126479887c42ebe2997e327
-#: ../../../../faunalia/support.rst:2
+#: ../../support.rst:2
 msgid "Assistenza"
 msgstr ""
 
-# e565fe6ca2744b14be6d67a3adbfa55c
-#: ../../../../faunalia/support.rst:4
+# 78d8555ca6d64dc485ccdfed4709f286
+#: ../../support.rst:3
 msgid ""
-"Servizi professionali per `QGIS <http://www.qgis.org/en/commercial-support."
-"html>`_ (Desktop, Server e Web Client), `GRASS <http://grass.osgeo.org/"
-"support/commercial-support/>`_, `PostgreSQL <http://www.postgresql.org/"
-"support/professional_support/europe/>`_/`PostGIS <http://postgis.net/"
-"support>`_:"
+"Faunalia è la prima società in Italia a fornire assistenza tecnica per QGIS. "
+"La nostra assistenza assicura, in caso di problemi, un intervento rapido e "
+"un supporto costante per l'immediato ripristino del normale flusso di "
+"lavoro. Inoltre, contribuendo attivamente allo sviluppo del software, "
+"Faunalia è in grado di assicurare, a costi competitivi, interventi di "
+"massima efficacia e la possibilità di personalizzazione delle soluzioni "
+"proposte sia per gli utenti singoli, sia per le organizzazioni pubbliche "
+"private. In particolare, Faunalia garantisce servizi professionali per `QGIS "
+"<http://www.qgis.org/en/commercial-support.html>`_ (Desktop, Server e Web "
+"Client), `GRASS <http://grass.osgeo.org/support/commercial-support/>`_, "
+"`PostgreSQL <http://www.postgresql.org/support/professional_support/europe/"
+">`_/`PostGIS <http://postgis.net/support>`_:"
 msgstr ""
 
 # f085741ebad245a78e054d8936399bf6
-#: ../../../../faunalia/support.rst:6
-msgid "Installazione, configurazione, aggiornamento"
+#: ../../support.rst:6
+msgid "Installazione, configurazione e aggiornamento"
 msgstr ""
 
 # 87388a1633154706b13c18ed33ad5af0
-#: ../../../../faunalia/support.rst:7
+#: ../../support.rst:7
 msgid ""
 "Migrazione da GIS proprietari (es. ArcGIS e Oracle Spatial) a GIS liberi "
 "(es. `QGIS <http://www.qgis.org/>`_ e `PostGIS <http://postgis.net/>`_)"
 msgstr ""
 
 # 7e6a9430a67d4ebcaaecfd9b0a4f50ee
-#: ../../../../faunalia/support.rst:8
+#: ../../support.rst:8
 msgid "Assistenza email e telefonica"
 msgstr ""
 
 # 1e18ab0a307646ca83cc3d12b6518f1b
-#: ../../../../faunalia/support.rst:9
+#: ../../support.rst:9
 msgid "Assistenza on site"
 msgstr ""
 
-# 785f52b8f0e9401992fc80dbbb47d01b
-#: ../../../../faunalia/support.rst:10
-msgid "Abbonamento agli annunci sulle novità importanti"
-msgstr ""
-
 # 4b174ce7f2514316ad43390a97d38bc9
-#: ../../../../faunalia/support.rst:11
+#: ../../support.rst:10
 msgid "Bug fixing su richiesta"
 msgstr ""
 
-# 4969fb54079a44d1aac3255a3c30d5e4
-#: ../../../../faunalia/support.rst:13
+# bf3417e766704b4b8ac5e295057fbc60
+#: ../../support.rst:11
 msgid ""
-"L'assistenza tecnica dà la sicurezza che, in caso di problemi, sia possibile "
-"ottenere una rapida soluzione, riducendo l'impatto sul normale flusso di "
-"lavoro. Faunalia è la prima ditta in Italia a fornire assistenza tecnica per "
-"QGIS, e garantisce una pronta soluzione, in quanto contribuisce attivamente, "
-"già da anni, allo sviluppo del programma."
-msgstr ""
-
-# 2b11ad85773c45dd8975969d299c2311
-#: ../../../../faunalia/support.rst:15
-msgid ""
-"Forniamo soluzioni personalizzate, adatte ai singoli utenti o alle grandi "
-"organizzazioni, sia pubbliche che private, così come a situazioni "
-"intermedie, a costi competitivi."
+"Abbonamento agli annunci sulle novità importanti sui software GIS open "
+"source e liberi"
 msgstr ""

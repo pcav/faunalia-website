@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-09 10:55\n"
+"POT-Creation-Date: 2013-08-10 09:25\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,52 +17,52 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-# 7bef6c408e054bbfb082e3e71e299bca
-#: ../../../../faunalia/jobs.rst:2
-msgid "Referenze"
+# ab38b9b6d1924b2cb0907f188cf2017b
+#: ../../jobs.rst:2
+msgid "Attività svolte"
 msgstr ""
 
 # ee632cfc6bc94e17b40abcbf082bd295
-#: ../../../../faunalia/jobs.rst:5
+#: ../../jobs.rst:5
 msgid "Mappa dei lavori di Faunalia"
 msgstr ""
 
-# cfeb9a33a90d4120a53d4b79b2921818
-#: ../../../../faunalia/jobs.rst:19
-msgid "I clienti più importanti"
+# a4dd5c2238944fbf889fbcfdac51370c
+#: ../../jobs.rst:19
+msgid "Maggiori clienti"
 msgstr ""
 
 # 541297be935c408ab472c2adbf6bca47
-#: ../../../../faunalia/jobs.rst:31
+#: ../../jobs.rst:31
 msgid "Amministrazione pubblica"
 msgstr ""
 
 # 3d663ff2de764559b42734cdb56d8434
-#: ../../../../faunalia/jobs.rst:37
+#: ../../jobs.rst:37
 msgid "Università e centri di ricerca"
 msgstr ""
 
 # 340895fddfeb41a0abaeb26b75ea8bc3
-#: ../../../../faunalia/jobs.rst:43
+#: ../../jobs.rst:43
 msgid "Società"
 msgstr ""
 
 # 2cf4ff73bf384a97b17957cf3e037ee5
-#: ../../../../faunalia/jobs.rst:49
-msgid "Associazioni ed organizzazioni"
+#: ../../jobs.rst:49
+msgid "Associazioni e organizzazioni"
 msgstr ""
 
 # 7e1c52786577482bb298cfd65b4a7c8d
-#: ../../../../faunalia/jobs.rst:55
-msgid "Corsi e Seminari"
+#: ../../jobs.rst:55
+msgid "Corsi e workshop"
 msgstr ""
 
 # a64b7b2ec2e8470da49954558f731d32
-#: ../../../../faunalia/jobs.rst:61
+#: ../../jobs.rst:61
 msgid "Assistenza e sviluppo"
 msgstr ""
 
 # b54ad168450f471a85cd4bd0d97807c2
-#: ../../../../faunalia/jobs.rst:67
-msgid "Le pubblicazioni"
+#: ../../jobs.rst:67
+msgid "Pubblicazioni"
 msgstr ""

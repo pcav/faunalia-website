@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-09 10:55\n"
+"POT-Creation-Date: 2013-08-10 09:25\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,18 +18,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 # 5015a83825f4412bb3cabb161081b985
-#: ../../../../faunalia/404.rst:2
+#: ../../404.rst:2
 msgid "Pagina non trovata"
 msgstr ""
 
 # cfd818ddbace450fa3f18ac464d56ba3
-#: ../../../../faunalia/404.rst:3
+#: ../../404.rst:3
 msgid "La pagina che cerchi non è presente su questo server."
 msgstr ""
 
 # ddd4d2be98794844a5676a305fa27f57
-#: ../../../../faunalia/404.rst:5
+#: ../../404.rst:5
 msgid ""
-"Abbiamo ristrutturato il sito, quindi molte pagine hanno cambiato nome. Per "
-"piacere cerca fra i menu."
+"Abbiamo ristrutturato il sito e molte pagine hanno cambiato nome. Riprova "
+"per cortesia utilizzando per la ricerca i menu della home page."
 msgstr ""
