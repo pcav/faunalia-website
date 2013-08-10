@@ -9,7 +9,7 @@
     Corsi <training>
     Assistenza <support>
     Sviluppo <dev>
-    Referenze <jobs>
+    Attività <jobs>
     Chi siamo <staff>
 
 Corsi
