@@ -30,7 +30,7 @@ Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro o di
 
 :doc:`More info <dev>`
 
-Cosa facciamo
+Attività svolte
 -------------------------------------------------------------------------------
 :doc:`More info <jobs>`
 

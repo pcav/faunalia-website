@@ -58,6 +58,18 @@ compile_messages:
 	done
 	@echo "Messages compiled. Now you can build updated version for html and pdf.";\
 
+merge_messages:
+	@for lang in $(TRANSLATIONS) ;\
+	do \
+		echo "Merging messages for $$lang..."; \
+		for f in `find $(SOURCE)/translated/$$lang -name \*.po -printf "%f\n"`; \
+		do \
+			echo "Merging messages for $$f"; \
+			msgmerge $(SOURCE)/translated/$$lang/$$f $(SOURCE)/translated/pot/$${f%.*}.pot -U; \
+		done; \
+	done
+	@echo "Messages merged. Now you can now update your translations.";\
+
 html:
 	@for lang in $(LANGUAGES);\
 	do \
