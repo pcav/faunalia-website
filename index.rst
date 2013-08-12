@@ -10,7 +10,7 @@
     Assistenza <support>
     Sviluppo <dev>
     Attività <jobs>
-    Chi siamo <staff>
+    Chi siamo <intro>
 
 Sviluppo
 -------------------------------------------------------------------------------
