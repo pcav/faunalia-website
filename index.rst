@@ -29,11 +29,3 @@ Sviluppo
 Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro o di correggere un bug?
 
 :doc:`More info <dev>`
-
-Attività svolte
--------------------------------------------------------------------------------
-:doc:`More info <jobs>`
-
-Chi siamo
--------------------------------------------------------------------------------
-:doc:`More info <staff>`
