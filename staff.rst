@@ -92,7 +92,7 @@ Giovanni Manghi |pt|
 * Biologo specializzato in Conservation Biology
 * Socio e *charter member* della fondazione internazionale `OSGeo - Open Source Geospatial Foundation <http://www.osgeo.org/>`_
 * Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and Open-Source Software Association <http://osgeopt.pt/>`_
-* Membro di `IUCN - The World Conservation Union - *IUCN Small Carnivore Specialist Group*
+* Membro di `IUCN - The World Conservation Union - *IUCN Small Carnivore Specialist Group* <http://www.iucn.org/>`_
 * Otre 7 anni di esperienza sui GIS liberi
 
 * :doc:`Curriculum Vitae (html) <cv_gm_it>`
