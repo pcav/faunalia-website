@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-10 09:25\n"
+"POT-Creation-Date: 2013-08-12 13:22\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,18 +17,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../index.rst:16
-# 74d5fd586c43466aafb1f532dfbf4ead
-msgid "Corsi"
+# b29116aece954590a864d9174f6d8416
+msgid "Sviluppo"
 msgstr ""
 
 #: ../../index.rst:17
-# 1e7ec7a2516c48aa90fbd6563a143a77
-msgid "Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il tuo GIS?"
+# 1e0a20d246044004ba27ccf7bbb05251
+msgid "Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro o di correggere un bug?"
 msgstr ""
 
 #: ../../index.rst:19
-# 80549d17aca94c20ba96853e17c8154d
-msgid ":doc:`More info <training>`"
+# 2fd4a8b1ef644db38dcea8a1e8a61c03
+msgid ":doc:`More info <dev>`"
 msgstr ""
 
 #: ../../index.rst:22
@@ -47,37 +47,17 @@ msgid ":doc:`More info <support>`"
 msgstr ""
 
 #: ../../index.rst:28
-# b29116aece954590a864d9174f6d8416
-msgid "Sviluppo"
+# 74d5fd586c43466aafb1f532dfbf4ead
+msgid "Corsi"
 msgstr ""
 
 #: ../../index.rst:29
-# 1e0a20d246044004ba27ccf7bbb05251
-msgid "Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro o di correggere un bug?"
+# 1e7ec7a2516c48aa90fbd6563a143a77
+msgid "Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il tuo GIS?"
 msgstr ""
 
 #: ../../index.rst:31
-# 2fd4a8b1ef644db38dcea8a1e8a61c03
-msgid ":doc:`More info <dev>`"
-msgstr ""
-
-#: ../../index.rst:34
-# 6b6a7e7df7a64e8eb22e79f72ef832f4
-msgid "Attività svolte"
-msgstr ""
-
-#: ../../index.rst:35
-# 991f0deeb98e44e9aa684ccc0e5e931d
-msgid ":doc:`More info <jobs>`"
-msgstr ""
-
-#: ../../index.rst:38
-# 376793a3f58043c9b6f0f0bf22a3efd0
-msgid "Chi siamo"
-msgstr ""
-
-#: ../../index.rst:39
-# 8b1d74fd505143fa92f52d472cc10beb
-msgid ":doc:`More info <staff>`"
+# 80549d17aca94c20ba96853e17c8154d
+msgid ":doc:`More info <training>`"
 msgstr ""
 

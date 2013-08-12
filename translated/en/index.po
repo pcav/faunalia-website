@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-10 09:25\n"
+"POT-Creation-Date: 2013-08-12 13:22\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,21 +20,22 @@ msgstr ""
 "X-Language: en_GB\n"
 "X-Source-Language: it_IT\n"
 
-# 74d5fd586c43466aafb1f532dfbf4ead
+# b29116aece954590a864d9174f6d8416
 #: ../../index.rst:16
-msgid "Corsi"
-msgstr "Training"
+msgid "Sviluppo"
+msgstr "Development"
 
-# 1e7ec7a2516c48aa90fbd6563a143a77
+# 1e0a20d246044004ba27ccf7bbb05251
 #: ../../index.rst:17
 msgid ""
-"Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il "
-"tuo GIS?"
-msgstr "Need to know, quickly and effectively, how to master your free GIS?"
+"Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro "
+"o di correggere un bug?"
+msgstr ""
+"Need a new command, a plugin to speed up your work, a fix of your worst bug?"
 
-# 80549d17aca94c20ba96853e17c8154d
+# 2fd4a8b1ef644db38dcea8a1e8a61c03
 #: ../../index.rst:19
-msgid ":doc:`More info <training>`"
+msgid ":doc:`More info <dev>`"
 msgstr ""
 
 # 2c65bd5329b9402b8ff3cdd828a1c810
@@ -56,40 +57,19 @@ msgstr ""
 msgid ":doc:`More info <support>`"
 msgstr ""
 
-# b29116aece954590a864d9174f6d8416
+# 74d5fd586c43466aafb1f532dfbf4ead
 #: ../../index.rst:28
-msgid "Sviluppo"
-msgstr "Development"
+msgid "Corsi"
+msgstr "Training"
 
-# 1e0a20d246044004ba27ccf7bbb05251
+# 1e7ec7a2516c48aa90fbd6563a143a77
 #: ../../index.rst:29
 msgid ""
-"Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro "
-"o di correggere un bug?"
-msgstr ""
-"Need a new command, a plugin to speed up your work, a fix of your worst bug?"
+"Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il "
+"tuo GIS?"
+msgstr "Need to know, quickly and effectively, how to master your free GIS?"
 
-# 2fd4a8b1ef644db38dcea8a1e8a61c03
+# 80549d17aca94c20ba96853e17c8154d
 #: ../../index.rst:31
-msgid ":doc:`More info <dev>`"
-msgstr ""
-
-# 6b6a7e7df7a64e8eb22e79f72ef832f4
-#: ../../index.rst:34
-msgid "Attività svolte"
-msgstr ""
-
-# 991f0deeb98e44e9aa684ccc0e5e931d
-#: ../../index.rst:35
-msgid ":doc:`More info <jobs>`"
-msgstr ""
-
-# 376793a3f58043c9b6f0f0bf22a3efd0
-#: ../../index.rst:38
-msgid "Chi siamo"
-msgstr ""
-
-# 8b1d74fd505143fa92f52d472cc10beb
-#: ../../index.rst:39
-msgid ":doc:`More info <staff>`"
+msgid ":doc:`More info <training>`"
 msgstr ""
