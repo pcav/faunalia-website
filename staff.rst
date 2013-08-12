@@ -23,6 +23,16 @@ Le attività di Faunalia si basano su valori per noi fondamentali:
 
 Faunalia è inoltre particolarmente impegnata e diminuire il più possibile l'impatto delle proprie attività sull'ambiente, quindi: riduciamo i nostri spostamenti, privilegiando il lavoro da remoto; utilizziamo, in modo accorto, l’energia elettrica proveniente da fonti rinnovabili certificate; adottiamo cicli di utilizzo dell'hardware più lunghi di quelli standard, e favoriamo il riutilizzo delle singole componenti e il trashware.
 
+I servizi
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+La nostra offerta di servizi è riassumibile in tre aree principali: :doc:`sviluppo <dev>`, :doc:`assistenza <dev>` e :doc:`formazione <training>`.
+
+Faunalia lavora direttamente allo sviluppo del software che utilizza e offre sul mercato, collaborando con i migliori sviluppatori GIS a livello internazionale. Negli anni, abbiamo contribuito allo sviluppo di vari strumenti, fra cui QGIS, GRASS, PostGIS, GDAL/OGR. 
+
+Oltre allo svilluppo software, offriamo, a costi competitivi, attività di intervento rapido e di assistenza continuativa su tutte le problematiche relative ai GIS.
+
+Infine teniamo corsi di formazione teorico-pratica, sia standard, sia personalizzati, presso le nostre sedi e presso i nostri clienti.
+
 Team
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 L'attività di Faunalia si basa su una fitta rete internazionale di collaboratori. Il *core team* è composto da:
