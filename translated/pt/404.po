@@ -16,16 +16,19 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: pt_PT\n"
+"X-Source-Language: it_IT\n"
 
 # 5015a83825f4412bb3cabb161081b985
 #: ../../404.rst:2
 msgid "Pagina non trovata"
-msgstr ""
+msgstr "Página não encontrada"
 
 # cfd818ddbace450fa3f18ac464d56ba3
 #: ../../404.rst:3
 msgid "La pagina che cerchi non è presente su questo server."
-msgstr ""
+msgstr "A página procurada não existe neste servidor."
 
 # ddd4d2be98794844a5676a305fa27f57
 #: ../../404.rst:5
@@ -33,3 +36,5 @@ msgid ""
 "Abbiamo ristrutturato il sito e molte pagine hanno cambiato nome. Riprova "
 "per cortesia utilizzando per la ricerca i menu della home page."
 msgstr ""
+"O site foi restructurado e muitas páginas foram renomeadas. Por favor tente "
+"novamente utilizando o menus da home page e o pesquisador."

@@ -82,6 +82,7 @@ html:
 	done
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html/<language>."
+
 cv:
 	-php /usr/local/src/website_scripts/pdf/multi_generator.php
 
