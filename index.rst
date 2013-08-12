@@ -12,11 +12,11 @@
     Attività <jobs>
     Chi siamo <staff>
 
-Corsi
-===============================================================================
-Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il tuo GIS? 
+Sviluppo
+-------------------------------------------------------------------------------
+Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro o di correggere un bug?
 
-:doc:`More info <training>`
+:doc:`More info <dev>`
 
 Assistenza
 -------------------------------------------------------------------------------
@@ -24,8 +24,8 @@ Vuoi la certezza e la tranquillità di un supporto costante per la soluzione dei
 
 :doc:`More info <support>`
 
-Sviluppo
+Corsi
 -------------------------------------------------------------------------------
-Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro o di correggere un bug?
+Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il tuo GIS? 
 
-:doc:`More info <dev>`
+:doc:`More info <training>`
