@@ -64,18 +64,12 @@ Giovanni Manghi |pt|
    :width: 150 px
    :align: left
 
-Giovanni Manghi è laureato in Biologia presso l'Università di Évora, Portogallo e ha lavorato per molti anni nel campo della conservation biology, in particolare riguardo lo studio e gestione dei piccoli mamiferi carnivori.
-
-Giovanni Manghi ha più di 20 anni di esperienza nell'area dell'IT, dal 2004 abbraccia in modo incondizionato la filosofia FOSS (Free and Open Source Software), utilizzando esclusivamente sistemi GNU/Linux e strumenti GIS Open Source:  QGIS, GRASS, PostgreSQL/PostGIS, Mapserver, p.:apper, OpenLayers, tra gli altri.
-
-Negli ultimi anni è coinvolto personalmente nella divulgazione del Software Libero, compito che lo ha portato a co-organizzare corsi, incontri e congressi, come, per esempio, l'incontro degli utenti QGIS e le "Jornadas de Software Aberto para Sistemas de Informação Geográfica" in Portogallo dove a Faunalia ha partecipato attivamente.
-
-Risiede in Portogallo dal 2002 è socio fondatore di Faunalia nello stesso Paese.
-
-Giovanni Manghi è:
-
-* Socio e charter member della fondazione OSGeo "Open Source Geospatial Foundation"
-* Membro dell'"IUCN Small Carnivore Specialist Group"
+* Fondatore di Faunalia Portogallo
+* Biologo specializzato in Conservation Biology
+* Socio e *charter member* della fondazione internazionale `OSGeo - Open Source Geospatial Foundation <http://www.osgeo.org/>`_
+* Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and Open-Source Software Association <http://osgeopt.pt/>`_
+* Membro di `IUCN - The World Conservation Union - *IUCN Small Carnivore Specialist Group*
+* Otre 7 anni di esperienza sui GIS liberi
 
 * :doc:`Curriculum Vitae (html) <cv_gm>`
 * `Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_
@@ -86,20 +80,17 @@ Giovanni Manghi è:
 * *Skype*: toirao
 * *Hangout*: giovanni.manghi@gmail.com
 
-Vania Neves |pt|
+Vânia Neves |pt|
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 .. rst-class:: thumbnail staff-img
 .. image:: images/vn.jpg
    :width: 150 px
    :align: left
 
-Vânia Neves è laureata in Biologia presso l'Università di Évora, Portogallo. Passati alcuni anni a sviluppare progetti nell'area dell'educazione ambientale ha ottenuto il master in Conservation Biology promosso dall'Università di Évora.
-
-Il progetto di testi del master l'ha portata ad approfondire l'uso degli strumenti GIS, con applicazione alla modellazione e geo-statisctica.
-
-Il contatto con la filosofia FOSS (Free and Open Source Software) l'ha portata a usare esclusivamente software libero. Questa esperienza insieme al crescente interesse per i GIS ha fatto in modo che sia coinvolta direttamente nell'organizzazione di corsi ed eventi relazionati a questi strumenti.
-
-È socia fondatrice e gestore di Faunalia in Portogallo.
+* Fondatrice di Faunalia Portogallo
+* Biologa specializzata in Conservation Biology
+* Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and Open-Source Software Association <http://osgeopt.pt/>`_
+* Otre 7 anni di esperienza sui GIS liberi
 
 * :doc:`Curriculum Vitae (html) <cv_vn>`
 * `Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_
