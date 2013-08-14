@@ -6,9 +6,9 @@
     :maxdepth: 4
     :hidden:
 
-    Corsi <training>
-    Assistenza <support>
     Sviluppo <dev>
+    Assistenza <support>
+    Corsi <training>
     Attività <jobs>
     Chi siamo <intro>
 
