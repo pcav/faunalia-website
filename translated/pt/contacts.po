@@ -6,7 +6,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Faunalia \n"
+"Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-09 10:55\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -16,43 +16,46 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: pt_PT\n"
+"X-Source-Language: it_IT\n"
 
 # 619a19ebe764428999719ac9fe7f58d3
 #: ../../../../faunalia/contacts.rst:2
 msgid "Contatti"
-msgstr ""
+msgstr "Contactos"
 
 # dc777c7f30054c848a5728315ed74d05
 #: ../../../../faunalia/contacts.rst:4
 msgid "aggiungere social networks qui, o nel footer?"
-msgstr ""
+msgstr "aggiungere social networks qui, o nel footer?"
 
 # 2b3674ed489f4a789af38ec7fc841aea
 #: ../../../../faunalia/contacts.rst:7
 msgid "Italia"
-msgstr ""
+msgstr "Itália"
 
 # 5c28a12f0cd1434c8c6a789d92f48837
 #: ../../../../faunalia/contacts.rst:18
 msgid "Piazza Garibaldi 5 56025 Pontedera (PI)"
-msgstr ""
+msgstr "Piazza Garibaldi 5 56025 Pontedera (PI)"
 
 # 3bd03680ec814f28a993c980c2374136
 #: ../../../../faunalia/contacts.rst:21
 msgid "info@faunalia.it"
-msgstr ""
+msgstr "info@faunalia.it"
 
 # b4e7734f408a4214844a01f40005c211
 #: ../../../../faunalia/contacts.rst:23
 msgid "[tel/viber/line] +39-348-3801953"
-msgstr ""
+msgstr "[tel/viber/line] +39-348-3801953"
 
 # ce8c8c0b64954deaa7c3b7036b57ffbc
 #: ../../../../faunalia/contacts.rst:25
 msgid "+39-0587-213742"
-msgstr ""
+msgstr "+39-0587-213742"
 
 # 06deda9eb54944a686bac753959c3ab1
 #: ../../../../faunalia/contacts.rst:28
 msgid "Portogallo"
-msgstr ""
+msgstr "Portugal"

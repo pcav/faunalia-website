@@ -6,7 +6,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Faunalia \n"
+"Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-10 09:25\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -16,11 +16,14 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: pt_PT\n"
+"X-Source-Language: it_IT\n"
 
 # 53903b0dcdd448bcbcfc9f5249e6b640
 #: ../../training.rst:2
 msgid "Corsi"
-msgstr ""
+msgstr "Formações"
 
 # 569fbe419395479fa68a71fa26ab5c35
 #: ../../training.rst:4
@@ -29,6 +32,9 @@ msgid ""
 "liberi, avendo realizzato oltre 150 fra corsi, seminari e workshops, in "
 "italiano, inglese, portoghese e francese."
 msgstr ""
+"Faunalia é a empresa mais experiente do mundo na área da formação sobre SIG "
+"livres, tendo fornecido mais de 150 entre cursos, seminários e workshops, em "
+"Italiano, Inglês, Português e Francês."
 
 # e109329698d54390a2cd6e6bf84ad8d2
 #: ../../training.rst:6
@@ -36,6 +42,8 @@ msgid ""
 "I corsi sono sempre aggiornati, utilizzando le ultime versioni disponibili "
 "di ciascun software."
 msgstr ""
+"As formações são actualizadas e se faz sempre uso das últimas versões "
+"disponíveis de cada software."
 
 # 3e08c83a12ac470fbc3908497d3513b6
 #: ../../training.rst:8
@@ -43,18 +51,24 @@ msgid ""
 "Possiamo realizzare sia corsi standard che personalizzati, sia presso la "
 "nostra sede che nella vostra."
 msgstr ""
+"Realizamos seja formações com um programa padrão, seja personalizadas com um "
+"programa a vossa escolha, na nossa sede ou na vossa."
 
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:10
 msgid ""
-"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
+"annunci di nuovi corsi."
 msgstr ""
+"Junte-se à lista de discussão "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi_pt> para receber os "
+"anúncios dos novos cursos."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:13
 msgid "Perché scegliere i corsi di Faunalia?"
-msgstr ""
+msgstr "Porquê escolher as nossas formações?"
 
 # c063e1ef04554858b03c2c17e18b442f
 #: ../../training.rst:15
@@ -63,6 +77,9 @@ msgid ""
 "gradimento sempre molto alti (fra l'82% e il 93%, sulla base di questionari "
 "anonimi)"
 msgstr ""
+"Possuem uma elevada qualidade didactica: são regularmente avaliadas com "
+"índices de popularidade muito elevados (entre 82% e 93%, com base em "
+"formulários anônimos)"
 
 # 9aecb8cf6656432bbf15c4b9449bbaa7
 #: ../../training.rst:16
@@ -70,6 +87,7 @@ msgid ""
 "Sono completamente interattivi: la teoria è quindi sempre abbinata alla "
 "pratica"
 msgstr ""
+"São completamente interactivos: juntamente à teoria há sempre muita practica"
 
 # f000e97b2abf4634b392ec28e7039c7c
 #: ../../training.rst:17
@@ -79,6 +97,10 @@ msgid ""
 "membro dello *Steering Committee* di QGIS, e Faunalia ha sviluppato parti di "
 "GRASS, PostGIS, GDAL ecc."
 msgstr ""
+"Os professores contribuem desde muito tempo ao desenvolvimento do software "
+"usado nas formações. Paolo Cavallini é membro do  *Steering Committee* de "
+"QGIS, Giovanni Manghi é o tester principal de QGIS e Faunalia desenvolveu "
+"partes dos programas QGIS, GRASS, PostGIS, GDAL, etc."
 
 # 9596721bc5974de490fe070e18d5b240
 #: ../../training.rst:18
@@ -86,6 +108,8 @@ msgid ""
 "Hanno un costo sensibilmente inferiore alle alternative proprietarie "
 "presenti sul mercato"
 msgstr ""
+"Possuem um preço sensivelmente inferior a equivalentes baseadas em software "
+"fechado"
 
 # 635858b71d10443db81b33db572ceec4
 #: ../../training.rst:19
@@ -93,20 +117,22 @@ msgid ""
 "Contribuiscono al miglioramento dei software utilizzati, destinando al loro "
 "sviluppo parte delle quote di iscrizione"
 msgstr ""
+"Contribuem para a melhoria do software usado, atribuindo parte dos custos de "
+"inscrição para o desenvolvimento dos mesmos"
 
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:20
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
-"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
-"<http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
-msgstr ""
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
+"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
+"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+msgstr "NÃO APLICAVEL EM PT."
 
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
 #: ../../training.rst:23 ../../training.rst:215
 msgid "Cartografia con QGIS"
-msgstr ""
+msgstr "Cartográfia com QGIS"
 
 # 80edd07044dc4aebbb245702028598a8
 #: ../../training.rst:25
@@ -115,6 +141,9 @@ msgid ""
 "tematizzarli e produrre mappe di alta qualità grafica ed informativa. ad "
 "elevato contenuto informativo e ad alta qualità grafica"
 msgstr ""
+"Para aprender a instalar e usar QGIS, carregar dados geográficos, aplicar "
+"uma simbologia aos mesmos e produzir mapas de alta qualiadade gráfica e "
+"elevado conteúdo informativo"
 
 # 3abb49f5677b45f9b62422fa3e6d26b9
 #: ../../training.rst:28
@@ -122,6 +151,8 @@ msgid ""
 "Adatto anche a chi ha poca esperienza sui GIS e sulla cartografia. È "
 "necessario avere dimestichezza con l'uso del PC."
 msgstr ""
+"O curso pode ser frequentado até por quem tenha pouca experiência em SIG e "
+"cartografia. É necessário estar à vontade com o uso do computador."
 
 # 0df4bcbac88b4ab781d9de43a538bc7c
 # 2b4af28416b84e8f934ec1d53e670e98
@@ -131,83 +162,85 @@ msgstr ""
 #: ../../training.rst:31 ../../training.rst:73 ../../training.rst:111
 #: ../../training.rst:156 ../../training.rst:189
 msgid "Argomenti principali"
-msgstr ""
+msgstr "Temáticas principais do curso"
 
 # 3abc1e0cc88548a7b85dc43e7151f618
 #: ../../training.rst:33
 msgid "Breve introduzione ai Sistemi Informativi Geografici opensource"
-msgstr ""
+msgstr "Introdução aos sistemas informativos territoriais Open Source"
 
 # 8ca44401dfb44b978be9a75a3bec63b6
 #: ../../training.rst:34
 msgid "Introduzione a QGIS"
-msgstr ""
+msgstr "Introdução ao QGIS"
 
 # 9eff9b5bca0f47dbbeec17c76d9edf6a
 #: ../../training.rst:35
 msgid "Installazione di QGIS nei vari sistemi operativi"
-msgstr ""
+msgstr "Instalação de QGIS em ambiente MS Windows, GNU/Linux e Mac OsX"
 
 # f101d41dea3042dfb205c3a6c02f7c28
 #: ../../training.rst:36
 msgid "Interfaccia utente e criteri di utilizzo"
-msgstr ""
+msgstr "O ambiente de trabalho QGIS"
 
 # eb3c4d24ff65497ca12babd6d3f4329e
 #: ../../training.rst:37
 msgid "Configurazione dell'ambiente di lavoro"
-msgstr ""
+msgstr "Configuração do ambiente de trabalho QGIS"
 
 # 70445496ccfb4e5f905683df99c5a6c3
 #: ../../training.rst:38
 msgid "Progetti"
-msgstr ""
+msgstr "Os projectos"
 
 # e71b37c25fba4b7b94e95bc339cb3a80
 #: ../../training.rst:39
 msgid "Gestione dei plugins"
-msgstr ""
+msgstr "QGIS e as suas extensões (plugins)"
 
 # a309abb66f014b5fa7b3259ea0d3b7ca
 #: ../../training.rst:40
 msgid "I dati geografici vettoriali"
-msgstr ""
+msgstr "Os dados geográficos vectoriais"
 
 # 98259c90cff94be5bbfdfd41d5dad4ae
 #: ../../training.rst:42
 msgid "proprietà, importazione ed esportazione, conversione fra formati"
-msgstr ""
+msgstr "Propriedades, importação e exportação, conversão entre formatos"
 
 # 43eba1253b6142ada894f843c1858316
 #: ../../training.rst:43
 msgid "tematizzazione vettoriale ed etichettatura avanzata"
-msgstr ""
+msgstr "Simbologia vectorial e as etiquetas"
 
 # 10b2614d697545c28d913c54d80eba01
 #: ../../training.rst:44
 msgid "tabelle dati, attributi ed azioni; importazione di dati tabellari"
 msgstr ""
+"Tabelas de dados: atributos e acções. Transformar dados tabelares em dados "
+"espaciais"
 
 # fdc1cc2379d14ad9b5eb4af8fa1421e0
 #: ../../training.rst:46
 msgid "Gestione delle proiezioni"
-msgstr ""
+msgstr "Gestão dos sistemas de coordenadas"
 
 # 1270705ea2b54985943fc95f1fa8deb5
 #: ../../training.rst:47
 msgid "Interfacciamento con GPS"
-msgstr ""
+msgstr "Ferramentas de interface com unidades GPS"
 
 # 9ccaf9f688d14bb181e6be211ed5d22a
 #: ../../training.rst:48
 msgid ""
 "Digitalizzazione dei vettori, vettorializzazione avanzata di tipo \"CAD\""
-msgstr ""
+msgstr "Digitalizar/editar vectores. Ferramentas de edição \"CAD\""
 
 # b4215fd5427749de97e29c69bc7f2f24
 #: ../../training.rst:49
 msgid "I geodatabase e QGIS: PostGIS e SpatiaLite"
-msgstr ""
+msgstr "Usar as bases de dados geográficas: PostGIS e Spatialite"
 
 # 57be23b9716a4315af5022103c4905aa
 #: ../../training.rst:50
@@ -215,31 +248,33 @@ msgid ""
 "Caricare dati dal web: soluzioni proprietarie, libere e standard (Google "
 "Maps, OpenLayers, WMS, WFS, WFS-T, CSW, WPS)"
 msgstr ""
+"Usar dados publicados através servidores de mapas: WMS, WFS, WFS-T, CSW, "
+"WPS, OpenLayers, Google Maps"
 
 # 0807886f9a694b64937b33d9b387c8b0
 #: ../../training.rst:51
 msgid "I dati geografici raster"
-msgstr ""
+msgstr "Os dados geográficos raster"
 
 # ce22142b312540b4ad77215f85cd10d5
 #: ../../training.rst:53
 msgid "caratteristiche e proprietà, tematizzazione"
-msgstr ""
+msgstr "Caracteristicas, propriedades e simbologia"
 
 # de35eec3a95541a9845a13ca2ca68450
 #: ../../training.rst:54
 msgid "gestione dei sistemi di riferimento, mosaici"
-msgstr ""
+msgstr "Gestão dos sistemas de coordenadas e mosaicos"
 
 # b45b00d96b2744789df0ee13c0f63055
 #: ../../training.rst:55
 msgid "georeferenziazione"
-msgstr ""
+msgstr "Georrefenciação raster"
 
 # 4a0403ba6e094a48aba502573e812285
 #: ../../training.rst:57
 msgid "Stampa avanzata"
-msgstr ""
+msgstr "Layouts de impressão"
 
 # 480cf20b8ded4eea82ce5b59eb5c9ba6
 # 680cf41b33214468b1b7041e10eab41b
@@ -249,7 +284,7 @@ msgstr ""
 #: ../../training.rst:60 ../../training.rst:99 ../../training.rst:144
 #: ../../training.rst:177 ../../training.rst:203
 msgid "Durata"
-msgstr ""
+msgstr "Duração"
 
 # 4397a7655dac443fb0f9a06af7ab46cf
 # ed16e6e05c4647d9802487f7c1435d7f
@@ -258,13 +293,13 @@ msgstr ""
 #: ../../training.rst:61 ../../training.rst:101 ../../training.rst:146
 #: ../../training.rst:178
 msgid "Tre giorni *full time*"
-msgstr ""
+msgstr "Três dias (24 horas)"
 
 # bd04cff96a1d4414899ef132ad5ba7bf
 # 84a61dcdc830454e9665797c69bd9891
 #: ../../training.rst:64 ../../training.rst:216
 msgid "Analisi con QGIS"
-msgstr ""
+msgstr "Análise SIG com QGIS"
 
 # 09cf22b48c464b1a8c78d4978ac48bd6
 #: ../../training.rst:66
@@ -275,6 +310,9 @@ msgid ""
 "appreso a gestire con facilità l'ambiente di lavoro di QGIS, e ad effettuare "
 "analisi anche complesse in modo semplice ed intuitivo."
 msgstr ""
+"Para aprender realizar análise e modelação raster e vectorial,juntando às "
+"potencialidades de elaboração SIG de programas como GRASS, SAGA e Orfeo "
+"Toolbox a estabilidade e simplicidade do uso do QGIS."
 
 # 0aae20c6352c4b4e850dbfbcfd804e5c
 #: ../../training.rst:68
@@ -282,48 +320,51 @@ msgid ""
 "Adatto a chi desidera approfondire l'uso analitico e predittivo dei GIS, "
 "avendo già delle nozioni di base."
 msgstr ""
+"O curso destina-se a quem queira aprender utilizar os SIG para realizar "
+"análises predictivas, tendo como pré-requisito ter noções básicas relativas "
+"aos Sistemas Informativos Territoriais."
 
 # 4a29f658a0294d45b8e1f60b8daa3125
 #: ../../training.rst:70
 msgid ""
 "È necessaria una conoscenza base del GIS. È altamente consigliabile una "
 "conoscenza di base di QGIS."
-msgstr ""
+msgstr "É aconselhavel possuir conhecimentos de base de GIS/QGIS."
 
 # 77344998c5a048b48338dc79c5c15ac7
 #: ../../training.rst:74
 msgid "Introduzione ai vari software"
-msgstr ""
+msgstr "Introdução aos software"
 
 # c4ed13fbe08548009c4428f15bebea56
 #: ../../training.rst:76
 msgid "QGIS e i suoi plugins"
-msgstr ""
+msgstr "QGIS e as suas extensões (plugins)"
 
 # cf6d10fce36548ed82f2cab472afff8c
 #: ../../training.rst:77
 msgid "Plugins addizionali"
-msgstr ""
+msgstr "Outros tipos de extensões"
 
 # bca656f6e71a4a8dbbc41240782351af
 #: ../../training.rst:78
 msgid "SEXTANTE"
-msgstr ""
+msgstr "SEXTANTE"
 
 # f92a255d0d69405e90d7c1544c213c44
 #: ../../training.rst:79
 msgid "GRASS"
-msgstr ""
+msgstr "GRASS"
 
 # 88c18f43ad46496290a4e1c20fe9f650
 #: ../../training.rst:80
 msgid "SAGA"
-msgstr ""
+msgstr "SAGA"
 
 # b25800864224416987b5504f5b6f4a26
 #: ../../training.rst:81
 msgid "Orfeo ToolBox (OTB)"
-msgstr ""
+msgstr "Orfeo ToolBox (OTB)"
 
 # 4b047eb08adf4849a3430d12b8c0418e
 #: ../../training.rst:83
@@ -331,11 +372,13 @@ msgid ""
 "Analisi vettoriali di base: dissolve, merge, overlay, gestione delle tabelle "
 "di attributi, ecc."
 msgstr ""
+"Análise vectorial de base: dissolve, merge, gestão das tabelas de atributos, "
+"etc."
 
 # f944cfbed06b475289d1443f094bef57
 #: ../../training.rst:84
 msgid "Correzione di errori topologici e semplificazione dei vettori"
-msgstr ""
+msgstr "Correcção de erros topológicos e simplificação de vectores"
 
 # c0bbc499fd214924ad32d5595348d24f
 #: ../../training.rst:85
@@ -343,69 +386,73 @@ msgid ""
 "Analisi geomorfologica: creazione di modelli digitali del terreno, curve di "
 "livello, mappe di pendenza, esposizione, ombreggiatura"
 msgstr ""
+"Análise geomorfológica: criação de modelos digitais de terreno, curvas de "
+"nível, declives, exposição, relevo sombreado"
 
 # d46e64fc0c7e494b826fb2dc83e7df1d
 #: ../../training.rst:86
 msgid "Interpolazioni"
-msgstr ""
+msgstr "Interpolações"
 
 # 64b6f876f8de4c2f85814f3a2f55de98
 #: ../../training.rst:87
 msgid ""
 "Buffer raster e vettoriali, analisi di distanza, percorsi di minimo costo"
 msgstr ""
+"Buffers de vectores e rasters, análise de distâncias, percursos de custo "
+"mínimo"
 
 # 0226a9e09cf54582af37c17b409aa67f
 #: ../../training.rst:88
 msgid "Riclassificazione dei raster, algebra delle mappe"
-msgstr ""
+msgstr "Reclassificação raster, álgebra de mapas"
 
 # 02f70fd4574144fb881c8f4c614d8d8f
 #: ../../training.rst:89
 msgid "Statistiche zonali"
-msgstr ""
+msgstr "Geoestatística (zonal statistics)"
 
 # 7632347adf1b40a4be11137beb176ec3
 #: ../../training.rst:90
 msgid "Analisi di intervisibilità"
-msgstr ""
+msgstr "Análise de visibilidade"
 
 # 82288a1c1fcd4902bcd03271faf1f067
 #: ../../training.rst:91
 msgid "Analisi idrologiche: calcolo dei bacini"
-msgstr ""
+msgstr "Cálculo de bacias hidrográficas"
 
 # 905adef9ea0541b8a24ef3716c0843bc
 #: ../../training.rst:92
 msgid "Visualizzazioni tridimensionali"
-msgstr ""
+msgstr "Visualização de dados em 3D"
 
 # 3265541e53c44b5bade5647fd652fd59
 #: ../../training.rst:93
 msgid "Analisi multicriterio: mappe di priorità, mappe di rischio"
-msgstr ""
+msgstr "Criação de mapas de risco/probabilidade (análise multicritério)"
 
 # c49dbd7280ca45229b40bae00b85b679
 #: ../../training.rst:94
 msgid "Classificazione automatica dell'uso del suolo, estrazione di elementi"
-msgstr ""
+msgstr "Classificação automática do uso do solo e extracção de elementos"
 
 # 8ab72f30f014423ab5c28b799175ae25
 #: ../../training.rst:95
 msgid "Analisi dei cambiamenti (land use change)"
-msgstr ""
+msgstr "Land use change"
 
 # dc5105cf6d73473e81cf891102c9a019
 #: ../../training.rst:96
 msgid ""
 "Creazione di modelli, tramite interfaccia grafica o testuale; script per "
 "l'automazione di processo"
-msgstr ""
+msgstr "Criação de modelos"
 
 # c34ea912bbb64bff91ad4dbb9534f388
 #: ../../training.rst:104
 msgid "Come creare un plugin in Python per QGIS"
-msgstr ""
+msgstr "Desenvolvimento de extensões para QGIS em Python"
 
 # 29574042eb1941cca194ea8ae8371ded
 #: ../../training.rst:106
@@ -416,6 +463,13 @@ msgid ""
 "breve introduzione a questo linguaggio, i partecipanti saranno guidati passo "
 "a passo nella creazione di un plugin."
 msgstr ""
+"O curso dirige-se a quem pretenda aprender a desenvolver "
+"ferramentas/extensões para QGIS utilizando a linguagem de programação "
+"Python. Tem como finalidade fornecer os conceitos fundamentais e a "
+"experiência prática para o desenvolvimento de ferramentas para QGIS, pelo "
+"que após uma introdução à linguagem de programação, os participantes irão "
+"ser guiados passo a passo na criação de uma extensão para QGIS. O curso será "
+"ministrado em Inglês."
 
 # 2eb613fcabbb41d99cecb822ca686d5c
 #: ../../training.rst:108
@@ -423,51 +477,54 @@ msgid ""
 "È preferibile, ma non obbligatoria, una conoscenza di base di Phyton. È "
 "necessaria una conoscenza di base dei principi di programmazione."
 msgstr ""
+"É preferível ter conhecimentos de linguagem Phyton (embora não obrigatório). "
+"É necessário estar à vontade com o uso do computador, com os princípios de "
+"programação e com a lingua Inglesa."
 
 # 91d6dfef23564525b55bd3c31c7f8df7
 #: ../../training.rst:113
 msgid "Come creare un plugin Python per QGIS"
-msgstr ""
+msgstr "How to create a python plugin for QGIS"
 
 # d25dfa1ed91447c998335bb5d8f0860a
 #: ../../training.rst:115
 msgid "la sintassi Python (indentazione, punto e virgola, ...)"
-msgstr ""
+msgstr "the python syntax (indentation, colon, ...)"
 
 # c8ab81a997d34aa688f01b93bb727174
 #: ../../training.rst:116
 msgid "il mio primo plugin in Python: mostra un messaggio in un riquadro"
-msgstr ""
+msgstr "my first python plugin: display a message box"
 
 # 93b63af743324c8b840d4ce1dd953ede
 #: ../../training.rst:117
 msgid "creare interfacce utente con QtDesigner (.ui)"
-msgstr ""
+msgstr "create GUIs using QtDesigner (.ui)"
 
 # 593423ef53d74d18ba24a7a6544e5ee9
 #: ../../training.rst:118
 msgid "secondo plugin: aggiungere un layer all’area di mappa di QGIS"
-msgstr ""
+msgstr "second plugin: add a layer to QGIS canvas"
 
 # 7e2623faf4b4469baa0a77d9e5cfe623
 #: ../../training.rst:119
 msgid "creare un file di risorse (.qrc)"
-msgstr ""
+msgstr "create a resource file (.qrc)"
 
 # 18d187b3bc5744548fe0c44b9c01840e
 #: ../../training.rst:121
 msgid "Le classi principali delle API Qt"
-msgstr ""
+msgstr "The main QT API classes"
 
 # 4052327b758a4ae9ae83c2d6b525e752
 #: ../../training.rst:123
 msgid "il modulo QTCore (QObject, QString, QAction, QFile, ...)"
-msgstr ""
+msgstr "QTCore module (QObject, QString, QAction, QFile, ...)"
 
 # 223a0da75a144ad7b5509ff9a0f1613d
 #: ../../training.rst:124
 msgid "il modulo QTGui (QWidget, QDialog, QMessageBox, QFileDialog, ...)"
-msgstr ""
+msgstr "QTGui module (QWidget, QDialog, QMessageBox, QFileDialog, ...)"
 
 # a51cf70b91134f05b89a9f62542806d4
 #: ../../training.rst:125
@@ -475,22 +532,24 @@ msgid ""
 "accedere alla API QT tramite Python: PyQT (tipi QT mappati da tipi nativi "
 "Python, parametro di uscita)"
 msgstr ""
+"access QT API through python: PyQT (QT types mapped by python native types, "
+"out parameter)"
 
 # de4ed1caf4014e348812f6c34e946250
 #: ../../training.rst:127
 msgid "Le principali classi API QGIS e le loro relazioni"
-msgstr ""
+msgstr "The main QGis API classes and their relations"
 
 # 589644a49fbb4aff9d31b65a7f4abd6d
 #: ../../training.rst:129
 msgid "costanti e impostazioni: classi QGis e QgsApplication"
-msgstr ""
+msgstr "constants and settings: QGis and QgsApplication classes"
 
 # 10df2e29a00b4a31b47c624877721f2d
 #: ../../training.rst:130
 msgid ""
 "l’interfaccia del plugin: QgisInterface e metodi comuni usati nei plugins"
-msgstr ""
+msgstr "plugin interface: QgisInterface and common methods used in plugins"
 
 # 30e874a45f3a4a1794f6a485b2cd8760
 #: ../../training.rst:131
@@ -498,6 +557,8 @@ msgid ""
 "area mappa, strati e legenda: QgsMapCanvas, QgsMapLayer, QgsLegendInterface, "
 "QgsMapLayerRegistry"
 msgstr ""
+"canvas, layers and legend: QgsMapCanvas, QgsMapLayer, QgsLegendInterface, "
+"QgsMapLayerRegistry"
 
 # af68877cc0264249a01d63ad732e7fef
 #: ../../training.rst:132
@@ -505,11 +566,13 @@ msgid ""
 "strati vettoriali: QgsVectorLayer, QgsVectorDataProvider, QgsField, "
 "QgsFeature, QgsGeometry"
 msgstr ""
+"vector layer: QgsVectorLayer, QgsVectorDataProvider, QgsField, QgsFeature, "
+"QgsGeometry"
 
 # c45d35b8afce4c19946bd75c4582e3b0
 #: ../../training.rst:133
 msgid "strati raster: QgsRasterLayer, QgsRasterDataProvider"
-msgstr ""
+msgstr "raster layer: QgsRasterLayer, QgsRasterDataProvider"
 
 # 67e77c0a4879410bbd2db04ee352af6f
 #: ../../training.rst:134
@@ -517,39 +580,41 @@ msgid ""
 "strumenti di mappa e banda elastica: QgsMapTool, QgsMapToolEmitPoint, "
 "QgsRubberBand"
 msgstr ""
+"map tools and rubber band: QgsMapTool, QgsMapToolEmitPoint, QgsRubberBand"
 
 # 7c036ae33e034c7ebdbdefdbc12fee70
 #: ../../training.rst:135
 msgid ""
 "elementi della mappa e snap: QgsMapCanvasItem, QgsVertexMarker, QgsSnapper"
 msgstr ""
+"canvas items and snapper: QgsMapCanvasItem, QgsVertexMarker, QgsSnapper"
 
 # bf9af90c1bb140eb92247864c82ab0ea
 #: ../../training.rst:136
 msgid ""
 "classi dei sistemi di riferimento: QgsCoordinateReferenceSystem, "
 "QgsCoordinateTransform"
-msgstr ""
+msgstr "CRS classes: QgsCoordinateReferenceSystem, QgsCoordinateTransform"
 
 # 9c1f5f1b386e42dcb8f7a137eb4626d6
 #: ../../training.rst:137
 msgid "classi di utilità: QgsDataSourceURI"
-msgstr ""
+msgstr "util classes: QgsDataSourceURI"
 
 # f04e6130871648dfa0910992c7e58871
 #: ../../training.rst:139
 msgid "Usiamo pyQGIS"
-msgstr ""
+msgstr "Let's use pyQGIS"
 
 # 075b3ec79fd14d3898b8385eb1422dae
 #: ../../training.rst:141
 msgid "esempi di codice"
-msgstr ""
+msgstr "code examples"
 
 # 7cabf0be650643f1b85997a1c5b71df0
 #: ../../training.rst:149
 msgid "Geodatabase: PostgreSQL e PostGIS"
-msgstr ""
+msgstr "Bases de dados geográficas: PostgreSQL e PostGIS"
 
 # ffe653379cbb41ae9749d10917e5caab
 #: ../../training.rst:151
@@ -561,6 +626,12 @@ msgid ""
 "l'interrogazione di dati sia geografici che alfanumerici tramite numerose "
 "applicazioni."
 msgstr ""
+"O curso destina-se a quem precisa de aprender a gerir dados geográficos "
+"complexos seja pela necessidade de efectuar análises aprofundadas seja para "
+"a visualização em tempo real das análises realizadas. O curso permite a "
+"familiarização com a gestão de dados vectoriais através de SQL, com a "
+"importação dos dados geográficos, com a interrogação/pesquisa de dados "
+"geográficos ou alfanuméricos através de numerosas aplicações."
 
 # ed57a47c1a9a400588231c9d574b2fa6
 #: ../../training.rst:153
@@ -568,66 +639,68 @@ msgid ""
 "Preferibile conoscenza del linguaggio SQL. È necessario avere dimestichezza "
 "con l'uso del PC."
 msgstr ""
+"É preferível ter conhecimentos de linguagem SQL. É necessário estar à "
+"vontade com o uso do computador."
 
 # f78db1581f69426490ed88ee2808081f
 #: ../../training.rst:158
 msgid "Introduzione ai sistemi informativi territoriali opensource"
-msgstr ""
+msgstr "Introdução aos sistemas informativos territoriais Open Source"
 
 # 0a7992a961b04403878e1d4b988fe52a
 #: ../../training.rst:159
 msgid "Vantaggi dell'uso di un database nel GIS"
-msgstr ""
+msgstr "Vantagens do uso de uma base de dados no SIG"
 
 # aab8ad2534be4526880723ce445d84b0
 #: ../../training.rst:160
 msgid "Introduzione al RDBMS Open Source PostgreSQL"
-msgstr ""
+msgstr "Introdução ao RDBMS Open Source PostgreSQL"
 
 # e5e06ae2ce984f0aa74bd5589d67bb38
 #: ../../training.rst:161
 msgid "Schemi tabelle, viste, domini, funzioni"
-msgstr ""
+msgstr "Esquemas, tabelas, vistas, domínios, funções"
 
 # f1c390c38b3f430abf9e5003f410008a
 #: ../../training.rst:162
 msgid "Prima configurazione del database"
-msgstr ""
+msgstr "Primeira configuração da base de dados"
 
 # 1584f166f8994c6fa963ccf480a9d29d
 #: ../../training.rst:163
 msgid "Utenti, permessi, accessi"
-msgstr ""
+msgstr "Utentes, permissões, acessos"
 
 # 343593abf64e4df8a35f82e73ea19ae2
 #: ../../training.rst:164
 msgid "Introduzione a PostGIS (standard Open Geospatial Consortium)"
-msgstr ""
+msgstr "Introdução ao PostGIS (standard Open Geospatial Consortium)"
 
 # e967a457f6374ffba5e4b5eeeac0b5f3
 #: ../../training.rst:165
 msgid "Geodatabase: struttura e formato dati"
-msgstr ""
+msgstr "Base de dados geográfica: estrutura e formato dos dados"
 
 # 0b9d13b2e54f4bfba4f72f5680573baf
 #: ../../training.rst:166
 msgid "Creazione di un database geografico"
-msgstr ""
+msgstr "Criação de uma base de dados geográfica e uso do template SIG"
 
 # 21fc9030b3cf4017b60626d0aebdb202
 #: ../../training.rst:167
 msgid "Amministrazione del database e accesso ai dati"
-msgstr ""
+msgstr "Administração da base de dados e acesso aos dados"
 
 # 2cd3211b99074a9799dcf5b6cd9813c7
 #: ../../training.rst:168
 msgid "Amministrazione da riga di comando: psql"
-msgstr ""
+msgstr "Administração da linha de comando: psql"
 
 # 178a84de63474cd68bbe093d85546103
 #: ../../training.rst:169
 msgid "I front-ends grafici: QGIS, PhpPgAdmin, PgAdmin 3, OpenOffice, ecc."
-msgstr ""
+msgstr "Os front-ends gráficos: QGIS, PhpPgAdmin, PgAdmin 3, OpenOffice, etc."
 
 # 5e3d5e500f754810ad6f350974c3ce86
 #: ../../training.rst:170
@@ -635,33 +708,35 @@ msgid ""
 "PostGIS e QGIS: Importazione shapefile, Digitalizzazione, Query, Plugins "
 "avanzati per queries: RT SQL Layer e RT SQL extractor"
 msgstr ""
+"PostGIS e QGIS: Importação de shapefile, Digitalização Queries, Plugins "
+"avançados para queries: RT SQL Layer e RT SQL extractor"
 
 # 12369971f2a44a7ea914f0e3ad4d3c95
 #: ../../training.rst:171
 msgid ""
 "Funzioni avanzate di geodatabase: Funzioni standard OGC, Estensioni di "
 "PostGIS, Conversione tra sistemi di coordinate"
-msgstr ""
+msgstr "Funções avançadas de geoprocessamento"
 
 # 5255669f6a5f4f069c87d2853f543a52
 #: ../../training.rst:172
 msgid "I raster in PostGIS"
-msgstr ""
+msgstr "PostGIS e os rasters"
 
 # 5bce07d0ed7a4e7dba110ac7cf9f18b8
 #: ../../training.rst:173
 msgid "Cenni sulla topologia"
-msgstr ""
+msgstr "Topologia: uma introdução"
 
 # 0b2bb8cbb2ca4588986639e1eee43562
 #: ../../training.rst:174
 msgid "Copia e salvataggio"
-msgstr ""
+msgstr "Backup e restore"
 
 # 411fe27ef8f043c785e283e47ec4dc44
 #: ../../training.rst:181
 msgid "WebMapping con Quantum GIS"
-msgstr ""
+msgstr "WebMapping com QGIS"
 
 # 38d2854ba2e24a43903768f6338bd84b
 #: ../../training.rst:182
@@ -669,6 +744,8 @@ msgid ""
 "Per apprendere in breve tempo il più innovativo e semplice ambiente di "
 "sviluppo per WebGIS e WebMapping, basato su QGIS."
 msgstr ""
+"Para aprender em pouco tempo o mais inovador e simples ambiente de "
+"desenvolvimento para WebMapping, baseado no software QGIS."
 
 # 3a9a582d601549c6b9a2d41ed8d11ce1
 #: ../../training.rst:184
@@ -677,6 +754,8 @@ msgid ""
 "QGIS Desktop, senza necessità di complesse operazioni di configurazione del "
 "loro aspetto grafico."
 msgstr ""
+"Permite publicar na web os mapas criados através QGIS Desktop, sem "
+"necessidades de complexas operações de configuração."
 
 # ae866d822ef14d4a83eb71ada75c8f88
 #: ../../training.rst:186
@@ -685,196 +764,198 @@ msgid ""
 "consigliabile una conoscenza di base di QGIS. È necessario avere piena "
 "dimestichezza con l'uso del PC."
 msgstr ""
+"O curso pode ser frequentado por quem tenha noções de base de SIG e "
+"cartografia. É necessário estar à vontade com o uso do computador."
 
 # 45051c3369d84d899ddf3f5c4166ef1b
 #: ../../training.rst:191
 msgid "Gli standard *Open Geospatial Consortium* per la pubblicazione webGIS"
-msgstr ""
+msgstr "Os padrões do *Open Geospatial Consortium* para a publicação de WebGIS"
 
 # 463cd047ab6445fd9f21e856683776e8
 #: ../../training.rst:193
 msgid "WMS, WFS, WFS-T, WCS, WPS"
-msgstr ""
+msgstr "WMS, WFS, WFS-T, WCS, WPS"
 
 # 24027e59f47c4c2ab0d450c986ff5a5e
 #: ../../training.rst:195
 msgid "Installazione e configurazione di QGIS server"
-msgstr ""
+msgstr "Instalação e configuração de QGIS server"
 
 # bb2113b1835848fdb40163c607d30329
 #: ../../training.rst:196
 msgid "Pubblicare WMS e WFS"
-msgstr ""
+msgstr "Publicar serviços WMS e WFS"
 
 # 6c45c3bf7c4240ba9fb38258b4fa0418
 #: ../../training.rst:197
 msgid "Editing online: WFS-T"
-msgstr ""
+msgstr "Edição online: WFS-T"
 
 # deff0d9de79b4f04ab4522342e28c955
 #: ../../training.rst:198
 msgid "Installazione e configurazione di QGIS web client"
-msgstr ""
+msgstr "Instalação e configuração de QGIS web client"
 
 # 82e3bb5c83314d8da6314e6b9222d4c9
 #: ../../training.rst:199
 msgid "Installazione e configurazione di LizMap"
-msgstr ""
+msgstr "Instalação e configuração de LizMap"
 
 # f55360fa238e46dfa8d4d7e7520aa6d4
 #: ../../training.rst:200
 msgid "Criteri di ottimizzazione"
-msgstr ""
+msgstr "Optimização dos dados"
 
 # ba3fdc3d2ad640b29794101635a439cb
 #: ../../training.rst:205
 msgid "Due giorni *full time*"
-msgstr ""
+msgstr "Dois dias (16 horas)"
 
 # 60ceb7adc7744dfdba3c604cf37e7978
 #: ../../training.rst:208
 msgid "Calendario"
-msgstr ""
+msgstr "Calendário"
 
 # ef91c79029d24058aa6f369f43989746
 #: ../../training.rst:210
 msgid "can we add an \"export as calendar\" link?"
-msgstr ""
+msgstr "can we add an \"export as calendar\" link?"
 
 # fd32804ea5bd4e2cbcc55e2215916841
 #: ../../training.rst:213
 msgid "Corso"
-msgstr ""
+msgstr "Formação"
 
 # 082c1727399c46559630c90ca6bdb646
 #: ../../training.rst:213
 msgid "Date e durata"
-msgstr ""
+msgstr "Data e duração"
 
 # e11809ab1d4a491b988a741ed5e19169
 #: ../../training.rst:213
 msgid "Scadenza iscrizione"
-msgstr ""
+msgstr "Data limite para inscrição"
 
 # 5264f422ac9d4034a6d68c5b38458a39
 #: ../../training.rst:215
 msgid "25-27 Settembre"
-msgstr ""
+msgstr "25-27 Setembro"
 
 # 1477ed8907e24345b0045abe4fb7372a
 #: ../../training.rst:215
 msgid "10 Settembre"
-msgstr ""
+msgstr "10 Setembro"
 
 # 789f35850632463296adba2404463064
 #: ../../training.rst:216
 msgid "16-18 Ottobre"
-msgstr ""
+msgstr "16-18 Outubro"
 
 # 01f98806e0874655a3cf578f9a0d6623
 #: ../../training.rst:216
 msgid "1 Ottobre"
-msgstr ""
+msgstr "1 Outubro"
 
 # 93622693fbc3409ea870fc8d6b853c71
 #: ../../training.rst:217
 msgid "Creare un plugin in Python per QGIS"
-msgstr ""
+msgstr "Desenvolvimento de extensões para QGIS em Python"
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
 #: ../../training.rst:217
 msgid "13-15 Novembre"
-msgstr ""
+msgstr "13-15 Novembro"
 
 # ac7a57cb7dc44f15b51b36d55e91b27c
 #: ../../training.rst:217
 msgid "28 Ottobre"
-msgstr ""
+msgstr "28 Outubro"
 
 # 7a7ec0040dc243a29b9a554247e0fe1b
 #: ../../training.rst:218
 msgid "Geodatabase (PostgreSQL / PostGIS)"
-msgstr ""
+msgstr "Bases de dados geográficas: PostgreSQL e PostGIS"
 
 # f7db670e6b22473f88e2168c85cf783a
 #: ../../training.rst:218
 msgid "11-13 Dicembre"
-msgstr ""
+msgstr "11-13 Dezembro"
 
 # 98d67ad8d1324a71a5b91e8e65dc3716
 #: ../../training.rst:218
 msgid "25 Novembre"
-msgstr ""
+msgstr "25 Novembro"
 
 # 660512ec03ae4bc59a877c8ec19a3162
 #: ../../training.rst:219
 msgid "Web Mapping con QGIS"
-msgstr ""
+msgstr "WebMapping com QGIS"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
 #: ../../training.rst:219
 msgid "23-24 Gennaio"
-msgstr ""
+msgstr "23-24 Janeiro"
 
 # 2837589f472d43e6b2fcc68aa9118522
 #: ../../training.rst:219
 msgid "10 Gennaio"
-msgstr ""
+msgstr "10 Janeiro"
 
 # 2b01fbfd1fbb417da072f5b12ca3fae2
 #: ../../training.rst:223
 msgid "Costi"
-msgstr ""
+msgstr "Custos"
 
 # 4868573d5e6e42e294a4f6e77e566933
 #: ../../training.rst:225
 msgid ""
 "Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA "
 "(meno la ritenuta d'acconto, da versare 323,41 €)"
-msgstr ""
+msgstr "Não aplicável em pt_pt"
 
 # a3e955054ac444d8bf2ab1805f051ce3
 #: ../../training.rst:226
 msgid ""
 "Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA per "
 "aziende/partite IVA (meno la ritenuta d'acconto, da versare 272,88 €)"
-msgstr ""
+msgstr "Não aplicável em pt_pt"
 
 # c317ea377fba42d99ac33d7b4be557ba
 #: ../../training.rst:227
 msgid "Sconto 5% per l'iscrizione simultanea a più corsi"
-msgstr ""
+msgstr "Desconto 40% para estudantes ou desempregados comprovados"
 
 # 9da0e2efb514451bacaad5b961947b64
 #: ../../training.rst:230
 msgid "Logistica"
-msgstr ""
+msgstr "Logistica"
 
 # c6486a10e57d437c9f251d7264fee4d8
 #: ../../training.rst:232
 msgid ""
-"Sede: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
-"page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
-"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
-"pubblici (treno ed aereo)"
-msgstr ""
+"Sede: Pontedera (PI), presso `Pont-Tech "
+"<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
+"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
+"facilmente raggiungibili con mezzi pubblici (treno ed aereo)"
+msgstr "Não aplicável em pt_pt"
 
 # 6ec8651bb26c4281a98f2bf149dff974
 #: ../../training.rst:233
 msgid ""
-"`Dettagli sulla città <http://www.comune.pontedera.pi.it/cittadino/"
-"Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluse strutture "
-"ricettive)"
-msgstr ""
+"`Dettagli sulla città "
+"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive)"
+msgstr "Não aplicável"
 
 # 006cf21f616247a8b9e8617563a76b7b
 #: ../../training.rst:234
 msgid ""
 "B&B `Il Piccolo <http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per "
 "camere singole/doppie/triple"
-msgstr ""
+msgstr "Não aplicável em pt_pt"
 
 # e11809ab1d4a491b988a741ed5e19169
 #: ../../training.rst:237
 msgid "Modulo di iscrizione"
-msgstr ""
+msgstr "Para inscrições utilize o seguinte formulário"
