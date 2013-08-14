@@ -12,6 +12,12 @@
     Attività <jobs>
     Chi siamo <intro>
 
+
+Faunalia
+===========================================================================
+Sistemi informativi territoriali liberi ed open source
+
+
 Sviluppo
 -------------------------------------------------------------------------------
 Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro o di correggere un bug?
