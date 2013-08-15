@@ -1,0 +1,578 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Faunalia
+# This file is distributed under the same license as the Faunalia package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Faunalia \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-14 20:47\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:3
+# a5444000dc3849ed8b3bffa009e781ff
+msgid "History"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:6
+# 01e2ea4218db4b3fa5c5647f4c992a97
+msgid "v0.2.7"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:7
+# 36039ad36a0340859abacddd837eec71
+msgid "Add custom nav bar links. (`@russell`_) Completes [#34](https://github.com/ryan-roemer/sphinx-bootstrap-theme/issues/34)."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:9
+# 53994c9c9c3f423796c1a48ea1763f4a
+msgid "Fix wrapping of line numbers in code includes. (`@russell`_) Fixes [#35](https://github.com/ryan-roemer/sphinx-bootstrap-theme/issues/35)."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:11
+# a9f3049912be4e399dd88842eabefdb0
+msgid "Truncate long page titles in navigation bar. (`@aababilov`_) Fixes [#27](https://github.com/ryan-roemer/sphinx-bootstrap-theme/issues/27)."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:15
+# 208a9a2875f24fc2a68b29b094f2f173
+msgid "v0.2.6"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:16
+# 4cdf8ab8d2aa48c7b093cee331c0b873
+msgid "Use network path for Bootswatch (`@nail`_)"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:17
+# 0b60a43b4d8248c4a729d26cd8e3a772
+msgid "Switch from distribute to setuptools. (Suggested by `@thedrow`_)"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:20
+# 37c156d370e541468c4e6f03c3d4761e
+msgid "v0.2.5"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:21
+# c6cfb1cb58fe44b784e3baa5d0c42231
+msgid "Search page styling. (`@russell`_)"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:24
+# 517e915620754bc6b8e1928dfdfcc741
+msgid "v0.2.4"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:25
+# f19c1b9f36bf42069016969a6ae9fd4d
+msgid "Adjust the max width of field lists. (`@russell`_)"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:26
+# 9739918f58bd43239d9f980f0dbad29e
+msgid "Update to Bootstrap v2.3.2."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:27
+# 1f6279b333bc46c3a9c759f8b2e0c139
+msgid "Navbar search box now uses bootstrap search-query class. (`@russell`_)"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:28
+# dbfc5036f1834a70a4eea61c99891389
+msgid "Field-list tables now have an inherited width. (`@russell`_)"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:31
+# 0cecdddd027f46f2848f5dd4b2a91b50
+msgid "v0.2.3"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:32
+# efc9329facdb476ba7479e170367b46e
+msgid "Put navbar within a `container`. (`@inducer`_)"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:33
+# 8aa94cbbd2e040cca08608ce67606c74
+msgid "Add `navbar_site_name` for renaming site nav. tab. (Suggested by `@inducer`_)"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:36
+# 5665a03457bd431b92122d907a4aa017
+msgid "v0.2.2"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:37
+# 2bdfee54181b463ab6d57c1960538847
+msgid "Better literal markup handling for Bootstrap code formatting. (`@russell`_)"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:38
+# b025ea138b6f4e4389314d37dffd9b0f
+msgid "Scroll window when jumping to an anchor. (`@russell`_)"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:41
+# 5be5afb1e21c4187b5cd4c145fe1dac7
+msgid "v0.2.1"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:42
+# b0857de759064ec3972c708c8165b473
+msgid "Fix code styling collision for cross references and inline code blocks. (`@russell`_)"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:46
+# 77ed4a52d0394ad8a43cd4091e39cfba
+msgid "v0.2.0"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:47
+# b6e1df589d314795a98182c2d573b8c2
+msgid "Update to Bootstrap v2.3.1."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:48
+# f72613fa5fa14a80af564412657995da
+msgid "Add ``bootswatch_theme`` option for `Bootswatch <http://bootswatch.com>`_ CSS theme support. (`@zyga`_)"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:52
+# 389ebf737dda487991987266685c2540
+msgid "v0.1.8"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:53
+# f1cb3df7cc474c29a50ad3bb46487124
+msgid "Add ``globaltoc_includehidden`` option."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:56
+# 52aa21ef253a40e4bd49c61ce21d3aab
+msgid "v0.1.7"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:57
+# 4c9adcb4175c4e709d5d2f244ecf78d2
+msgid "Add Python 3 support. (`@zyga`_)"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:58
+# 9c2281af8f7b4e54868b64d2f6946f2a
+msgid "Add support for ``navbar_title`` theme configuration. The documentation originally stated that ``html_short_title`` was supported for overriding the navbar title (brand), but this never actually worked. (Thanks to Tim Kedmenec for pointing this out)."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:64
+# 7125e0fd43db4bed9a62f0f338e98c24
+msgid "v0.1.4"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:65
+# 404ae0c3e985491297f590434681cb8d
+msgid "Remove the ``Site`` nav button if no other pages."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:66
+# 4d624f2725cc46d79712649e1f634ade
+msgid "Added jQuery v1.9.1 with ``noConflict()`` to allow underlying Sphinx to use whatever jQuery it wants."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:68
+# d206679de2d148388e324e53848f1460
+msgid "Update to Bootstrap v2.3.0."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:69
+# e5d2d3e4783b418cad39aeeb1eeca8dd
+msgid "Fix multi-word Bootstrap-styled ``code`` elements."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:72
+# 01a18fe192ba49b8a556955d289ea54c
+msgid "v0.1.3"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:73
+# f4e88ad09d6f4017875485ab951327a6
+msgid "Convert inline code to Bootstrap-styled ``code`` elements."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:76
+# 804035fea0664fc0a463913dce0ed777
+msgid "v0.1.2"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:77
+# 88468620e62b445ebab24b432f12efe1
+msgid "Add ``globaltoc_depth`` theme option."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:78
+# d1f3630de4e0483a8c01e8156e4de20c
+msgid "Add Bootstrap alert styling to \"note\", \"warning\" Sphinx directives."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:81
+# c2fbdecee7fa429ba42ed541ebea73bc
+msgid "v0.1.1"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:82
+# f910dae19c9949c38e8b293cc058d9ff
+msgid "Add Bootstrap table styling."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:85
+# bf760413c9dc4bd7b33e8358f527b65f
+msgid "v0.1.0"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:86
+# d7f1de78cd094ef08195e9cb7e3968ea
+msgid "Add support for deployment via PyPI."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:89
+# 198f223b8f724c67b378787c25333f40
+msgid "v0.0.6"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:90
+# c237643a05c240a09ad94d22ef1f6088
+msgid "Fix logo display in navbar."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:93
+# b39c96aea1ec474c9f69b65c482be815
+msgid "v0.0.4"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:94
+# 94896c87c1324e2db853d9f40b2164d5
+msgid "Get mobile (iPhone) viewport and nav menus working."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:95
+# 8442e85d240e4c18ae1b3ad7dbd85ae0
+msgid "Add new theme options ``navbar_class``, ``source_link_position``."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:98
+# 0daede69d2ab4a2ea8b68ee6eb7c6306
+msgid "v0.0.3"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:99
+# c00a428022bf4e76b58e07e95b1d891e
+msgid "Update to Bootstrap v2.2.1."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:100
+# dc3e60dcb83d4f07ba370e5bd65290a3
+msgid "Switch to responsive CSS."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:101
+# f1e4702bcd394176b9245715ed48f1d2
+msgid "Make navbar menus do real dropdowns recursively."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:104
+# 47a402324d4c47e991e395b3e2f52f2a
+msgid "v0.0.2"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:105
+# df0966c38bef4e599f180155798ae51b
+msgid "Update to Bootstrap v2.0. (`@oscarcp`_)"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:108
+# 51699cfd66254b7db44fdf7501e3c493
+msgid "v0.0.1"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:109
+# 8de72bdbe3d44ff88b43616e35233b67
+msgid "Original theme based on Bootstrap v1.4.0."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:3
+# 5037b2bcea314191b153e4169600731e
+msgid "Sphinx Bootstrap Theme"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:5
+# b55f911e56c84c339a21a3ff6e97e422
+msgid "This Sphinx_ theme_ integrates the Twitter Bootstrap_ CSS / JavaScript framework with various layout options, hierarchical menu navigation, and mobile-friendly responsive design. It is configurable, extensible and can use any number of different Bootswatch_ CSS themes."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:18
+# 3b565d4830cc4b1a808c2c3766d127b6
+msgid "Introduction and Demos"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:19
+# 82980036b33544d4abe4f03000658abf
+msgid "The theme is introduced and discussed in the following posts:"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:21
+# b6abb9e1d12d4b64acf5a476794c46dd
+msgid "12/09/2011 - `Twitter Bootstrap Theme for Sphinx <http://loose-bits.com/2011/12/09/sphinx-twitter-bootstrap-theme.html>`_"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:22
+# 50fd05ecb35e4a7b88c2bb58a93995e0
+msgid "11/19/2012 - `Sphinx Bootstrap Theme Updates - Mobile, Dropdowns, and More <http://loose-bits.com/2012/11/19/sphinx-bootstrap-theme-updates.html>`_"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:23
+# 6f5c1d6f98644d91bf52d622fb3a9509
+msgid "2/12/2013 - `Sphinx Bootstrap Theme 0.1.6 - Bootstrap and Other Updates <http://loose-bits.com/2013/02/12/sphinx-bootstrap-theme-updates.html>`_"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:24
+# 132b8f4639e14449b5df1b78d5f33eaa
+msgid "4/10/2013 - `Sphinx Bootstrap Theme 0.2.0 - Now with Bootswatch! <http://loose-bits.com/2013/04/10/sphinx-bootstrap-theme-bootswatch.html>`_"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:26
+# 58a5d8b291534a6ab18eb031ac3e0e50
+msgid "Examples of the theme in use for some public projects:"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:28
+# 029417e38fa94ceaa1d04a891f1be197
+msgid "`Sphinx Bootstrap Theme`_: This project, with the theme option ``'bootswatch_theme': \"united\"`` to use the \"United_\" Bootswatch_ theme."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:30
+# 504c0df6fb42494c988b9f4505f15e92
+msgid "`Django Cloud Browser`_: A Django reusable app for browsing cloud datastores (e.g., Amazon Web Services S3)."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:33
+# a0fd75d72291415fa682b79f14218ddc
+msgid "The theme demo website also includes an `examples page`_ for some useful illustrations of getting Sphinx to play nicely with Bootstrap (also take a look at the `examples source`_ for the underlying reStructuredText)."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:46
+# c56c299f6ba7471da12dec5fafdb708e
+msgid "Installation"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:47
+# 575b708f28944f2390eb885f56162621
+msgid "Installation from PyPI_ is fairly straightforward:"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:49
+# eb8de203ac8046c0b6a9ef42c49f7ad5
+msgid "Install the package::"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:53
+# a33c830fb7e84d5880919e7fae159fa4
+msgid "Edit the \"conf.py\" configuration file to point to the bootstrap theme::"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:66
+# 4594f001eec845338907a5fc6d764b8d
+msgid "Customization"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:67
+# fdc8821f11ed4ce19af8568f701bb41d
+msgid "The can be customized in varying ways (some a little more work than others)."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:70
+# 0ee017baad184033b83fefe3fdcbef00
+msgid "Theme Options"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:71
+# 4c5f3603a1b04dc3b45c014ce6108dc6
+msgid "The theme provides many built-in options that can be configured by editing your \"conf.py\" file::"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:125
+# 98968f5c87bc4d2e80fa95951c0897ef
+msgid "Note for the navigation bar title that if you don't specify a theme option of ``navbar_title`` that the \"conf.py\" ``project`` string will be used. We don't use the ``html_title`` or ``html_short_title`` values because by default those both contain version strings, which the navigation bar treats differently."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:131
+# 13aa0762f11646868c9bce7ef1f0b8bc
+msgid "Bootswatch"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:132
+# 8f5d2086dd2449968f0b212c0d590fc5
+msgid "The theme option ``bootswatch_theme`` integrates (the totally awesome) Bootswatch_ library, so you can choose between the various themes. The themes, however, are served off a CDN, not from static files, which means that if you are offline, you will see \"normal\", un-themed Bootstrap for your documentation."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:138
+# 84ff3c9c952e4328aa3666196a6b0790
+msgid "This seemed like the best compromise between the size issues with statically including all of the various Bootswatch_ themes and actually making them available online."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:143
+# e9687e3061d24ebfaa815757dd05db44
+msgid "Extending \"layout.html\""
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:144
+# 6dc6b8ef0a7f4dc48df14ecda0c34ea8
+msgid "As a more \"hands on\" approach to customization, you can override any template in this Sphinx theme or any others. A good candidate for changes is \"layout.html\", which provides most of the look and feel. First, take a look at the \"layout.html\" file that the theme provides, and figure out what you need to override."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:150
+# 205a9531b4414bec9df1d3c786abe960
+msgid "Then, create your own \"_templates\" directory and \"layout.html\" file (assuming you build from a \"source\" directory)::"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:156
+# 7c2722be9bb241a29aaafe973ad325d2
+msgid "Then, configure your \"conf.py\"::"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:160
+# 3b3fce022e51442aadb66323d7203385
+msgid "Finally, edit your override file \"source/_templates/layout.html\"::"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:173
+# a7b39192db23497ead22ec532da5744e
+msgid "Adding Custom CSS"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:174
+# 6674cbc5686b444ca5c7507106cfe7c5
+msgid "Alternately, you could add your own custom static media directory with a CSS file to override a style, which in the demo would be something like::"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:180
+# be08a8b387f1449391cfed36e037eed4
+msgid "Then, in \"conf.py\", edit this line::"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:184
+# b8ce3f477602400198ba607443b5e82e
+msgid "You will also need the override template \"source/_templates/layout.html\" file configured as above, but with the following code::"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:193
+# abdefc0798f0480e851a9ebdb742d31b
+msgid "Then, in the new file \"source/_static/my-styles.css\", add any appropriate styling, e.g. a bold background color::"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:202
+# b3b2ceed35134733874670b4022a6214
+msgid "Theme Notes"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:204
+# 259459a0076f4bc08ffae4d758931949
+msgid "Sphinx"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:205
+# 9a5a1b4a6d364413b5771bb4bbebd00a
+msgid "The theme places the global TOC, local TOC, navigation (prev, next) and source links all in the top Bootstrap navigation bar, along with the Sphinx search bar on the left side."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:209
+# 3a944f03cde14969b7ebe4cbabcd0406
+msgid "The global (site-wide) table of contents is the \"Site\" navigation dropdown, which is a configurable level rendering of the ``toctree`` for the entire site. The local (page-level) table of contents is the \"Page\" navigation dropdown, which is a multi-level rendering of the current page's ``toc``."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:216
+# 5e2052c399b24771bc63655ab2d0b3e6
+msgid "Bootstrap"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:217
+# cf3faf454d2c4b5caceb7964fc16c786
+msgid "The theme uses Twitter Bootstrap v2.3.1 and jQuery v.1.9.1. As the jQuery that Bootstrap wants can radically depart from the jQuery Sphinx internal libraries use, the library from this theme is integrated via ``noConflict()`` as ``$jqTheme``."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:222
+# e9eeb9f28aa342c5a85a4466755eb2da
+msgid "You can override any static JS/CSS files by dropping different versions in your Sphinx \"_static\" directory."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:227
+# f4b4cebe90484cb493601913e837f5c3
+msgid "Contributing"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:228
+# e32398935d39424a8033d03c04e74f28
+msgid "Contributions to this project are most welcome. Please make sure that the demo site builds cleanly, and looks like what you want. First build the demo::"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:233
+# 4d2ef166e5fd4fe693fd03b33c511ac3
+msgid "Then, view the site in the development server::"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:237
+# 33c3bb2126f14553bc73752bfd4774fe
+msgid "Also, if you are adding a new type of styling or Sphinx or Bootstrap construct, please add a usage example to the \"Examples\" page."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:242
+# 1c15713115674831a764bb7a33e495ec
+msgid "Licenses"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:243
+# 00f26d9c97904f7da60d609b1d18ef83
+msgid "Sphinx Bootstrap Theme is licensed under the MIT_ license."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/README.rst:245
+# 442083cf6a0443aebb5f8f74316ca3a0
+msgid "Twitter Bootstrap is licensed under the Apache_ license."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/TODO.rst:3
+# 46d3d8bc505645e087b8a3e055cd6980
+msgid "Future Work"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/TODO.rst:6
+# 6b92d2c3aa6749a9b66ce2b97b39fa99
+msgid "CSS / Layout"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/TODO.rst:7
+# afa67828242944389bb0619034799618
+msgid "Footnotes: Need much better styling. Maybe switch to tooltips."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/TODO.rst:8
+# d473391038c94f1cb66df782b254659c
+msgid "Optionally move the ``localtoc`` from the top navigation bar into it's own navbar below the page title."
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/TODO.rst:12
+# f6508ffc40344e7cb8c2d779bac3e40a
+msgid "Infrastructure"
+msgstr ""
+
+#: ../../build/sphinx-bootstrap-theme/TODO.rst:13
+# 70acf102495741489529a2e06ed10b18
+msgid "Re-enable the downloads."
+msgstr ""
+

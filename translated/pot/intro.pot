@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-12 13:22\n"
+"POT-Creation-Date: 2013-08-14 20:47\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,327 +16,352 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../staff.rst:2
-# 57042a2ccf1944a3940a1bbecc2e241e
+#: ../../intro.rst:2
+# 9f9b90e97b3548c29d63b47e26ae2cd1
 msgid "Chi siamo"
 msgstr ""
 
-#: ../../staff.rst:4
-# 6fe80d00aacf473c8a223b255f816098
+#: ../../intro.rst:4
+# f4d6dffe2bfa4b9ca149c04a0f76d12f
 msgid "Faunalia è una società che opera da più di 10 anni nell’ambito dei GIS, i sistemi informativi territoriali, con software libero e open source. I nostri clienti sono pubbliche amministrazioni, aziende private, associazioni. Faunalia ha uffici in Italia, a Pontedera (Pisa), e in Portogallo, a Évora, e opera in tutto il mondo."
 msgstr ""
 
-#: ../../staff.rst:7
-# 5b200ec4a3a4454b8c4480d877edd2d1
+#: ../../intro.rst:7
+# b63717a552e840d8a56a9913349a6679
 msgid "La nostra visione"
 msgstr ""
 
-#: ../../staff.rst:9
-# 68ee4d1617054a4db1fdfe74fb47fdb2
+#: ../../intro.rst:9
+# 2cd187b27f9646cea7f6e86b0ebe31bf
 msgid "Le nostre attività si basano sulla convinzione che il software libero e open source sia la scelta migliore e più efficace, in particolare in relazione ai GIS. Utilizzare un GIS open source e libero offre numerosi vantaggi rispetto alle alternative proprietarie presenti sul mercato, sia per il cliente, sia per lo sviluppo sociale complessivo. Consente innanzitutto un controllo pieno e trasparente del software utilizzato e quindi una totale indipendenza del cliente rispetto ai fornitori. Da un punto di vista tecnico, i GIS open source consentono la massima flessibilità e personalizzazione delle soluzioni sviluppate e un costante aggiornamento del software, garantito dal lavoro di una rete di sviluppatori internazionale. Inoltre, rispetto ai sistemi proprietari, assicurano la massima persistenza dei dati geografici nel tempo e, grazie all’impego di standard aperti, un’alta interoperabilità tra sistemi informativi."
 msgstr ""
 
-#: ../../staff.rst:13
-# 32c6b33271d84475850ee5e73258f8d5
+#: ../../intro.rst:13
+# 95402b798a324a1ea67d5887140d9489
 msgid "I software GIS hanno un costo complessivo più basso dei software proprietari e l’assenza di costi di licenza d’uso rimuove una barriera importante all’ingresso che favorisce una adozione maggiore, presso una più ampia varietà di utilizzatori e sempre legale. Utilizzare GIS open source significa incentivare il lavoro di sviluppatori locali, arricchendo il territorio, incrementando le competenze a livello nazionale, favorendo una maggiore competizione e quindi offrendo maggiori tutele per il cliente rispetto ad offerte di tipo monopolistico."
 msgstr ""
 
-#: ../../staff.rst:17
-# 7e06819c7336461fa92f15a01a9b348c
+#: ../../intro.rst:17
+# 899a148a013e41b09e7126c7f0f43850
 msgid "I nostri valori"
 msgstr ""
 
-#: ../../staff.rst:18
-# 7ddd3f6a951849b099b02820c183e23a
+#: ../../intro.rst:18
+# 95b560b67c1f4d2a8fb8b46482466b3e
 msgid "Le attività di Faunalia si basano su valori per noi fondamentali:"
 msgstr ""
 
-#: ../../staff.rst:20
-# 72a68bad4081499e86cccdb52a8ca45e
+#: ../../intro.rst:20
+# f4d05c0dc8bd4379b21d864601d070ff
 msgid "**onestà**: è fondamentale nella relazione con il cliente per il rispetto dei reciproci ruoli e per la costruzione di un rapporto di fiducia e di reciproca soddisfazione"
 msgstr ""
 
-#: ../../staff.rst:21
-# 191d0d8cbba54f5f94bed35e2105accc
+#: ../../intro.rst:21
+# b5768eeed7284c7da740f00b9ed589d9
 msgid "**centralità del cliente**: le esigenze del cliente sono il criterio guida delle nostre attività, non soltanto per perseguirne la completa soddisfazione, ma per renderlo pienamente in possesso delle soluzioni sviluppate e del know-how per il suo utilizzo, evitando di instaurare una dipendenza dal fornitore"
 msgstr ""
 
-#: ../../staff.rst:22
-# eb53568958e648c899431d285668bb7a
+#: ../../intro.rst:22
+# 7b61888d864148b28bc5a4437eee5aa0
 msgid "**qualità**: garantiamo standard di qualità alti, anche mediante il nostro continuo aggiornamento teorico e pratico sui GIS e la collaborazione con i migliori sviluppatori nazionali e internazionali."
 msgstr ""
 
-#: ../../staff.rst:24
-# dc3f3bec5fe94ef6b9d0c266fc68507b
+#: ../../intro.rst:24
+# f1bf08edd3354de187d9c6721b46288e
 msgid "Faunalia è inoltre particolarmente impegnata e diminuire il più possibile l'impatto delle proprie attività sull'ambiente, quindi: riduciamo i nostri spostamenti, privilegiando il lavoro da remoto; utilizziamo, in modo accorto, l’energia elettrica proveniente da fonti rinnovabili certificate; adottiamo cicli di utilizzo dell'hardware più lunghi di quelli standard, e favoriamo il riutilizzo delle singole componenti e il trashware."
 msgstr ""
 
-#: ../../staff.rst:27
-# 75db996c26e9473fb509980159080576
+#: ../../intro.rst:27
+# f8603e9b053a4ffd85874bc8ec20644f
+msgid "I servizi"
+msgstr ""
+
+#: ../../intro.rst:28
+# b8a0e5217dba40d69e56e9e492c4103b
+msgid "La nostra offerta di servizi è riassumibile in tre aree principali: :doc:`sviluppo <dev>`, :doc:`assistenza <dev>` e :doc:`formazione <training>`."
+msgstr ""
+
+#: ../../intro.rst:30
+# 0d9537fc94a942f2ab5df24400d3f760
+msgid "Faunalia lavora direttamente allo sviluppo del software che utilizza e offre sul mercato, collaborando con i migliori sviluppatori GIS a livello internazionale. Negli anni, abbiamo contribuito allo sviluppo di vari strumenti, fra cui QGIS, GRASS, PostGIS, GDAL/OGR."
+msgstr ""
+
+#: ../../intro.rst:32
+# 49bc3928cb4d4ba89abae2723e193b1f
+msgid "Oltre allo svilluppo software, offriamo, a costi competitivi, attività di intervento rapido e di assistenza continuativa su tutte le problematiche relative ai GIS."
+msgstr ""
+
+#: ../../intro.rst:34
+# 59b3b975362049aeb3bfc1cd14507d2d
+msgid "Infine teniamo corsi di formazione teorico-pratica, sia standard, sia personalizzati, presso le nostre sedi e presso i nostri clienti."
+msgstr ""
+
+#: ../../intro.rst:37
+# a5d4883d87b44fc4ae6675d5025d5478
 msgid "Team"
 msgstr ""
 
-#: ../../staff.rst:28
-# 7ddd3f6a951849b099b02820c183e23a
+#: ../../intro.rst:38
+# bf8f872a7b5347f5b9bb9e0b0bc8d568
 msgid "L'attività di Faunalia si basa su una fitta rete internazionale di collaboratori. Il *core team* è composto da:"
 msgstr ""
 
-#: ../../staff.rst:34
-# 4ea39f199b9a4022a3845ca9d59eb11d
+#: ../../intro.rst:44
+# 6a70067fcab547d59a9762870bcf4033
 msgid "Paolo Cavallini |it| |pt|"
 msgstr ""
 
-#: ../../staff.rst:41
-# 320753b22aa74b1cbff528c8d0f27a23
+#: ../../intro.rst:51
+# 7d087099209c46c2842d331f2cf0f20b
 msgid "Fondatore di Faunalia"
 msgstr ""
 
-#: ../../staff.rst:42
-# 89e9e1fc097a4254b73ea7b4f6d50b20
+#: ../../intro.rst:52
+# 9fb7a7465ae4493bb0a78e78fc11f176
 msgid "Membro del *QGIS Project Steering Commitee* col ruolo di *Financial/Marketing Advisor*"
 msgstr ""
 
-#: ../../staff.rst:43
-# 92e5e56111ae4a58af219d06bb84952b
+#: ../../intro.rst:53
+# 29b7e3bcfb6a44be8727b04214daf210
 msgid "Socio fondatore di ed ex presidente di `GFOSS.it - Italian Geographic Free and Open-Source Software Association <http://www.gfoss.it/drupal/>`_"
 msgstr ""
 
-#: ../../staff.rst:44
-#: ../../staff.rst:93
-# 8be3705edf854ed4984036f33d12a898
-# 8be3705edf854ed4984036f33d12a898
+#: ../../intro.rst:54
+#: ../../intro.rst:103
+# 91b830e33d514b42bc0d4ba120b29a63
+# 002a2ba14e974473904af291753a7487
 msgid "Socio e *charter member* della fondazione internazionale `OSGeo - Open Source Geospatial Foundation <http://www.osgeo.org/>`_"
 msgstr ""
 
-#: ../../staff.rst:45
-# fdd0adf5373648759b7d691e40e92d7e
+#: ../../intro.rst:55
+# def50140573e4b30906e749f37d787de
 msgid "Socio fondatore di `ITPUG - ITalian PostgreSQL User Group <http://www.itpug.org>`_"
 msgstr ""
 
-#: ../../staff.rst:46
-# 6f1bd28a37b245f286bf2b35665bd9fa
+#: ../../intro.rst:56
+# 57925f94c9674f85af347f1c249886e4
 msgid "Membro di `IUCN - The World Conservation Union - Species Survival Commission <http://www.iucn.org/>`_, ex Presidente dello *IUCN Small Carnivore Specialist Group* e membro dello *IUCN - European Sustainable Use Specialist Group*"
 msgstr ""
 
-#: ../../staff.rst:47
-# 64ccb14d406e4a11a5d713ae7e7a0153
+#: ../../intro.rst:57
+# 68d05db983674961b9e96f62521f6986
 msgid "Oltre 10 anni di esperienza sui GIS liberi"
 msgstr ""
 
-#: ../../staff.rst:48
-# 2e4af78fcadf46ecb317d2ca8306e848
+#: ../../intro.rst:58
+# 85213a70454e47b8be621feb5c83660c
 msgid "Dottore di ricerca"
 msgstr ""
 
-#: ../../staff.rst:50
-# 7e88d4c193e8445f9729faedcd714934
+#: ../../intro.rst:60
+# 6543fb195e3249f085e97ce8a5f95c9c
 msgid ":doc:`Curriculum Vitae (html) <cv_pc_it>`"
 msgstr ""
 
-#: ../../staff.rst:51
-# 0a87c16587584301b1d912bdf90752f8
+#: ../../intro.rst:61
+# ccb3ec25d1984bdb83c126843415de55
 msgid "`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`_"
 msgstr ""
 
-#: ../../staff.rst:52
-# efe1417214834e749831e8ba73cca493
+#: ../../intro.rst:62
+# 0b69061ab8f14950a30001e307d7c7cf
 msgid "`Curriculum Vitae europeo (pdf) <pdf/Cavallini_CV_eu.pdf>`_"
 msgstr ""
 
-#: ../../staff.rst:54
-# b956ac317a9e43e3b3eba330e2a527c9
+#: ../../intro.rst:64
+# ee15ea49cb0d4fe6a153d54150c9e39e
 msgid "*e-mail*: cavallini@faunalia.it"
 msgstr ""
 
-#: ../../staff.rst:55
-# 4fdb623e0c714eb8a3a338bc165c17b2
+#: ../../intro.rst:65
+# 4b835b7d3f9f44119bcb6c43d5d1e581
 msgid "*PEC*: paolo.cavallini@pec.it"
 msgstr ""
 
-#: ../../staff.rst:56
-# 2796ab88a4474c5fa01132a029cc64b8
+#: ../../intro.rst:66
+# 562538fe3850492b897e74d9da488379
 msgid "*Tel/Viber/Line*: +39-348-3801953"
 msgstr ""
 
-#: ../../staff.rst:57
-# ede2f46ba5724b5dbac2da31e1010a23
+#: ../../intro.rst:67
+# ddeb7fed4ac144c28868c32f0ab08e9f
 msgid "*Skype*: paolo.gg.cavallini"
 msgstr ""
 
-#: ../../staff.rst:58
-# 50a86c9746184c10af024785c66b0169
+#: ../../intro.rst:68
+# ef48c710cc5141428f4a63fdd6d7c6bf
 msgid "*Hangout*: paolo.cavallini@gmail.com"
 msgstr ""
 
-#: ../../staff.rst:65
-# 7fbaf8236c9e46d590fb8cc752c2198a
+#: ../../intro.rst:75
+# f9455da96ee542f686cca3a8bb7e3a70
 msgid "Renzo Cavallini |it|"
 msgstr ""
 
-#: ../../staff.rst:72
-# a01dda5df8d644749a4e0295093fe1e0
+#: ../../intro.rst:82
+# d215a3c196514ec5ba09e0017316a243
 msgid "Geologo, specializzato in geofisica"
 msgstr ""
 
-#: ../../staff.rst:73
-# 82cd43493dd24a64a12263b97becaa4a
+#: ../../intro.rst:83
+# a941e57d4d3d46eca46dbce736b3c07c
 msgid "Ha collaborato a livello scientifico e didattico con l'Università di Pisa"
 msgstr ""
 
-#: ../../staff.rst:74
-# 03cf91c1fa8a4b42aaf5e7a990980471
+#: ../../intro.rst:84
+# 0087018ded814a94b32cd15954383c31
 msgid "Ha pubblicato nel settore geofisico"
 msgstr ""
 
-#: ../../staff.rst:75
-# 1200ea1bce804534904223f3b14800ea
+#: ../../intro.rst:85
+# 20b1bb7560844a7d9c0381f9a9fe2510
 msgid "Conduce attività di prospezione geotecnica, in laboratorio ed *in situ*"
 msgstr ""
 
-#: ../../staff.rst:77
-# 7a363e92386745399f180ff13897da58
+#: ../../intro.rst:87
+# 8c776ccfffec4ebcacd4a1cde26213ef
 msgid "esecuzione ed elaborazione di prove di laboratorio su terreni naturali: consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), compressione semplice, analisi granulometrica, limiti di consistenza (LL, LP, LR), peso specifico dei granuli, permeabilità in cella edometrica, triassiale e in permeametro (norme seguite: racc. AGI, CNR, ASTM)"
 msgstr ""
 
-#: ../../staff.rst:78
-# 78a0702041e84c08aa141038a65d979f
+#: ../../intro.rst:88
+# 2292d4d618774c06b00909e8cec36b93
 msgid "esecuzione ed elaborazione di prove di laboratorio su materiali stradali e da costruzione: compattazione Proctor Standard e modificata, penetrazione CBR, miscelazione delle terre con calce (norme seguite: EN, CNR, ASTM)"
 msgstr ""
 
-#: ../../staff.rst:79
-# e42944834a8a4a808fe3288ea5d1bc04
+#: ../../intro.rst:89
+# 7ad13ba891a34095a373571326c7bf4d
 msgid "esecuzione ed elaborazione di prove in situ: penetrometriche statiche con punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o senza rivestimento, PLT, densità in situ"
 msgstr ""
 
-#: ../../staff.rst:80
-# 80067180141f4a7982ea07c0fe694e59
+#: ../../intro.rst:90
+# a698ea85eef84a51968d3a02107c110e
 msgid "installazione e messa a punto di apparecchiature di laboratorio e di sistemi di acquisizione automatica; calibrazione di trasduttori elettrici"
 msgstr ""
 
-#: ../../staff.rst:82
-# a9ce1c992be34c53bd43f385da4f4bab
+#: ../../intro.rst:92
+# 83a29ae79c2049309aa7b8a55a62fa2f
 msgid "*e-mail*: renzo.cavallini@faunalia.it"
 msgstr ""
 
-#: ../../staff.rst:85
-# b49d1ac6a130438b9c4770674f677d65
+#: ../../intro.rst:95
+# 9383e9c37e4a47a49746f366dab2ea19
 msgid "Giovanni Manghi |pt|"
 msgstr ""
 
-#: ../../staff.rst:91
-# 92fabff5a8624df3835bc487c4d7102a
+#: ../../intro.rst:101
+# 1d1bba1b63f549919e39c82a9ffabf8b
 msgid "Fondatore di Faunalia Portogallo"
 msgstr ""
 
-#: ../../staff.rst:92
-# a01dda5df8d644749a4e0295093fe1e0
+#: ../../intro.rst:102
+# bd1de22296ec4e22bbd51fb068bc122b
 msgid "Biologo specializzato in Conservation Biology"
 msgstr ""
 
-#: ../../staff.rst:94
-# 92e5e56111ae4a58af219d06bb84952b
+#: ../../intro.rst:104
+# 410be7bb469d4d3f8355f869cbf7f73e
 msgid "Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and Open-Source Software Association <http://osgeopt.pt/>`_"
 msgstr ""
 
-#: ../../staff.rst:95
-# 162c6121a6004904abfddd9243d4e8df
+#: ../../intro.rst:105
+# d205d8820a054459a8ed6577f04a3945
 msgid "Membro di `IUCN - The World Conservation Union - *IUCN Small Carnivore Specialist Group* <http://www.iucn.org/>`_"
 msgstr ""
 
-#: ../../staff.rst:96
-#: ../../staff.rst:117
-# 64ccb14d406e4a11a5d713ae7e7a0153
-# 64ccb14d406e4a11a5d713ae7e7a0153
+#: ../../intro.rst:106
+#: ../../intro.rst:127
+# 5124bd8f369744908e0748675ec84bfc
+# 40956e025fb84c3ebcdcf87e37e9cef2
 msgid "Otre 7 anni di esperienza sui GIS liberi"
 msgstr ""
 
-#: ../../staff.rst:98
-# 95dca4087d374ece822ccbd1aee35dec
+#: ../../intro.rst:108
+# 5e966bb94bde4c998a6b3b92146670fe
 msgid ":doc:`Curriculum Vitae (html) <cv_gm_it>`"
 msgstr ""
 
-#: ../../staff.rst:99
-# 5b545c847c054fcd85c5ede7db0d9953
+#: ../../intro.rst:109
+# 229e857d78694f00b13da35f17eb798e
 msgid "`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_"
 msgstr ""
 
-#: ../../staff.rst:100
-# 3b8d4881b4ef49a9ae33dfff59d647d0
+#: ../../intro.rst:110
+# fb9167a7fa5b4395a8d03095f9ae74cd
 msgid "`Curriculum Vitae europeo (pdf) <pdf/Manghi_CV_eu.pdf>`_"
 msgstr ""
 
-#: ../../staff.rst:102
-# 3472687752ef4624a6d1046f9ab20882
+#: ../../intro.rst:112
+# ffe9dba9d9084eec9b1bc694a13d14c8
 msgid "*e-mail*: giovanni.manghi@faunalia.pt"
 msgstr ""
 
-#: ../../staff.rst:103
-# 15522c498725496f856475a620fcdd2a
+#: ../../intro.rst:113
+# 2582499f254145ab947e43398f847d2a
 msgid "*Tel/Viber/Line*: +351967058216"
 msgstr ""
 
-#: ../../staff.rst:104
-# b1ddd3fd79b94726be56cce19351906f
+#: ../../intro.rst:114
+# 94b11ec41adf4fb6b92269803791d2b3
 msgid "*Skype*: toirao"
 msgstr ""
 
-#: ../../staff.rst:105
-# e7f575a193b44b1bb55a712f99f32844
+#: ../../intro.rst:115
+# e4e7fedc0e64415b933a3697b1f5ba7a
 msgid "*Hangout*: giovanni.manghi@gmail.com"
 msgstr ""
 
-#: ../../staff.rst:108
-# 3cff42186bd64d37bf7b4f240aa08b11
+#: ../../intro.rst:118
+# 123b48c4848841d7a067b5e2807b1237
 msgid "Vânia Neves |pt|"
 msgstr ""
 
-#: ../../staff.rst:114
-# 92fabff5a8624df3835bc487c4d7102a
+#: ../../intro.rst:124
+# c8fe807c719d4accaf32b9de56c8052f
 msgid "Fondatrice di Faunalia Portogallo"
 msgstr ""
 
-#: ../../staff.rst:115
-# a01dda5df8d644749a4e0295093fe1e0
+#: ../../intro.rst:125
+# 3302a8057ad84b31bb704cb9cf64f399
 msgid "Biologa specializzata in Conservation Biology"
 msgstr ""
 
-#: ../../staff.rst:116
-# 92e5e56111ae4a58af219d06bb84952b
+#: ../../intro.rst:126
+# d4c4e12b263e44dcaba02fb47b11c091
 msgid "Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and Open-Source Software Association <http://osgeopt.pt/>`_"
 msgstr ""
 
-#: ../../staff.rst:119
-# f2e2c08f2fe54447b9ddb4ca52b3af41
+#: ../../intro.rst:129
+# c61b6797a4d349d4850a9c54fa7bad24
 msgid ":doc:`Curriculum Vitae (html) <cv_vn_it>`"
 msgstr ""
 
-#: ../../staff.rst:120
-# b4774407f5f4434e85b360162f644107
+#: ../../intro.rst:130
+# ffa9133741aa4bb9bbc1ac7078575add
 msgid "`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_"
 msgstr ""
 
-#: ../../staff.rst:121
-# f6ae1371bb6049548203415bdea4393e
+#: ../../intro.rst:131
+# 8b94df5f59644a2e828b7bf94082a858
 msgid "`Curriculum Vitae europeo (pdf) <pdf/Neves_CV_eu.pdf>`_"
 msgstr ""
 
-#: ../../staff.rst:123
-# 12db5196f90647d8b593e6b4c685d9d4
+#: ../../intro.rst:133
+# b0065d3562d842c99a9f1538ef8294d5
 msgid "*e-mail*: vania.neves@faunalia.pt"
 msgstr ""
 
-#: ../../staff.rst:124
-# a5ec7d08d5c3410284e5988b9eb304f4
+#: ../../intro.rst:134
+# a9bf96c16e8741d081b517dda0e32917
 msgid "*Tel/Viber/Line*: +351939320104"
 msgstr ""
 
-#: ../../staff.rst:125
-# b5e761cc9e0f4d81bf792684f1f0a921
+#: ../../intro.rst:135
+# 680517e0e79044fc97eb353ec1de2c9b
 msgid "*Skype*: vaniavanilla"
 msgstr ""
 
-#: ../../staff.rst:126
-# 24ccae109629408ea3fa8831fac20a97
+#: ../../intro.rst:136
+# 9e4f84fd6de14c91b786a8ea23c215e6
 msgid "*Hangout*: vbneves@gmail.com"
 msgstr ""
 

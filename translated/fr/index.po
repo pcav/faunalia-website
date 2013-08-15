@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-12 13:22\n"
+"POT-Creation-Date: 2013-08-14 20:47\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,53 +17,63 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-# b29116aece954590a864d9174f6d8416
+# 56bcab473aff44a6be177e81a69b3ec7
 #: ../../index.rst:16
+msgid "Faunalia"
+msgstr ""
+
+# c24a6a0f2c1f47b581312366dd4113f7
+#: ../../index.rst:17
+msgid "Sistemi informativi territoriali liberi ed open source"
+msgstr ""
+
+# b29116aece954590a864d9174f6d8416
+#: ../../index.rst:21
 msgid "Sviluppo"
 msgstr ""
 
 # 1e0a20d246044004ba27ccf7bbb05251
-#: ../../index.rst:17
+#: ../../index.rst:22
 msgid ""
 "Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro "
 "o di correggere un bug?"
 msgstr ""
 
 # 2fd4a8b1ef644db38dcea8a1e8a61c03
-#: ../../index.rst:19
+#: ../../index.rst:24
 msgid ":doc:`More info <dev>`"
 msgstr ""
 
 # 2c65bd5329b9402b8ff3cdd828a1c810
-#: ../../index.rst:22
+#: ../../index.rst:27
 msgid "Assistenza"
 msgstr ""
 
 # 0413ebabaffd4d768717bd48f723e880
-#: ../../index.rst:23
+#: ../../index.rst:28
 msgid ""
 "Vuoi la certezza e la tranquillità di un supporto costante per la soluzione "
 "dei tuoi problemi?"
 msgstr ""
 
 # a2069a3f48204eed95a4f2d71236ff50
-#: ../../index.rst:25
+#: ../../index.rst:30
 msgid ":doc:`More info <support>`"
 msgstr ""
 
 # 74d5fd586c43466aafb1f532dfbf4ead
-#: ../../index.rst:28
+#: ../../index.rst:33
 msgid "Corsi"
 msgstr ""
 
 # 1e7ec7a2516c48aa90fbd6563a143a77
-#: ../../index.rst:29
+#: ../../index.rst:34
 msgid ""
 "Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il "
 "tuo GIS?"
 msgstr ""
 
 # 80549d17aca94c20ba96853e17c8154d
-#: ../../index.rst:31
+#: ../../index.rst:36
 msgid ":doc:`More info <training>`"
 msgstr ""
