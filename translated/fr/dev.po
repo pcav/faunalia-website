@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-10 09:25\n"
+"POT-Creation-Date: 2013-08-15 16:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,10 +42,9 @@ msgid ""
 "<http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer "
 "<http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
-"Développement de nouvelles fonctionnalités pour `QGIS "
-"<http://www.qgis.org/>`_, `PostGIS <http://postgis.net/>`_, `GRASS "
-"<http://grass.osgeo.org/>`_, `MapServer <http://mapserver.org/>`_, `GDAL/OGR "
-"<http://www.gdal.org/>`_ "
+"Développement de nouvelles fonctionnalités pour `QGIS <http://www.qgis.org/"
+">`_, `PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, "
+"`MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_ "
 
 # cf99310f7e6e429a841b3f255af7dd46
 #: ../../dev.rst:8
@@ -54,10 +53,9 @@ msgid ""
 "`PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, "
 "`MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
-"Réparation des dysfonctionnements (bogues) pour `QGIS "
-"<http://www.qgis.org/>`_, `PostGIS <http://postgis.net/>`_, `GRASS "
-"<http://grass.osgeo.org/>`_, `MapServer <http://mapserver.org/>`_, `GDAL/OGR "
-"<http://www.gdal.org/>`_ "
+"Réparation des dysfonctionnements (bogues) pour `QGIS <http://www.qgis.org/"
+">`_, `PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, "
+"`MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_ "
 
 # d650ef8ee81b4e4584a51093561c5e93
 #: ../../dev.rst:9
@@ -90,9 +88,10 @@ msgstr ""
 
 # a651117ca4a943738387342da7f07ecc
 #: ../../dev.rst:18
+#, fuzzy
 msgid ""
 "Faunalia ha sviluppato direttamente, già da molti anni, funzioni per tutti i "
-"software  sopra elencati e fra i nostri collaboratori annoveriamo molti dei "
+"software sopra elencati e fra i nostri collaboratori annoveriamo molti dei "
 "più importanti sviluppatori di questi progetti."
 msgstr ""
 "Faunalia a développé directement, depus plusieurs années, fonctions et "
