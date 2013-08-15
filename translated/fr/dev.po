@@ -33,7 +33,8 @@ msgstr "Faunalia propose:"
 # f08f7331cf78489899f60dac239e0742
 #: ../../dev.rst:6
 msgid "Sviluppo di plugin per `QGIS <http://www.qgis.org/>`_"
-msgstr "Développement d'extensions (plugins)"
+msgstr ""
+"Développement d'extensions (plugins) pour `QGIS <http://www.qgis.org/>`_"
 
 # 5b38585e1e384ef6bb57dfd79cb4902b
 #: ../../dev.rst:7
@@ -42,9 +43,10 @@ msgid ""
 "<http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer "
 "<http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
-"Développement de nouvelles fonctionnalités pour `QGIS <http://www.qgis.org/"
-">`_, `PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, "
-"`MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_ "
+"Développement de nouvelles fonctionnalités pour `QGIS "
+"<http://www.qgis.org/>`_, `PostGIS <http://postgis.net/>`_, `GRASS "
+"<http://grass.osgeo.org/>`_, `MapServer <http://mapserver.org/>`_, `GDAL/OGR "
+"<http://www.gdal.org/>`_ "
 
 # cf99310f7e6e429a841b3f255af7dd46
 #: ../../dev.rst:8
@@ -53,9 +55,10 @@ msgid ""
 "`PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, "
 "`MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
-"Réparation des dysfonctionnements (bogues) pour `QGIS <http://www.qgis.org/"
-">`_, `PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, "
-"`MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_ "
+"Réparation des dysfonctionnements (bogues) pour `QGIS "
+"<http://www.qgis.org/>`_, `PostGIS <http://postgis.net/>`_, `GRASS "
+"<http://grass.osgeo.org/>`_, `MapServer <http://mapserver.org/>`_, `GDAL/OGR "
+"<http://www.gdal.org/>`_ "
 
 # d650ef8ee81b4e4584a51093561c5e93
 #: ../../dev.rst:9
@@ -88,7 +91,6 @@ msgstr ""
 
 # a651117ca4a943738387342da7f07ecc
 #: ../../dev.rst:18
-#, fuzzy
 msgid ""
 "Faunalia ha sviluppato direttamente, già da molti anni, funzioni per tutti i "
 "software sopra elencati e fra i nostri collaboratori annoveriamo molti dei "
