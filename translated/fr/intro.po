@@ -239,7 +239,7 @@ msgstr "`Curriculum Vitae (pdf-en) <pdf/Cavallini_CV_en.pdf>`_"
 # efe1417214834e749831e8ba73cca493
 #: ../../intro.rst:62
 msgid "`Curriculum Vitae europeo (pdf) <pdf/Cavallini_CV_eu.pdf>`_"
-msgstr " "
+msgstr ""
 
 # b956ac317a9e43e3b3eba330e2a527c9
 #: ../../intro.rst:64
@@ -378,7 +378,7 @@ msgstr "`Curriculum Vitae (pdf-en) <pdf/Manghi_CV_en.pdf>`_"
 # 3b8d4881b4ef49a9ae33dfff59d647d0
 #: ../../intro.rst:110
 msgid "`Curriculum Vitae europeo (pdf) <pdf/Manghi_CV_eu.pdf>`_"
-msgstr " "
+msgstr ""
 
 # 3472687752ef4624a6d1046f9ab20882
 #: ../../intro.rst:112
@@ -435,7 +435,7 @@ msgstr "`Curriculum Vitae (pdf-en) <pdf/Neves_CV_en.pdf>`_"
 # f6ae1371bb6049548203415bdea4393e
 #: ../../intro.rst:131
 msgid "`Curriculum Vitae europeo (pdf) <pdf/Neves_CV_eu.pdf>`_"
-msgstr " "
+msgstr ""
 
 # 12db5196f90647d8b593e6b4c685d9d4
 #: ../../intro.rst:133
