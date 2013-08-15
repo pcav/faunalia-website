@@ -12,7 +12,6 @@
     Attività <jobs>
     Chi siamo <intro>
 
-
 Faunalia
 ===========================================================================
 Sistemi informativi territoriali liberi ed open source
