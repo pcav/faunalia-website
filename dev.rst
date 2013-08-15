@@ -15,4 +15,4 @@ Garantiamo che tutto il codice sviluppato:
 
 In questo modo sarete certi della sua fruibilità e facilità di manutenzione anche nel futuro.
 
-Faunalia ha sviluppato direttamente, già da molti anni, funzioni per tutti i software  sopra elencati e fra i nostri collaboratori annoveriamo molti dei più importanti sviluppatori di questi progetti.
+Faunalia ha sviluppato direttamente, già da molti anni, funzioni per tutti i software sopra elencati e fra i nostri collaboratori annoveriamo molti dei più importanti sviluppatori di questi progetti.
