@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-16 11:31\n"
+"POT-Creation-Date: 2013-08-16 15:38\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,7 +33,7 @@ msgstr ""
 
 #: ../../intro.rst:9
 # 2cd187b27f9646cea7f6e86b0ebe31bf
-msgid "Le nostre attività si basano sulla convinzione che il software libero e open source sia la scelta migliore e più efficace, in particolare in relazione ai GIS. Utilizzare un GIS open source e libero offre numerosi vantaggi rispetto alle alternative proprietarie presenti sul mercato, sia per il cliente, sia per lo sviluppo sociale complessivo. Consente innanzitutto un controllo pieno e trasparente del software utilizzato e quindi una totale indipendenza del cliente rispetto ai fornitori. Da un punto di vista tecnico, i GIS open source consentono la massima flessibilità e personalizzazione delle soluzioni sviluppate e un costante aggiornamento del software, garantito dal lavoro di una rete di sviluppatori internazionale. Inoltre, rispetto ai sistemi proprietari, assicurano la massima persistenza dei dati geografici nel tempo e, grazie all’impego di standard aperti, un’alta interoperabilità tra sistemi informativi."
+msgid "Le nostre attività si basano sulla convinzione che il software libero e open source sia la scelta migliore e più efficace, in particolare in relazione ai GIS. Utilizzare un GIS open source e libero offre numerosi vantaggi rispetto alle alternative proprietarie presenti sul mercato, sia per il cliente, sia per lo sviluppo sociale complessivo. Consente innanzitutto un controllo pieno e trasparente del software utilizzato e quindi una totale indipendenza del cliente rispetto ai fornitori. Da un punto di vista tecnico, i GIS open source consentono la massima flessibilità e personalizzazione delle soluzioni sviluppate e un costante aggiornamento del software, garantito dal lavoro di una rete di sviluppatori internazionale. Inoltre, rispetto ai sistemi proprietari, assicurano la massima persistenza dei dati geografici nel tempo e, grazie all’impiego di standard aperti, un’alta interoperabilità tra sistemi informativi."
 msgstr ""
 
 #: ../../intro.rst:13
@@ -68,7 +68,7 @@ msgstr ""
 
 #: ../../intro.rst:24
 # f1bf08edd3354de187d9c6721b46288e
-msgid "Faunalia è inoltre particolarmente impegnata e diminuire il più possibile l'impatto delle proprie attività sull'ambiente, quindi: riduciamo i nostri spostamenti, privilegiando il lavoro da remoto; utilizziamo, in modo accorto, l’energia elettrica proveniente da fonti rinnovabili certificate; adottiamo cicli di utilizzo dell'hardware più lunghi di quelli standard, e favoriamo il riutilizzo delle singole componenti e il trashware."
+msgid "Faunalia è inoltre particolarmente impegnata a diminuire il più possibile l'impatto delle proprie attività sull'ambiente, quindi: riduciamo i nostri spostamenti, privilegiando il lavoro da remoto; utilizziamo, in modo accorto, l’energia elettrica proveniente da fonti rinnovabili certificate; adottiamo cicli di utilizzo dell'hardware più lunghi di quelli standard, e favoriamo il riutilizzo delle singole componenti e il trashware."
 msgstr ""
 
 #: ../../intro.rst:27
@@ -88,7 +88,7 @@ msgstr ""
 
 #: ../../intro.rst:32
 # 49bc3928cb4d4ba89abae2723e193b1f
-msgid "Oltre allo svilluppo software, offriamo, a costi competitivi, attività di intervento rapido e di assistenza continuativa su tutte le problematiche relative ai GIS."
+msgid "Oltre allo sviluppo software, offriamo, a costi competitivi, attività di intervento rapido e di assistenza continuativa su tutte le problematiche relative ai GIS."
 msgstr ""
 
 #: ../../intro.rst:34
@@ -262,7 +262,7 @@ msgstr ""
 #: ../../intro.rst:124
 # 5124bd8f369744908e0748675ec84bfc
 # 5124bd8f369744908e0748675ec84bfc
-msgid "Otre 7 anni di esperienza sui GIS liberi"
+msgid "Oltre 7 anni di esperienza sui GIS liberi"
 msgstr ""
 
 #: ../../intro.rst:106

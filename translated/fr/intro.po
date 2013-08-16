@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-16 11:31\n"
+"POT-Creation-Date: 2013-08-16 15:38\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,6 +47,7 @@ msgstr "Vision"
 
 # 68ee4d1617054a4db1fdfe74fb47fdb2
 #: ../../intro.rst:9
+#, fuzzy
 msgid ""
 "Le nostre attività si basano sulla convinzione che il software libero e open "
 "source sia la scelta migliore e più efficace, in particolare in relazione ai "
@@ -59,7 +60,7 @@ msgid ""
 "soluzioni sviluppate e un costante aggiornamento del software, garantito dal "
 "lavoro di una rete di sviluppatori internazionale. Inoltre, rispetto ai "
 "sistemi proprietari, assicurano la massima persistenza dei dati geografici "
-"nel tempo e, grazie all’impego di standard aperti, un’alta interoperabilità "
+"nel tempo e, grazie all’impiego di standard aperti, un’alta interoperabilità "
 "tra sistemi informativi."
 msgstr ""
 "Nos activités sont fondées sur la conviction que utiliser logiciels libres "
@@ -146,8 +147,9 @@ msgstr ""
 
 # dc3f3bec5fe94ef6b9d0c266fc68507b
 #: ../../intro.rst:24
+#, fuzzy
 msgid ""
-"Faunalia è inoltre particolarmente impegnata e diminuire il più possibile "
+"Faunalia è inoltre particolarmente impegnata a diminuire il più possibile "
 "l'impatto delle proprie attività sull'ambiente, quindi: riduciamo i nostri "
 "spostamenti, privilegiando il lavoro da remoto; utilizziamo, in modo "
 "accorto, l’energia elettrica proveniente da fonti rinnovabili certificate; "
@@ -156,10 +158,10 @@ msgid ""
 msgstr ""
 "Faunalia est particulièrement engagé à la réduction de l'impact de ses "
 "activités sur l'environnement: nous réduisons nos mouvements, en se "
-"concentrant sur ​​le travail à distance, nouos utilisons électricité à "
-"partir de sources renouvelables certifiées, nous adoptons cycles de "
-"l'utilisation du matériel plus longues que la norme, et préfèrent la "
-"réutilisation des composants et le trashware."
+"concentrant sur ​​le travail à distance, nouos utilisons électricité à partir "
+"de sources renouvelables certifiées, nous adoptons cycles de l'utilisation "
+"du matériel plus longues que la norme, et préfèrent la réutilisation des "
+"composants et le trashware."
 
 # f8603e9b053a4ffd85874bc8ec20644f
 #: ../../intro.rst:27
@@ -169,12 +171,11 @@ msgstr "Services"
 # b8a0e5217dba40d69e56e9e492c4103b
 #: ../../intro.rst:28
 msgid ""
-"La nostra offerta di servizi è riassumibile in tre aree principali: "
-":doc:`sviluppo <dev>`, :doc:`assistenza <dev>` e :doc:`formazione "
-"<training>`."
+"La nostra offerta di servizi è riassumibile in tre aree principali: :doc:"
+"`sviluppo <dev>`, :doc:`assistenza <dev>` e :doc:`formazione <training>`."
 msgstr ""
-"Notre gamme de services peut se résumer en trois domaines principales : "
-":doc: `développement <dev>`, :doc: `assistance <dev> et :doc:`formation "
+"Notre gamme de services peut se résumer en trois domaines principales : :"
+"doc: `développement <dev>`, :doc: `assistance <dev> et :doc:`formation "
 "`<training>."
 
 # 0d9537fc94a942f2ab5df24400d3f760
@@ -192,8 +193,9 @@ msgstr ""
 
 # 49bc3928cb4d4ba89abae2723e193b1f
 #: ../../intro.rst:32
+#, fuzzy
 msgid ""
-"Oltre allo svilluppo software, offriamo, a costi competitivi, attività di "
+"Oltre allo sviluppo software, offriamo, a costi competitivi, attività di "
 "intervento rapido e di assistenza continuativa su tutte le problematiche "
 "relative ai GIS."
 msgstr ""
@@ -237,11 +239,11 @@ msgstr "Fondateur de Faunalia"
 # 89e9e1fc097a4254b73ea7b4f6d50b20
 #: ../../intro.rst:52
 msgid ""
-"Membro del *QGIS Project Steering Commitee* col ruolo di "
-"*Financial/Marketing Advisor*"
+"Membro del *QGIS Project Steering Commitee* col ruolo di *Financial/"
+"Marketing Advisor*"
 msgstr ""
-"Membre du *QGIS Project Steering Commitee* avec le rôle de "
-"*Financial/Marketing Advisor*"
+"Membre du *QGIS Project Steering Commitee* avec le rôle de *Financial/"
+"Marketing Advisor*"
 
 # 92e5e56111ae4a58af219d06bb84952b
 #: ../../intro.rst:53
@@ -264,11 +266,11 @@ msgstr ""
 # fdd0adf5373648759b7d691e40e92d7e
 #: ../../intro.rst:55
 msgid ""
-"Socio fondatore di `ITPUG - ITalian PostgreSQL User Group "
-"<http://www.itpug.org>`_"
+"Socio fondatore di `ITPUG - ITalian PostgreSQL User Group <http://www.itpug."
+"org>`_"
 msgstr ""
-"Co-Fondateur de `ITPUG - ITalian PostgreSQL User Group "
-"<http://www.itpug.org>`_"
+"Co-Fondateur de `ITPUG - ITalian PostgreSQL User Group <http://www.itpug."
+"org>`_"
 
 # 6f1bd28a37b245f286bf2b35665bd9fa
 #: ../../intro.rst:56
@@ -301,8 +303,8 @@ msgstr ":doc:`Curriculum Vitae (html-en) <cv_pc_en>`"
 # 0a87c16587584301b1d912bdf90752f8
 #: ../../intro.rst:61
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`_ - `europeo (pdf) "
-"<pdf/Cavallini_CV_eu.pdf>`_"
+"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`_ - `europeo (pdf) <pdf/"
+"Cavallini_CV_eu.pdf>`_"
 msgstr "`Curriculum Vitae (pdf-en) <pdf/Cavallini_CV_en.pdf>`_"
 
 # b956ac317a9e43e3b3eba330e2a527c9
@@ -424,8 +426,8 @@ msgstr "Biologiste spécialisé en biologie de la conservation"
 # 92e5e56111ae4a58af219d06bb84952b
 #: ../../intro.rst:102
 msgid ""
-"Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and "
-"Open-Source Software Association <http://osgeopt.pt/>`_"
+"Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and Open-"
+"Source Software Association <http://osgeopt.pt/>`_"
 msgstr ""
 "Co-Fondateur de `OSGeo Portugal - Portuguese Geographic Free and Open-Source "
 "Software Association <http://osgeopt.pt/>`_"
@@ -442,7 +444,8 @@ msgstr ""
 # 64ccb14d406e4a11a5d713ae7e7a0153
 # 64ccb14d406e4a11a5d713ae7e7a0153
 #: ../../intro.rst:104 ../../intro.rst:124
-msgid "Otre 7 anni di esperienza sui GIS liberi"
+#, fuzzy
+msgid "Oltre 7 anni di esperienza sui GIS liberi"
 msgstr "Plus de 7 ans d'expérience en matière de SIG gratuit"
 
 # 95dca4087d374ece822ccbd1aee35dec
@@ -453,8 +456,8 @@ msgstr ":doc:`Curriculum Vitae (html-en) <cv_gm_en>`"
 # 5b545c847c054fcd85c5ede7db0d9953
 #: ../../intro.rst:107
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_ - `europeo (pdf) "
-"<pdf/Manghi_CV_eu.pdf>`_"
+"`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_ - `europeo (pdf) <pdf/"
+"Manghi_CV_eu.pdf>`_"
 msgstr "`Curriculum Vitae (pdf-en) <pdf/Manghi_CV_en.pdf>`_"
 
 # 3472687752ef4624a6d1046f9ab20882
@@ -495,8 +498,8 @@ msgstr "Biologiste spécialisé en biologie de la conservation"
 # 92e5e56111ae4a58af219d06bb84952b
 #: ../../intro.rst:123
 msgid ""
-"Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and "
-"Open-Source Software Association <http://osgeopt.pt/>`_"
+"Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and Open-"
+"Source Software Association <http://osgeopt.pt/>`_"
 msgstr ""
 "Co-Fondateur de `OSGeo Portugal - Portuguese Geographic Free and Open-Source "
 "Software Association <http://osgeopt.pt/>`_"
@@ -509,8 +512,8 @@ msgstr ":doc:`Curriculum Vitae (html-en) <cv_vn_en>`"
 # b4774407f5f4434e85b360162f644107
 #: ../../intro.rst:127
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_ - `europeo (pdf) "
-"<pdf/Neves_CV_eu.pdf>`_"
+"`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_ - `europeo (pdf) <pdf/"
+"Neves_CV_eu.pdf>`_"
 msgstr "`Curriculum Vitae (pdf-en) <pdf/Neves_CV_en.pdf>`_"
 
 # 12db5196f90647d8b593e6b4c685d9d4

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-16 11:31\n"
+"POT-Creation-Date: 2013-08-16 15:38\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,6 +47,7 @@ msgstr "A nossa visão"
 
 # 68ee4d1617054a4db1fdfe74fb47fdb2
 #: ../../intro.rst:9
+#, fuzzy
 msgid ""
 "Le nostre attività si basano sulla convinzione che il software libero e open "
 "source sia la scelta migliore e più efficace, in particolare in relazione ai "
@@ -59,7 +60,7 @@ msgid ""
 "soluzioni sviluppate e un costante aggiornamento del software, garantito dal "
 "lavoro di una rete di sviluppatori internazionale. Inoltre, rispetto ai "
 "sistemi proprietari, assicurano la massima persistenza dei dati geografici "
-"nel tempo e, grazie all’impego di standard aperti, un’alta interoperabilità "
+"nel tempo e, grazie all’impiego di standard aperti, un’alta interoperabilità "
 "tra sistemi informativi."
 msgstr ""
 "As nossas actividades são baseadas na convicção que o software livre e de "
@@ -147,8 +148,9 @@ msgstr ""
 
 # dc3f3bec5fe94ef6b9d0c266fc68507b
 #: ../../intro.rst:24
+#, fuzzy
 msgid ""
-"Faunalia è inoltre particolarmente impegnata e diminuire il più possibile "
+"Faunalia è inoltre particolarmente impegnata a diminuire il più possibile "
 "l'impatto delle proprie attività sull'ambiente, quindi: riduciamo i nostri "
 "spostamenti, privilegiando il lavoro da remoto; utilizziamo, in modo "
 "accorto, l’energia elettrica proveniente da fonti rinnovabili certificate; "
@@ -186,7 +188,7 @@ msgstr ""
 # 49bc3928cb4d4ba89abae2723e193b1f
 #: ../../intro.rst:32
 msgid ""
-"Oltre allo svilluppo software, offriamo, a costi competitivi, attività di "
+"Oltre allo sviluppo software, offriamo, a costi competitivi, attività di "
 "intervento rapido e di assistenza continuativa su tutte le problematiche "
 "relative ai GIS."
 msgstr ""
@@ -427,7 +429,8 @@ msgstr ""
 # 64ccb14d406e4a11a5d713ae7e7a0153
 # 64ccb14d406e4a11a5d713ae7e7a0153
 #: ../../intro.rst:104 ../../intro.rst:124
-msgid "Otre 7 anni di esperienza sui GIS liberi"
+#, fuzzy
+msgid "Oltre 7 anni di esperienza sui GIS liberi"
 msgstr "Mais de 7 anos de experiencia sobre SIG livres"
 
 # 95dca4087d374ece822ccbd1aee35dec
