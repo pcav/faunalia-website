@@ -58,11 +58,9 @@ Paolo Cavallini |it| |pt|
 * Dottore di ricerca
 
 * :doc:`Curriculum Vitae (html) <cv_pc_it>`
-* `Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`_
-* `Curriculum Vitae europeo (pdf) <pdf/Cavallini_CV_eu.pdf>`_
+* `Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`_ - `europeo (pdf) <pdf/Cavallini_CV_eu.pdf>`_
 
-* *e-mail*: cavallini@faunalia.it
-* *PEC*: paolo.cavallini@pec.it
+* *e-mail*: cavallini@faunalia.it - *PEC*: paolo.cavallini@pec.it
 * *Tel/Viber/Line*: +39-348-3801953
 * *Skype*: paolo.gg.cavallini
 * *Hangout*: paolo.cavallini@gmail.com
@@ -106,8 +104,7 @@ Giovanni Manghi |pt|
 * Otre 7 anni di esperienza sui GIS liberi
 
 * :doc:`Curriculum Vitae (html) <cv_gm_it>`
-* `Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_
-* `Curriculum Vitae europeo (pdf) <pdf/Manghi_CV_eu.pdf>`_
+* `Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_ - `europeo (pdf) <pdf/Manghi_CV_eu.pdf>`_
 
 * *e-mail*: giovanni.manghi@faunalia.pt
 * *Tel/Viber/Line*: +351967058216
@@ -127,8 +124,7 @@ Vânia Neves |pt|
 * Otre 7 anni di esperienza sui GIS liberi
 
 * :doc:`Curriculum Vitae (html) <cv_vn_it>`
-* `Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_
-* `Curriculum Vitae europeo (pdf) <pdf/Neves_CV_eu.pdf>`_
+* `Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_ - `europeo (pdf) <pdf/Neves_CV_eu.pdf>`_
 
 * *e-mail*: vania.neves@faunalia.pt
 * *Tel/Viber/Line*: +351939320104
