@@ -57,12 +57,13 @@ msgstr ""
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:10
 msgid ""
-"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
+"annunci di nuovi corsi."
 msgstr ""
-"Abonnez-vous à la `liste de diffusion <http://lists.faunalia.it/cgi-bin/"
-"mailman/listinfo/formation>`_ pour recevoir les annonces des nouvelles "
-"activités de formation."
+"Abonnez-vous à la `liste de diffusion "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/formation>`_ pour "
+"recevoir les annonces des nouvelles activités de formation."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:13
@@ -123,13 +124,13 @@ msgstr ""
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:20
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
-"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
-"<http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
+"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
+"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
-"Autorisent l'accès aux examens pour AICA `ECDL-GIS <http://www.aicanet.it/"
-"aica/ecdl-gis/>` _. Paolo Cavallini est `examinateur ECDL-GIS <http://www."
-"ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+"Autorisent l'accès aux examens pour AICA `ECDL-GIS "
+"<http://www.aicanet.it/aica/ecdl-gis/>` _. Paolo Cavallini est `examinateur "
+"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
@@ -256,12 +257,12 @@ msgstr ""
 # de35eec3a95541a9845a13ca2ca68450
 #: ../../training.rst:51
 msgid "Gestione di fotografie georeferenziate"
-msgstr ""
+msgstr "Gestion des photos géo-référencées"
 
 # 0226a9e09cf54582af37c17b409aa67f
 #: ../../training.rst:52
 msgid "Esportazione dati per Google Earth"
-msgstr ""
+msgstr "Exportation des données pour Google Earth"
 
 # 0807886f9a694b64937b33d9b387c8b0
 #: ../../training.rst:53
@@ -364,7 +365,7 @@ msgstr "Plugins supplémentaires"
 # 8c74135d1b5b447dba13cde0cfbff902
 #: ../../training.rst:80
 msgid "processing"
-msgstr ""
+msgstr "processing"
 
 # f92a255d0d69405e90d7c1544c213c44
 #: ../../training.rst:81
@@ -676,7 +677,6 @@ msgstr "Introduction à la base des données rélationelle libre PostgreSQL"
 
 # e5e06ae2ce984f0aa74bd5589d67bb38
 #: ../../training.rst:163
-#, fuzzy
 msgid "Schemi, tabelle, viste, domini, funzioni"
 msgstr "Schèmes, tableaux, vues, domaines, fonctions"
 
@@ -756,7 +756,6 @@ msgstr "Copiee et sauvegarde"
 
 # 660512ec03ae4bc59a877c8ec19a3162
 #: ../../training.rst:183
-#, fuzzy
 msgid "WebMapping con QGIS"
 msgstr "WebMapping avec QGIS"
 
@@ -865,12 +864,12 @@ msgstr "Date limite d'inscription"
 # bb3f3fd4c0f540c9be634544c24ef06f
 #: ../../training.rst:215
 msgid "Dove"
-msgstr ""
+msgstr "Lieu"
 
 # 1e70f16134fc41959674ee86105a3436
 #: ../../training.rst:215
 msgid "Lingua"
-msgstr ""
+msgstr "Language"
 
 # 5264f422ac9d4034a6d68c5b38458a39
 #: ../../training.rst:217
@@ -890,7 +889,7 @@ msgstr "10 Septembre"
 #: ../../training.rst:217 ../../training.rst:218 ../../training.rst:219
 #: ../../training.rst:220 ../../training.rst:221
 msgid "Pontedera, IT"
-msgstr ""
+msgstr "Pontedera, IT"
 
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
@@ -900,7 +899,7 @@ msgstr ""
 #: ../../training.rst:217 ../../training.rst:218 ../../training.rst:219
 #: ../../training.rst:220 ../../training.rst:221
 msgid "Italiano"
-msgstr ""
+msgstr "Italien"
 
 # 789f35850632463296adba2404463064
 #: ../../training.rst:218
@@ -989,18 +988,18 @@ msgstr ""
 # c6486a10e57d437c9f251d7264fee4d8
 #: ../../training.rst:234
 msgid ""
-"Sede: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
-"page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
-"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
-"pubblici (treno ed aereo)"
+"Sede: Pontedera (PI), presso `Pont-Tech "
+"<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
+"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
+"facilmente raggiungibili con mezzi pubblici (treno ed aereo)"
 msgstr ""
 
 # 6ec8651bb26c4281a98f2bf149dff974
 #: ../../training.rst:235
 msgid ""
-"`Dettagli sulla città <http://www.comune.pontedera.pi.it/cittadino/"
-"Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluse strutture "
-"ricettive)"
+"`Dettagli sulla città "
+"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive)"
 msgstr ""
 
 # 006cf21f616247a8b9e8617563a76b7b

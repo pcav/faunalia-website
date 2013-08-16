@@ -23,12 +23,12 @@ msgstr ""
 # 56bcab473aff44a6be177e81a69b3ec7
 #: ../../index.rst:16
 msgid "Faunalia"
-msgstr ""
+msgstr "Faunalia"
 
 # c24a6a0f2c1f47b581312366dd4113f7
 #: ../../index.rst:17
 msgid "Sistemi informativi territoriali liberi ed open source"
-msgstr ""
+msgstr "Free and open source Geographic Information Systems"
 
 # b29116aece954590a864d9174f6d8416
 #: ../../index.rst:21
@@ -46,7 +46,7 @@ msgstr ""
 # 2fd4a8b1ef644db38dcea8a1e8a61c03
 #: ../../index.rst:24
 msgid ":doc:`More info <dev>`"
-msgstr ""
+msgstr ":doc:`More info <dev>`"
 
 # 2c65bd5329b9402b8ff3cdd828a1c810
 #: ../../index.rst:27
@@ -65,7 +65,7 @@ msgstr ""
 # a2069a3f48204eed95a4f2d71236ff50
 #: ../../index.rst:30
 msgid ":doc:`More info <support>`"
-msgstr ""
+msgstr ":doc:`More info <support>`"
 
 # 74d5fd586c43466aafb1f532dfbf4ead
 #: ../../index.rst:33
@@ -82,4 +82,4 @@ msgstr "Need to know, quickly and effectively, how to master your free GIS?"
 # 80549d17aca94c20ba96853e17c8154d
 #: ../../index.rst:36
 msgid ":doc:`More info <training>`"
-msgstr ""
+msgstr ":doc:`More info <training>`"

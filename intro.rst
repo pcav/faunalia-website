@@ -14,7 +14,7 @@ Le nostre attività si basano sulla convinzione che il software libero e open so
 Utilizzare un GIS open source e libero offre numerosi vantaggi rispetto alle alternative proprietarie presenti sul mercato, sia per il cliente, sia per lo sviluppo sociale complessivo. Consente innanzitutto un controllo pieno e trasparente del software utilizzato e quindi una totale indipendenza del cliente rispetto ai fornitori.
 Da un punto di vista tecnico, i GIS open source consentono la massima flessibilità e personalizzazione delle soluzioni sviluppate e un costante aggiornamento del software, garantito dal lavoro di una rete di sviluppatori internazionale. Inoltre, rispetto ai sistemi proprietari, assicurano la massima persistenza dei dati geografici nel tempo e, grazie all’impiego di standard aperti, un’alta interoperabilità tra sistemi informativi.
 
-I software GIS hanno un costo complessivo più basso dei software proprietari e l’assenza di costi di licenza d’uso rimuove una barriera importante all’ingresso che favorisce una adozione maggiore, presso una più ampia varietà di utilizzatori e sempre legale.
+I software GIS liberi hanno un costo complessivo più basso dei software proprietari e l’assenza di costi di licenza d’uso rimuove una barriera importante all’ingresso che favorisce una adozione maggiore, presso una più ampia varietà di utilizzatori e sempre legale.
 Utilizzare GIS open source significa incentivare il lavoro di sviluppatori locali, arricchendo il territorio, incrementando le competenze a livello nazionale, favorendo una maggiore competizione e quindi offrendo maggiori tutele per il cliente rispetto ad offerte di tipo monopolistico.
 
 I nostri valori
@@ -29,7 +29,7 @@ Faunalia è inoltre particolarmente impegnata a diminuire il più possibile l'im
 
 I servizi
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-La nostra offerta di servizi è riassumibile in tre aree principali: :doc:`sviluppo <dev>`, :doc:`assistenza <dev>` e :doc:`formazione <training>`.
+La nostra offerta di servizi è riassumibile in tre aree principali: :doc:`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione <training>`.
 
 Faunalia lavora direttamente allo sviluppo del software che utilizza e offre sul mercato, collaborando con i migliori sviluppatori GIS a livello internazionale. Negli anni, abbiamo contribuito allo sviluppo di vari strumenti, fra cui QGIS, GRASS, PostGIS, GDAL/OGR. 
 
