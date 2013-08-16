@@ -1,6 +1,6 @@
 .. meta::
    :description: Faunalia home page
-   :keywords: free GIS, assistenza, supporto, corsi, formazione, sviluppo, programmazione, GIS
+   :keywords: GIS, QGIS, GRASS, OTB, PostGIS, PostgreSQL, WebMapping, MapServer, WebGISfree, Python, C++, SDI, OsGeo, OGC, assistenza, supporto, corsi, formazione, sviluppo, programmazione, risoluzione bugs, support, training, development, bug fixing, Open Source, Free Software, plugin, extensions, Software Libero, plugins, estensioni, formação,Software Livre, Software Aberto, extensões, IDE, desenvolvimento, programação, suporte, resolução bugs
 
 .. toctree::
     :maxdepth: 4
