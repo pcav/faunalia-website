@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013, Faunalia
 # This file is distributed under the same license as the Faunalia package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Paolo Cavallini <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
