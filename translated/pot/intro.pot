@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-15 16:00\n"
+"POT-Creation-Date: 2013-08-16 11:31\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -127,7 +127,7 @@ msgid "Socio fondatore di ed ex presidente di `GFOSS.it - Italian Geographic Fre
 msgstr ""
 
 #: ../../intro.rst:54
-#: ../../intro.rst:103
+#: ../../intro.rst:101
 # 91b830e33d514b42bc0d4ba120b29a63
 # 002a2ba14e974473904af291753a7487
 msgid "Socio e *charter member* della fondazione internazionale `OSGeo - Open Source Geospatial Foundation <http://www.osgeo.org/>`_"
@@ -159,208 +159,188 @@ msgid ":doc:`Curriculum Vitae (html) <cv_pc_it>`"
 msgstr ""
 
 #: ../../intro.rst:61
-# ccb3ec25d1984bdb83c126843415de55
-msgid "`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`_"
+# 70801919d32d45a49f60c7c3c9ff8b2e
+msgid "`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`_ - `europeo (pdf) <pdf/Cavallini_CV_eu.pdf>`_"
 msgstr ""
 
-#: ../../intro.rst:62
-# 0b69061ab8f14950a30001e307d7c7cf
-msgid "`Curriculum Vitae europeo (pdf) <pdf/Cavallini_CV_eu.pdf>`_"
+#: ../../intro.rst:63
+# a1c10919702c4131a1d76e6220ca4264
+msgid "*e-mail*: cavallini@faunalia.it - *PEC*: paolo.cavallini@pec.it"
 msgstr ""
 
 #: ../../intro.rst:64
-# ee15ea49cb0d4fe6a153d54150c9e39e
-msgid "*e-mail*: cavallini@faunalia.it"
-msgstr ""
-
-#: ../../intro.rst:65
-# 4b835b7d3f9f44119bcb6c43d5d1e581
-msgid "*PEC*: paolo.cavallini@pec.it"
-msgstr ""
-
-#: ../../intro.rst:66
 # 562538fe3850492b897e74d9da488379
 msgid "*Tel/Viber/Line*: +39-348-3801953"
 msgstr ""
 
-#: ../../intro.rst:67
+#: ../../intro.rst:65
 # ddeb7fed4ac144c28868c32f0ab08e9f
 msgid "*Skype*: paolo.gg.cavallini"
 msgstr ""
 
-#: ../../intro.rst:68
+#: ../../intro.rst:66
 # ef48c710cc5141428f4a63fdd6d7c6bf
 msgid "*Hangout*: paolo.cavallini@gmail.com"
 msgstr ""
 
-#: ../../intro.rst:75
+#: ../../intro.rst:73
 # f9455da96ee542f686cca3a8bb7e3a70
 msgid "Renzo Cavallini |it|"
 msgstr ""
 
-#: ../../intro.rst:82
+#: ../../intro.rst:80
 # d215a3c196514ec5ba09e0017316a243
 msgid "Geologo, specializzato in geofisica"
 msgstr ""
 
-#: ../../intro.rst:83
+#: ../../intro.rst:81
 # a941e57d4d3d46eca46dbce736b3c07c
 msgid "Ha collaborato a livello scientifico e didattico con l'Università di Pisa"
 msgstr ""
 
-#: ../../intro.rst:84
+#: ../../intro.rst:82
 # 0087018ded814a94b32cd15954383c31
 msgid "Ha pubblicato nel settore geofisico"
 msgstr ""
 
-#: ../../intro.rst:85
+#: ../../intro.rst:83
 # 20b1bb7560844a7d9c0381f9a9fe2510
 msgid "Conduce attività di prospezione geotecnica, in laboratorio ed *in situ*"
 msgstr ""
 
-#: ../../intro.rst:87
+#: ../../intro.rst:85
 # 8c776ccfffec4ebcacd4a1cde26213ef
 msgid "esecuzione ed elaborazione di prove di laboratorio su terreni naturali: consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), compressione semplice, analisi granulometrica, limiti di consistenza (LL, LP, LR), peso specifico dei granuli, permeabilità in cella edometrica, triassiale e in permeametro (norme seguite: racc. AGI, CNR, ASTM)"
 msgstr ""
 
-#: ../../intro.rst:88
+#: ../../intro.rst:86
 # 2292d4d618774c06b00909e8cec36b93
 msgid "esecuzione ed elaborazione di prove di laboratorio su materiali stradali e da costruzione: compattazione Proctor Standard e modificata, penetrazione CBR, miscelazione delle terre con calce (norme seguite: EN, CNR, ASTM)"
 msgstr ""
 
-#: ../../intro.rst:89
+#: ../../intro.rst:87
 # 7ad13ba891a34095a373571326c7bf4d
 msgid "esecuzione ed elaborazione di prove in situ: penetrometriche statiche con punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o senza rivestimento, PLT, densità in situ"
 msgstr ""
 
-#: ../../intro.rst:90
+#: ../../intro.rst:88
 # a698ea85eef84a51968d3a02107c110e
 msgid "installazione e messa a punto di apparecchiature di laboratorio e di sistemi di acquisizione automatica; calibrazione di trasduttori elettrici"
 msgstr ""
 
-#: ../../intro.rst:92
+#: ../../intro.rst:90
 # 83a29ae79c2049309aa7b8a55a62fa2f
 msgid "*e-mail*: renzo.cavallini@faunalia.it"
 msgstr ""
 
-#: ../../intro.rst:95
+#: ../../intro.rst:93
 # 9383e9c37e4a47a49746f366dab2ea19
 msgid "Giovanni Manghi |pt|"
 msgstr ""
 
-#: ../../intro.rst:101
+#: ../../intro.rst:99
 # 1d1bba1b63f549919e39c82a9ffabf8b
 msgid "Fondatore di Faunalia Portogallo"
 msgstr ""
 
-#: ../../intro.rst:102
+#: ../../intro.rst:100
 # bd1de22296ec4e22bbd51fb068bc122b
 msgid "Biologo specializzato in Conservation Biology"
 msgstr ""
 
-#: ../../intro.rst:104
+#: ../../intro.rst:102
 # 410be7bb469d4d3f8355f869cbf7f73e
 msgid "Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and Open-Source Software Association <http://osgeopt.pt/>`_"
 msgstr ""
 
-#: ../../intro.rst:105
+#: ../../intro.rst:103
 # d205d8820a054459a8ed6577f04a3945
 msgid "Membro di `IUCN - The World Conservation Union - *IUCN Small Carnivore Specialist Group* <http://www.iucn.org/>`_"
 msgstr ""
 
-#: ../../intro.rst:106
-#: ../../intro.rst:127
+#: ../../intro.rst:104
+#: ../../intro.rst:124
 # 5124bd8f369744908e0748675ec84bfc
-# 40956e025fb84c3ebcdcf87e37e9cef2
+# 5124bd8f369744908e0748675ec84bfc
 msgid "Otre 7 anni di esperienza sui GIS liberi"
 msgstr ""
 
-#: ../../intro.rst:108
+#: ../../intro.rst:106
 # 5e966bb94bde4c998a6b3b92146670fe
 msgid ":doc:`Curriculum Vitae (html) <cv_gm_it>`"
 msgstr ""
 
-#: ../../intro.rst:109
-# 229e857d78694f00b13da35f17eb798e
-msgid "`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_"
-msgstr ""
-
-#: ../../intro.rst:110
+#: ../../intro.rst:107
 # fb9167a7fa5b4395a8d03095f9ae74cd
-msgid "`Curriculum Vitae europeo (pdf) <pdf/Manghi_CV_eu.pdf>`_"
+msgid "`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_ - `europeo (pdf) <pdf/Manghi_CV_eu.pdf>`_"
 msgstr ""
 
-#: ../../intro.rst:112
+#: ../../intro.rst:109
 # ffe9dba9d9084eec9b1bc694a13d14c8
 msgid "*e-mail*: giovanni.manghi@faunalia.pt"
 msgstr ""
 
-#: ../../intro.rst:113
+#: ../../intro.rst:110
 # 2582499f254145ab947e43398f847d2a
 msgid "*Tel/Viber/Line*: +351967058216"
 msgstr ""
 
-#: ../../intro.rst:114
+#: ../../intro.rst:111
 # 94b11ec41adf4fb6b92269803791d2b3
 msgid "*Skype*: toirao"
 msgstr ""
 
-#: ../../intro.rst:115
+#: ../../intro.rst:112
 # e4e7fedc0e64415b933a3697b1f5ba7a
 msgid "*Hangout*: giovanni.manghi@gmail.com"
 msgstr ""
 
-#: ../../intro.rst:118
+#: ../../intro.rst:115
 # 123b48c4848841d7a067b5e2807b1237
 msgid "Vânia Neves |pt|"
 msgstr ""
 
-#: ../../intro.rst:124
+#: ../../intro.rst:121
 # c8fe807c719d4accaf32b9de56c8052f
 msgid "Fondatrice di Faunalia Portogallo"
 msgstr ""
 
-#: ../../intro.rst:125
+#: ../../intro.rst:122
 # 3302a8057ad84b31bb704cb9cf64f399
 msgid "Biologa specializzata in Conservation Biology"
 msgstr ""
 
-#: ../../intro.rst:126
+#: ../../intro.rst:123
 # d4c4e12b263e44dcaba02fb47b11c091
 msgid "Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and Open-Source Software Association <http://osgeopt.pt/>`_"
 msgstr ""
 
-#: ../../intro.rst:129
+#: ../../intro.rst:126
 # c61b6797a4d349d4850a9c54fa7bad24
 msgid ":doc:`Curriculum Vitae (html) <cv_vn_it>`"
 msgstr ""
 
-#: ../../intro.rst:130
-# ffa9133741aa4bb9bbc1ac7078575add
-msgid "`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_"
+#: ../../intro.rst:127
+# 8630faa3be4b4cda952d6b505825b794
+msgid "`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_ - `europeo (pdf) <pdf/Neves_CV_eu.pdf>`_"
 msgstr ""
 
-#: ../../intro.rst:131
-# 8b94df5f59644a2e828b7bf94082a858
-msgid "`Curriculum Vitae europeo (pdf) <pdf/Neves_CV_eu.pdf>`_"
-msgstr ""
-
-#: ../../intro.rst:133
+#: ../../intro.rst:129
 # b0065d3562d842c99a9f1538ef8294d5
 msgid "*e-mail*: vania.neves@faunalia.pt"
 msgstr ""
 
-#: ../../intro.rst:134
+#: ../../intro.rst:130
 # a9bf96c16e8741d081b517dda0e32917
 msgid "*Tel/Viber/Line*: +351939320104"
 msgstr ""
 
-#: ../../intro.rst:135
+#: ../../intro.rst:131
 # 680517e0e79044fc97eb353ec1de2c9b
 msgid "*Skype*: vaniavanilla"
 msgstr ""
 
-#: ../../intro.rst:136
+#: ../../intro.rst:132
 # 9e4f84fd6de14c91b786a8ea23c215e6
 msgid "*Hangout*: vbneves@gmail.com"
 msgstr ""

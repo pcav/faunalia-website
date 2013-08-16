@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Faunalia \n"
+"Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-14 20:47\n"
+"POT-Creation-Date: 2013-08-16 10:29\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: pt_PT\n"
+"X-Source-Language: it_IT\n"
 
 # 56bcab473aff44a6be177e81a69b3ec7
 #: ../../index.rst:16
@@ -30,7 +33,7 @@ msgstr ""
 # b29116aece954590a864d9174f6d8416
 #: ../../index.rst:21
 msgid "Sviluppo"
-msgstr ""
+msgstr "Desenvolvimento"
 
 # 1e0a20d246044004ba27ccf7bbb05251
 #: ../../index.rst:22
@@ -38,16 +41,18 @@ msgid ""
 "Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro "
 "o di correggere un bug?"
 msgstr ""
+"Precisa de uma nova ferramenta ou extensão para a execução de tarefas "
+"específicas ou de corrigir um bug?"
 
 # 2fd4a8b1ef644db38dcea8a1e8a61c03
 #: ../../index.rst:24
 msgid ":doc:`More info <dev>`"
-msgstr ""
+msgstr ":doc:`More info <dev>`"
 
 # 2c65bd5329b9402b8ff3cdd828a1c810
 #: ../../index.rst:27
 msgid "Assistenza"
-msgstr ""
+msgstr "Assistência"
 
 # 0413ebabaffd4d768717bd48f723e880
 #: ../../index.rst:28
@@ -55,16 +60,18 @@ msgid ""
 "Vuoi la certezza e la tranquillità di un supporto costante per la soluzione "
 "dei tuoi problemi?"
 msgstr ""
+"Quer ter a certeza e tranquilidade de um suporte contínuo para a solução dos "
+"seus problemas?"
 
 # a2069a3f48204eed95a4f2d71236ff50
 #: ../../index.rst:30
 msgid ":doc:`More info <support>`"
-msgstr ""
+msgstr ":doc:`More info <support>`"
 
 # 74d5fd586c43466aafb1f532dfbf4ead
 #: ../../index.rst:33
 msgid "Corsi"
-msgstr ""
+msgstr "Formações"
 
 # 1e7ec7a2516c48aa90fbd6563a143a77
 #: ../../index.rst:34
@@ -72,8 +79,26 @@ msgid ""
 "Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il "
 "tuo GIS?"
 msgstr ""
+"Quer aprender, rapidamente e de forma eficaz, como compreender e gerir os "
+"SIG?"
 
 # 80549d17aca94c20ba96853e17c8154d
 #: ../../index.rst:36
 msgid ":doc:`More info <training>`"
-msgstr ""
+msgstr ":doc:`More info <training>`"
+
+# 6b6a7e7df7a64e8eb22e79f72ef832f4
+#~ msgid "Attività svolte"
+#~ msgstr "Actividades e trabalhos"
+
+# 991f0deeb98e44e9aa684ccc0e5e931d
+#~ msgid ":doc:`More info <jobs>`"
+#~ msgstr ":doc:`More info <jobs>`"
+
+# 376793a3f58043c9b6f0f0bf22a3efd0
+#~ msgid "Chi siamo"
+#~ msgstr "Quem somos"
+
+# 8b1d74fd505143fa92f52d472cc10beb
+#~ msgid ":doc:`More info <staff>`"
+#~ msgstr ":doc:`More info <staff>`"
