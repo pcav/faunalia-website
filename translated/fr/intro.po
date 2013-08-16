@@ -249,7 +249,7 @@ msgstr "*e-mail*: cavallini@faunalia.it"
 # 4fdb623e0c714eb8a3a338bc165c17b2
 #: ../../intro.rst:65
 msgid "*PEC*: paolo.cavallini@pec.it"
-msgstr " "
+msgstr ""
 
 # 2796ab88a4474c5fa01132a029cc64b8
 #: ../../intro.rst:66
