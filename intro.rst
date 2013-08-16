@@ -8,7 +8,7 @@ La nostra visione
 
 Le nostre attività si basano sulla convinzione che il software libero e open source sia la scelta migliore e più efficace, in particolare in relazione ai GIS.
 Utilizzare un GIS open source e libero offre numerosi vantaggi rispetto alle alternative proprietarie presenti sul mercato, sia per il cliente, sia per lo sviluppo sociale complessivo. Consente innanzitutto un controllo pieno e trasparente del software utilizzato e quindi una totale indipendenza del cliente rispetto ai fornitori.
-Da un punto di vista tecnico, i GIS open source consentono la massima flessibilità e personalizzazione delle soluzioni sviluppate e un costante aggiornamento del software, garantito dal lavoro di una rete di sviluppatori internazionale. Inoltre, rispetto ai sistemi proprietari, assicurano la massima persistenza dei dati geografici nel tempo e, grazie all’impego di standard aperti, un’alta interoperabilità tra sistemi informativi.
+Da un punto di vista tecnico, i GIS open source consentono la massima flessibilità e personalizzazione delle soluzioni sviluppate e un costante aggiornamento del software, garantito dal lavoro di una rete di sviluppatori internazionale. Inoltre, rispetto ai sistemi proprietari, assicurano la massima persistenza dei dati geografici nel tempo e, grazie all’impiego di standard aperti, un’alta interoperabilità tra sistemi informativi.
 
 I software GIS hanno un costo complessivo più basso dei software proprietari e l’assenza di costi di licenza d’uso rimuove una barriera importante all’ingresso che favorisce una adozione maggiore, presso una più ampia varietà di utilizzatori e sempre legale.
 Utilizzare GIS open source significa incentivare il lavoro di sviluppatori locali, arricchendo il territorio, incrementando le competenze a livello nazionale, favorendo una maggiore competizione e quindi offrendo maggiori tutele per il cliente rispetto ad offerte di tipo monopolistico.
@@ -21,7 +21,7 @@ Le attività di Faunalia si basano su valori per noi fondamentali:
 * **centralità del cliente**: le esigenze del cliente sono il criterio guida delle nostre attività, non soltanto per perseguirne la completa soddisfazione, ma per renderlo pienamente in possesso delle soluzioni sviluppate e del know-how per il suo utilizzo, evitando di instaurare una dipendenza dal fornitore
 * **qualità**: garantiamo standard di qualità alti, anche mediante il nostro continuo aggiornamento teorico e pratico sui GIS e la collaborazione con i migliori sviluppatori nazionali e internazionali. 
 
-Faunalia è inoltre particolarmente impegnata e diminuire il più possibile l'impatto delle proprie attività sull'ambiente, quindi: riduciamo i nostri spostamenti, privilegiando il lavoro da remoto; utilizziamo, in modo accorto, l’energia elettrica proveniente da fonti rinnovabili certificate; adottiamo cicli di utilizzo dell'hardware più lunghi di quelli standard, e favoriamo il riutilizzo delle singole componenti e il trashware.
+Faunalia è inoltre particolarmente impegnata a diminuire il più possibile l'impatto delle proprie attività sull'ambiente, quindi: riduciamo i nostri spostamenti, privilegiando il lavoro da remoto; utilizziamo, in modo accorto, l’energia elettrica proveniente da fonti rinnovabili certificate; adottiamo cicli di utilizzo dell'hardware più lunghi di quelli standard, e favoriamo il riutilizzo delle singole componenti e il trashware.
 
 I servizi
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -29,7 +29,7 @@ La nostra offerta di servizi è riassumibile in tre aree principali: :doc:`svilu
 
 Faunalia lavora direttamente allo sviluppo del software che utilizza e offre sul mercato, collaborando con i migliori sviluppatori GIS a livello internazionale. Negli anni, abbiamo contribuito allo sviluppo di vari strumenti, fra cui QGIS, GRASS, PostGIS, GDAL/OGR. 
 
-Oltre allo svilluppo software, offriamo, a costi competitivi, attività di intervento rapido e di assistenza continuativa su tutte le problematiche relative ai GIS.
+Oltre allo sviluppo software, offriamo, a costi competitivi, attività di intervento rapido e di assistenza continuativa su tutte le problematiche relative ai GIS.
 
 Infine teniamo corsi di formazione teorico-pratica, sia standard, sia personalizzati, presso le nostre sedi e presso i nostri clienti.
 
@@ -101,7 +101,7 @@ Giovanni Manghi |pt|
 * Socio e *charter member* della fondazione internazionale `OSGeo - Open Source Geospatial Foundation <http://www.osgeo.org/>`_
 * Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and Open-Source Software Association <http://osgeopt.pt/>`_
 * Membro di `IUCN - The World Conservation Union - *IUCN Small Carnivore Specialist Group* <http://www.iucn.org/>`_
-* Otre 7 anni di esperienza sui GIS liberi
+* Oltre 7 anni di esperienza sui GIS liberi
 
 * :doc:`Curriculum Vitae (html) <cv_gm_it>`
 * `Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_ - `europeo (pdf) <pdf/Manghi_CV_eu.pdf>`_
@@ -121,7 +121,7 @@ Vânia Neves |pt|
 * Fondatrice di Faunalia Portogallo
 * Biologa specializzata in Conservation Biology
 * Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and Open-Source Software Association <http://osgeopt.pt/>`_
-* Otre 7 anni di esperienza sui GIS liberi
+* Oltre 7 anni di esperienza sui GIS liberi
 
 * :doc:`Curriculum Vitae (html) <cv_vn_it>`
 * `Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_ - `europeo (pdf) <pdf/Neves_CV_eu.pdf>`_

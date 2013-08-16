@@ -6,7 +6,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Faunalia \n"
+"Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-10 09:25\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -16,11 +16,14 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Language: fr_FR\n"
+"X-Source-Language: it_IT\n"
 
 # 53903b0dcdd448bcbcfc9f5249e6b640
 #: ../../training.rst:2
 msgid "Corsi"
-msgstr ""
+msgstr "Formation"
 
 # 569fbe419395479fa68a71fa26ab5c35
 #: ../../training.rst:4
@@ -29,6 +32,9 @@ msgid ""
 "liberi, avendo realizzato oltre 150 fra corsi, seminari e workshops, in "
 "italiano, inglese, portoghese e francese."
 msgstr ""
+"Faunalia a une très grande expérience dans la formation sur les SIG libres, "
+"ayant fourni plus de 150 entre cours, des séminaires et des ateliers, en "
+"italien, anglais, portugais et français."
 
 # e109329698d54390a2cd6e6bf84ad8d2
 #: ../../training.rst:6
@@ -36,6 +42,8 @@ msgid ""
 "I corsi sono sempre aggiornati, utilizzando le ultime versioni disponibili "
 "di ciascun software."
 msgstr ""
+"Les cours sont toujours mis à jour, en utilisant les dernières versions "
+"disponibles de chaque logiciel."
 
 # 3e08c83a12ac470fbc3908497d3513b6
 #: ../../training.rst:8
@@ -43,18 +51,24 @@ msgid ""
 "Possiamo realizzare sia corsi standard che personalizzati, sia presso la "
 "nostra sede che nella vostra."
 msgstr ""
+"Nous pouvons fournir des cours soit standard soit personnalisées selon votre "
+"exigeances, soit à notre siège soit chez vous."
 
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:10
 msgid ""
-"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
+"annunci di nuovi corsi."
 msgstr ""
+"Abonnez-vous à la `liste de diffusion "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/formation>`_ pour "
+"recevoir les annonces des nouvelles activités de formation."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:13
 msgid "Perché scegliere i corsi di Faunalia?"
-msgstr ""
+msgstr "Pourquoi choisir les cours de Faunalia?"
 
 # c063e1ef04554858b03c2c17e18b442f
 #: ../../training.rst:15
@@ -63,6 +77,9 @@ msgid ""
 "gradimento sempre molto alti (fra l'82% e il 93%, sulla base di questionari "
 "anonimi)"
 msgstr ""
+"Ils ont une bonne qualité pédagogique: ils sont évalués régulièrement, avec "
+"évaluations toujours très élevée (entre 82% et 93%, sur la base de "
+"questionnaires anonymes)"
 
 # 9aecb8cf6656432bbf15c4b9449bbaa7
 #: ../../training.rst:16
@@ -70,6 +87,8 @@ msgid ""
 "Sono completamente interattivi: la teoria è quindi sempre abbinata alla "
 "pratica"
 msgstr ""
+"Ils sont entièrement interactifs: la théorie est donc toujours unie à la "
+"pratique"
 
 # f000e97b2abf4634b392ec28e7039c7c
 #: ../../training.rst:17
@@ -79,6 +98,10 @@ msgid ""
 "membro dello *Steering Committee* di QGIS, e Faunalia ha sviluppato parti di "
 "GRASS, PostGIS, GDAL ecc."
 msgstr ""
+"Sont enseignés par des moniteurs qui sont activement contribuent depuis des "
+"années au développement des logiciels traités. En particulier, Paolo "
+"Cavallini est membre du Comité de pilotage de QGIS et Faunalia a développé "
+"functions pour GRASS, PostGIS, GDAL, etc."
 
 # 9596721bc5974de490fe070e18d5b240
 #: ../../training.rst:18
@@ -86,6 +109,8 @@ msgid ""
 "Hanno un costo sensibilmente inferiore alle alternative proprietarie "
 "presenti sul mercato"
 msgstr ""
+"Ils coûtent beaucoup moins cher que les solutions propriétaires disponibles "
+"sur le marché"
 
 # 635858b71d10443db81b33db572ceec4
 #: ../../training.rst:19
@@ -93,20 +118,25 @@ msgid ""
 "Contribuiscono al miglioramento dei software utilizzati, destinando al loro "
 "sviluppo parte delle quote di iscrizione"
 msgstr ""
+"Contribuer à l'amélioration des logiciels utilisés, en allouant une partie "
+"des frais d'inscription au développement de base"
 
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:20
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
-"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
-"<http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
+"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
+"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
+"Autorisent l'accès aux examens pour AICA `ECDL-GIS "
+"<http://www.aicanet.it/aica/ecdl-gis/>` _. Paolo Cavallini est `examinateur "
+"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
 #: ../../training.rst:23 ../../training.rst:215
 msgid "Cartografia con QGIS"
-msgstr ""
+msgstr "Cartographie avec QGIS"
 
 # 80edd07044dc4aebbb245702028598a8
 #: ../../training.rst:25
@@ -115,6 +145,8 @@ msgid ""
 "tematizzarli e produrre mappe di alta qualità grafica ed informativa. ad "
 "elevato contenuto informativo e ad alta qualità grafica"
 msgstr ""
+"Pour apprendre à installer et utiliser QGIS, accéder aux données, et "
+"produire des cartes thematiques de haute qualité informative et graphique"
 
 # 3abb49f5677b45f9b62422fa3e6d26b9
 #: ../../training.rst:28
@@ -122,6 +154,8 @@ msgid ""
 "Adatto anche a chi ha poca esperienza sui GIS e sulla cartografia. È "
 "necessario avere dimestichezza con l'uso del PC."
 msgstr ""
+"Adapté même à qui n'a pas une très grande expérience sur les SIG et "
+"cartographie."
 
 # 0df4bcbac88b4ab781d9de43a538bc7c
 # 2b4af28416b84e8f934ec1d53e670e98
@@ -131,17 +165,17 @@ msgstr ""
 #: ../../training.rst:31 ../../training.rst:73 ../../training.rst:111
 #: ../../training.rst:156 ../../training.rst:189
 msgid "Argomenti principali"
-msgstr ""
+msgstr "Thèmes principaux"
 
 # 3abc1e0cc88548a7b85dc43e7151f618
 #: ../../training.rst:33
 msgid "Breve introduzione ai Sistemi Informativi Geografici opensource"
-msgstr ""
+msgstr "Brève introduction aux systèmes d'information géographique libres"
 
 # 8ca44401dfb44b978be9a75a3bec63b6
 #: ../../training.rst:34
 msgid "Introduzione a QGIS"
-msgstr ""
+msgstr "Introduction à QGIS"
 
 # 9eff9b5bca0f47dbbeec17c76d9edf6a
 #: ../../training.rst:35
@@ -853,18 +887,18 @@ msgstr ""
 # c6486a10e57d437c9f251d7264fee4d8
 #: ../../training.rst:232
 msgid ""
-"Sede: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
-"page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
-"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
-"pubblici (treno ed aereo)"
+"Sede: Pontedera (PI), presso `Pont-Tech "
+"<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
+"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
+"facilmente raggiungibili con mezzi pubblici (treno ed aereo)"
 msgstr ""
 
 # 6ec8651bb26c4281a98f2bf149dff974
 #: ../../training.rst:233
 msgid ""
-"`Dettagli sulla città <http://www.comune.pontedera.pi.it/cittadino/"
-"Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluse strutture "
-"ricettive)"
+"`Dettagli sulla città "
+"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive)"
 msgstr ""
 
 # 006cf21f616247a8b9e8617563a76b7b
