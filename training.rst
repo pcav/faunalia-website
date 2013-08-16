@@ -48,6 +48,8 @@ Argomenti principali
 * Digitalizzazione dei vettori, vettorializzazione avanzata di tipo "CAD"
 * I geodatabase e QGIS: PostGIS e SpatiaLite
 * Caricare dati dal web: soluzioni proprietarie, libere e standard (Google Maps, OpenLayers, WMS, WFS, WFS-T, CSW, WPS)
+* Gestione di fotografie georeferenziate
+* Esportazione dati per Google Earth
 * I dati geografici raster
 
   * caratteristiche e proprietà, tematizzazione
@@ -75,7 +77,7 @@ Argomenti principali
 
   * QGIS e i suoi plugins
   * Plugins addizionali
-  * SEXTANTE
+  * processing
   * GRASS
   * SAGA
   * Orfeo ToolBox (OTB)
@@ -158,7 +160,7 @@ Argomenti principali
 * Introduzione ai sistemi informativi territoriali opensource
 * Vantaggi dell'uso di un database nel GIS
 * Introduzione al RDBMS Open Source PostgreSQL
-* Schemi tabelle, viste, domini, funzioni
+* Schemi, tabelle, viste, domini, funzioni
 * Prima configurazione del database
 * Utenti, permessi, accessi
 * Introduzione a PostGIS (standard Open Geospatial Consortium)
@@ -177,7 +179,7 @@ Durata
 ===================================================
 Tre giorni *full time*
 
-WebMapping con Quantum GIS
+WebMapping con QGIS
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 Per apprendere in breve tempo il più innovativo e semplice ambiente di sviluppo per WebGIS e WebMapping, basato su QGIS.
 
@@ -209,15 +211,15 @@ Calendario
 
 .. note:: can we add an "export as calendar" link?
 .. rst-class:: table  
-===================================  ===============  ====================
-Corso                                Date e durata    Scadenza iscrizione
-===================================  ===============  ====================
-Cartografia con QGIS                 25-27 Settembre  10 Settembre
-Analisi con QGIS                     16-18 Ottobre    1 Ottobre
-Creare un plugin in Python per QGIS  13-15 Novembre   28 Ottobre
-Geodatabase (PostgreSQL / PostGIS)   11-13 Dicembre   25 Novembre
-Web Mapping con QGIS                 23-24 Gennaio    10 Gennaio
-===================================  ===============  ====================
+===================================  ===============  ==================== ============== ===========
+Corso                                Date e durata    Scadenza iscrizione  Dove           Lingua
+===================================  ===============  ==================== ============== ===========
+Cartografia con QGIS                 25-27 Settembre  10 Settembre         Pontedera, IT  Italiano
+Analisi con QGIS                     16-18 Ottobre    1 Ottobre            Pontedera, IT  Italiano
+Creare un plugin in Python per QGIS  13-15 Novembre   28 Ottobre           Pontedera, IT  Italiano
+Geodatabase (PostgreSQL / PostGIS)   11-13 Dicembre   25 Novembre          Pontedera, IT  Italiano
+Web Mapping con QGIS                 23-24 Gennaio    10 Gennaio           Pontedera, IT  Italiano
+===================================  ===============  ==================== ============== ===========
 
 Costi
 ===================================================
