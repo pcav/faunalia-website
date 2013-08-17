@@ -216,10 +216,6 @@ Due giorni *full time*
 Calendario 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-.. note:: can we add an "export as calendar" link?
-
-`Download the calendar <https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_
-
 .. rst-class:: table  
 ===================================  ===============  ==================== ============== ===========
 Corso                                Date e durata    Scadenza iscrizione  Dove           Lingua
@@ -230,6 +226,8 @@ Creare un plugin in Python per QGIS  13-15 Novembre   28 Ottobre           Ponte
 Geodatabase (PostgreSQL / PostGIS)   11-13 Dicembre   25 Novembre          Pontedera, IT  Italiano
 Web Mapping con QGIS                 23-24 Gennaio    10 Gennaio           Pontedera, IT  Italiano
 ===================================  ===============  ==================== ============== ===========
+
+* `Scarica il calendario (ics) <https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_
 
 Costi
 ===================================================
