@@ -217,6 +217,9 @@ Calendario
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. note:: can we add an "export as calendar" link?
+
+`Download the calendar <https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_
+
 .. rst-class:: table  
 ===================================  ===============  ==================== ============== ===========
 Corso                                Date e durata    Scadenza iscrizione  Dove           Lingua
