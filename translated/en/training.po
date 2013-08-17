@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-16 19:28\n"
+"POT-Creation-Date: 2013-08-17 08:48\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -50,13 +50,11 @@ msgstr ""
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:17
 msgid ""
-"Iscrivetevi alla `mailing list "
-"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
-"annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
+"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
 msgstr ""
-"Subscribe to the `mailing list "
-"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/training>`_ to receive "
-"the updates for new training activities."
+"Subscribe to the `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
+"listinfo/training>`_ to receive the updates for new training activities."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:20
@@ -104,14 +102,14 @@ msgstr ""
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:27
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
-"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
-"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
+"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
+"<http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
 
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
-#: ../../training.rst:30 ../../training.rst:227
+#: ../../training.rst:30 ../../training.rst:223
 msgid "Cartografia con QGIS"
 msgstr ""
 
@@ -279,7 +277,7 @@ msgstr ""
 
 # bd04cff96a1d4414899ef132ad5ba7bf
 # 84a61dcdc830454e9665797c69bd9891
-#: ../../training.rst:73 ../../training.rst:228
+#: ../../training.rst:73 ../../training.rst:224
 msgid "Analisi con QGIS"
 msgstr ""
 
@@ -753,51 +751,38 @@ msgstr ""
 msgid "Calendario"
 msgstr ""
 
-# ef91c79029d24058aa6f369f43989746
-#: ../../training.rst:219
-msgid "can we add an \"export as calendar\" link?"
-msgstr ""
-
-# 52fcfe35655c40ea911c20211b41f093
-#: ../../training.rst:221
-#, qt-format
-msgid ""
-"`Download the calendar "
-"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
-msgstr ""
-
 # fd32804ea5bd4e2cbcc55e2215916841
-#: ../../training.rst:225
+#: ../../training.rst:221
 msgid "Corso"
 msgstr ""
 
 # 082c1727399c46559630c90ca6bdb646
-#: ../../training.rst:225
+#: ../../training.rst:221
 msgid "Date e durata"
 msgstr ""
 
 # e11809ab1d4a491b988a741ed5e19169
-#: ../../training.rst:225
+#: ../../training.rst:221
 msgid "Scadenza iscrizione"
 msgstr ""
 
 # bb3f3fd4c0f540c9be634544c24ef06f
-#: ../../training.rst:225
+#: ../../training.rst:221
 msgid "Dove"
 msgstr ""
 
 # 1e70f16134fc41959674ee86105a3436
-#: ../../training.rst:225
+#: ../../training.rst:221
 msgid "Lingua"
 msgstr ""
 
 # 5264f422ac9d4034a6d68c5b38458a39
-#: ../../training.rst:227
+#: ../../training.rst:223
 msgid "25-27 Settembre"
 msgstr ""
 
 # 1477ed8907e24345b0045abe4fb7372a
-#: ../../training.rst:227
+#: ../../training.rst:223
 msgid "10 Settembre"
 msgstr ""
 
@@ -806,8 +791,8 @@ msgstr ""
 # b926fe538c0a4266816e9a2e2da861a4
 # fa87477f305244138e8c92056cc005d3
 # bfaca8e307114040a30a78bdd2317625
-#: ../../training.rst:227 ../../training.rst:228 ../../training.rst:229
-#: ../../training.rst:230 ../../training.rst:231
+#: ../../training.rst:223 ../../training.rst:224 ../../training.rst:225
+#: ../../training.rst:226 ../../training.rst:227
 msgid "Pontedera, IT"
 msgstr ""
 
@@ -816,120 +801,127 @@ msgstr ""
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
-#: ../../training.rst:227 ../../training.rst:228 ../../training.rst:229
-#: ../../training.rst:230 ../../training.rst:231
+#: ../../training.rst:223 ../../training.rst:224 ../../training.rst:225
+#: ../../training.rst:226 ../../training.rst:227
 msgid "Italiano"
 msgstr ""
 
 # 789f35850632463296adba2404463064
-#: ../../training.rst:228
+#: ../../training.rst:224
 msgid "16-18 Ottobre"
 msgstr ""
 
 # 01f98806e0874655a3cf578f9a0d6623
-#: ../../training.rst:228
+#: ../../training.rst:224
 msgid "1 Ottobre"
 msgstr ""
 
 # 93622693fbc3409ea870fc8d6b853c71
-#: ../../training.rst:229
+#: ../../training.rst:225
 msgid "Creare un plugin in Python per QGIS"
 msgstr ""
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
-#: ../../training.rst:229
+#: ../../training.rst:225
 msgid "13-15 Novembre"
 msgstr ""
 
 # ac7a57cb7dc44f15b51b36d55e91b27c
-#: ../../training.rst:229
+#: ../../training.rst:225
 msgid "28 Ottobre"
 msgstr ""
 
 # 7a7ec0040dc243a29b9a554247e0fe1b
-#: ../../training.rst:230
+#: ../../training.rst:226
 msgid "Geodatabase (PostgreSQL / PostGIS)"
 msgstr ""
 
 # f7db670e6b22473f88e2168c85cf783a
-#: ../../training.rst:230
+#: ../../training.rst:226
 msgid "11-13 Dicembre"
 msgstr ""
 
 # 98d67ad8d1324a71a5b91e8e65dc3716
-#: ../../training.rst:230
+#: ../../training.rst:226
 msgid "25 Novembre"
 msgstr ""
 
 # 660512ec03ae4bc59a877c8ec19a3162
-#: ../../training.rst:231
+#: ../../training.rst:227
 msgid "Web Mapping con QGIS"
 msgstr ""
 
 # b28a9fbcf9964ba28a693bb9feccab9b
-#: ../../training.rst:231
+#: ../../training.rst:227
 msgid "23-24 Gennaio"
 msgstr ""
 
 # 2837589f472d43e6b2fcc68aa9118522
-#: ../../training.rst:231
+#: ../../training.rst:227
 msgid "10 Gennaio"
 msgstr ""
 
+# cb5c68a9adc449d8a912f7006c1d1d6c
+#: ../../training.rst:230
+msgid ""
+"`Scarica il calendario (ics) <https://www.google.com/calendar/ical/"
+"faunaliagis%40gmail.com/public/basic.ics>`_"
+msgstr ""
+
 # 2b01fbfd1fbb417da072f5b12ca3fae2
-#: ../../training.rst:235
+#: ../../training.rst:233
 msgid "Costi"
 msgstr ""
 
 # 4868573d5e6e42e294a4f6e77e566933
-#: ../../training.rst:237
+#: ../../training.rst:235
 msgid ""
 "Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA "
 "(meno la ritenuta d'acconto, da versare 323,41 €)"
 msgstr ""
 
 # a3e955054ac444d8bf2ab1805f051ce3
-#: ../../training.rst:238
+#: ../../training.rst:236
 msgid ""
 "Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA per "
 "aziende/partite IVA (meno la ritenuta d'acconto, da versare 272,88 €)"
 msgstr ""
 
 # c317ea377fba42d99ac33d7b4be557ba
-#: ../../training.rst:239
+#: ../../training.rst:237
 msgid "Sconto 5% per l'iscrizione simultanea a più corsi"
 msgstr ""
 
 # 9da0e2efb514451bacaad5b961947b64
-#: ../../training.rst:242
+#: ../../training.rst:240
 msgid "Logistica"
 msgstr ""
 
 # c6486a10e57d437c9f251d7264fee4d8
-#: ../../training.rst:244
+#: ../../training.rst:242
 msgid ""
-"Sede: Pontedera (PI), presso `Pont-Tech "
-"<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
-"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
-"facilmente raggiungibili con mezzi pubblici (treno ed aereo)"
+"Sede: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
+"page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
+"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
+"pubblici (treno ed aereo)"
 msgstr ""
 
 # 6ec8651bb26c4281a98f2bf149dff974
-#: ../../training.rst:245
+#: ../../training.rst:243
 msgid ""
-"`Dettagli sulla città "
-"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluse strutture ricettive)"
+"`Dettagli sulla città <http://www.comune.pontedera.pi.it/cittadino/"
+"Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluse strutture "
+"ricettive)"
 msgstr ""
 
 # 006cf21f616247a8b9e8617563a76b7b
-#: ../../training.rst:246
+#: ../../training.rst:244
 msgid ""
 "B&B `Il Piccolo <http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per "
 "camere singole/doppie/triple"
 msgstr ""
 
 # e11809ab1d4a491b988a741ed5e19169
-#: ../../training.rst:249
+#: ../../training.rst:247
 msgid "Modulo di iscrizione"
 msgstr ""

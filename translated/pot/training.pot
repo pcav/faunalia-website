@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-16 19:28\n"
+"POT-Creation-Date: 2013-08-17 08:48\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -77,7 +77,7 @@ msgid "Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <htt
 msgstr ""
 
 #: ../../training.rst:30
-#: ../../training.rst:227
+#: ../../training.rst:223
 # 9df10e3690b541f18c1a208a812d8836
 # 9df10e3690b541f18c1a208a812d8836
 msgid "Cartografia con QGIS"
@@ -246,7 +246,7 @@ msgid "Tre giorni *full time*"
 msgstr ""
 
 #: ../../training.rst:73
-#: ../../training.rst:228
+#: ../../training.rst:224
 # bd04cff96a1d4414899ef132ad5ba7bf
 # bd04cff96a1d4414899ef132ad5ba7bf
 msgid "Analisi con QGIS"
@@ -667,56 +667,46 @@ msgstr ""
 msgid "Calendario"
 msgstr ""
 
-#: ../../training.rst:219
-# ef91c79029d24058aa6f369f43989746
-msgid "can we add an \"export as calendar\" link?"
-msgstr ""
-
 #: ../../training.rst:221
-# 52fcfe35655c40ea911c20211b41f093
-msgid "`Download the calendar <https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
-msgstr ""
-
-#: ../../training.rst:225
 # fd32804ea5bd4e2cbcc55e2215916841
 msgid "Corso"
 msgstr ""
 
-#: ../../training.rst:225
+#: ../../training.rst:221
 # 082c1727399c46559630c90ca6bdb646
 msgid "Date e durata"
 msgstr ""
 
-#: ../../training.rst:225
+#: ../../training.rst:221
 # e11809ab1d4a491b988a741ed5e19169
 msgid "Scadenza iscrizione"
 msgstr ""
 
-#: ../../training.rst:225
+#: ../../training.rst:221
 # bb3f3fd4c0f540c9be634544c24ef06f
 msgid "Dove"
 msgstr ""
 
-#: ../../training.rst:225
+#: ../../training.rst:221
 # 1e70f16134fc41959674ee86105a3436
 msgid "Lingua"
 msgstr ""
 
-#: ../../training.rst:227
+#: ../../training.rst:223
 # 5264f422ac9d4034a6d68c5b38458a39
 msgid "25-27 Settembre"
 msgstr ""
 
-#: ../../training.rst:227
+#: ../../training.rst:223
 # 1477ed8907e24345b0045abe4fb7372a
 msgid "10 Settembre"
 msgstr ""
 
+#: ../../training.rst:223
+#: ../../training.rst:224
+#: ../../training.rst:225
+#: ../../training.rst:226
 #: ../../training.rst:227
-#: ../../training.rst:228
-#: ../../training.rst:229
-#: ../../training.rst:230
-#: ../../training.rst:231
 # 768ef41660e8444b834e3d11d5ef4934
 # 768ef41660e8444b834e3d11d5ef4934
 # 768ef41660e8444b834e3d11d5ef4934
@@ -725,11 +715,11 @@ msgstr ""
 msgid "Pontedera, IT"
 msgstr ""
 
+#: ../../training.rst:223
+#: ../../training.rst:224
+#: ../../training.rst:225
+#: ../../training.rst:226
 #: ../../training.rst:227
-#: ../../training.rst:228
-#: ../../training.rst:229
-#: ../../training.rst:230
-#: ../../training.rst:231
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
@@ -738,102 +728,107 @@ msgstr ""
 msgid "Italiano"
 msgstr ""
 
-#: ../../training.rst:228
+#: ../../training.rst:224
 # 789f35850632463296adba2404463064
 msgid "16-18 Ottobre"
 msgstr ""
 
-#: ../../training.rst:228
+#: ../../training.rst:224
 # 01f98806e0874655a3cf578f9a0d6623
 msgid "1 Ottobre"
 msgstr ""
 
-#: ../../training.rst:229
+#: ../../training.rst:225
 # 93622693fbc3409ea870fc8d6b853c71
 msgid "Creare un plugin in Python per QGIS"
 msgstr ""
 
-#: ../../training.rst:229
+#: ../../training.rst:225
 # bdc24911e5b54efc9a5a5d9ce5940acc
 msgid "13-15 Novembre"
 msgstr ""
 
-#: ../../training.rst:229
+#: ../../training.rst:225
 # ac7a57cb7dc44f15b51b36d55e91b27c
 msgid "28 Ottobre"
 msgstr ""
 
-#: ../../training.rst:230
+#: ../../training.rst:226
 # 7a7ec0040dc243a29b9a554247e0fe1b
 msgid "Geodatabase (PostgreSQL / PostGIS)"
 msgstr ""
 
-#: ../../training.rst:230
+#: ../../training.rst:226
 # f7db670e6b22473f88e2168c85cf783a
 msgid "11-13 Dicembre"
 msgstr ""
 
-#: ../../training.rst:230
+#: ../../training.rst:226
 # 98d67ad8d1324a71a5b91e8e65dc3716
 msgid "25 Novembre"
 msgstr ""
 
-#: ../../training.rst:231
+#: ../../training.rst:227
 # 660512ec03ae4bc59a877c8ec19a3162
 msgid "Web Mapping con QGIS"
 msgstr ""
 
-#: ../../training.rst:231
+#: ../../training.rst:227
 # b28a9fbcf9964ba28a693bb9feccab9b
 msgid "23-24 Gennaio"
 msgstr ""
 
-#: ../../training.rst:231
+#: ../../training.rst:227
 # 2837589f472d43e6b2fcc68aa9118522
 msgid "10 Gennaio"
 msgstr ""
 
-#: ../../training.rst:235
+#: ../../training.rst:230
+# cb5c68a9adc449d8a912f7006c1d1d6c
+msgid "`Scarica il calendario (ics) <https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
+msgstr ""
+
+#: ../../training.rst:233
 # 2b01fbfd1fbb417da072f5b12ca3fae2
 msgid "Costi"
 msgstr ""
 
-#: ../../training.rst:237
+#: ../../training.rst:235
 # 4868573d5e6e42e294a4f6e77e566933
 msgid "Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 323,41 €)"
 msgstr ""
 
-#: ../../training.rst:238
+#: ../../training.rst:236
 # a3e955054ac444d8bf2ab1805f051ce3
 msgid "Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 272,88 €)"
 msgstr ""
 
-#: ../../training.rst:239
+#: ../../training.rst:237
 # c317ea377fba42d99ac33d7b4be557ba
 msgid "Sconto 5% per l'iscrizione simultanea a più corsi"
 msgstr ""
 
-#: ../../training.rst:242
+#: ../../training.rst:240
 # 9da0e2efb514451bacaad5b961947b64
 msgid "Logistica"
 msgstr ""
 
-#: ../../training.rst:244
+#: ../../training.rst:242
 # c6486a10e57d437c9f251d7264fee4d8
 msgid "Sede: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi pubblici (treno ed aereo)"
 msgstr ""
 
-#: ../../training.rst:245
+#: ../../training.rst:243
 # 6ec8651bb26c4281a98f2bf149dff974
 msgid "`Dettagli sulla città <http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluse strutture ricettive)"
 msgstr ""
 
-#: ../../training.rst:246
+#: ../../training.rst:244
 # 006cf21f616247a8b9e8617563a76b7b
 msgid "B&B `Il Piccolo <http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple"
 msgstr ""
 
-#: ../../training.rst:249
+#: ../../training.rst:247
 # e11809ab1d4a491b988a741ed5e19169
 msgid "Modulo di iscrizione"
 msgstr ""
