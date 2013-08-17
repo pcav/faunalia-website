@@ -27,7 +27,6 @@ msgstr "Assistance"
 
 # 78d8555ca6d64dc485ccdfed4709f286
 #: ../../support.rst:10
-#, fuzzy
 msgid ""
 "Faunalia è la prima società in Italia a fornire assistenza tecnica per QGIS. "
 "La nostra assistenza assicura, in caso di problemi, un intervento rapido e "
@@ -39,8 +38,9 @@ msgid ""
 "private. In particolare, Faunalia garantisce servizi professionali per `QGIS "
 "<http://www.qgis.org/en/commercial-support.html>`_ (Desktop, Server e Web "
 "Client), `GRASS <http://grass.osgeo.org/support/commercial-support/>`_, "
-"`PostgreSQL <http://www.postgresql.org/support/professional_support/europe/"
-">`_/`PostGIS <http://postgis.net/support>`_:"
+"`PostgreSQL "
+"<http://www.postgresql.org/support/professional_support/europe/>`_/`PostGIS "
+"<http://postgis.net/support>`_:"
 msgstr ""
 "Faunalia est parmi les premères societés en Europe qui offre assistance "
 "technique et dépannage pour QGIS. Notre assistance assure, en cas de "
@@ -50,11 +50,12 @@ msgstr ""
 "interventions très efficaces, et la possibilité de personaliser les "
 "solutions proposées, soit pour les utilisateurs singles, soit pour les "
 "administrations publiques et les enterprises commerciales.\n"
-"En détail, Faunalia offre services professionels pour `QGIS <http://www.qgis."
-"org/en/commercial-support.html>`_ (Desktop, Server et Web Client), `GRASS "
-"<http://grass.osgeo.org/support/commercial-support/>`_, `PostgreSQL <http://"
-"www.postgresql.org/support/professional_support/europe/>`_/`PostGIS <http://"
-"postgis.net/support>`_:"
+"En détail, Faunalia offre services professionels pour `QGIS "
+"<http://www.qgis.org/en/commercial-support.html>`_ (Desktop, Server et Web "
+"Client), `GRASS <http://grass.osgeo.org/support/commercial-support/>`_, "
+"`PostgreSQL "
+"<http://www.postgresql.org/support/professional_support/europe/>`_/`PostGIS "
+"<http://postgis.net/support>`_:"
 
 # f085741ebad245a78e054d8936399bf6
 #: ../../support.rst:13
@@ -68,8 +69,8 @@ msgid ""
 "(es. `QGIS <http://www.qgis.org/>`_ e `PostGIS <http://postgis.net/>`_)"
 msgstr ""
 "Migration des GIS proprietaires (p. ex. ArcGIS et Oracle Spatial) aux "
-"solutions libres (p.ex. `QGIS <http://www.qgis.org/>`_ et `PostGIS <http://"
-"postgis.net/>`_)"
+"solutions libres (p.ex. `QGIS <http://www.qgis.org/>`_ et `PostGIS "
+"<http://postgis.net/>`_)"
 
 # 7e6a9430a67d4ebcaaecfd9b0a4f50ee
 #: ../../support.rst:15
