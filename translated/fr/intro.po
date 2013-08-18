@@ -258,8 +258,8 @@ msgid ""
 "Socio e *charter member* della fondazione internazionale `OSGeo - Open "
 "Source Geospatial Foundation <http://www.osgeo.org/>`_"
 msgstr ""
-"Associé et *charter member* de la Fondation Internationale`OSGeo - Open "
-"Source Geospatial Foundation <http://www.osgeo.org/>`_ "
+"Associé et *charter member* de la Fondation Internationale `OSGeo - Open "
+"Source Geospatial Foundation <http://www.osgeo.org/>`_"
 
 # fdd0adf5373648759b7d691e40e92d7e
 #: ../../intro.rst:59
