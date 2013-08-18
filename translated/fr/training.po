@@ -128,9 +128,7 @@ msgid ""
 "<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
 "ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
-"Autorisent l'accès aux examens pour AICA `ECDL-GIS "
-"<http://www.aicanet.it/aica/ecdl-gis/>` _. Paolo Cavallini est `examinateur "
-"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+"Autorisent l'accès aux examens *European Computer Driving Licence - GIS*."
 
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
