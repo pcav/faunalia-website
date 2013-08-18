@@ -174,8 +174,8 @@ msgid ""
 "<training>`."
 msgstr ""
 "Notre gamme de services peut se résumer en trois domaines principales : "
-":doc: `développement <dev>`, :doc: `assistance <support> et :doc:`formation "
-"`<training>."
+":doc:`développement <dev>`, :doc:`assistance <support>` et :doc:`formation "
+"<training>`."
 
 # 0d9537fc94a942f2ab5df24400d3f760
 #: ../../intro.rst:34
