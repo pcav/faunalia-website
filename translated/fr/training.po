@@ -57,12 +57,13 @@ msgstr ""
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:17
 msgid ""
-"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
+"annunci di nuovi corsi."
 msgstr ""
-"Abonnez-vous à la `liste de diffusion <http://lists.faunalia.it/cgi-bin/"
-"mailman/listinfo/formation>`_ pour recevoir les annonces des nouvelles "
-"activités de formation."
+"Abonnez-vous à la `liste de diffusion "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/formation>`_ pour "
+"recevoir les annonces des nouvelles activités de formation."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:20
@@ -123,13 +124,13 @@ msgstr ""
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:27
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
-"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
-"<http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
+"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
+"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
-"Autorisent l'accès aux examens pour AICA `ECDL-GIS <http://www.aicanet.it/"
-"aica/ecdl-gis/>` _. Paolo Cavallini est `examinateur ECDL-GIS <http://www."
-"ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+"Autorisent l'accès aux examens pour AICA `ECDL-GIS "
+"<http://www.aicanet.it/aica/ecdl-gis/>` _. Paolo Cavallini est `examinateur "
+"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
@@ -952,10 +953,13 @@ msgstr "10 Janvier"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
 #: ../../training.rst:230
+#, qt-format
 msgid ""
-"`Scarica il calendario (ics) <https://www.google.com/calendar/ical/"
-"faunaliagis%40gmail.com/public/basic.ics>`_"
+"`Scarica il calendario (ics) "
+"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 msgstr ""
+"`Téléchargez le calendrier (ics) "
+"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 2b01fbfd1fbb417da072f5b12ca3fae2
 #: ../../training.rst:233
@@ -972,23 +976,28 @@ msgid ""
 "simultanea a più corsi. Iscrizione confermata al versamento di una caparra "
 "di 100 €, saldo prima dell'inizio del corso"
 msgstr ""
+"Pour les détails sur les frais et paiements des courses, écrivez nous: "
+"info@faunalia.eu"
 
 # 9da0e2efb514451bacaad5b961947b64
 #: ../../training.rst:238
 msgid "Logistica"
-msgstr ""
+msgstr "Logistique"
 
 # e2c77797de9e472598dc6f4abdcf19db
 #: ../../training.rst:240
 msgid ""
-"**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
-"page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
-"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
-"pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune."
-"pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluse strutture ricettive). Convenzione con B&B `Il Piccolo <http://www."
-"ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple"
+"**Sede**: Pontedera (PI), presso `Pont-Tech "
+"<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
+"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
+"facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli "
+"sulla città "
+"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive). Convenzione con B&B `Il Piccolo "
+"<http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere "
+"singole/doppie/triple"
 msgstr ""
+"Pour les détails sur les sièges des courses, écrivez nous: info@faunalia.eu"
 
 # e11809ab1d4a491b988a741ed5e19169
 #: ../../training.rst:243
