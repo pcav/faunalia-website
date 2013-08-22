@@ -8,8 +8,6 @@
 Attività svolte
 -------------------------------------------------------------------------------
 
-<?php echo setlocale(LC_ALL,"0"); ?>
-
 Mappa dei lavori di Faunalia
 ...............................................................................
 
@@ -33,7 +31,7 @@ Maggiori clienti
 		$uni = array(); 
 		$soc = array();
 		$org = array();
-		getListsOfCommittenti("it", $amm, $uni, $soc, $org);
+		getListsOfCommittenti(_("it"), $amm, $uni, $soc, $org);
 	?>
 	
 Amministrazione pubblica
