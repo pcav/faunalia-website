@@ -41,13 +41,13 @@ msgid ""
 "Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro "
 "o di correggere un bug?"
 msgstr ""
-"Vous avez l'éxigeance d'une nouvelle fonction, d'une extension pour rendre "
-"votre travail plus rapide, ou de la correction d'une bogue?"
+"Vous avez la nécessité d'une nouvelle fonction, d'une extention pour un "
+"travail plus rapide ou bien de corriger une bogue"
 
 # 2fd4a8b1ef644db38dcea8a1e8a61c03
 #: ../../index.rst:24
 msgid ":doc:`More info <dev>`"
-msgstr ""
+msgstr ":doc:`Plus d'info <dev>`"
 
 # 2c65bd5329b9402b8ff3cdd828a1c810
 #: ../../index.rst:27
@@ -60,13 +60,13 @@ msgid ""
 "Vuoi la certezza e la tranquillità di un supporto costante per la soluzione "
 "dei tuoi problemi?"
 msgstr ""
-"Vous cherchez la tranquillité d'une assistance constante pour la résolution "
-"de vos problèmes?"
+"Vous cherchez la fiabilité d'une assistance constante pour la résolution de "
+"vos problèmes SIG"
 
 # a2069a3f48204eed95a4f2d71236ff50
 #: ../../index.rst:30
 msgid ":doc:`More info <support>`"
-msgstr ""
+msgstr ":doc:`Plus d'info <support>`"
 
 # 74d5fd586c43466aafb1f532dfbf4ead
 #: ../../index.rst:33
@@ -78,10 +78,9 @@ msgstr "Formation"
 msgid ""
 "Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il "
 "tuo GIS?"
-msgstr ""
-"Vous voulez apprendre rapidement et éfficacement à maitriser votre GIS?"
+msgstr "Vous voulez apprendre rapidement et efficacement à maitriser votre GIS"
 
 # 80549d17aca94c20ba96853e17c8154d
 #: ../../index.rst:36
 msgid ":doc:`More info <training>`"
-msgstr ""
+msgstr ":doc:`Plus d'info <training>`"
