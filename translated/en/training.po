@@ -811,13 +811,6 @@ msgstr "Two days, full time"
 msgid "Calendario"
 msgstr "Calendar"
 
-<<<<<<< HEAD
-=======
-# ef91c79029d24058aa6f369f43989746
-#: ../../training.rst:219
-msgid "can we add an \"export as calendar\" link?"
-msgstr "can we add an \"export as calendar\" link?"
-
 # 52fcfe35655c40ea911c20211b41f093
 #: ../../training.rst:221
 #, qt-format
@@ -828,7 +821,6 @@ msgstr ""
 "`Download the calendar <https://www.google.com/calendar/ical/faunaliagis"
 "%40gmail.com/public/basic.ics>`_"
 
->>>>>>> ac7ca85323e40ffcba7fa559de69ccf807152dd2
 # fd32804ea5bd4e2cbcc55e2215916841
 #: ../../training.rst:221
 msgid "Corso"
@@ -982,11 +974,7 @@ msgid ""
 "page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
 "lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
 "pubblici (treno ed aereo)"
-<<<<<<< HEAD
 msgstr ""
-=======
-msgstr "NA"
->>>>>>> ac7ca85323e40ffcba7fa559de69ccf807152dd2
 
 # 6ec8651bb26c4281a98f2bf149dff974
 #: ../../training.rst:243
@@ -994,11 +982,7 @@ msgid ""
 "`Dettagli sulla città <http://www.comune.pontedera.pi.it/cittadino/"
 "Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluse strutture "
 "ricettive)"
-<<<<<<< HEAD
 msgstr ""
-=======
-msgstr "NA"
->>>>>>> ac7ca85323e40ffcba7fa559de69ccf807152dd2
 
 # 006cf21f616247a8b9e8617563a76b7b
 #: ../../training.rst:244
