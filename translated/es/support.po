@@ -6,7 +6,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Faunalia \n"
+"Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-16 19:28\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -16,6 +16,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: es_ES\n"
+"X-Source-Language: it_IT\n"
 
 # e4147a488126479887c42ebe2997e327
 #: ../../support.rst:9
@@ -24,6 +27,7 @@ msgstr ""
 
 # 78d8555ca6d64dc485ccdfed4709f286
 #: ../../support.rst:10
+#, fuzzy
 msgid ""
 "Faunalia è la prima società in Italia a fornire assistenza tecnica per QGIS. "
 "La nostra assistenza assicura, in caso di problemi, un intervento rapido e "
@@ -35,40 +39,63 @@ msgid ""
 "private. In particolare, Faunalia garantisce servizi professionali per `QGIS "
 "<http://www.qgis.org/en/commercial-support.html>`_ (Desktop, Server e Web "
 "Client), `GRASS <http://grass.osgeo.org/support/commercial-support/>`_, "
-"`PostgreSQL <http://www.postgresql.org/support/professional_support/europe/"
-">`_/`PostGIS <http://postgis.net/support>`_:"
+"`PostgreSQL "
+"<http://www.postgresql.org/support/professional_support/europe/>`_/`PostGIS "
+"<http://postgis.net/support>`_:"
 msgstr ""
+"Faunalia es la primera sociedad en Italia que ofrece asistencia técnica para "
+"QGIS. Nuestra asistencia asegura, en caso de problemas, una rápida "
+"intervención y un apoyo constante para poder continuar con un normal volumen "
+"de trabajo. Además, contribuyendo activamente al desarrollo del software, "
+"Faunalia está en grado de asegurar, a costes competitivos, intervenciones de "
+"máxima eficacia y soluciones personalizadas, tanto para organizaciones "
+"públicas como privadas. Particularmente Faunalia garantiza servicios "
+"profesionales para `QGIS <http://www.qgis.org/en/commercial-support.html>`_ "
+"(Desktop, Server e Web Client), `GRASS "
+"<http://grass.osgeo.org/support/commercial-support/>`_, `PostgreSQL "
+"<http://www.postgresql.org/support/professional_support/europe/>`_/`PostGIS "
+"<http://postgis.net/support>`_:"
 
 # f085741ebad245a78e054d8936399bf6
 #: ../../support.rst:13
+#, fuzzy
 msgid "Installazione, configurazione e aggiornamento"
-msgstr ""
+msgstr "Instalación, configuración y actualización"
 
 # 87388a1633154706b13c18ed33ad5af0
 #: ../../support.rst:14
+#, fuzzy
 msgid ""
 "Migrazione da GIS proprietari (es. ArcGIS e Oracle Spatial) a GIS liberi "
 "(es. `QGIS <http://www.qgis.org/>`_ e `PostGIS <http://postgis.net/>`_)"
 msgstr ""
+"Migración de SIG propietario (es. ArcGIS e Oracle Spatial) a SIG librE (es. "
+"`QGIS <http://www.qgis.org/>`_ Y `PostGIS <http://postgis.net/>`_)"
 
 # 7e6a9430a67d4ebcaaecfd9b0a4f50ee
 #: ../../support.rst:15
+#, fuzzy
 msgid "Assistenza email e telefonica"
-msgstr ""
+msgstr "Asistencia email y telefónica"
 
 # 1e18ab0a307646ca83cc3d12b6518f1b
 #: ../../support.rst:16
+#, fuzzy
 msgid "Assistenza on site"
-msgstr ""
+msgstr "Asistencia on site"
 
 # 4b174ce7f2514316ad43390a97d38bc9
 #: ../../support.rst:17
+#, fuzzy
 msgid "Bug fixing su richiesta"
-msgstr ""
+msgstr "Resolución de fallos según necesidades"
 
 # bf3417e766704b4b8ac5e295057fbc60
 #: ../../support.rst:18
+#, fuzzy
 msgid ""
 "Abbonamento agli annunci sulle novità importanti sui software GIS open "
 "source e liberi"
 msgstr ""
+"Suscripción a anuncios sobre las últimas novedades de software SIG de código "
+"abierto y libre"

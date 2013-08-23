@@ -6,7 +6,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Faunalia \n"
+"Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-16 18:52\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -16,53 +16,66 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: es_ES\n"
+"X-Source-Language: it_IT\n"
 
 # ab38b9b6d1924b2cb0907f188cf2017b
 #: ../../jobs.rst:9
+#, fuzzy
 msgid "Attività svolte"
-msgstr ""
+msgstr "Actividades desarrolladas"
 
 # ee632cfc6bc94e17b40abcbf082bd295
 #: ../../jobs.rst:12
+#, fuzzy
 msgid "Mappa dei lavori di Faunalia"
-msgstr ""
+msgstr "Mapa de las intervenciones de Faunalia"
 
 # a4dd5c2238944fbf889fbcfdac51370c
 #: ../../jobs.rst:26
+#, fuzzy
 msgid "Maggiori clienti"
-msgstr ""
+msgstr "Mayores clientes"
 
 # 541297be935c408ab472c2adbf6bca47
 #: ../../jobs.rst:38
+#, fuzzy
 msgid "Amministrazione pubblica"
-msgstr ""
+msgstr "Administración pública"
 
 # 3d663ff2de764559b42734cdb56d8434
 #: ../../jobs.rst:44
+#, fuzzy
 msgid "Università e centri di ricerca"
-msgstr ""
+msgstr "Universidades y centros de investigación"
 
 # 340895fddfeb41a0abaeb26b75ea8bc3
 #: ../../jobs.rst:50
+#, fuzzy
 msgid "Società"
-msgstr ""
+msgstr "Sociedades"
 
 # 2cf4ff73bf384a97b17957cf3e037ee5
 #: ../../jobs.rst:56
+#, fuzzy
 msgid "Associazioni e organizzazioni"
-msgstr ""
+msgstr "Asociaciones y organizaciones"
 
 # 7e1c52786577482bb298cfd65b4a7c8d
 #: ../../jobs.rst:62
+#, fuzzy
 msgid "Corsi e workshop"
-msgstr ""
+msgstr "Cursos y talleres"
 
 # a64b7b2ec2e8470da49954558f731d32
 #: ../../jobs.rst:68
+#, fuzzy
 msgid "Assistenza e sviluppo"
-msgstr ""
+msgstr "Asistencia y desarrollo"
 
 # b54ad168450f471a85cd4bd0d97807c2
 #: ../../jobs.rst:74
+#, fuzzy
 msgid "Pubblicazioni"
-msgstr ""
+msgstr "Publicaciones"
