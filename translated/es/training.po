@@ -157,9 +157,9 @@ msgid ""
 "tematizzarli e produrre mappe di alta qualità grafica ed informativa. ad "
 "elevato contenuto informativo e ad alta qualità grafica"
 msgstr ""
-"Para aprender a instalar y utilizar QGIS, acceder a los datos, "
-"***tematizarlos**** y producir mapas de alta calidad gráfica e informativa "
-"con alto  contenido informativo y alta calidad gráfica."
+"Para aprender a instalar y utilizar QGIS, acceder a los datos, tematizarlos "
+"y producir mapas de alta calidad gráfica e informativa con alto  contenido "
+"informativo y alta calidad gráfica."
 
 # 3abb49f5677b45f9b62422fa3e6d26b9
 #: ../../training.rst:35
@@ -241,14 +241,13 @@ msgstr "propiedad, importanción y exportación, conversión entre formatos"
 #: ../../training.rst:50
 #, fuzzy
 msgid "tematizzazione vettoriale ed etichettatura avanzata"
-msgstr "***tematización*** vectorial y etiquetas avanzadas"
+msgstr "tematización vectorial y etiquetas avanzadas"
 
 # 10b2614d697545c28d913c54d80eba01
 #: ../../training.rst:51
 #, fuzzy
 msgid "tabelle dati, attributi ed azioni; importazione di dati tabellari"
-msgstr ""
-"tablas de datos, atributos y acciones, importación de ***datos de tablas***"
+msgstr "tablas de datos, atributos y acciones, importación de tablas de datos"
 
 # fdc1cc2379d14ad9b5eb4af8fa1421e0
 #: ../../training.rst:53
@@ -260,7 +259,7 @@ msgstr "Gestión de las proyecciones"
 #: ../../training.rst:54
 #, fuzzy
 msgid "Interfacciamento con GPS"
-msgstr "***Interfaz*** con GPS"
+msgstr "Interfaz con GPS"
 
 # 9ccaf9f688d14bb181e6be211ed5d22a
 #: ../../training.rst:55
@@ -289,7 +288,7 @@ msgstr ""
 #: ../../training.rst:58
 #, fuzzy
 msgid "Gestione di fotografie georeferenziate"
-msgstr "Gestión de fotografías georeferenciadas"
+msgstr "Gestión de fotografías georerrefenciadas"
 
 # 0226a9e09cf54582af37c17b409aa67f
 #: ../../training.rst:59
@@ -301,25 +300,25 @@ msgstr "Exportación de datos para Google Earth"
 #: ../../training.rst:60
 #, fuzzy
 msgid "I dati geografici raster"
-msgstr "Los datos geográficos ***Raster***"
+msgstr "Los datos geográficos raster"
 
 # ce22142b312540b4ad77215f85cd10d5
 #: ../../training.rst:62
 #, fuzzy
 msgid "caratteristiche e proprietà, tematizzazione"
-msgstr "Características y propiedades, *** temalización***"
+msgstr "Características y propiedades, tematización"
 
 # de35eec3a95541a9845a13ca2ca68450
 #: ../../training.rst:63
 #, fuzzy
 msgid "gestione dei sistemi di riferimento, mosaici"
-msgstr "Gestión de sistemas de referncia, mosaicos"
+msgstr "Gestión de sistemas de referencia, mosaicos"
 
 # b45b00d96b2744789df0ee13c0f63055
 #: ../../training.rst:64
 #, fuzzy
 msgid "georeferenziazione"
-msgstr "georeferenciación"
+msgstr "georrefenciación"
 
 # 4a0403ba6e094a48aba502573e812285
 #: ../../training.rst:66
@@ -336,7 +335,7 @@ msgstr "Impresión avanzada"
 #: ../../training.rst:186 ../../training.rst:212
 #, fuzzy
 msgid "Durata"
-msgstr "Duració"
+msgstr "Duración"
 
 # 4397a7655dac443fb0f9a06af7ab46cf
 # ed16e6e05c4647d9802487f7c1435d7f
@@ -365,11 +364,11 @@ msgid ""
 "appreso a gestire con facilità l'ambiente di lavoro di QGIS, e ad effettuare "
 "analisi anche complesse in modo semplice ed intuitivo."
 msgstr ""
-"Para aprender a realizar análisis ***raster*** y vectoriales, y modelos "
-"espaciales uniendo la potencia d elaboración SIG de GRASS, SAGA, Orfeo "
-"ToolBox con la simplicidad del uso de QGIS. Al final del curso habrá "
-"aprendido a gestionar con facilidad el ambiente de trabajo de QGIS y a "
-"efectuar análisis simples o complejos de manera simple e intuitiva."
+"Para aprender a realizar análisis raster y vectoriales, y modelos espaciales "
+"uniendo la potencia d elaboración SIG de GRASS, SAGA, Orfeo ToolBox con la "
+"simplicidad del uso de QGIS. Al final del curso habrá aprendido a gestionar "
+"con facilidad el ambiente de trabajo de QGIS y a efectuar análisis simples o "
+"complejos de manera simple e intuitiva."
 
 # 0aae20c6352c4b4e850dbfbcfd804e5c
 #: ../../training.rst:77
@@ -378,8 +377,8 @@ msgid ""
 "Adatto a chi desidera approfondire l'uso analitico e predittivo dei GIS, "
 "avendo già delle nozioni di base."
 msgstr ""
-"Adapto para quien desea profundizar en el uso analítico y predictivo de SIG, "
-"teniendo las nociones base."
+"Adaptado para quien desea profundizar en el uso analítico y predictivo de "
+"SIG, teniendo las nociones básicas."
 
 # 4a29f658a0294d45b8e1f60b8daa3125
 #: ../../training.rst:79
@@ -413,7 +412,7 @@ msgstr "Plugins adicionales"
 #: ../../training.rst:87
 #, fuzzy
 msgid "processing"
-msgstr "***Procesos***"
+msgstr "Procesamiento"
 
 # f92a255d0d69405e90d7c1544c213c44
 #: ../../training.rst:88
@@ -471,32 +470,32 @@ msgstr "Interpolación"
 msgid ""
 "Buffer raster e vettoriali, analisi di distanza, percorsi di minimo costo"
 msgstr ""
-"Buffer ***raster*** y vectoriales, análisis de distancia, recorridos a coste "
-"mínimo"
+"Anillos de influencia (buffer) raster y vectoriales, análisis de distancia, "
+"recorridos a coste mínimo"
 
 # 0226a9e09cf54582af37c17b409aa67f
 #: ../../training.rst:97
 #, fuzzy
 msgid "Riclassificazione dei raster, algebra delle mappe"
-msgstr "Reclasificación de los ***raster***, álgebra de mapas"
+msgstr "Reclasificación de los raster, álgebra de mapas"
 
 # 02f70fd4574144fb881c8f4c614d8d8f
 #: ../../training.rst:98
 #, fuzzy
 msgid "Statistiche zonali"
-msgstr "***Estadísticas de zonas***"
+msgstr "Estadística zonal"
 
 # 7632347adf1b40a4be11137beb176ec3
 #: ../../training.rst:99
 #, fuzzy
 msgid "Analisi di intervisibilità"
-msgstr "Análisis de intervisibilidad"
+msgstr "Análisis de visibilidad"
 
 # 82288a1c1fcd4902bcd03271faf1f067
 #: ../../training.rst:100
 #, fuzzy
 msgid "Analisi idrologiche: calcolo dei bacini"
-msgstr "Análisis hidrológicos, cálculo de ***bacini***"
+msgstr "Análisis hidrológicos, cálculo de cuencas hidrológicas"
 
 # 905adef9ea0541b8a24ef3716c0843bc
 #: ../../training.rst:101
@@ -574,7 +573,7 @@ msgstr "Como crear un plugin Python para QGIS"
 #: ../../training.rst:124
 #, fuzzy
 msgid "la sintassi Python (indentazione, punto e virgola, ...)"
-msgstr "la sintexis Python ( ***indentación***, punto y coma....)"
+msgstr "la sintexis Python (indentación, punto y coma....)"
 
 # c8ab81a997d34aa688f01b93bb727174
 #: ../../training.rst:125
@@ -586,7 +585,7 @@ msgstr "Mi primer plugin en Python: muestra un mensaje en un recuadro"
 #: ../../training.rst:126
 #, fuzzy
 msgid "creare interfacce utente con QtDesigner (.ui)"
-msgstr "crear ***interfaces usuario*** con QtDesigner (.ui)"
+msgstr "crear la interfaz del usuario con QtDesigner (.ui)"
 
 # 593423ef53d74d18ba24a7a6544e5ee9
 #: ../../training.rst:127
@@ -625,8 +624,8 @@ msgid ""
 "accedere alla API QT tramite Python: PyQT (tipi QT mappati da tipi nativi "
 "Python, parametro di uscita)"
 msgstr ""
-"acceder a la API QT con Python: PyQT (tipi QT ***mapados por tipos nativos "
-"Python***, parametro de salida)"
+"acceder a la API QT con Python: PyQT (tipos QT mapeados con tipos nativos "
+"Python, parámetro de salida)"
 
 # de4ed1caf4014e348812f6c34e946250
 #: ../../training.rst:136
@@ -638,7 +637,7 @@ msgstr "Las prinicipales clases API QGIS y sus relaciones"
 #: ../../training.rst:138
 #, fuzzy
 msgid "costanti e impostazioni: classi QGis e QgsApplication"
-msgstr "Constantes e ***impostaciones***: clases de QGIS y QgsApplication"
+msgstr "Constantes y ajustes: clases de QGIS y QgsApplication"
 
 # 10df2e29a00b4a31b47c624877721f2d
 #: ../../training.rst:139
@@ -672,7 +671,7 @@ msgstr ""
 #: ../../training.rst:142
 #, fuzzy
 msgid "strati raster: QgsRasterLayer, QgsRasterDataProvider"
-msgstr "estratos ***raster***: QgsRasterLayer, QgsRasterDataProvider"
+msgstr "estratos raster: QgsRasterLayer, QgsRasterDataProvider"
 
 # 67e77c0a4879410bbd2db04ee352af6f
 #: ../../training.rst:143
@@ -741,7 +740,7 @@ msgstr ""
 "realizar análisis minuciosos con visualización en tiempo real de los "
 "análisis realizados. El curso permite familiarizarse con la gestión de datos "
 "vectoriales con SQL, con la importación de datos geográficos y la "
-"***interrogación*** de datos, tanto vectorial como alfanumérica a través de "
+"interrogación de datos, tanto vectorial como alfanumérica a través de "
 "numerosas aplicaciones."
 
 # ed57a47c1a9a400588231c9d574b2fa6
@@ -771,7 +770,7 @@ msgstr "Ventajas del uso de una base de datos en SIG"
 #: ../../training.rst:169
 #, fuzzy
 msgid "Introduzione al RDBMS Open Source PostgreSQL"
-msgstr "Introducción a RDBMS Open Source PostgreSQL"
+msgstr "Introducción a SGBD Open Source PostgreSQL"
 
 # e5e06ae2ce984f0aa74bd5589d67bb38
 #: ../../training.rst:170
@@ -795,7 +794,7 @@ msgstr "Usuarios, permisos, accesos"
 #: ../../training.rst:173
 #, fuzzy
 msgid "Introduzione a PostGIS (standard Open Geospatial Consortium)"
-msgstr "Introducción a Post GIS (standard Open Geospatial Consortium)"
+msgstr "Introducción a PostGIS (standard Open Geospatial Consortium)"
 
 # e967a457f6374ffba5e4b5eeeac0b5f3
 #: ../../training.rst:174
@@ -807,26 +806,26 @@ msgstr "Geodatabase: estructura y formato de datos"
 #: ../../training.rst:175
 #, fuzzy
 msgid "Creazione di un database geografico"
-msgstr "Creación de un database geográfico"
+msgstr "Creación de una base de datos geográfica"
 
 # 21fc9030b3cf4017b60626d0aebdb202
 #: ../../training.rst:176
 #, fuzzy
 msgid "Amministrazione del database e accesso ai dati"
-msgstr "Administración del database y acceso a los datos"
+msgstr "Administración de la base de datos y acceso a los datos"
 
 # 2cd3211b99074a9799dcf5b6cd9813c7
 #: ../../training.rst:177
 #, fuzzy
 msgid "Amministrazione da riga di comando: psql"
-msgstr "Administración de ***fila*** de comando: psql"
+msgstr "Administración de línea de comandos: psql"
 
 # 178a84de63474cd68bbe093d85546103
 #: ../../training.rst:178
 #, fuzzy
 msgid "I front-ends grafici: QGIS, PhpPgAdmin, PgAdmin 3, OpenOffice, ecc."
 msgstr ""
-"Los*** front ends*** gráficos: QGIS, PhpPgAdmin, PgAdmin 3, OpenOffice, etc."
+"Las aplicaciones gráficas: QGIS, PhpPgAdmin, PgAdmin 3, OpenOffice, etc."
 
 # 5e3d5e500f754810ad6f350974c3ce86
 #: ../../training.rst:179
@@ -852,7 +851,7 @@ msgstr ""
 #: ../../training.rst:181
 #, fuzzy
 msgid "I raster in PostGIS"
-msgstr "Los ***raster*** en PostGIS"
+msgstr "Los raster en PostGIS"
 
 # 5bce07d0ed7a4e7dba110ac7cf9f18b8
 #: ../../training.rst:182
@@ -942,13 +941,13 @@ msgstr "Edición online:WFS-T"
 #: ../../training.rst:207
 #, fuzzy
 msgid "Installazione e configurazione di QGIS web client"
-msgstr "Intalación y configuarción de QGIS web client"
+msgstr "Instalación y configuarción de QGIS web client"
 
 # 82e3bb5c83314d8da6314e6b9222d4c9
 #: ../../training.rst:208
 #, fuzzy
 msgid "Installazione e configurazione di LizMap"
-msgstr "Intalación y configuración de LizMap"
+msgstr "Instalación y configuración de LizMap"
 
 # f55360fa238e46dfa8d4d7e7520aa6d4
 #: ../../training.rst:209
@@ -996,7 +995,7 @@ msgstr "Donde"
 #: ../../training.rst:221
 #, fuzzy
 msgid "Lingua"
-msgstr "Lengua"
+msgstr "Idioma"
 
 # 5264f422ac9d4034a6d68c5b38458a39
 #: ../../training.rst:223
@@ -1112,7 +1111,7 @@ msgstr ""
 #: ../../training.rst:233
 #, fuzzy
 msgid "Costi"
-msgstr "Coste"
+msgstr "Costes"
 
 # 17698eff5be547c7ace8019856a6fe6c
 #: ../../training.rst:235
@@ -1126,12 +1125,10 @@ msgid ""
 "di 100 €, saldo prima dell'inizio del corso"
 msgstr ""
 "Cursos de tres días: 350 € para clientes privados, 320 €+ IVA para "
-"empresas/partida IVA (menos la ***retención de cuenta*** ingresar 323,41 €) "
-"Cursos de Wep Mapping (2 días): 290 para  clientes privados, 270 €+ IVA para "
-"empresas/partida IVA (menos la ***retención de cuenta*** ingresar 272,88 €) "
-"Descuento del 5% por realizar la inscripción simultánea en más cursos. "
-"Confirmación de inscripción al ingresar una fianza de 100 €, a completar "
-"pago antes del inicio del curso"
+"empresas/autónomos. Cursos de Wep Mapping (2 días): 290 para  clientes "
+"privados, 270 €+ IVA para empresas/autónomos. Descuento del 5% por realizar "
+"la inscripción simultánea en más cursos. Confirmación de inscripción al "
+"ingresar una fianza de 100 €, completando el pago antes del inicio del curso"
 
 # 9da0e2efb514451bacaad5b961947b64
 #: ../../training.rst:238

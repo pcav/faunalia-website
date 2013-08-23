@@ -24,7 +24,7 @@ msgstr ""
 #: ../../intro.rst:6
 #, fuzzy
 msgid "Chi siamo"
-msgstr "Quién somos"
+msgstr "Quienes somos"
 
 # 6fe80d00aacf473c8a223b255f816098
 #: ../../intro.rst:8
@@ -80,7 +80,7 @@ msgstr ""
 "desarrolladores.\n"
 "Por otra parte, respecto a los sistemas propietarios, aseguran una máxima "
 "persistencia de los datos geográficos en el tiempo,  gracias al uso de "
-"standar abiertos y un ****gran trabajo de red*** entre sistemas informáticos "
+"standar abiertos y una alta interoperabilidad entre sistemas informáticos "
 
 # 95402b798a324a1ea67d5887140d9489
 #: ../../intro.rst:17
@@ -154,7 +154,7 @@ msgid ""
 "continuo aggiornamento teorico e pratico sui GIS e la collaborazione con i "
 "migliori sviluppatori nazionali e internazionali."
 msgstr ""
-"**calidad:: grantizamos standard de calidad altos, gracias a nuestra "
+"**calidad**: garantizamos standard de calidad altos, gracias a nuestra "
 "constante actualización teórico práctica en SIG y la colaboración con los "
 "mejores desarrolladores nacionales e internacionales."
 
@@ -215,7 +215,7 @@ msgid ""
 "intervento rapido e di assistenza continuativa su tutte le problematiche "
 "relative ai GIS."
 msgstr ""
-"Ademas del desarrollo de software offrecemos, a costes competitivos, "
+"Además del desarrollo de software offrecemos, a costes competitivos, "
 "intervenciones rápidas y de asistencia continua sobre cualquier problemática "
 "relativa a SIG."
 
@@ -227,7 +227,7 @@ msgid ""
 "personalizzati, presso le nostre sedi e presso i nostri clienti."
 msgstr ""
 "Por último ofrecemos cursos de formación teórico práctica, tanto standard "
-"comop ersonalizada, en nuestras sedes y en los lugares de trabajo de "
+"como personalizada, en nuestras sedes y en los lugares de trabajo de "
 "nuestros clientes."
 
 # 75db996c26e9473fb509980159080576
@@ -408,9 +408,9 @@ msgid ""
 msgstr ""
 "Ejecución y elaboración de pruebas de laboratorio en terrenos naturales, "
 "consolidación edométrica, corte directo CD, traxiales (UU, CU,CD), "
-"****compresión*** simple, análisis granulométrico, límites de consistencia "
-"(LL,LP,LR), preso específico de gránulos, permeabilidad en celda edométrica, "
-"triaxial y en ***permeámetro*** (según las normas: racc. AGI, CNR, ASTM)"
+"compresión simple, análisis granulométrico, límites de consistencia "
+"(LL,LP,LR), peso específico de gránulos, permeabilidad en celda edométrica, "
+"triaxial y en permeámetro (según las normas: racc. AGI, CNR, ASTM)"
 
 # 78a0702041e84c08aa141038a65d979f
 #: ../../intro.rst:90
@@ -421,9 +421,8 @@ msgid ""
 "CBR, miscelazione delle terre con calce (norme seguite: EN, CNR, ASTM)"
 msgstr ""
 "ejecución y elaboración de pruebas de laboratorio de materiales de "
-"carreteras y de construcción, ***compactación***Proctor Standard y "
-"modificada, penetración CBR, mezcla de tierras con cal (según las normas: "
-"EN, CNR, ASTM)"
+"carreteras y de construcción, compactación Proctor Standard y modificada, "
+"penetración CBR, mezcla de tierras con cal (según las normas: EN, CNR, ASTM)"
 
 # e42944834a8a4a808fe3288ea5d1bc04
 #: ../../intro.rst:91
@@ -433,9 +432,9 @@ msgid ""
 "punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o "
 "senza rivestimento, PLT, densità in situ"
 msgstr ""
-"ejecución y elaboración de pruebas in situ: ***penetrométricas*** estáticas "
-"con punta mecánica, eléctrica y ***piezocono***, ***penetrométricas***  "
-"dinámicas con o sin revestimiento, PLT, densidad in situ."
+"ejecución y elaboración de pruebas in situ: penetrométricas estáticas con "
+"punta mecánica, eléctrica y piezométrica,penetrométricas dinámicas con o sin "
+"revestimiento, PLT, densidad in situ."
 
 # 80067180141f4a7982ea07c0fe694e59
 #: ../../intro.rst:92
@@ -445,7 +444,7 @@ msgid ""
 "di acquisizione automatica; calibrazione di trasduttori elettrici"
 msgstr ""
 "instalación y puesta a punto de instrumentos de laboratorio y de sistemas de "
-"adquisición automática, calibración de ***transductores eléctricos***"
+"adquisición automática, calibración de transductores eléctricos"
 
 # a9ce1c992be34c53bd43f385da4f4bab
 #: ../../intro.rst:94
@@ -469,7 +468,7 @@ msgstr "Fundador de Faunalia en Portugal"
 #: ../../intro.rst:104
 #, fuzzy
 msgid "Biologo specializzato in Conservation Biology"
-msgstr "Biólogo especializado en ***Biología de la Conservación***"
+msgstr "Biólogo especializado en Biología de la Conservación"
 
 # 92e5e56111ae4a58af219d06bb84952b
 #: ../../intro.rst:106
@@ -554,7 +553,7 @@ msgstr "Fundadora de Faunalia Portugal"
 #: ../../intro.rst:126
 #, fuzzy
 msgid "Biologa specializzata in Conservation Biology"
-msgstr "Bióloga espcializada en ***Biología de la Conservación***"
+msgstr "Bióloga espcializada en Biología de la Conservación"
 
 # 92e5e56111ae4a58af219d06bb84952b
 #: ../../intro.rst:127
