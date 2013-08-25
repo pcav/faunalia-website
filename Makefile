@@ -21,6 +21,10 @@ I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 .PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf text man changes linkcheck doctest gettext
 
 help:
+	@echo "For compiling the whole website, with translations,"
+	@echo "the sequence: make cv;make gettext;make compile_messages;make merge_messages"
+	@echo "and finally make html should do"
+	@echo "==="
 	@echo "Please use \`make <target>' where <target> is one of"
 	@echo "  compile_messages    to compile .po messages in .mo binaries."
 	@echo "  merge_messages    to merge new .po messages in .mo binaries."
@@ -207,6 +211,7 @@ changes:
 
 linkcheck:
 	$(SPHINXBUILD) -b linkcheck $(ALLSPHINXOPTS) $(BUILDDIR)/linkcheck
+#	$(SPHINXBUILD) -b linkcheck -d build/html/it $(BUILDDIR)/linkcheck
 	@echo
 	@echo "Link check complete; look for any errors in the above output " \
 	      "or in $(BUILDDIR)/linkcheck/output.txt."

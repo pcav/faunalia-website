@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-16 19:28\n"
+"POT-Creation-Date: 2013-08-23 19:59\n"
 "PO-Revision-Date: 2013-08-17 16:58+0200\n"
 "Last-Translator: Paolo Cavallini <cavallini@faunalia.it>\n"
 "Language-Team: Italiano <>\n"
@@ -811,16 +811,6 @@ msgstr "Two days, full time"
 msgid "Calendario"
 msgstr "Calendar"
 
-# 52fcfe35655c40ea911c20211b41f093
-#: ../../training.rst:221
-#, qt-format
-msgid ""
-"`Download the calendar <https://www.google.com/calendar/ical/faunaliagis"
-"%40gmail.com/public/basic.ics>`_"
-msgstr ""
-"`Download the calendar <https://www.google.com/calendar/ical/faunaliagis"
-"%40gmail.com/public/basic.ics>`_"
-
 # fd32804ea5bd4e2cbcc55e2215916841
 #: ../../training.rst:221
 msgid "Corso"
@@ -943,55 +933,65 @@ msgstr ""
 msgid "Costi"
 msgstr "Fees"
 
-# 4868573d5e6e42e294a4f6e77e566933
+# 17698eff5be547c7ace8019856a6fe6c
 #: ../../training.rst:235
 msgid ""
 "Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA "
-"(meno la ritenuta d'acconto, da versare 323,41 €)"
-msgstr "NA"
-
-# a3e955054ac444d8bf2ab1805f051ce3
-#: ../../training.rst:236
-msgid ""
-"Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA per "
-"aziende/partite IVA (meno la ritenuta d'acconto, da versare 272,88 €)"
-msgstr "NA"
-
-# c317ea377fba42d99ac33d7b4be557ba
-#: ../../training.rst:237
-msgid "Sconto 5% per l'iscrizione simultanea a più corsi"
-msgstr "NA"
+"(meno la ritenuta d'acconto, da versare 323,41 €). Corso di Web Mapping (2 "
+"giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la "
+"ritenuta d'acconto, da versare 272,88 €). Sconto 5% per l'iscrizione "
+"simultanea a più corsi. Iscrizione confermata al versamento di una caparra "
+"di 100 €, saldo prima dell'inizio del corso"
+msgstr ""
 
 # 9da0e2efb514451bacaad5b961947b64
-#: ../../training.rst:240
+#: ../../training.rst:238
 msgid "Logistica"
 msgstr "Losgistic"
 
-# c6486a10e57d437c9f251d7264fee4d8
-#: ../../training.rst:242
+# e2c77797de9e472598dc6f4abdcf19db
+#: ../../training.rst:240
 msgid ""
-"Sede: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
+"**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
 "page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
 "lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
-"pubblici (treno ed aereo)"
+"pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune."
+"pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive). Convenzione con B&B `Il Piccolo <http://www."
+"ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple"
 msgstr ""
-
-# 6ec8651bb26c4281a98f2bf149dff974
-#: ../../training.rst:243
-msgid ""
-"`Dettagli sulla città <http://www.comune.pontedera.pi.it/cittadino/"
-"Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluse strutture "
-"ricettive)"
-msgstr ""
-
-# 006cf21f616247a8b9e8617563a76b7b
-#: ../../training.rst:244
-msgid ""
-"B&B `Il Piccolo <http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per "
-"camere singole/doppie/triple"
-msgstr "NA"
 
 # e11809ab1d4a491b988a741ed5e19169
-#: ../../training.rst:247
+#: ../../training.rst:243
 msgid "Modulo di iscrizione"
 msgstr "Subcription form"
+
+# 52fcfe35655c40ea911c20211b41f093
+#~ msgid ""
+#~ "`Download the calendar <https://www.google.com/calendar/ical/faunaliagis"
+#~ "%40gmail.com/public/basic.ics>`_"
+#~ msgstr ""
+#~ "`Download the calendar <https://www.google.com/calendar/ical/faunaliagis"
+#~ "%40gmail.com/public/basic.ics>`_"
+
+# 4868573d5e6e42e294a4f6e77e566933
+#~ msgid ""
+#~ "Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite "
+#~ "IVA (meno la ritenuta d'acconto, da versare 323,41 €)"
+#~ msgstr "NA"
+
+# a3e955054ac444d8bf2ab1805f051ce3
+#~ msgid ""
+#~ "Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA per "
+#~ "aziende/partite IVA (meno la ritenuta d'acconto, da versare 272,88 €)"
+#~ msgstr "NA"
+
+# c317ea377fba42d99ac33d7b4be557ba
+#~ msgid "Sconto 5% per l'iscrizione simultanea a più corsi"
+#~ msgstr "NA"
+
+# 006cf21f616247a8b9e8617563a76b7b
+#~ msgid ""
+#~ "B&B `Il Piccolo <http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € "
+#~ "per camere singole/doppie/triple"
+#~ msgstr "NA"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-17 19:22\n"
+"POT-Creation-Date: 2013-08-23 19:59\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -61,13 +61,11 @@ msgstr ""
 #: ../../training.rst:17
 #, fuzzy
 msgid ""
-"Iscrivetevi alla `mailing list "
-"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
-"annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
+"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
 msgstr ""
-"Inscríbase en la lista de correo  "
-"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ para recibir "
-"anuncios de nuevos cursos"
+"Inscríbase en la lista de correo  <http://lists.faunalia.it/cgi-bin/mailman/"
+"listinfo/corsi>`_ para recibir anuncios de nuevos cursos"
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:20
@@ -134,9 +132,9 @@ msgstr ""
 #: ../../training.rst:27
 #, fuzzy
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
-"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
-"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
+"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
+"<http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
 "Permiten el accesso a los exámenes AICA para tener la certificación ECDL-GIS "
 "<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini es `exsaminador "
@@ -1099,13 +1097,13 @@ msgstr "10 de enero"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
 #: ../../training.rst:230
-#, fuzzy, qt-format
+#, fuzzy
 msgid ""
-"`Scarica il calendario (ics) "
-"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
+"`Scarica il calendario (ics) <https://www.google.com/calendar/ical/"
+"faunaliagis%40gmail.com/public/basic.ics>`_"
 msgstr ""
-"Descargue el calendario (ics) "
-"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
+"Descargue el calendario (ics) <https://www.google.com/calendar/ical/"
+"faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 2b01fbfd1fbb417da072f5b12ca3fae2
 #: ../../training.rst:233
@@ -1124,11 +1122,11 @@ msgid ""
 "simultanea a più corsi. Iscrizione confermata al versamento di una caparra "
 "di 100 €, saldo prima dell'inizio del corso"
 msgstr ""
-"Cursos de tres días: 350 € para clientes privados, 320 €+ IVA para "
-"empresas/autónomos. Cursos de Wep Mapping (2 días): 290 para  clientes "
-"privados, 270 €+ IVA para empresas/autónomos. Descuento del 5% por realizar "
-"la inscripción simultánea en más cursos. Confirmación de inscripción al "
-"ingresar una fianza de 100 €, completando el pago antes del inicio del curso"
+"Cursos de tres días: 350 € para clientes privados, 320 €+ IVA para empresas/"
+"autónomos. Cursos de Wep Mapping (2 días): 290 para  clientes privados, 270 €"
+"+ IVA para empresas/autónomos. Descuento del 5% por realizar la inscripción "
+"simultánea en más cursos. Confirmación de inscripción al ingresar una fianza "
+"de 100 €, completando el pago antes del inicio del curso"
 
 # 9da0e2efb514451bacaad5b961947b64
 #: ../../training.rst:238
@@ -1140,24 +1138,21 @@ msgstr "Logística"
 #: ../../training.rst:240
 #, fuzzy
 msgid ""
-"**Sede**: Pontedera (PI), presso `Pont-Tech "
-"<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
-"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
-"facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli "
-"sulla città "
-"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluse strutture ricettive). Convenzione con B&B `Il Piccolo "
-"<http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere "
-"singole/doppie/triple"
+"**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
+"page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
+"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
+"pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune."
+"pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive). Convenzione con B&B `Il Piccolo <http://www."
+"ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple"
 msgstr ""
-"**Sede** Pontedera (PI) en `Pont-Tech "
-"<http://www.pont-tech.it/?page_id=957>`_, o `Faunalia "
-"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, de "
-"fácil accesso con medios públicos (tren y avión). `Detalles sobre la ciudad. "
-"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluídos alojamientos). Convención con B&B `Il Piccolo "
-"<http://www.ilpiccolorooms.it/>`_, 45/60/80 € por habitación "
-"simple/doble/triple"
+"**Sede** Pontedera (PI) en `Pont-Tech <http://www.pont-tech.it/?"
+"page_id=957>`_, o `Faunalia <http://www.openstreetmap.org/?"
+"lat=43.66154&lon=10.63763&zoom=17>`_, de fácil accesso con medios públicos "
+"(tren y avión). `Detalles sobre la ciudad. <http://www.comune.pontedera.pi."
+"it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluídos "
+"alojamientos). Convención con B&B `Il Piccolo <http://www.ilpiccolorooms.it/"
+">`_, 45/60/80 € por habitación simple/doble/triple"
 
 # e11809ab1d4a491b988a741ed5e19169
 #: ../../training.rst:243
