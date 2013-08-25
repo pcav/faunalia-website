@@ -41,8 +41,8 @@ msgid ""
 "Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro "
 "o di correggere un bug?"
 msgstr ""
-"Vous avez la nécessité d'une nouvelle fonction, d'une extention pour un "
-"travail plus rapide ou bien de corriger une bogue"
+"Vous avez besoin d'une nouvelle fonction, d'une extension pour un travail "
+"plus rapide ou bien de corriger une bogue"
 
 # 2fd4a8b1ef644db38dcea8a1e8a61c03
 #: ../../index.rst:24

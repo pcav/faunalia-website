@@ -42,15 +42,17 @@ msgid ""
 "<http://www.postgresql.org/support/professional_support/europe/>`_/`PostGIS "
 "<http://postgis.net/support>`_:"
 msgstr ""
-"Faunalia est parmi les premères societés en Europe qui offre assistance "
-"technique et dépannage pour QGIS. Notre assistance assure, en cas de "
-"problèmes, une intervention rapide et un support constant pour récuperer le "
-"normal flux de travail. En plus, en contibuant activement au développement "
-"des logiciels, Faunalia est en condition d'assurer, à prix reasonnables, "
-"interventions très efficaces, et la possibilité de personaliser les "
-"solutions proposées, soit pour les utilisateurs singles, soit pour les "
-"administrations publiques et les enterprises commerciales.\n"
-"En détail, Faunalia offre services professionels pour `QGIS "
+"se situe parmi les premières sociétés  en Europe qui offrent une  assistance "
+"technique et un dépannage pour le logiciel QGIS. Notre assistance assure, en "
+"cas de problèmes, une intervention rapide et un support constant afin de "
+"récupérer le flux normal de travail (ici je ne sais pas trop si on peut "
+"trouver un autre mot ?). De plus, en contribuant activemen au développement "
+"des logiciels, Faunalia est capable d'assurer , à des prix raisonnables (ici "
+"je ne mettrai pas de  virgule) des interventions très efficaces et la "
+"possibilité de personnaliser les solutions proposées, soit pour les "
+"particuliers, soit  pour les administrations publiques et les entreprises "
+"commerciales.\n"
+"En bref, Faunalia offre des services professionnels pour `QGIS "
 "<http://www.qgis.org/en/commercial-support.html>`_ (Desktop, Server et Web "
 "Client), `GRASS <http://grass.osgeo.org/support/commercial-support/>`_, "
 "`PostgreSQL "
@@ -60,7 +62,7 @@ msgstr ""
 # f085741ebad245a78e054d8936399bf6
 #: ../../support.rst:13
 msgid "Installazione, configurazione e aggiornamento"
-msgstr "Installation, configuration et mis à jour"
+msgstr "Installations, configuration et mise à jour"
 
 # 87388a1633154706b13c18ed33ad5af0
 #: ../../support.rst:14
@@ -75,7 +77,7 @@ msgstr ""
 # 7e6a9430a67d4ebcaaecfd9b0a4f50ee
 #: ../../support.rst:15
 msgid "Assistenza email e telefonica"
-msgstr "Assistance par téléphone et en ligne"
+msgstr "Assistance téléphonique et en ligne"
 
 # 1e18ab0a307646ca83cc3d12b6518f1b
 #: ../../support.rst:16
@@ -93,5 +95,5 @@ msgid ""
 "Abbonamento agli annunci sulle novità importanti sui software GIS open "
 "source e liberi"
 msgstr ""
-"Abonnement aux announcements sur les nouvelles fonctions des GIS libres et à "
-"code ouvert"
+"Abonnement aux annonces sur les nouvelles fonctions des GIS libres et à code "
+"ouvert"

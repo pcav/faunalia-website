@@ -33,8 +33,8 @@ msgid ""
 "italiano, inglese, portoghese e francese."
 msgstr ""
 "Faunalia a une très grande expérience dans la formation sur les SIG libres, "
-"ayant fourni plus de 150 entre cours, des séminaires et des ateliers, en "
-"italien, anglais, portugais et français."
+"en effet nous avons effectué plus de 150 interventions sous forme de cours, "
+"de séminaires et d'ateliers, en italien, anglais, portuguais et français."
 
 # e109329698d54390a2cd6e6bf84ad8d2
 #: ../../training.rst:13
@@ -51,18 +51,19 @@ msgid ""
 "Possiamo realizzare sia corsi standard che personalizzati, sia presso la "
 "nostra sede che nella vostra."
 msgstr ""
-"Nous pouvons fournir des cours soit standard soit personnalisées selon votre "
-"exigeances, soit à notre siège soit chez vous."
+"Nous pouvons fournir des cours, soit standard, soit personnalisés selon vos "
+"exigences, à notre siège ou chez vous."
 
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:17
 msgid ""
-"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
+"annunci di nuovi corsi."
 msgstr ""
-"Abonnez-vous à la `liste de diffusion <http://lists.faunalia.it/cgi-bin/"
-"mailman/listinfo/formation>`_ pour recevoir les annonces des nouvelles "
-"activités de formation."
+"Abonnez vous à la `liste de diffusion "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/formation>`_ pour "
+"recevoir les annonces des nouvelles activités de formation."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:20
@@ -77,7 +78,7 @@ msgid ""
 "anonimi)"
 msgstr ""
 "Ils ont une bonne qualité pédagogique: ils sont évalués régulièrement, avec "
-"évaluations toujours très élevée (entre 82% et 93%, sur la base de "
+"des notations toujours très élevée (entre 82% et 93%, sur la base de "
 "questionnaires anonymes)"
 
 # 9aecb8cf6656432bbf15c4b9449bbaa7
@@ -97,10 +98,10 @@ msgid ""
 "membro dello *Steering Committee* di QGIS, e Faunalia ha sviluppato parti di "
 "GRASS, PostGIS, GDAL ecc."
 msgstr ""
-"Sont enseignés par des moniteurs qui sont activement contribuent depuis des "
-"années au développement des logiciels traités. En particulier, Paolo "
-"Cavallini est membre du Comité de pilotage de QGIS et Faunalia a développé "
-"functions pour GRASS, PostGIS, GDAL, etc."
+"ils sont enseignés par des moniteurs qui sont contribuent activement depuis "
+"plusieurs années au developpement des logiciels traités. En particulier, Mr "
+"Paolo Cavallini qui est membre du Comité de pilotage de QGIS et Faunalia qui "
+"a développé functions pour GRASS, PostGIS, GDAL, etc."
 
 # 9596721bc5974de490fe070e18d5b240
 #: ../../training.rst:25
@@ -108,8 +109,8 @@ msgid ""
 "Hanno un costo sensibilmente inferiore alle alternative proprietarie "
 "presenti sul mercato"
 msgstr ""
-"Ils coûtent beaucoup moins cher que les solutions propriétaires disponibles "
-"sur le marché"
+"Ils sont moins onéreux que les solutions propriétaires disponibles sur le "
+"marché"
 
 # 635858b71d10443db81b33db572ceec4
 #: ../../training.rst:26
@@ -117,17 +118,18 @@ msgid ""
 "Contribuiscono al miglioramento dei software utilizzati, destinando al loro "
 "sviluppo parte delle quote di iscrizione"
 msgstr ""
-"Contribuer à l'amélioration des logiciels utilisés, en allouant une partie "
-"des frais d'inscription au développement de base"
+"Ils contribuer à l'amélioration des logiciels utilisés, en allouant une "
+"partie des frais d'inscription au développement de base"
 
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:27
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
-"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
-"<http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
+"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
+"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
-"Autorisent l'accès aux examens *European Computer Driving Licence - GIS*."
+"Ils permettent l'accès aux examens *European Computer Driving Licence - GIS*."
+
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
 #: ../../training.rst:30 ../../training.rst:223
@@ -949,12 +951,13 @@ msgstr "10 Janvier"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
 #: ../../training.rst:230
+#, qt-format
 msgid ""
-"`Scarica il calendario (ics) <https://www.google.com/calendar/ical/"
-"faunaliagis%40gmail.com/public/basic.ics>`_"
+"`Scarica il calendario (ics) "
+"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 msgstr ""
-"`Téléchargez le calendrier (ics) <https://www.google.com/calendar/ical/"
-"faunaliagis%40gmail.com/public/basic.ics>`_"
+"`Téléchargez le calendrier (ics) "
+"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 2b01fbfd1fbb417da072f5b12ca3fae2
 #: ../../training.rst:233
@@ -982,13 +985,15 @@ msgstr "Logistique"
 # e2c77797de9e472598dc6f4abdcf19db
 #: ../../training.rst:240
 msgid ""
-"**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
-"page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
-"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
-"pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune."
-"pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluse strutture ricettive). Convenzione con B&B `Il Piccolo <http://www."
-"ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple"
+"**Sede**: Pontedera (PI), presso `Pont-Tech "
+"<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
+"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
+"facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli "
+"sulla città "
+"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive). Convenzione con B&B `Il Piccolo "
+"<http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere "
+"singole/doppie/triple"
 msgstr ""
 "Pour les détails sur les sièges des courses, écrivez nous: info@faunalia.eu"
 
