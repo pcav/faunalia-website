@@ -93,11 +93,75 @@
 </div>
 {%- endblock %}
 
+<!--{%- block footer %}-->
+<!--<footer class="footer">-->
+<!--  <div class="container">-->
+<!--    <p class="pull-right">-->
+<!--      <a href="#">Back to top</a>-->
+<!--      {% if theme_source_link_position == "footer" %}-->
+<!--        <br/>-->
+<!--        {% include "sourcelink.html" %}-->
+<!--      {% endif %}-->
+<!--    </p>-->
+<!--    <p>-->
+<!--    {%- if show_copyright %}-->
+<!--      {%- if hasdoc('copyright') %}-->
+<!--        {% trans path=pathto('copyright'), copyright=copyright|e %}&copy; <a href="{{ path }}">Copyright</a> {{ copyright }}.{% endtrans %}<br/>-->
+<!--      {%- else %}-->
+<!--        {% trans copyright=copyright|e %}&copy; Copyright {{ copyright }}.{% endtrans %}<br/>-->
+<!--      {%- endif %}-->
+<!--    {%- endif %}-->
+<!--    {%- if last_updated %}-->
+<!--      {% trans last_updated=last_updated|e %}Last updated on {{ last_updated }}.{% endtrans %}<br/>-->
+<!--    {%- endif %}-->
+<!--    {%- if show_sphinx %}-->
+<!--      {% trans sphinx_version=sphinx_version|e %}Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> {{ sphinx_version }}.{% endtrans %}<br/>-->
+<!--    {%- endif %}-->
+<!--    </p>-->
+<!--  </div>-->
+<!--</footer>-->
+<!--{%- endblock %}-->
+
 {%- block footer %}
 <footer class="footer">
+<div class="span4">
+            <div class="span6">
+              <h3>Italia</h3>
+              <p>Piazza Garibaldi, 5</p>
+              <p>56025 Pontedera (PI)</p>
+            <p><a class="reference external" href="mailto:info@faunalia.it">info@faunalia.it</a></p>
+            <p><a class="reference external" href="mailto:paolo.cavallini@pec.it">paolo.cavallini@pec.it</a></p>
+            <p>Fax +39-0587213742</p>
+            <p>Phone/Viber/Line +39-3483801953</p>
+            <p>Skype paolo.gg.cavallini</p>
+            <p>Hangouts <a class="reference external" href="mailto:paolo.cavallini@gmail.com">paolo.cavallini@gmail.com</a></p>
+            </div>
+            <div class="span6">
+              <h3>Portugal</h3>
+              <p>Rua do Cano 56</p>
+              <p>7000-596 Évora</p>
+            <p><a class="reference external" href="mailto:info@faunalia.it">info@faunalia.pt</a></p>
+            <p>Fax +351-266429139</p>
+            <p>Phone +351-266429139 / 939320104 / 967058216</p>
+            </div>
+          </div>
+          <div class="span5">
+            <h3>Follow us</h3> 
+            <!-- AddThis Follow BEGIN -->
+            <div class="addthis_toolbox addthis_32x32_style addthis_default_style">
+            <a class="addthis_button_facebook_follow" addthis:userid="faunaliagis"></a>
+            <a class="addthis_button_twitter_follow" addthis:userid="faunaliagis"></a>
+            <a class="addthis_button_linkedin_follow" addthis:userid="faunalia" addthis:usertype="company"></a>
+            <a class="addthis_button_google_follow" addthis:userid="115690725489468238151"></a>
+            <a class="addthis_button_youtube_follow" addthis:userid="faunaliagis"></a>
+            <a class="addthis_button_wordpress_follow" addthis:userid="faunaliagis"></a>
+            </div>
+            <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51fb95b90abe8ec7"></script>
+            <!-- AddThis Follow END -->
+          </div>
   <div class="container">
     <p class="pull-right">
-      <a href="#">Back to top</a>
+      <a href="#">{{ _('Back to top') }}</a>
       {% if theme_source_link_position == "footer" %}
         <br/>
         {% include "sourcelink.html" %}
