@@ -572,8 +572,8 @@ msgid ""
 "area mappa, strati e legenda: QgsMapCanvas, QgsMapLayer, QgsLegendInterface, "
 "QgsMapLayerRegistry"
 msgstr ""
-"Areas, mapas, estratos y leyenda:QgsMapCanvas, QgsMapLayer, "
-"QgsLegendInterface, QgsMapLayerRegistry"
+"Areas, mapas, capas y leyenda:QgsMapCanvas, QgsMapLayer, QgsLegendInterface, "
+"QgsMapLayerRegistry"
 
 # af68877cc0264249a01d63ad732e7fef
 #: ../../training.rst:141
@@ -581,13 +581,13 @@ msgid ""
 "strati vettoriali: QgsVectorLayer, QgsVectorDataProvider, QgsField, "
 "QgsFeature, QgsGeometry"
 msgstr ""
-"estractos vectoriales: QgsVectorLayer, QgsVectorDataProvider, QgsField, "
+"capas vectoriales: QgsVectorLayer, QgsVectorDataProvider, QgsField, "
 "QgsFeature, QgsGeometry"
 
 # c45d35b8afce4c19946bd75c4582e3b0
 #: ../../training.rst:142
 msgid "strati raster: QgsRasterLayer, QgsRasterDataProvider"
-msgstr "estratos raster: QgsRasterLayer, QgsRasterDataProvider"
+msgstr "capa raster: QgsRasterLayer, QgsRasterDataProvider"
 
 # 67e77c0a4879410bbd2db04ee352af6f
 #: ../../training.rst:143
