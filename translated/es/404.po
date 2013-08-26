@@ -22,22 +22,19 @@ msgstr ""
 
 # 5015a83825f4412bb3cabb161081b985
 #: ../../404.rst:2
-#, fuzzy
 msgid "Pagina non trovata"
 msgstr "Página no encontrada"
 
 # cfd818ddbace450fa3f18ac464d56ba3
 #: ../../404.rst:3
-#, fuzzy
 msgid "La pagina che cerchi non è presente su questo server."
-msgstr "La página que busca no está presente en este servidor"
+msgstr "La página que busca no está presente en este servidor."
 
 # ddd4d2be98794844a5676a305fa27f57
 #: ../../404.rst:5
-#, fuzzy
 msgid ""
 "Abbiamo ristrutturato il sito e molte pagine hanno cambiato nome. Riprova "
 "per cortesia utilizzando per la ricerca i menu della home page."
 msgstr ""
 "Hemos reconstruído la web y muchas páginas han cambiado de nombre. Pruebe de "
-"nuevo usando para la búsqueda el menu de la página principal"
+"nuevo usando para la búsqueda el menu de la página principal."

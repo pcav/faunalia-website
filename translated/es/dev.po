@@ -22,25 +22,21 @@ msgstr ""
 
 # 4e4267e056b54b4285d741002e12df7c
 #: ../../dev.rst:9
-#, fuzzy
 msgid "Sviluppo"
 msgstr "Desarrollo"
 
 # a765048a1a764d1aacdbff50d85a3c8d
 #: ../../dev.rst:11
-#, fuzzy
 msgid "Faunalia fornisce:"
 msgstr "Faunalia ofrece:"
 
 # f08f7331cf78489899f60dac239e0742
 #: ../../dev.rst:13
-#, fuzzy
 msgid "Sviluppo di plugin per `QGIS <http://www.qgis.org/>`_"
 msgstr "Desarrollo de plugin para GIS <http://www.qgis.org/>`_ "
 
 # 5b38585e1e384ef6bb57dfd79cb4902b
 #: ../../dev.rst:14
-#, fuzzy
 msgid ""
 "Sviluppo di funzioni *core* per `QGIS <http://www.qgis.org/>`_, `PostGIS "
 "<http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer "
@@ -52,7 +48,6 @@ msgstr ""
 
 # cf99310f7e6e429a841b3f255af7dd46
 #: ../../dev.rst:15
-#, fuzzy
 msgid ""
 "Riparazione dei malfunzionamenti per `QGIS <http://www.qgis.org/>`_, "
 "`PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, "
@@ -64,31 +59,26 @@ msgstr ""
 
 # d650ef8ee81b4e4584a51093561c5e93
 #: ../../dev.rst:16
-#, fuzzy
 msgid "Sviluppo di applicazioni webGIS ad hoc"
 msgstr "Desarrollo de aplicaciones webGIS ad hoc"
 
 # dfe28156cafb481dbf5fce372538fc3f
 #: ../../dev.rst:18
-#, fuzzy
 msgid "Garantiamo che tutto il codice sviluppato:"
 msgstr "Garantizamos que todo el código desarrollado:"
 
 # a66b6e581f2549c2817abb09f3eb1f1d
 #: ../../dev.rst:20
-#, fuzzy
 msgid "è pubblicato con licenza libera ed open source"
 msgstr "es publicado con licencia libre y de código abierto"
 
 # e9533e31a92d4e6caba072eab2464cbb
 #: ../../dev.rst:21
-#, fuzzy
 msgid "viene incluso nel codice sorgente ufficiale dei rispettivi progetti"
 msgstr "está incluído en el código fuente oficial de los respectivos proyectos"
 
 # c746457b76d44f6a842b3ce1ec6be241
 #: ../../dev.rst:23
-#, fuzzy
 msgid ""
 "In questo modo sarete certi della sua fruibilità e facilità di manutenzione "
 "anche nel futuro."
@@ -98,7 +88,6 @@ msgstr ""
 
 # a651117ca4a943738387342da7f07ecc
 #: ../../dev.rst:25
-#, fuzzy
 msgid ""
 "Faunalia ha sviluppato direttamente, già da molti anni, funzioni per tutti i "
 "software sopra elencati e fra i nostri collaboratori annoveriamo molti dei "

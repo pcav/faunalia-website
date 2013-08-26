@@ -23,11 +23,10 @@ msgstr ""
 # e4147a488126479887c42ebe2997e327
 #: ../../support.rst:9
 msgid "Assistenza"
-msgstr ""
+msgstr "Asistencia"
 
 # 78d8555ca6d64dc485ccdfed4709f286
 #: ../../support.rst:10
-#, fuzzy
 msgid ""
 "Faunalia è la prima società in Italia a fornire assistenza tecnica per QGIS. "
 "La nostra assistenza assicura, in caso di problemi, un intervento rapido e "
@@ -58,13 +57,11 @@ msgstr ""
 
 # f085741ebad245a78e054d8936399bf6
 #: ../../support.rst:13
-#, fuzzy
 msgid "Installazione, configurazione e aggiornamento"
 msgstr "Instalación, configuración y actualización"
 
 # 87388a1633154706b13c18ed33ad5af0
 #: ../../support.rst:14
-#, fuzzy
 msgid ""
 "Migrazione da GIS proprietari (es. ArcGIS e Oracle Spatial) a GIS liberi "
 "(es. `QGIS <http://www.qgis.org/>`_ e `PostGIS <http://postgis.net/>`_)"
@@ -74,25 +71,21 @@ msgstr ""
 
 # 7e6a9430a67d4ebcaaecfd9b0a4f50ee
 #: ../../support.rst:15
-#, fuzzy
 msgid "Assistenza email e telefonica"
 msgstr "Asistencia email y telefónica"
 
 # 1e18ab0a307646ca83cc3d12b6518f1b
 #: ../../support.rst:16
-#, fuzzy
 msgid "Assistenza on site"
 msgstr "Asistencia on site"
 
 # 4b174ce7f2514316ad43390a97d38bc9
 #: ../../support.rst:17
-#, fuzzy
 msgid "Bug fixing su richiesta"
 msgstr "Resolución de fallos según necesidades"
 
 # bf3417e766704b4b8ac5e295057fbc60
 #: ../../support.rst:18
-#, fuzzy
 msgid ""
 "Abbonamento agli annunci sulle novità importanti sui software GIS open "
 "source e liberi"

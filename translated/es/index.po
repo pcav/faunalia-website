@@ -22,24 +22,21 @@ msgstr ""
 
 # 56bcab473aff44a6be177e81a69b3ec7
 #: ../../index.rst:16
-#, fuzzy
 msgid "Faunalia"
 msgstr "Faunalia"
 
 # c24a6a0f2c1f47b581312366dd4113f7
 #: ../../index.rst:17
-#, fuzzy
 msgid "Sistemi informativi territoriali liberi ed open source"
 msgstr "Sistemas informativos territoriales libres y de código abierto"
 
 # b29116aece954590a864d9174f6d8416
 #: ../../index.rst:21
 msgid "Sviluppo"
-msgstr ""
+msgstr "Desarrollo"
 
 # 1e0a20d246044004ba27ccf7bbb05251
 #: ../../index.rst:22
-#, fuzzy
 msgid ""
 "Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro "
 "o di correggere un bug?"
@@ -49,19 +46,16 @@ msgstr ""
 
 # 2fd4a8b1ef644db38dcea8a1e8a61c03
 #: ../../index.rst:24
-#, fuzzy
 msgid ":doc:`More info <dev>`"
 msgstr ":doc:`Más información <dev>`"
 
 # 2c65bd5329b9402b8ff3cdd828a1c810
 #: ../../index.rst:27
-#, fuzzy
 msgid "Assistenza"
 msgstr "Asistencia"
 
 # 0413ebabaffd4d768717bd48f723e880
 #: ../../index.rst:28
-#, fuzzy
 msgid ""
 "Vuoi la certezza e la tranquillità di un supporto costante per la soluzione "
 "dei tuoi problemi?"
@@ -70,19 +64,16 @@ msgstr ""
 
 # a2069a3f48204eed95a4f2d71236ff50
 #: ../../index.rst:30
-#, fuzzy
 msgid ":doc:`More info <support>`"
 msgstr ":doc:`Más información <support>`"
 
 # 74d5fd586c43466aafb1f532dfbf4ead
 #: ../../index.rst:33
-#, fuzzy
 msgid "Corsi"
 msgstr "Cursos"
 
 # 1e7ec7a2516c48aa90fbd6563a143a77
 #: ../../index.rst:34
-#, fuzzy
 msgid ""
 "Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il "
 "tuo GIS?"
@@ -92,6 +83,5 @@ msgstr ""
 
 # 80549d17aca94c20ba96853e17c8154d
 #: ../../index.rst:36
-#, fuzzy
 msgid ":doc:`More info <training>`"
 msgstr ":doc:`Más información <training>`"
