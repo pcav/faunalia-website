@@ -38,7 +38,7 @@ Amministrazione pubblica
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 .. raw:: html
 	
-	<?php printListOfCommittenti($amm); ?>
+	('<?php printListOfCommittenti($amm); ?>')
 
 Università e centri di ricerca
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
