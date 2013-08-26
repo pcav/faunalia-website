@@ -503,7 +503,7 @@ msgstr "Como crear un plugin Python para QGIS"
 # d25dfa1ed91447c998335bb5d8f0860a
 #: ../../training.rst:124
 msgid "la sintassi Python (indentazione, punto e virgola, ...)"
-msgstr "la sintexis Python (indentación, punto y coma....)"
+msgstr "la sintaxis Python (indentación, punto y coma....)"
 
 # c8ab81a997d34aa688f01b93bb727174
 #: ../../training.rst:125
