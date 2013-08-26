@@ -33,7 +33,7 @@ msgstr "Faunalia ofrece:"
 # f08f7331cf78489899f60dac239e0742
 #: ../../dev.rst:13
 msgid "Sviluppo di plugin per `QGIS <http://www.qgis.org/>`_"
-msgstr "Desarrollo de plugin para GIS <http://www.qgis.org/>`_ "
+msgstr "Desarrollo de plugin para `QGIS <http://www.qgis.org/>`_ "
 
 # 5b38585e1e384ef6bb57dfd79cb4902b
 #: ../../dev.rst:14

@@ -564,7 +564,7 @@ msgstr "Constantes y ajustes: clases de QGIS y QgsApplication"
 msgid ""
 "l’interfaccia del plugin: QgisInterface e metodi comuni usati nei plugins"
 msgstr ""
-"Interfaz del plugin:Interfaz Qgis y métodos comunes usados en los plugins"
+"Interfaz del plugin:QgisInterface y métodos comunes usados en los plugins"
 
 # 30e874a45f3a4a1794f6a485b2cd8760
 #: ../../training.rst:140

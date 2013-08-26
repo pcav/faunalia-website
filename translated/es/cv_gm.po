@@ -22,6 +22,5 @@ msgstr ""
 
 # cbaa287c86ba4865973df34d74b3b886
 #: ../../cv_gm.rst:2
-#, fuzzy
 msgid "Giovanni Manghi"
 msgstr "Giovanni Manghi"

@@ -79,7 +79,7 @@ msgid ""
 "tuo GIS?"
 msgstr ""
 "¿ Quiere aprender de modo rápido y eficaz a conocer y gestionar en su "
-"totalidad su GIS?"
+"totalidad su SIG?"
 
 # 80549d17aca94c20ba96853e17c8154d
 #: ../../index.rst:36
