@@ -54,9 +54,6 @@
               {% include "globaltoc.html" %}
               {% include "localtoc.html" %}
             {% endblock %}
-            {% block sidebarrel %}
-              {% include "relations.html" %}
-            {% endblock %}
             {% if theme_source_link_position == "nav" %}
               <li>{% include "sourcelink.html" %}</li>
             {% endif %}
@@ -97,7 +94,7 @@
 <footer class="footer">
 <div class="span4">
             <div class="span6">
-              <h3>Italia</h3>
+              <h3>{{ gettext('Italia') }}</h3>
               <p>Piazza Garibaldi, 5</p>
               <p>56025 Pontedera (PI)</p>
             <p><a class="reference external" href="mailto:info@faunalia.it">info@faunalia.it</a></p>
@@ -108,7 +105,7 @@
             <p>Hangouts <a class="reference external" href="mailto:paolo.cavallini@gmail.com">paolo.cavallini@gmail.com</a></p>
             </div>
             <div class="span6">
-              <h3>Portugal</h3>
+              <h3>{{ gettext('Portogallo') }}</h3>
               <p>Rua do Cano 56</p>
               <p>7000-596 Evora</p>
             <p><a class="reference external" href="mailto:info@faunalia.it">info@faunalia.pt</a></p>
@@ -117,7 +114,7 @@
             </div>
           </div>
           <div class="span5">
-            <h3>Follow us</h3> 
+            <h3>{{ gettext('Seguici') }}</h3> 
             <!-- AddThis Follow BEGIN -->
             <div class="addthis_toolbox addthis_32x32_style addthis_default_style">
             <a class="addthis_button_facebook_follow" addthis:userid="faunaliagis"></a>
