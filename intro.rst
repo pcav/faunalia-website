@@ -29,7 +29,7 @@ Faunalia è inoltre particolarmente impegnata a diminuire il più possibile l'im
 
 I servizi
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-La nostra offerta di servizi è riassumibile in tre aree principali: :doc:`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione <training>`.
+La nostra offerta di servizi è riassumibile in tre aree principali\: :doc:`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione <training>`.
 
 Faunalia lavora direttamente allo sviluppo del software che utilizza e offre sul mercato, collaborando con i migliori sviluppatori GIS a livello internazionale. Negli anni, abbiamo contribuito allo sviluppo di vari strumenti, fra cui QGIS, GRASS, PostGIS, GDAL/OGR. 
 
