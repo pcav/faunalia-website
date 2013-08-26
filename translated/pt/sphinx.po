@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Faunalia
+# This file is distributed under the same license as the Faunalia package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Faunalia \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-26 16:06\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../templates/layout.html:135
+# f2826d8d7347470eaf8cafb87540eee7
+msgid "Back to top"
+msgstr ""
+
+#: ../../templates/layout.html:144
+# 1d977a1e00694fcda9a4b27949ba75a9
+msgid "&copy; <a href=\"%(path)s\">Copyright</a> %(copyright)s."
+msgstr ""
+
+#: ../../templates/layout.html:146
+# 4f58799d50f44e729f08c99cdc601920
+msgid "&copy; Copyright %(copyright)s."
+msgstr ""
+
+#: ../../templates/layout.html:150
+# c4d0ad213dbe412b9bdc51811e7aa015
+msgid "Last updated on %(last_updated)s."
+msgstr ""
+
+#: ../../templates/layout.html:153
+# 2f4ecd869e2743a18cf45e830203ff84
+msgid "Created using <a href=\"http://sphinx.pocoo.org/\">Sphinx</a> %(sphinx_version)s."
+msgstr ""
+
