@@ -456,7 +456,6 @@ msgstr ""
 #: ../../training.rst:113
 msgid "Come creare un plugin in Python per QGIS"
 msgstr ""
-"\n"
 "How to create a python plugin for QGIS"
 
 # 29574042eb1941cca194ea8ae8371ded
