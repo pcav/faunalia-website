@@ -323,7 +323,7 @@ msgid ""
 "analisi anche complesse in modo semplice ed intuitivo."
 msgstr ""
 "Para aprender a realizar análisis raster y vectoriales, y modelos espaciales "
-"uniendo la potencia d elaboración SIG de GRASS, SAGA, Orfeo ToolBox con la "
+"uniendo la potencia de elaboración SIG de GRASS, SAGA, Orfeo ToolBox con la "
 "simplicidad del uso de QGIS. Al final del curso habrá aprendido a gestionar "
 "con facilidad el ambiente de trabajo de QGIS y a efectuar análisis simples o "
 "complejos de manera simple e intuitiva."
@@ -503,7 +503,7 @@ msgstr "Como crear un plugin Python para QGIS"
 # d25dfa1ed91447c998335bb5d8f0860a
 #: ../../training.rst:124
 msgid "la sintassi Python (indentazione, punto e virgola, ...)"
-msgstr "la sintexis Python (indentación, punto y coma....)"
+msgstr "la sintaxis Python (indentación, punto y coma....)"
 
 # c8ab81a997d34aa688f01b93bb727174
 #: ../../training.rst:125
@@ -564,7 +564,7 @@ msgstr "Constantes y ajustes: clases de QGIS y QgsApplication"
 msgid ""
 "l’interfaccia del plugin: QgisInterface e metodi comuni usati nei plugins"
 msgstr ""
-"Interfaz del plugin:Interfaz Qgis y métodos comunes usados en los plugins"
+"Interfaz del plugin:QgisInterface y métodos comunes usados en los plugins"
 
 # 30e874a45f3a4a1794f6a485b2cd8760
 #: ../../training.rst:140
@@ -572,8 +572,8 @@ msgid ""
 "area mappa, strati e legenda: QgsMapCanvas, QgsMapLayer, QgsLegendInterface, "
 "QgsMapLayerRegistry"
 msgstr ""
-"Areas, mapas, estratos y leyenda:QgsMapCanvas, QgsMapLayer, "
-"QgsLegendInterface, QgsMapLayerRegistry"
+"Areas, mapas, capas y leyenda:QgsMapCanvas, QgsMapLayer, QgsLegendInterface, "
+"QgsMapLayerRegistry"
 
 # af68877cc0264249a01d63ad732e7fef
 #: ../../training.rst:141
@@ -581,13 +581,13 @@ msgid ""
 "strati vettoriali: QgsVectorLayer, QgsVectorDataProvider, QgsField, "
 "QgsFeature, QgsGeometry"
 msgstr ""
-"estractos vectoriales: QgsVectorLayer, QgsVectorDataProvider, QgsField, "
+"capas vectoriales: QgsVectorLayer, QgsVectorDataProvider, QgsField, "
 "QgsFeature, QgsGeometry"
 
 # c45d35b8afce4c19946bd75c4582e3b0
 #: ../../training.rst:142
 msgid "strati raster: QgsRasterLayer, QgsRasterDataProvider"
-msgstr "estratos raster: QgsRasterLayer, QgsRasterDataProvider"
+msgstr "capa raster: QgsRasterLayer, QgsRasterDataProvider"
 
 # 67e77c0a4879410bbd2db04ee352af6f
 #: ../../training.rst:143

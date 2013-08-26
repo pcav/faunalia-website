@@ -22,6 +22,5 @@ msgstr ""
 
 # da55549a8fd04dfc84e2c85c9bf02494
 #: ../../cv_vn.rst:2
-#, fuzzy
 msgid "Vania Neves"
 msgstr "Vania Neves"

@@ -66,7 +66,7 @@ msgid ""
 "Migrazione da GIS proprietari (es. ArcGIS e Oracle Spatial) a GIS liberi "
 "(es. `QGIS <http://www.qgis.org/>`_ e `PostGIS <http://postgis.net/>`_)"
 msgstr ""
-"Migración de SIG propietario (es. ArcGIS e Oracle Spatial) a SIG librE (es. "
+"Migración de SIG privativo (es. ArcGIS e Oracle Spatial) a SIG libre (es. "
 "`QGIS <http://www.qgis.org/>`_ Y `PostGIS <http://postgis.net/>`_)"
 
 # 7e6a9430a67d4ebcaaecfd9b0a4f50ee
