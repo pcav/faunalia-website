@@ -3,5 +3,5 @@ faunalia
 
 Faunalia website
 
-* Customized layout can be edited in templates/layout.html
-* css can be edited in static/faunalia.css
+* Customized layout can be edited in _templates/layout.html
+* css can be edited in _static/faunalia.css
