@@ -57,11 +57,13 @@ msgstr ""
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:17
 msgid ""
-"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
+"annunci di nuovi corsi."
 msgstr ""
-"Inscríbase en la lista de correo  <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/corsi>`_ para recibir anuncios de nuevos cursos."
+"Inscríbase en la lista de correo  "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ para recibir "
+"anuncios de nuevos cursos."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:20
@@ -121,9 +123,9 @@ msgstr ""
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:27
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
-"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
-"<http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
+"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
+"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
 "Permiten el accesso a los exámenes AICA para tener la certificación ECDL-GIS "
 "<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini es `exsaminador "
@@ -867,9 +869,8 @@ msgstr "Idioma"
 
 # 5264f422ac9d4034a6d68c5b38458a39
 #: ../../training.rst:223
-#, fuzzy
 msgid "25-27 Settembre 2013"
-msgstr "25-27 de septiembre"
+msgstr "25-27 de septiembre 2013"
 
 # 1477ed8907e24345b0045abe4fb7372a
 #: ../../training.rst:223
@@ -899,13 +900,12 @@ msgstr "Italiano"
 # c9b6799b8a60441e9f87b85027246b23
 #: ../../training.rst:224
 msgid "Ottobre 2013 (3 g)"
-msgstr ""
+msgstr "Octubre 2013 (3 d)"
 
 # 1477ed8907e24345b0045abe4fb7372a
 #: ../../training.rst:224
-#, fuzzy
 msgid "30 Settembre"
-msgstr "10 de septiembre"
+msgstr "30 de septiembre"
 
 # c36c959990c5438da3b43b6a7d9689cb
 # 3012295ac29a4fe793a064ae07e37b56
@@ -914,7 +914,7 @@ msgstr "10 de septiembre"
 #: ../../training.rst:224 ../../training.rst:226 ../../training.rst:228
 #: ../../training.rst:230
 msgid "Lisboa, PT"
-msgstr ""
+msgstr "Lisboa, PT"
 
 # e255c3651fef4808985bd166dc74da2b
 # 0c945eeb010449b39192d6932cb7d000
@@ -925,9 +925,8 @@ msgstr ""
 
 # 789f35850632463296adba2404463064
 #: ../../training.rst:225
-#, fuzzy
 msgid "16-18 Ottobre 2013"
-msgstr "16-18 de octubre"
+msgstr "16-18 de octubre 2013"
 
 # 01f98806e0874655a3cf578f9a0d6623
 #: ../../training.rst:225
@@ -937,25 +936,22 @@ msgstr "1 de octubre"
 # d07cad72656b4bf1853685f09f6e5655
 #: ../../training.rst:226
 msgid "Ottobre 2013 (2 g)"
-msgstr ""
+msgstr "Octubre 2013 (2 d)"
 
 # 01f98806e0874655a3cf578f9a0d6623
 #: ../../training.rst:226
-#, fuzzy
 msgid "15 Ottobre"
-msgstr "1 de octubre"
+msgstr "15 de octubre"
 
 # 93622693fbc3409ea870fc8d6b853c71
 #: ../../training.rst:227
-#, fuzzy
 msgid "Creare plugin in Python per QGIS"
-msgstr "Crear un plugin en Python para QGIS"
+msgstr "Crear plugin en Python para QGIS"
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
 #: ../../training.rst:227
-#, fuzzy
 msgid "13-15 Novembre 2013"
-msgstr "13-15 de Noviembre"
+msgstr "13-15 de Noviembre 2013"
 
 # ac7a57cb7dc44f15b51b36d55e91b27c
 #: ../../training.rst:227
@@ -964,20 +960,18 @@ msgstr "28 de octubre"
 
 # 7a7ec0040dc243a29b9a554247e0fe1b
 #: ../../training.rst:228 ../../training.rst:229
-#, fuzzy
 msgid "Geodatabase (PostgreSQL e PostGIS)"
-msgstr "Geodatabase (PostgreSQL / PostGIS)"
+msgstr "Geodatabase (PostgreSQL y PostGIS)"
 
 # 483ad4bf82f0431c9d84d7d0e5223522
 #: ../../training.rst:228
 msgid "Novembre 2013 (3 g)"
-msgstr ""
+msgstr "Noviembre 2013 (3 g)"
 
 # 01f98806e0874655a3cf578f9a0d6623
 #: ../../training.rst:228
-#, fuzzy
 msgid "31 Ottobre"
-msgstr "1 de octubre"
+msgstr "31 de octubre"
 
 # 51c019364e82467cb3334d945ad1b04f
 #: ../../training.rst:228
@@ -986,9 +980,8 @@ msgstr ""
 
 # f7db670e6b22473f88e2168c85cf783a
 #: ../../training.rst:229
-#, fuzzy
 msgid "11-13 Dicembre 2013"
-msgstr "11-13 Diciembre"
+msgstr "11-13 Diciembre 2013"
 
 # 98d67ad8d1324a71a5b91e8e65dc3716
 #: ../../training.rst:229
@@ -1003,19 +996,17 @@ msgstr "Web Mapping con QGIS"
 # 4b9c5b92cc9241d59e3e60e49068be31
 #: ../../training.rst:230
 msgid "Dicembre 2013 (3 g)"
-msgstr ""
+msgstr "Diciembre 2013 (3 g)"
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
 #: ../../training.rst:230
-#, fuzzy
 msgid "31 Novembre"
-msgstr "13-15 de Noviembre"
+msgstr "31 de Noviembre"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
 #: ../../training.rst:231
-#, fuzzy
 msgid "23-24 Gennaio 2014"
-msgstr "23-24 de enero"
+msgstr "23-24 de enero 2014"
 
 # 2837589f472d43e6b2fcc68aa9118522
 #: ../../training.rst:231
@@ -1024,12 +1015,13 @@ msgstr "10 de enero"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
 #: ../../training.rst:234
+#, qt-format
 msgid ""
-"`Scarica il calendario (ics) <https://www.google.com/calendar/ical/"
-"faunaliagis%40gmail.com/public/basic.ics>`_"
+"`Scarica il calendario (ics) "
+"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 msgstr ""
-"Descargue el calendario (ics) <https://www.google.com/calendar/ical/"
-"faunaliagis%40gmail.com/public/basic.ics>`_"
+"Descargue el calendario (ics) "
+"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 2b01fbfd1fbb417da072f5b12ca3fae2
 #: ../../training.rst:237
@@ -1038,23 +1030,21 @@ msgstr "Costes"
 
 # 17698eff5be547c7ace8019856a6fe6c
 #: ../../training.rst:239
-#, fuzzy
 msgid ""
 "Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA "
 "(meno la ritenuta d'acconto, da versare 323,41 €). Corso di Web Mapping (2 "
 "giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la "
 "ritenuta d'acconto, da versare 272,88 €)"
 msgstr ""
-"Cursos de tres días: 350 € para clientes privados, 320 €+ IVA para empresas/"
-"autónomos. Cursos de Wep Mapping (2 días): 290 para  clientes privados, 270 €"
-"+ IVA para empresas/autónomos. Descuento del 5% por realizar la inscripción "
-"simultánea en más cursos. Confirmación de inscripción al ingresar una fianza "
-"de 100 €, completando el pago antes del inicio del curso"
+"Cursos de tres días: 350 € para clientes privados, 320 €+ IVA para "
+"empresas/autónomos. Cursos de Wep Mapping (2 días): 290 para  clientes "
+"privados, 270 €+ IVA para empresas/autónomos"
 
 # 26a08c8133c244a28bb579355207e4d0
 #: ../../training.rst:240
 msgid "**Sconti**: 5% per l'iscrizione simultanea a più corsi"
 msgstr ""
+"**Descuentos**: 5% por realizar la inscripción simultánea en más cursos"
 
 # d46e64fc0c7e494b826fb2dc83e7df1d
 #: ../../training.rst:243
@@ -1064,12 +1054,15 @@ msgstr "Interpolación"
 
 # ba42772ed13e492f937897053e863d23
 #: ../../training.rst:245
+#, fuzzy
 msgid ""
 "**Iscrizione**: confermata al versamento di una caparra di 100 €, saldo "
 "prima dell'inizio del corso; è possibile versare l'intera quota in unica "
 "soluzione; in caso il corso non si svolga per qualunque motivo, la quota "
 "versata verrà interamente restituita"
 msgstr ""
+"Confirmación de inscripción al ingresar una fianza de 100 €, completando el "
+"pago antes del inicio del curso"
 
 # 1b917c6bbf9943ebb0e405bc047b9493
 #: ../../training.rst:246
@@ -1114,21 +1107,24 @@ msgstr "Logística"
 # e2c77797de9e472598dc6f4abdcf19db
 #: ../../training.rst:256
 msgid ""
-"**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
-"page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
-"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
-"pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune."
-"pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluse strutture ricettive). Convenzione con B&B `Il Piccolo <http://www."
-"ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple"
+"**Sede**: Pontedera (PI), presso `Pont-Tech "
+"<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
+"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
+"facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli "
+"sulla città "
+"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive). Convenzione con B&B `Il Piccolo "
+"<http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere "
+"singole/doppie/triple"
 msgstr ""
-"**Sede** Pontedera (PI) en `Pont-Tech <http://www.pont-tech.it/?"
-"page_id=957>`_, o `Faunalia <http://www.openstreetmap.org/?"
-"lat=43.66154&lon=10.63763&zoom=17>`_, de fácil accesso con medios públicos "
-"(tren y avión). `Detalles sobre la ciudad. <http://www.comune.pontedera.pi."
-"it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluídos "
-"alojamientos). Convención con B&B `Il Piccolo <http://www.ilpiccolorooms.it/"
-">`_, 45/60/80 € por habitación simple/doble/triple"
+"**Sede** Pontedera (PI) en `Pont-Tech "
+"<http://www.pont-tech.it/?page_id=957>`_, o `Faunalia "
+"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, de "
+"fácil accesso con medios públicos (tren y avión). `Detalles sobre la ciudad. "
+"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluídos alojamientos). Convención con B&B `Il Piccolo "
+"<http://www.ilpiccolorooms.it/>`_, 45/60/80 € por habitación "
+"simple/doble/triple"
 
 # e11809ab1d4a491b988a741ed5e19169
 #~ msgid "Modulo di iscrizione"
