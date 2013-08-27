@@ -61,7 +61,7 @@ msgid ""
 "<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
 "annunci di nuovi corsi."
 msgstr ""
-"Inscríbase en la lista de correo  "
+"Inscríbase en la `lista de correo "
 "<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ para recibir "
 "anuncios de nuevos cursos."
 
@@ -127,9 +127,10 @@ msgid ""
 "<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
 "ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
-"Permiten el accesso a los exámenes AICA para tener la certificación ECDL-GIS "
-"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini es `exsaminador "
-"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+"Permiten el accesso a los exámenes AICA para tener la `certificación "
+"ECDL-GIS <http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini es "
+"`exsaminador ECDL-GIS "
+"<http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
@@ -921,7 +922,7 @@ msgstr "Lisboa, PT"
 # 33a0ad503b554bbbb42d0384d5628652
 #: ../../training.rst:224 ../../training.rst:226 ../../training.rst:230
 msgid "Portoghese"
-msgstr ""
+msgstr "Portugués"
 
 # 789f35850632463296adba2404463064
 #: ../../training.rst:225
@@ -976,7 +977,7 @@ msgstr "31 de octubre"
 # 51c019364e82467cb3334d945ad1b04f
 #: ../../training.rst:228
 msgid "Inglese"
-msgstr ""
+msgstr "Inglés"
 
 # f7db670e6b22473f88e2168c85cf783a
 #: ../../training.rst:229
