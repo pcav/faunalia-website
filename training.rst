@@ -213,171 +213,44 @@ Durata
 
 Due giorni *full time*
 
-Calendario 
+Calendario
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. rst-class:: table  
-===================================  ===============  ==================== ============== ===========
-Corso                                Date e durata    Scadenza iscrizione  Dove           Lingua
-===================================  ===============  ==================== ============== ===========
-Cartografia con QGIS                 25-27 Settembre  10 Settembre         Pontedera, IT  Italiano
-Analisi con QGIS                     16-18 Ottobre    1 Ottobre            Pontedera, IT  Italiano
-Creare un plugin in Python per QGIS  13-15 Novembre   28 Ottobre           Pontedera, IT  Italiano
-Geodatabase (PostgreSQL / PostGIS)   11-13 Dicembre   25 Novembre          Pontedera, IT  Italiano
-Web Mapping con QGIS                 23-24 Gennaio    10 Gennaio           Pontedera, IT  Italiano
-===================================  ===============  ==================== ============== ===========
+===================================  ====================  ==================== ============== ===========
+Corso                                Date e durata         Scadenza iscrizione  Dove           Lingua
+===================================  ====================  ==================== ============== ===========
+Cartografia con QGIS                 25-27 Settembre 2013  10 Settembre         Pontedera, IT  Italiano
+Cartografia con QGIS                 Ottobre 2013 (3 g)    30 Settembre         Lisboa, PT     Portoghese
+Analisi con QGIS                     16-18 Ottobre 2013    1 Ottobre            Pontedera, IT  Italiano
+Analisi con QGIS                     Ottobre 2013 (2 g)    15 Ottobre           Lisboa, PT     Portoghese
+Creare plugin in Python per QGIS     13-15 Novembre 2013   28 Ottobre           Pontedera, IT  Italiano
+Geodatabase (PostgreSQL e PostGIS)   Novembre 2013 (3 g)   31 Ottobre           Lisboa, PT     Inglese
+Geodatabase (PostgreSQL e PostGIS)   11-13 Dicembre 2013   25 Novembre          Pontedera, IT  Italiano
+Web Mapping con QGIS                 Dicembre 2013 (3 g)   31 Novembre          Lisboa, PT     Portoghese
+Web Mapping con QGIS                 23-24 Gennaio 2014    10 Gennaio           Pontedera, IT  Italiano
+===================================  ====================  ==================== ============== ===========
 
 * `Scarica il calendario (ics) <https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_
 
 Costi
 ===================================================
 
-Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 323,41 €). Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 272,88 €). Sconto 5% per l'iscrizione simultanea a più corsi. Iscrizione confermata al versamento di una caparra di 100 €, saldo prima dell'inizio del corso
+* Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 323,41 €). Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 272,88 €) 
+* **Sconti**: 5% per l'iscrizione simultanea a più corsi
+
+Istruzioni
+===================================================
+
+* **Iscrizione**: confermata al versamento di una caparra di 100 €, saldo prima dell'inizio del corso; è possibile versare l'intera quota in unica soluzione; in caso il corso non si svolga per qualunque motivo, la quota versata verrà interamente restituita
+* **Conferma**: il corso sarà confermato al raggiungimento del numero minimo di partecipanti
+* **Requisiti**: computer portatile in buono stato di funzionamento; i programmi necessari verranno installati durante il corso
+* **Attestato**: la partecipazione al corso dà diritto ad un attestato di partecipazione
+* **Pagamenti**: bonifico sul conto corrente di Faunalia (IBAN IT55 P052 3271 1310 0002 0048 369), indicando nella causale nome e cognome dell'iscritto e nome del corso; si raccomanda di inviare tutti i dati necessari per la fatturazione tramite il modulo qui di seguito
+
+:doc:`Iscriviti qui <subscr_form_it>`
 
 Logistica
 ===================================================
 
 **Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluse strutture ricettive). Convenzione con B&B `Il Piccolo <http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple
-
-Modulo di iscrizione
-+++++++++++++++++++++++++++++++++++++++++++++++++++
-
-.. raw:: html
-
-	<?php
-		// set default form values
-		$nome = "";
-		$cognome = "";
-		$indirizzo = "";
-		$telefono = "";
-		$email = "";
-		$corso = "";
-		$dati_per_fatturazione = "";
-		$note = "";
-
-		if ($_POST["SUBMIT"]) {
-			
-			$found_error = 0;
-			
-			// sender data
-			$sender_name = 'Faunalia';
-			$sender_email ="info@faunalia.it";
-			
-			$sender_name = 'Iscrizione corsi';
-			$sender_email ="info@faunalia.it";
-			// form data
-			$nome = $_POST["nome"];
-			$cognome = $_POST["cognome"];
-			$indirizzo = $_POST["indirizzo"];
-			$telefono = $_POST["telefono"];
-			$email = $_POST["email"];
-			$corso = $_POST["corso"];
-			$dati_per_fatturazione = $_POST["dati_per_fatturazione"];
-			$note = $_POST["note"];
-			
-			// compose submitter mail
-			$from = 'From: ' . $sender_email; 
-			$to = $email; 
-			$subject = "Iscrizione al corso " . $corso . " avvenuta con successo";
-			$message = "La tua iscrizione e' stata registrata. Verrai contattato.\n Grazie.";
-			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n $message";
-			if ( !mail ($to, $subject, $body, $from) ) { 
-				error_log("Error sending inscription receipt email: " . $body); 
-				$found_error = 1;
-				
-			} else {
-			
-				// compose internal archive mail 
-				$from = 'From: ' . $sender_email; 
-				$to = $sender_email; 
-				$subject = "Iscrizione corso: " . $corso . " per " . $nome . " " . $cognome;
-					
-					// key:value message
-					// $message = "Timestamp: " . date("c") . "\n" .
-							   // "Nome: " . $nome . "\n" .
-							   // "Cognome: " . $cognome . "\n" .
-							   // "Indirizzo: " . $indirizzo  . "\n" .
-							   // "Telefono: " . $telefono  . "\n" .
-							   // "Email: " . $email  . "\n" .
-							   // "Corso: " . $corso  . "\n" .
-							   // "Dati per Fatturazione: " . $dati_per_fatturazione  . "\n" .
-							   // "Note: " . $note  . "\n";	
-							   			
-					// with header csv message
-					$header = "Timestamp;Nome;Cognome;Indirizzo;Telefono;Email;Corso;Dati per Fatturazione;Note";
-					$message =  date("c") .";" .
-								$nome  .";" .
-								$cognome  .";" .
-								$indirizzo .";" .
-								$telefono .";" .
-								$email .";" .
-								$corso .";" .
-								$dati_per_fatturazione  .";" .
-								$note;
-					
-				$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n$header\n$message\n";
-				if ( !mail ($to, $subject, $body, $from) ) {
-					error_log("Error sending internal inscription mail: ". $body);
-					$found_error = 1;
-				}
-				
-				// write message on a local file
-				$report_filename = '/var/lib/form_results/training.log';
-				if ( !file_exists($report_filename) ) {
-					if ( !file_put_contents ( $report_filename , $header.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
-						error_log("Error writing inscription log file for this header: ". $header); 
-						$found_error = 1;
-					}
-				}			
-				if ( !file_put_contents ( $report_filename , $message.PHP_EOL, FILE_APPEND | LOCK_EX) ) {
-					error_log("Error writing inscription log file for this message: ". $message); 
-					$found_error = 1;
-				}
-			}
-			
-			if ( $found_error ) {
-				echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>';
-			} else {
-				echo "<h2>Iscrizione al corso " . $corso . " avvenuta con successo</h2>";
-			}
-		}
-	?>
-	<form action="training.html#modulo-di-iscrizione" method="post">
-
-	<label for="edit-submitted-nome">Nome <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-nome" name="nome" value="<?=$nome ?>" size="60" maxlength="128" class="input-xlarge required" />
-
-	<label for="edit-submitted-cognome">Cognome <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-cognome" name="cognome" value="<?=$cognome ?>" size="60" maxlength="128" class="input-xlarge required" />
-
-	<label for="edit-submitted-indirizzo">Indirizzo <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-indirizzo" name="indirizzo" value="<?=$indirizzo ?>" size="60" maxlength="128" class="input-xlarge required" />
-
-	<label for="edit-submitted-telefono">Telefono <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-telefono" name="telefono" value="<?=$telefono ?>" size="60" maxlength="128" class="input-xlarge required" />
-
-	<label for="edit-submitted-e-mail">E-Mail <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input class="email input-xlarge form-email required" type="email" value="<?=$email ?>" id="edit-submitted-e-mail" name="email" size="60" />
-
-	<label for="edit-submitted-corso">Corso <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<select id="edit-submitted-corso" name="corso" class="input-xlarge required">
-		<option value="" <?php if ($corso=="") echo 'selected="selected"';?> >- Scegliere -</option>
-		<option value="qgis_cartografia" <?php if ($corso=="qgis_cartografia") echo 'selected="selected"';?> >QGIS cartografia</option>
-		<option value="qgis_analisi" <?php if ($corso=="qgis_analisi") echo 'selected="selected"';?> >QGIS analisi</option>
-		<option value="pyqgis" <?php if ($corso=="pyqgis") echo 'selected="selected"';?> >Python-QGIS</option>
-		<option value="postgis" <?php if ($corso=="postgis") echo 'selected="selected"';?> >Geodatabase</option>
-		<option value="webgis" <?php if ($corso=="webgis") echo 'selected="selected"';?> >WebMapping</option>
-	</select>
-
-	<label for="edit-submitted-dati-per-fatturazione">Dati per fatturazione <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-
-	<textarea id="edit-submitted-dati-per-fatturazione" name="dati_per_fatturazione" cols="60" rows="5" class="input-xlarge required"><?php echo htmlspecialchars($dati_per_fatturazione); ?></textarea></div>
-
-  <div>
-	<label for="edit-submitted-note">Note </label>
-	<textarea id="edit-submitted-note" name="note" cols="60" rows="5" class="input-xlarge"><?php echo htmlspecialchars($note); ?></textarea>
-  </div>
-
-	<input type="submit" name="SUBMIT" value="Invia" class="btn btn-primary"/>
-	</form>
-
