@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-26 15:28\n"
+"POT-Creation-Date: 2013-08-27 08:33\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -131,7 +131,7 @@ msgstr ""
 
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
-#: ../../training.rst:30 ../../training.rst:223
+#: ../../training.rst:30 ../../training.rst:223 ../../training.rst:224
 msgid "Cartografia con QGIS"
 msgstr "Cartographie avec QGIS"
 
@@ -307,7 +307,7 @@ msgstr "Trois jours à plein temps"
 
 # bd04cff96a1d4414899ef132ad5ba7bf
 # 84a61dcdc830454e9665797c69bd9891
-#: ../../training.rst:73 ../../training.rst:224
+#: ../../training.rst:73 ../../training.rst:225 ../../training.rst:226
 msgid "Analisi con QGIS"
 msgstr "Analyse avec QGIS"
 
@@ -865,7 +865,8 @@ msgstr "Language"
 
 # 5264f422ac9d4034a6d68c5b38458a39
 #: ../../training.rst:223
-msgid "25-27 Settembre"
+#, fuzzy
+msgid "25-27 Settembre 2013"
 msgstr "25-27 Septembre"
 
 # 1477ed8907e24345b0045abe4fb7372a
@@ -878,8 +879,8 @@ msgstr "10 Septembre"
 # b926fe538c0a4266816e9a2e2da861a4
 # fa87477f305244138e8c92056cc005d3
 # bfaca8e307114040a30a78bdd2317625
-#: ../../training.rst:223 ../../training.rst:224 ../../training.rst:225
-#: ../../training.rst:226 ../../training.rst:227
+#: ../../training.rst:223 ../../training.rst:225 ../../training.rst:227
+#: ../../training.rst:229 ../../training.rst:231
 msgid "Pontedera, IT"
 msgstr "Pontedera, IT"
 
@@ -888,68 +889,139 @@ msgstr "Pontedera, IT"
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
-#: ../../training.rst:223 ../../training.rst:224 ../../training.rst:225
-#: ../../training.rst:226 ../../training.rst:227
+#: ../../training.rst:223 ../../training.rst:225 ../../training.rst:227
+#: ../../training.rst:229 ../../training.rst:231
 msgid "Italiano"
 msgstr "Italien"
 
-# 789f35850632463296adba2404463064
+# c9b6799b8a60441e9f87b85027246b23
 #: ../../training.rst:224
-msgid "16-18 Ottobre"
+msgid "Ottobre 2013 (3 g)"
+msgstr ""
+
+# 1477ed8907e24345b0045abe4fb7372a
+#: ../../training.rst:224
+#, fuzzy
+msgid "30 Settembre"
+msgstr "10 Septembre"
+
+# c36c959990c5438da3b43b6a7d9689cb
+# 3012295ac29a4fe793a064ae07e37b56
+# a4b7dd4373cb4866b08c1ba195474007
+# 19804cb0c4ff4b7a923f428bd87759ec
+#: ../../training.rst:224 ../../training.rst:226 ../../training.rst:228
+#: ../../training.rst:230
+msgid "Lisboa, PT"
+msgstr ""
+
+# e255c3651fef4808985bd166dc74da2b
+# 0c945eeb010449b39192d6932cb7d000
+# 33a0ad503b554bbbb42d0384d5628652
+#: ../../training.rst:224 ../../training.rst:226 ../../training.rst:230
+msgid "Portoghese"
+msgstr ""
+
+# 789f35850632463296adba2404463064
+#: ../../training.rst:225
+#, fuzzy
+msgid "16-18 Ottobre 2013"
 msgstr "16-18 Octobre"
 
 # 01f98806e0874655a3cf578f9a0d6623
-#: ../../training.rst:224
+#: ../../training.rst:225
 msgid "1 Ottobre"
 msgstr "1 Octobre"
 
+# d07cad72656b4bf1853685f09f6e5655
+#: ../../training.rst:226
+msgid "Ottobre 2013 (2 g)"
+msgstr ""
+
+# 01f98806e0874655a3cf578f9a0d6623
+#: ../../training.rst:226
+#, fuzzy
+msgid "15 Ottobre"
+msgstr "1 Octobre"
+
 # 93622693fbc3409ea870fc8d6b853c71
-#: ../../training.rst:225
-msgid "Creare un plugin in Python per QGIS"
+#: ../../training.rst:227
+#, fuzzy
+msgid "Creare plugin in Python per QGIS"
 msgstr "Créer un plugin Python pour QGIS"
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
-#: ../../training.rst:225
-msgid "13-15 Novembre"
+#: ../../training.rst:227
+#, fuzzy
+msgid "13-15 Novembre 2013"
 msgstr "13-15 Novembre"
 
 # ac7a57cb7dc44f15b51b36d55e91b27c
-#: ../../training.rst:225
+#: ../../training.rst:227
 msgid "28 Ottobre"
 msgstr "28 Octobre"
 
 # 7a7ec0040dc243a29b9a554247e0fe1b
-#: ../../training.rst:226
-msgid "Geodatabase (PostgreSQL / PostGIS)"
+#: ../../training.rst:228 ../../training.rst:229
+#, fuzzy
+msgid "Geodatabase (PostgreSQL e PostGIS)"
 msgstr "Geodatabase (PostgreSQL / PostGIS)"
 
+# 483ad4bf82f0431c9d84d7d0e5223522
+#: ../../training.rst:228
+msgid "Novembre 2013 (3 g)"
+msgstr ""
+
+# 01f98806e0874655a3cf578f9a0d6623
+#: ../../training.rst:228
+#, fuzzy
+msgid "31 Ottobre"
+msgstr "1 Octobre"
+
+# 51c019364e82467cb3334d945ad1b04f
+#: ../../training.rst:228
+msgid "Inglese"
+msgstr ""
+
 # f7db670e6b22473f88e2168c85cf783a
-#: ../../training.rst:226
-msgid "11-13 Dicembre"
+#: ../../training.rst:229
+#, fuzzy
+msgid "11-13 Dicembre 2013"
 msgstr "11-13 Décembre"
 
 # 98d67ad8d1324a71a5b91e8e65dc3716
-#: ../../training.rst:226
+#: ../../training.rst:229
 msgid "25 Novembre"
 msgstr "25 Novembre"
 
 # 660512ec03ae4bc59a877c8ec19a3162
-#: ../../training.rst:227
+#: ../../training.rst:230 ../../training.rst:231
 msgid "Web Mapping con QGIS"
 msgstr "WebMapping avec QGIS"
 
+# 4b9c5b92cc9241d59e3e60e49068be31
+#: ../../training.rst:230
+msgid "Dicembre 2013 (3 g)"
+msgstr ""
+
+# bdc24911e5b54efc9a5a5d9ce5940acc
+#: ../../training.rst:230
+#, fuzzy
+msgid "31 Novembre"
+msgstr "13-15 Novembre"
+
 # b28a9fbcf9964ba28a693bb9feccab9b
-#: ../../training.rst:227
-msgid "23-24 Gennaio"
+#: ../../training.rst:231
+#, fuzzy
+msgid "23-24 Gennaio 2014"
 msgstr "23-24 Janvier"
 
 # 2837589f472d43e6b2fcc68aa9118522
-#: ../../training.rst:227
+#: ../../training.rst:231
 msgid "10 Gennaio"
 msgstr "10 Janvier"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
-#: ../../training.rst:230
+#: ../../training.rst:234
 msgid ""
 "`Scarica il calendario (ics) <https://www.google.com/calendar/ical/"
 "faunaliagis%40gmail.com/public/basic.ics>`_"
@@ -958,30 +1030,84 @@ msgstr ""
 "faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 2b01fbfd1fbb417da072f5b12ca3fae2
-#: ../../training.rst:233
+#: ../../training.rst:237
 msgid "Costi"
 msgstr "Coûts"
 
 # 17698eff5be547c7ace8019856a6fe6c
-#: ../../training.rst:235
+#: ../../training.rst:239
+#, fuzzy
 msgid ""
 "Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA "
 "(meno la ritenuta d'acconto, da versare 323,41 €). Corso di Web Mapping (2 "
 "giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la "
-"ritenuta d'acconto, da versare 272,88 €). Sconto 5% per l'iscrizione "
-"simultanea a più corsi. Iscrizione confermata al versamento di una caparra "
-"di 100 €, saldo prima dell'inizio del corso"
+"ritenuta d'acconto, da versare 272,88 €)"
 msgstr ""
 "Pour les détails sur les frais et paiements des courses, écrivez nous: "
 "info@faunalia.eu"
 
+# 26a08c8133c244a28bb579355207e4d0
+#: ../../training.rst:240
+msgid "**Sconti**: 5% per l'iscrizione simultanea a più corsi"
+msgstr ""
+
+# d46e64fc0c7e494b826fb2dc83e7df1d
+#: ../../training.rst:243
+#, fuzzy
+msgid "Istruzioni"
+msgstr "Interpolations"
+
+# ba42772ed13e492f937897053e863d23
+#: ../../training.rst:245
+msgid ""
+"**Iscrizione**: confermata al versamento di una caparra di 100 €, saldo "
+"prima dell'inizio del corso; è possibile versare l'intera quota in unica "
+"soluzione; in caso il corso non si svolga per qualunque motivo, la quota "
+"versata verrà interamente restituita"
+msgstr ""
+
+# 1b917c6bbf9943ebb0e405bc047b9493
+#: ../../training.rst:246
+msgid ""
+"**Conferma**: il corso sarà confermato al raggiungimento del numero minimo "
+"di partecipanti"
+msgstr ""
+
+# 4155204fc0fa4423a607e82054c538a1
+#: ../../training.rst:247
+msgid ""
+"**Requisiti**: computer portatile in buono stato di funzionamento; i "
+"programmi necessari verranno installati durante il corso"
+msgstr ""
+
+# 75efe5aadaaf49d287f1d89037bdcc98
+#: ../../training.rst:248
+msgid ""
+"**Attestato**: la partecipazione al corso dà diritto ad un attestato di "
+"partecipazione"
+msgstr ""
+
+# 282ed836576c4f16bd52939196a1f7e0
+#: ../../training.rst:249
+msgid ""
+"**Pagamenti**: bonifico sul conto corrente di Faunalia (IBAN IT55 P052 3271 "
+"1310 0002 0048 369), indicando nella causale nome e cognome dell'iscritto e "
+"nome del corso; si raccomanda di inviare tutti i dati necessari per la "
+"fatturazione tramite il modulo qui di seguito"
+msgstr ""
+
+# ba650497b3c44258a03e96c3d9dbd556
+#: ../../training.rst:251
+msgid ":doc:`Iscriviti qui <subscr_form_it>`"
+msgstr ""
+
 # 9da0e2efb514451bacaad5b961947b64
-#: ../../training.rst:238
+#: ../../training.rst:254
 msgid "Logistica"
 msgstr "Logistique"
 
 # e2c77797de9e472598dc6f4abdcf19db
-#: ../../training.rst:240
+#: ../../training.rst:256
 msgid ""
 "**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
 "page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
@@ -994,9 +1120,8 @@ msgstr ""
 "Pour les détails sur les sièges des courses, écrivez nous: info@faunalia.eu"
 
 # e11809ab1d4a491b988a741ed5e19169
-#: ../../training.rst:243
-msgid "Modulo di iscrizione"
-msgstr "Formulaire d'inscription"
+#~ msgid "Modulo di iscrizione"
+#~ msgstr "Formulaire d'inscription"
 
 # bca656f6e71a4a8dbbc41240782351af
 #~ msgid "SEXTANTE"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-16 18:52\n"
+"POT-Creation-Date: 2013-08-27 08:33\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -173,7 +173,7 @@ msgstr ""
 # b8a0e5217dba40d69e56e9e492c4103b
 #: ../../intro.rst:32
 msgid ""
-"La nostra offerta di servizi è riassumibile in tre aree principali: :doc:"
+"La nostra offerta di servizi è riassumibile in tre aree principali\\: :doc:"
 "`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione <training>`."
 msgstr ""
 

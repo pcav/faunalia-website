@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-26 17:33\n"
+"POT-Creation-Date: 2013-08-27 08:33\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,43 +16,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../templates/layout.html:97
-# 7f22e298097a4265bca4103757a576cd
+#: ../../_templates/layout.html:100
+# f3d3d553918b457a91fd9fdfbba08298
 msgid "Italia"
 msgstr ""
 
-#: ../../templates/layout.html:108
-# ab4a9b9f2adf46de88a6eff059186741
+#: ../../_templates/layout.html:111
+# 87c15592912e46378396a39efbc3feb0
 msgid "Portogallo"
 msgstr ""
 
-#: ../../templates/layout.html:117
-# 9d077f76fb0e438eadeac9158a66f9dd
+#: ../../_templates/layout.html:120
+# e15dae77556e40f68de579b78f4166ef
 msgid "Seguici"
 msgstr ""
 
-#: ../../templates/layout.html:132
-# 683d3a0d7a4b4ef88722b8171484addf
+#: ../../_templates/layout.html:135
+# fdf6057fe52a42e0a06b30fe646b7a86
 msgid "Torna su"
 msgstr ""
 
-#: ../../templates/layout.html:141
-# 937b10d1ed794482be1d7778d48b2568
+#: ../../_templates/layout.html:144
+# 6ff951e709ba4f15af4914567216f074
 msgid "&copy; <a href=\"%(path)s\">Copyright</a> %(copyright)s."
 msgstr ""
 
-#: ../../templates/layout.html:143
-# d456230c197947d6ab2aa57a6fe6432e
+#: ../../_templates/layout.html:146
+# 20daae52a3854b57a165509ab757e347
 msgid "&copy; Copyright %(copyright)s."
 msgstr ""
 
-#: ../../templates/layout.html:147
-# f60062cb1d8b4dd6af314c63117c1786
+#: ../../_templates/layout.html:150
+# 476c8a0709aa455fb76720a7fe7bc53f
 msgid "Last updated on %(last_updated)s."
 msgstr ""
 
-#: ../../templates/layout.html:150
-# c7f65e6777444b048bdceafde2558e0e
+#: ../../_templates/layout.html:153
+# a3016beb93ce47fda8f195971b0be3fd
 msgid "Created using <a href=\"http://sphinx.pocoo.org/\">Sphinx</a> %(sphinx_version)s."
 msgstr ""
 
