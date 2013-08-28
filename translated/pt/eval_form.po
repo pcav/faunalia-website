@@ -22,12 +22,10 @@ msgstr ""
 
 # c9f5478c551b4f78a880111c12044d61
 #: ../../eval_form.rst:2
-#, fuzzy
 msgid "Questionario di valutazione corsi"
 msgstr "Formulário de avaliação das formações"
 
 # ea5c091c0afa41c597141c453b8d6830
 #: ../../eval_form.rst:4
-#, fuzzy
 msgid "Minimo 0, Massimo 5"
 msgstr "Mínimo 0, Máximo 5"
