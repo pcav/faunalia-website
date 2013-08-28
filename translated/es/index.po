@@ -78,7 +78,7 @@ msgid ""
 "Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il "
 "tuo GIS?"
 msgstr ""
-"¿ Quiere aprender de modo rápido y eficaz a conocer y gestionar en su "
+"¿Quiere aprender de modo rápido y eficaz a conocer y gestionar en su "
 "totalidad su SIG?"
 
 # 80549d17aca94c20ba96853e17c8154d
