@@ -1066,7 +1066,7 @@ msgstr "For subscribing, write us: info@faunalia.eu"
 # 9da0e2efb514451bacaad5b961947b64
 #: ../../training.rst:254
 msgid "Logistica"
-msgstr "Losgistic"
+msgstr "Logistic"
 
 # e2c77797de9e472598dc6f4abdcf19db
 #: ../../training.rst:256
