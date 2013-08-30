@@ -125,7 +125,7 @@ html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 html_theme_options = {
     'bootswatch_theme': "united",
     'navbar_pagenav': False,
-
+    'navbar_sidebarrel': False,
 }
 #redadble seems good
 #see http://bootswatch.com/ for a list
