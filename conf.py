@@ -126,6 +126,7 @@ html_theme_options = {
     'bootswatch_theme': "united",
     'navbar_pagenav': False,
     'navbar_sidebarrel': False,
+    'globaltoc_depth': 3,
 }
 #redadble seems good
 #see http://bootswatch.com/ for a list
@@ -165,7 +166,7 @@ html_static_path = ['_static']
 
 # Custom sidebar templates, maps document names to template names.
 #html_sidebars = {}
-html_sidebars = {'sidebar': ['localtoc.html']} 
+html_sidebars = {'training': ['localtoc.html']} 
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
