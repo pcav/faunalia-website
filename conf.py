@@ -127,6 +127,7 @@ html_theme_options = {
     'navbar_pagenav': False,
     'navbar_sidebarrel': False,
     'globaltoc_depth': 3,
+    'navbar_links': [('Sviluppo', 'dev'), ('Assistenza', 'support'), ('Corsi', 'training'), ('Attivit&agrave;', 'jobs'), ('Chi siamo', 'intro')], 
 }
 #redadble, united seem good
 #see http://bootswatch.com/ for a list
