@@ -4,6 +4,19 @@
 {# Include our new CSS file into existing ones. #}
 {% set css_files = css_files + ['_static/faunalia.css']%}
 
+{%- block menu %}
+
+                <div class="nav-collapse collapse">
+                    <ul class="nav pull-right">
+                        <li><a href="{{ pathto('dev') }}">{{ gettext('Sviluppo') }}</a></li>
+                        <li><a href="{{ pathto('support') }}">{{ gettext('Assistenza') }}</a></li>
+                        <li><a href="{{ pathto('training') }}">{{ gettext('Corsi') }}</a></li>
+                        <li><a href="{{ pathto('jobs') }}">{{ gettext('Attivit&agrave;') }}</a></li>
+                        <li><a href="{{ pathto('intro') }}">{{ gettext('Chi siamo') }}</a></li>
+                    </ul>
+                </div>{# end of nav-collapse #}
+{%- endblock %}
+
 {%- block footer %}
 <footer class="footer">
 <div class="span4">
