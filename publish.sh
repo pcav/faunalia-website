@@ -7,9 +7,9 @@ case "$choice1" in
 esac
 
 touch *.rst
-#make gettext
-#make compile_messages
-#make merge_messages
+make gettext
+make compile_messages
+make merge_messages
 #check if translations are ok
 
 echo "Number of unfinished strings"

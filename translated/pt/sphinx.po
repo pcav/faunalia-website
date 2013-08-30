@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-27 08:33\n"
+"POT-Creation-Date: 2013-08-30 19:18\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,46 +20,71 @@ msgstr ""
 "X-Language: pt_PT\n"
 "X-Source-Language: it_IT\n"
 
+# 4ace189e9ac7465d87578837d5febd45
+#: ../../_templates/layout.html:11
+msgid "Sviluppo"
+msgstr ""
+
+# 3f743cf8bb684faea309ea687aa80ba4
+#: ../../_templates/layout.html:12
+msgid "Assistenza"
+msgstr ""
+
+# d1cc04c59a4c4174af3a1470c6fff69a
+#: ../../_templates/layout.html:13
+msgid "Corsi"
+msgstr ""
+
+# 0c777c40006240408b712ea262435aa0
+#: ../../_templates/layout.html:14
+msgid "Attivit&agrave;"
+msgstr ""
+
+# 469c862a749a4d9fabd84223a5ec8d47
+#: ../../_templates/layout.html:15
+msgid "Chi siamo"
+msgstr ""
+
 # c88fd2cf0a644fd6abaa0d045f9b30ed
-#: ../../_templates/layout.html:100
+#: ../../_templates/layout.html:24
 msgid "Italia"
 msgstr "Itália"
 
 # dd5eb9fe35da423fbcae480b99293cae
-#: ../../_templates/layout.html:111
+#: ../../_templates/layout.html:35
 msgid "Portogallo"
 msgstr "Portugal"
 
 # 319c76da9e244e1fa86d395fa684c45d
-#: ../../_templates/layout.html:120
+#: ../../_templates/layout.html:46
 msgid "Seguici"
 msgstr "Siga-nos"
 
 # 22f8d2bccc524f47903c8107962deafc
-#: ../../_templates/layout.html:135
+#: ../../_templates/layout.html:61
 msgid "Torna su"
 msgstr "Voltar acima"
 
 # 1d977a1e00694fcda9a4b27949ba75a9
-#: ../../_templates/layout.html:144
+#: ../../_templates/layout.html:70
 msgid "&copy; <a href=\"%(path)s\">Copyright</a> %(copyright)s."
 msgstr "&copy; <a href=\"%(path)s\">Copyright</a> %(copyright)s."
 
 # 4f58799d50f44e729f08c99cdc601920
-#: ../../_templates/layout.html:146
+#: ../../_templates/layout.html:72
 msgid "&copy; Copyright %(copyright)s."
 msgstr "&copy; Copyright %(copyright)s."
 
 # c4d0ad213dbe412b9bdc51811e7aa015
-#: ../../_templates/layout.html:150
+#: ../../_templates/layout.html:76
 msgid "Last updated on %(last_updated)s."
 msgstr "Ultima actualização %(last_updated)s."
 
 # 2f4ecd869e2743a18cf45e830203ff84
-#: ../../_templates/layout.html:153
+#: ../../_templates/layout.html:79
 msgid ""
 "Created using <a href=\"http://sphinx.pocoo.org/\">Sphinx</a> "
 "%(sphinx_version)s."
 msgstr ""
-"Criado com <a href=\"http://sphinx.pocoo.org/\">Sphinx</a> "
-"%(sphinx_version)s."
+"Criado com <a href=\"http://sphinx.pocoo.org/\">Sphinx</a> %(sphinx_version)"
+"s."

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-27 11:02\n"
+"POT-Creation-Date: 2013-08-30 19:18\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -629,7 +629,7 @@ msgid "esempi di codice"
 msgstr "exemples de code"
 
 # 7cabf0be650643f1b85997a1c5b71df0
-#: ../../training.rst:158
+#: ../../training.rst:158 ../../training.rst:228 ../../training.rst:229
 msgid "Geodatabase: PostgreSQL e PostGIS"
 msgstr "Geodatabases: PostgreSQL et PostGIS"
 
@@ -752,7 +752,7 @@ msgid "Copia e salvataggio"
 msgstr "Copiee et sauvegarde"
 
 # 660512ec03ae4bc59a877c8ec19a3162
-#: ../../training.rst:190
+#: ../../training.rst:190 ../../training.rst:230 ../../training.rst:231
 msgid "WebMapping con QGIS"
 msgstr "WebMapping avec QGIS"
 
@@ -879,7 +879,7 @@ msgstr "10 Septembre"
 # fa87477f305244138e8c92056cc005d3
 # bfaca8e307114040a30a78bdd2317625
 #: ../../training.rst:223 ../../training.rst:225 ../../training.rst:227
-#: ../../training.rst:229 ../../training.rst:231
+#: ../../training.rst:228 ../../training.rst:230
 msgid "Pontedera, IT"
 msgstr "Pontedera, IT"
 
@@ -889,7 +889,7 @@ msgstr "Pontedera, IT"
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
 #: ../../training.rst:223 ../../training.rst:225 ../../training.rst:227
-#: ../../training.rst:229 ../../training.rst:231
+#: ../../training.rst:228 ../../training.rst:230
 msgid "Italiano"
 msgstr "Italien"
 
@@ -907,15 +907,16 @@ msgstr "30 Septembre"
 # 3012295ac29a4fe793a064ae07e37b56
 # a4b7dd4373cb4866b08c1ba195474007
 # 19804cb0c4ff4b7a923f428bd87759ec
-#: ../../training.rst:224 ../../training.rst:226 ../../training.rst:228
-#: ../../training.rst:230
-msgid "Lisboa, PT"
+#: ../../training.rst:224 ../../training.rst:226 ../../training.rst:229
+#: ../../training.rst:231
+#, fuzzy
+msgid "Lisbona, PT"
 msgstr "Lisboa, PT"
 
 # e255c3651fef4808985bd166dc74da2b
 # 0c945eeb010449b39192d6932cb7d000
 # 33a0ad503b554bbbb42d0384d5628652
-#: ../../training.rst:224 ../../training.rst:226 ../../training.rst:230
+#: ../../training.rst:224 ../../training.rst:226 ../../training.rst:231
 msgid "Portoghese"
 msgstr "Portuguese"
 
@@ -954,60 +955,50 @@ msgstr "13-15 Novembre 2013"
 msgid "28 Ottobre"
 msgstr "28 Octobre"
 
-# 7a7ec0040dc243a29b9a554247e0fe1b
-#: ../../training.rst:228 ../../training.rst:229
-msgid "Geodatabase (PostgreSQL e PostGIS)"
-msgstr "Geodatabase (PostgreSQL et PostGIS)"
-
-# 483ad4bf82f0431c9d84d7d0e5223522
-#: ../../training.rst:228
-msgid "Novembre 2013 (3 g)"
-msgstr "Novembre 2013 (3 j)"
-
-# 01f98806e0874655a3cf578f9a0d6623
-#: ../../training.rst:228
-msgid "31 Ottobre"
-msgstr "31 Octobre"
-
-# 51c019364e82467cb3334d945ad1b04f
-#: ../../training.rst:228
-msgid "Inglese"
-msgstr "Anglais"
-
 # f7db670e6b22473f88e2168c85cf783a
-#: ../../training.rst:229
+#: ../../training.rst:228
 msgid "11-13 Dicembre 2013"
 msgstr "11-13 Décembre 2013"
 
 # 98d67ad8d1324a71a5b91e8e65dc3716
-#: ../../training.rst:229
+#: ../../training.rst:228
 msgid "25 Novembre"
 msgstr "25 Novembre"
 
-# 660512ec03ae4bc59a877c8ec19a3162
-#: ../../training.rst:230 ../../training.rst:231
-msgid "Web Mapping con QGIS"
-msgstr "WebMapping avec QGIS"
+# 483ad4bf82f0431c9d84d7d0e5223522
+#: ../../training.rst:229
+msgid "Novembre 2013 (3 g)"
+msgstr "Novembre 2013 (3 j)"
 
-# 4b9c5b92cc9241d59e3e60e49068be31
-#: ../../training.rst:230
-msgid "Dicembre 2013 (3 g)"
-msgstr "Décembre 2013 (3 j)"
+# 01f98806e0874655a3cf578f9a0d6623
+#: ../../training.rst:229
+msgid "31 Ottobre"
+msgstr "31 Octobre"
 
-# bdc24911e5b54efc9a5a5d9ce5940acc
-#: ../../training.rst:230
-msgid "31 Novembre"
-msgstr "31 Novembre"
+# 51c019364e82467cb3334d945ad1b04f
+#: ../../training.rst:229
+msgid "Inglese"
+msgstr "Anglais"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
-#: ../../training.rst:231
+#: ../../training.rst:230
 msgid "23-24 Gennaio 2014"
 msgstr "23-24 Janvier 2014"
 
 # 2837589f472d43e6b2fcc68aa9118522
-#: ../../training.rst:231
+#: ../../training.rst:230
 msgid "10 Gennaio"
 msgstr "10 Janvier"
+
+# 4b9c5b92cc9241d59e3e60e49068be31
+#: ../../training.rst:231
+msgid "Dicembre 2013 (3 g)"
+msgstr "Décembre 2013 (3 j)"
+
+# bdc24911e5b54efc9a5a5d9ce5940acc
+#: ../../training.rst:231
+msgid "31 Novembre"
+msgstr "31 Novembre"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
 #: ../../training.rst:234
@@ -1111,6 +1102,14 @@ msgid ""
 "ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple"
 msgstr ""
 "Pour les détails sur les sièges des courses, écrivez nous: info@faunalia.eu"
+
+# 7a7ec0040dc243a29b9a554247e0fe1b
+#~ msgid "Geodatabase (PostgreSQL e PostGIS)"
+#~ msgstr "Geodatabase (PostgreSQL et PostGIS)"
+
+# 660512ec03ae4bc59a877c8ec19a3162
+#~ msgid "Web Mapping con QGIS"
+#~ msgstr "WebMapping avec QGIS"
 
 # e11809ab1d4a491b988a741ed5e19169
 #~ msgid "Modulo di iscrizione"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-28 14:43\n"
+"POT-Creation-Date: 2013-08-30 19:18\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -502,7 +502,11 @@ msgid "esempi di codice"
 msgstr ""
 
 #: ../../training.rst:158
+#: ../../training.rst:228
+#: ../../training.rst:229
 # 7cabf0be650643f1b85997a1c5b71df0
+# 7a7ec0040dc243a29b9a554247e0fe1b
+# 7a7ec0040dc243a29b9a554247e0fe1b
 msgid "Geodatabase: PostgreSQL e PostGIS"
 msgstr ""
 
@@ -602,6 +606,10 @@ msgid "Copia e salvataggio"
 msgstr ""
 
 #: ../../training.rst:190
+#: ../../training.rst:230
+#: ../../training.rst:231
+# 660512ec03ae4bc59a877c8ec19a3162
+# 660512ec03ae4bc59a877c8ec19a3162
 # 660512ec03ae4bc59a877c8ec19a3162
 msgid "WebMapping con QGIS"
 msgstr ""
@@ -709,8 +717,8 @@ msgstr ""
 #: ../../training.rst:223
 #: ../../training.rst:225
 #: ../../training.rst:227
-#: ../../training.rst:229
-#: ../../training.rst:231
+#: ../../training.rst:228
+#: ../../training.rst:230
 # 768ef41660e8444b834e3d11d5ef4934
 # 768ef41660e8444b834e3d11d5ef4934
 # 768ef41660e8444b834e3d11d5ef4934
@@ -722,8 +730,8 @@ msgstr ""
 #: ../../training.rst:223
 #: ../../training.rst:225
 #: ../../training.rst:227
-#: ../../training.rst:229
-#: ../../training.rst:231
+#: ../../training.rst:228
+#: ../../training.rst:230
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
@@ -744,18 +752,18 @@ msgstr ""
 
 #: ../../training.rst:224
 #: ../../training.rst:226
-#: ../../training.rst:228
-#: ../../training.rst:230
-# c36c959990c5438da3b43b6a7d9689cb
-# 3012295ac29a4fe793a064ae07e37b56
-# a4b7dd4373cb4866b08c1ba195474007
+#: ../../training.rst:229
+#: ../../training.rst:231
 # 19804cb0c4ff4b7a923f428bd87759ec
-msgid "Lisboa, PT"
+# 19804cb0c4ff4b7a923f428bd87759ec
+# 19804cb0c4ff4b7a923f428bd87759ec
+# 19804cb0c4ff4b7a923f428bd87759ec
+msgid "Lisbona, PT"
 msgstr ""
 
 #: ../../training.rst:224
 #: ../../training.rst:226
-#: ../../training.rst:230
+#: ../../training.rst:231
 # e255c3651fef4808985bd166dc74da2b
 # 0c945eeb010449b39192d6932cb7d000
 # 33a0ad503b554bbbb42d0384d5628652
@@ -798,62 +806,48 @@ msgid "28 Ottobre"
 msgstr ""
 
 #: ../../training.rst:228
-#: ../../training.rst:229
-# 7a7ec0040dc243a29b9a554247e0fe1b
-# 7a7ec0040dc243a29b9a554247e0fe1b
-msgid "Geodatabase (PostgreSQL e PostGIS)"
-msgstr ""
-
-#: ../../training.rst:228
-# 483ad4bf82f0431c9d84d7d0e5223522
-msgid "Novembre 2013 (3 g)"
-msgstr ""
-
-#: ../../training.rst:228
-# 01f98806e0874655a3cf578f9a0d6623
-msgid "31 Ottobre"
-msgstr ""
-
-#: ../../training.rst:228
-# 51c019364e82467cb3334d945ad1b04f
-msgid "Inglese"
-msgstr ""
-
-#: ../../training.rst:229
 # f7db670e6b22473f88e2168c85cf783a
 msgid "11-13 Dicembre 2013"
 msgstr ""
 
-#: ../../training.rst:229
+#: ../../training.rst:228
 # 98d67ad8d1324a71a5b91e8e65dc3716
 msgid "25 Novembre"
 msgstr ""
 
-#: ../../training.rst:230
-#: ../../training.rst:231
-# 660512ec03ae4bc59a877c8ec19a3162
-# 660512ec03ae4bc59a877c8ec19a3162
-msgid "Web Mapping con QGIS"
+#: ../../training.rst:229
+# 483ad4bf82f0431c9d84d7d0e5223522
+msgid "Novembre 2013 (3 g)"
+msgstr ""
+
+#: ../../training.rst:229
+# 01f98806e0874655a3cf578f9a0d6623
+msgid "31 Ottobre"
+msgstr ""
+
+#: ../../training.rst:229
+# 51c019364e82467cb3334d945ad1b04f
+msgid "Inglese"
 msgstr ""
 
 #: ../../training.rst:230
-# 4b9c5b92cc9241d59e3e60e49068be31
-msgid "Dicembre 2013 (3 g)"
-msgstr ""
-
-#: ../../training.rst:230
-# 98d67ad8d1324a71a5b91e8e65dc3716
-msgid "31 Novembre"
-msgstr ""
-
-#: ../../training.rst:231
 # b28a9fbcf9964ba28a693bb9feccab9b
 msgid "23-24 Gennaio 2014"
 msgstr ""
 
-#: ../../training.rst:231
+#: ../../training.rst:230
 # 2837589f472d43e6b2fcc68aa9118522
 msgid "10 Gennaio"
+msgstr ""
+
+#: ../../training.rst:231
+# 4b9c5b92cc9241d59e3e60e49068be31
+msgid "Dicembre 2013 (3 g)"
+msgstr ""
+
+#: ../../training.rst:231
+# 98d67ad8d1324a71a5b91e8e65dc3716
+msgid "31 Novembre"
 msgstr ""
 
 #: ../../training.rst:234
