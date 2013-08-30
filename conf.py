@@ -123,12 +123,12 @@ html_theme = 'bootstrap'
 html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 #tests with bootswatch
 html_theme_options = {
-    'bootswatch_theme': "united",
+    'bootswatch_theme': "readable",
     'navbar_pagenav': False,
     'navbar_sidebarrel': False,
     'globaltoc_depth': 3,
 }
-#redadble seems good
+#redadble, united seem good
 #see http://bootswatch.com/ for a list
 
 # The name for this set of Sphinx documents.  If None, it defaults to
