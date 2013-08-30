@@ -238,7 +238,6 @@ Costi
 
 * Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 323,41 €). Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 272,88 €) 
 * **Sconti**: 5% per l'iscrizione simultanea a più corsi
-* Per informazioni sui corsi in Portogallo scriva a info@faunalia.pt
 
 Istruzioni
 ===================================================
