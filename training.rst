@@ -221,14 +221,14 @@ Calendario
 Corso                                Date e durata         Scadenza iscrizione  Dove           Lingua
 ===================================  ====================  ==================== ============== ===========
 Cartografia con QGIS                 25-27 Settembre 2013  10 Settembre         Pontedera, IT  Italiano
-Cartografia con QGIS                 Ottobre 2013 (3 g)    30 Settembre         Lisbona, PT    Portoghese
+Cartográfia com QGIS                 Ottobre 2013 (3 g)    30 Settembre         Lisbona, PT    Portoghese
 Analisi con QGIS                     16-18 Ottobre 2013    1 Ottobre            Pontedera, IT  Italiano
-Analisi con QGIS                     Ottobre 2013 (2 g)    15 Ottobre           Lisbona, PT    Portoghese
+Análise SIG com QGIS                 Ottobre 2013 (2 g)    15 Ottobre           Lisbona, PT    Portoghese
 Creare plugin in Python per QGIS     13-15 Novembre 2013   28 Ottobre           Pontedera, IT  Italiano
 Geodatabase: PostgreSQL e PostGIS    11-13 Dicembre 2013   25 Novembre          Pontedera, IT  Italiano
-Geodatabase: PostgreSQL e PostGIS    Novembre 2013 (3 g)   31 Ottobre           Lisbona, PT    Inglese
+Bases de dados geográficas: PostgreSQL e PostGIS    Novembre 2013 (3 g)   31 Ottobre           Lisbona, PT    Inglese
 WebMapping con QGIS                  23-24 Gennaio 2014    10 Gennaio           Pontedera, IT  Italiano
-WebMapping con QGIS                  Dicembre 2013 (3 g)   31 Novembre          Lisbona, PT    Portoghese
+WebMapping com QGIS                  Dicembre 2013 (3 g)   31 Novembre          Lisbona, PT    Portoghese
 ===================================  ====================  ==================== ============== ===========
 
 * `Scarica il calendario (ics) <https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_
