@@ -8,3 +8,4 @@ Faunalia website
 * further formatting can be done with the .. cssclass:: directive, see http://ryan-roemer.github.io/sphinx-bootstrap-theme/examples
 * compiled (not public) in http://www2.faunalia.eu
 
+Thanks Ryan Roemer and Russell Sim for http://ryan-roemer.github.io/sphinx-bootstrap-theme/
