@@ -1,5 +1,37 @@
-Pagina non trovata
+[EN] Page not found
 ===============================================================================
-La pagina che cerchi non è presente su questo server.
+
+The page you search was not found on this site.
+
+We have rewritten our website, and most pages have changed name.
+Please search the information you need, using the menus above.
+
+[IT] Pagina non trovata
+===============================================================================
+
+La pagina che cerchi non è presente su questo sito.
 
 Abbiamo ristrutturato il sito e molte pagine hanno cambiato nome. Riprova per cortesia utilizzando per la ricerca i menu della home page.
+
+
+[PT] Página não encontrada
+===============================================================================
+
+A página procurada não existe neste site.
+
+O site foi restructurado e muitas páginas foram renomeadas. Por favor tente novamente utilizando o menus da home page e o pesquisador.
+
+[FR] Page non trouvée
+===============================================================================
+
+La page que vous recherchez n'est pas présente sur ce site.
+
+Nous avons réécrit notre site, et la plupart des pages ont changé de nom.
+S'il vous plaît recherchez les informations dont vous avez besoin, en utilisant les menus ci-dessus.
+
+[ES] Página no encontrada
+==============================================================================================================================================================
+La página que busca no está presente en este site.
+
+Hemos reconstruído la web y muchas páginas han cambiado de nombre. Pruebe de nuevo usando para la búsqueda el menu de la página principal.
+
