@@ -43,7 +43,7 @@ msgstr "Public administrations"
 # 3d663ff2de764559b42734cdb56d8434
 #: ../../jobs.rst:44
 msgid "Università e centri di ricerca"
-msgstr "Univiersities and research centres"
+msgstr "Universities and research centres"
 
 # 340895fddfeb41a0abaeb26b75ea8bc3
 #: ../../jobs.rst:50
