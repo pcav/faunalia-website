@@ -63,7 +63,7 @@ msgstr "Courses and workshops"
 # a64b7b2ec2e8470da49954558f731d32
 #: ../../jobs.rst:68
 msgid "Assistenza e sviluppo"
-msgstr "Supporto and development"
+msgstr "Support and development"
 
 # b54ad168450f471a85cd4bd0d97807c2
 #: ../../jobs.rst:74
