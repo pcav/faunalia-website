@@ -33,17 +33,17 @@ msgstr "Support"
 # d1cc04c59a4c4174af3a1470c6fff69a
 #: ../../_templates/layout.html:33
 msgid "Corsi"
-msgstr ""
+msgstr "Training"
 
 # 0c777c40006240408b712ea262435aa0
 #: ../../_templates/layout.html:34
 msgid "Attivit&agrave;"
-msgstr ""
+msgstr "Projects"
 
 # 469c862a749a4d9fabd84223a5ec8d47
 #: ../../_templates/layout.html:35
 msgid "Chi siamo"
-msgstr ""
+msgstr "Who we are"
 
 # c88fd2cf0a644fd6abaa0d045f9b30ed
 #: ../../_templates/layout.html:62
