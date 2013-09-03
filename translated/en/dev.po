@@ -33,7 +33,7 @@ msgstr "Faunalia provides:"
 # f08f7331cf78489899f60dac239e0742
 #: ../../dev.rst:13
 msgid "Sviluppo di plugin per `QGIS <http://www.qgis.org/>`_"
-msgstr "Development of plugins fro `QGIS <http://www.qgis.org/>`_"
+msgstr "Development of plugins for `QGIS <http://www.qgis.org/>`_"
 
 # 5b38585e1e384ef6bb57dfd79cb4902b
 #: ../../dev.rst:14
@@ -53,9 +53,9 @@ msgid ""
 "`PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, "
 "`MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
-"Bug fixingfor`QGIS <http://www.qgis.org/>`_, `PostGIS <http://postgis.net/"
-">`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer <http://mapserver.org/"
-">`_, `GDAL/OGR <http://www.gdal.org/>`_"
+"Bug fixing for `QGIS <http://www.qgis.org/>`_, `PostGIS "
+"<http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer "
+"<http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
 
 # d650ef8ee81b4e4584a51093561c5e93
 #: ../../dev.rst:16
