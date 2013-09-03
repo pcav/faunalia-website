@@ -47,9 +47,18 @@
   </div>
 {% endmacro %}
 
-          {% block languageswitch %}
-            {% include "languageswitch.html" %}
-          {% endblock %}
+{%- block content %}
+{{ qgis_navBar() }}
+<div class="container">
+  <div class="row">
+    {%- block sidebar1 %}{{ bsidebar() }}{% endblock %}
+    <div class="{{ bs_content_span }}">
+      {% block body %}{% endblock %}
+    </div>
+    {% block sidebar2 %} {# possible location for sidebar #} {% endblock %}
+  </div>
+</div>
+{%- endblock %}
 
 {%- block footer %}
 <footer class="footer">
