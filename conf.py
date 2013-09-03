@@ -136,7 +136,7 @@ html_theme_options = {
     'navbar_site_name': "",
 #menus in a row, topbar (it works, but is untranslatable)
 #better solution in qgis
-#    'navbar_links': [('Sviluppo', 'dev'), ('Assistenza', 'support'), ('Corsi', 'training'), ('Attivit&agrave;', 'jobs'), ('Chi siamo', 'intro')], 
+    'navbar_links': [('Sviluppo', 'dev'), ('Assistenza', 'support'), ('Corsi', 'training'), ('Attivit&agrave;', 'jobs'), ('Chi siamo', 'intro')], 
 }
 
 # The name for this set of Sphinx documents.  If None, it defaults to
