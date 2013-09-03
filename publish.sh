@@ -13,13 +13,13 @@ make merge_messages
 #check if translations are ok
 
 echo "Number of unfinished strings"
-grep -c  unfinished translated/*/*.po
+grep -c  fuzzy translated/*/*.po
 echo "Total unfinished strings"
-grep -l unfinished translated/*/*.po | wc
+grep -l fuzzy translated/*/*.po | wc
 
-echo "Number of untranslated strings"
+echo "Number of potentially untranslated strings"
 grep -c \"\" translated/*/*.po
-echo "Total untranslated strings"
+echo "Total potentially untranslated strings"
 grep -l \"\" translated/*/*.po | wc
 
 read -p "Are you sure you want to publish the website anyway? [Y/n]" choice2
