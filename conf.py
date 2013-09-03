@@ -27,7 +27,8 @@ import sphinx_bootstrap_theme
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['rst2pdf.pdfbuilder', 'sphinx.ext.todo', 'sphinx.ext.mathjax']
+# Unclear if they are necessary, or even useful. autodoc was added following qgis
+extensions = ['rst2pdf.pdfbuilder', 'sphinx.ext.todo', 'sphinx.ext.mathjax', 'sphinx.ext.autodoc']
 # todo_include_todos = 'True'
 # default is false
 
@@ -124,15 +125,19 @@ html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 html_theme_options = {
     'bootswatch_theme': "readable",
+#redadble and united seem good
+#see http://bootswatch.com/ for a list
     'navbar_pagenav': False,
     'navbar_sidebarrel': False,
+    'navbar_fixed_top': "true",
     'globaltoc_depth': 3,
-    'navbar_site_name': "Menu",
-#a test for top menus
-    'navbar_links': [('Sviluppo', 'dev'), ('Assistenza', 'support'), ('Corsi', 'training'), ('Attivit&agrave;', 'jobs'), ('Chi siamo', 'intro')], 
+    'globaltoc_includehidden': "true",
+#this leaves the website global menu, untranslated, without name (only an arrow)
+    'navbar_site_name': "",
+#menus in a row, topbar (it works, but is untranslatable)
+#better solution in qgis
+#    'navbar_links': [('Sviluppo', 'dev'), ('Assistenza', 'support'), ('Corsi', 'training'), ('Attivit&agrave;', 'jobs'), ('Chi siamo', 'intro')], 
 }
-#redadble, united seem good
-#see http://bootswatch.com/ for a list
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
