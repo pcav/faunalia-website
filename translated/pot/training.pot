@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-31 09:21\n"
+"POT-Creation-Date: 2013-09-03 07:49\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,10 +78,8 @@ msgstr ""
 
 #: ../../training.rst:30
 #: ../../training.rst:223
-#: ../../training.rst:224
 # 9df10e3690b541f18c1a208a812d8836
 # 9df10e3690b541f18c1a208a812d8836
-# 660512ec03ae4bc59a877c8ec19a3162
 msgid "Cartografia con QGIS"
 msgstr ""
 
@@ -249,8 +247,6 @@ msgstr ""
 
 #: ../../training.rst:73
 #: ../../training.rst:225
-#: ../../training.rst:226
-# bd04cff96a1d4414899ef132ad5ba7bf
 # bd04cff96a1d4414899ef132ad5ba7bf
 # bd04cff96a1d4414899ef132ad5ba7bf
 msgid "Analisi con QGIS"
@@ -503,9 +499,7 @@ msgstr ""
 
 #: ../../training.rst:158
 #: ../../training.rst:228
-#: ../../training.rst:229
 # 7cabf0be650643f1b85997a1c5b71df0
-# 7a7ec0040dc243a29b9a554247e0fe1b
 # 7a7ec0040dc243a29b9a554247e0fe1b
 msgid "Geodatabase: PostgreSQL e PostGIS"
 msgstr ""
@@ -607,8 +601,6 @@ msgstr ""
 
 #: ../../training.rst:190
 #: ../../training.rst:230
-#: ../../training.rst:231
-# 660512ec03ae4bc59a877c8ec19a3162
 # 660512ec03ae4bc59a877c8ec19a3162
 # 660512ec03ae4bc59a877c8ec19a3162
 msgid "WebMapping con QGIS"
@@ -741,6 +733,11 @@ msgid "Italiano"
 msgstr ""
 
 #: ../../training.rst:224
+# 660512ec03ae4bc59a877c8ec19a3162
+msgid "Cartográfia com QGIS"
+msgstr ""
+
+#: ../../training.rst:224
 # c9b6799b8a60441e9f87b85027246b23
 msgid "Ottobre 2013 (3 g)"
 msgstr ""
@@ -781,6 +778,11 @@ msgid "1 Ottobre"
 msgstr ""
 
 #: ../../training.rst:226
+# bd04cff96a1d4414899ef132ad5ba7bf
+msgid "Análise SIG com QGIS"
+msgstr ""
+
+#: ../../training.rst:226
 # d07cad72656b4bf1853685f09f6e5655
 msgid "Ottobre 2013 (2 g)"
 msgstr ""
@@ -816,6 +818,11 @@ msgid "25 Novembre"
 msgstr ""
 
 #: ../../training.rst:229
+# 7a7ec0040dc243a29b9a554247e0fe1b
+msgid "Geodatabase: PostgreSQL and PostGIS"
+msgstr ""
+
+#: ../../training.rst:229
 # 483ad4bf82f0431c9d84d7d0e5223522
 msgid "Novembre 2013 (3 g)"
 msgstr ""
@@ -838,6 +845,11 @@ msgstr ""
 #: ../../training.rst:230
 # 2837589f472d43e6b2fcc68aa9118522
 msgid "10 Gennaio"
+msgstr ""
+
+#: ../../training.rst:231
+# 660512ec03ae4bc59a877c8ec19a3162
+msgid "WebMapping com QGIS"
 msgstr ""
 
 #: ../../training.rst:231

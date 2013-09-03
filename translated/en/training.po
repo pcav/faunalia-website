@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-30 19:18\n"
+"POT-Creation-Date: 2013-09-03 07:49\n"
 "PO-Revision-Date: 2013-08-17 16:58+0200\n"
 "Last-Translator: Paolo Cavallini <cavallini@faunalia.it>\n"
 "Language-Team: Italiano <>\n"
@@ -128,7 +128,7 @@ msgstr ""
 
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
-#: ../../training.rst:30 ../../training.rst:223 ../../training.rst:224
+#: ../../training.rst:30 ../../training.rst:223
 msgid "Cartografia con QGIS"
 msgstr "Cartography with QGIS"
 
@@ -302,7 +302,7 @@ msgstr "Three days, full time"
 
 # bd04cff96a1d4414899ef132ad5ba7bf
 # 84a61dcdc830454e9665797c69bd9891
-#: ../../training.rst:73 ../../training.rst:225 ../../training.rst:226
+#: ../../training.rst:73 ../../training.rst:225
 msgid "Analisi con QGIS"
 msgstr "GIS analysis with QGIS"
 
@@ -609,7 +609,7 @@ msgid "esempi di codice"
 msgstr "code examples"
 
 # 7cabf0be650643f1b85997a1c5b71df0
-#: ../../training.rst:158 ../../training.rst:228 ../../training.rst:229
+#: ../../training.rst:158 ../../training.rst:228
 msgid "Geodatabase: PostgreSQL e PostGIS"
 msgstr "Geographic databases: PostgreSQL and PostGIS"
 
@@ -728,7 +728,7 @@ msgid "Copia e salvataggio"
 msgstr "Backing up (dumping and restoring)"
 
 # 660512ec03ae4bc59a877c8ec19a3162
-#: ../../training.rst:190 ../../training.rst:230 ../../training.rst:231
+#: ../../training.rst:190 ../../training.rst:230
 msgid "WebMapping con QGIS"
 msgstr "WebMapping with QGIS"
 
@@ -864,6 +864,13 @@ msgstr "Pontedera, IT"
 msgid "Italiano"
 msgstr "Italian"
 
+# 9df10e3690b541f18c1a208a812d8836
+# 3d3d613c57f54cc694e2872191f90b33
+#: ../../training.rst:224
+#, fuzzy
+msgid "Cartográfia com QGIS"
+msgstr "Cartography with QGIS"
+
 # c9b6799b8a60441e9f87b85027246b23
 #: ../../training.rst:224
 msgid "Ottobre 2013 (3 g)"
@@ -901,6 +908,13 @@ msgstr "16-18 October 2013"
 msgid "1 Ottobre"
 msgstr "1 October"
 
+# bd04cff96a1d4414899ef132ad5ba7bf
+# 84a61dcdc830454e9665797c69bd9891
+#: ../../training.rst:226
+#, fuzzy
+msgid "Análise SIG com QGIS"
+msgstr "GIS analysis with QGIS"
+
 # d07cad72656b4bf1853685f09f6e5655
 #: ../../training.rst:226
 msgid "Ottobre 2013 (2 g)"
@@ -936,6 +950,12 @@ msgstr "11-13 December 2013"
 msgid "25 Novembre"
 msgstr "25 November"
 
+# 7cabf0be650643f1b85997a1c5b71df0
+#: ../../training.rst:229
+#, fuzzy
+msgid "Geodatabase: PostgreSQL and PostGIS"
+msgstr "Geographic databases: PostgreSQL and PostGIS"
+
 # 483ad4bf82f0431c9d84d7d0e5223522
 #: ../../training.rst:229
 msgid "Novembre 2013 (3 g)"
@@ -960,6 +980,12 @@ msgstr "23-24 January 2014"
 #: ../../training.rst:230
 msgid "10 Gennaio"
 msgstr "10 January"
+
+# 660512ec03ae4bc59a877c8ec19a3162
+#: ../../training.rst:231
+#, fuzzy
+msgid "WebMapping com QGIS"
+msgstr "WebMapping with QGIS"
 
 # 4b9c5b92cc9241d59e3e60e49068be31
 #: ../../training.rst:231

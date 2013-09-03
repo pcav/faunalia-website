@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-16 18:52\n"
+"POT-Creation-Date: 2013-09-03 07:49\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,42 +30,49 @@ msgstr "Actividades desarrolladas"
 msgid "Mappa dei lavori di Faunalia"
 msgstr "Mapa de las intervenciones de Faunalia"
 
+# 1a76693376ba41ef822a3646731acb77
+#: ../../jobs.rst:21
+msgid ""
+"`Esplora la mappa <http://www2.faunalia.eu/map/lizmap/www/index.php/view/"
+"map/?repository=faunalia&project=faunalia_map_it/>`_"
+msgstr ""
+
 # a4dd5c2238944fbf889fbcfdac51370c
-#: ../../jobs.rst:26
+#: ../../jobs.rst:28
 msgid "Maggiori clienti"
 msgstr "Mayores clientes"
 
 # 541297be935c408ab472c2adbf6bca47
-#: ../../jobs.rst:38
+#: ../../jobs.rst:40
 msgid "Amministrazione pubblica"
 msgstr "Administración pública"
 
 # 3d663ff2de764559b42734cdb56d8434
-#: ../../jobs.rst:44
+#: ../../jobs.rst:46
 msgid "Università e centri di ricerca"
 msgstr "Universidades y centros de investigación"
 
 # 340895fddfeb41a0abaeb26b75ea8bc3
-#: ../../jobs.rst:50
+#: ../../jobs.rst:52
 msgid "Società"
 msgstr "Sociedades"
 
 # 2cf4ff73bf384a97b17957cf3e037ee5
-#: ../../jobs.rst:56
+#: ../../jobs.rst:58
 msgid "Associazioni e organizzazioni"
 msgstr "Asociaciones y organizaciones"
 
 # 7e1c52786577482bb298cfd65b4a7c8d
-#: ../../jobs.rst:62
+#: ../../jobs.rst:64
 msgid "Corsi e workshop"
 msgstr "Cursos y talleres"
 
 # a64b7b2ec2e8470da49954558f731d32
-#: ../../jobs.rst:68
+#: ../../jobs.rst:70
 msgid "Assistenza e sviluppo"
 msgstr "Asistencia y desarrollo"
 
 # b54ad168450f471a85cd4bd0d97807c2
-#: ../../jobs.rst:74
+#: ../../jobs.rst:76
 msgid "Pubblicazioni"
 msgstr "Publicaciones"
