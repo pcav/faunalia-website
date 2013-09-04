@@ -55,7 +55,7 @@ msgid ""
 msgstr ""
 " Faunalia provides professional services to `QGIS "
 "<http://www.qgis.org/en/commercial-support.html>`_ (Desktop, Server e Web "
-"Client), GRASS_, `PostgreSQL_ and `PostGIS <http://postgis.net/support>`_:"
+"Client), GRASS_, PostgreSQL_ and `PostGIS <http://postgis.net/support>`_:"
 
 # f085741ebad245a78e054d8936399bf6
 #: ../../support.rst:14
@@ -75,7 +75,7 @@ msgstr ""
 #: ../../support.rst:16
 msgid "Assistenza email e telefonica"
 msgstr ""
-"eamil and phone support: to contact us using our dedicated support email "
+"email and phone support: to contact us using our dedicated support email "
 "address with a description of your problem for a prompt response; to speak "
 "to someone straight away, call our support hotline"
 
