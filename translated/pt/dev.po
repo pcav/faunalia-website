@@ -23,7 +23,7 @@ msgstr ""
 # 4e4267e056b54b4285d741002e12df7c
 #: ../../dev.rst:9
 msgid "Sviluppo"
-msgstr "Desenvolviento"
+msgstr "Desenvolvimento e programação"
 
 # a765048a1a764d1aacdbff50d85a3c8d
 #: ../../dev.rst:11
