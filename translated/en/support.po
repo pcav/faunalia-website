@@ -27,7 +27,6 @@ msgstr "Support"
 
 # 78d8555ca6d64dc485ccdfed4709f286
 #: ../../support.rst:10
-#, fuzzy
 msgid ""
 "Faunalia è la prima società in Italia a fornire assistenza tecnica per `QGIS "
 "<http://www.qgis.org/>`_. La nostra assistenza assicura, in caso di "
@@ -45,18 +44,18 @@ msgstr ""
 "to the development of software, Faunalia is able to ensure, at competitive "
 "costs, interventions of maximum effectiveness, and the possibility of "
 "customization of the proposed solutions, for individual users and for "
-"organizations, both public and private. Faunalia provides professional "
-"services to `QGIS <http://www.qgis.org/en/commercial-support.html>`_ "
-"(Desktop, Server e Web Client), GRASS_, `PostgreSQL_ and `PostGIS <http://"
-"postgis.net/support>`_:"
+"organizations, both public and private."
 
 # 1b26eeb1960f4a4aa19a2de96f8e55ac
 #: ../../support.rst:12
 msgid ""
-"In particolare, Faunalia garantisce servizi professionali per `QGIS <http://"
-"www.qgis.org/en/commercial-support.html>`_ (Desktop, Server e Web Client), "
-"GRASS_, PostgreSQL_ e `PostGIS <http://postgis.net/support/>`_:"
+"In particolare, Faunalia garantisce servizi professionali per `QGIS "
+"<http://www.qgis.org/en/commercial-support.html>`_ (Desktop, Server e Web "
+"Client), GRASS_, PostgreSQL_ e `PostGIS <http://postgis.net/support/>`_:"
 msgstr ""
+" Faunalia provides professional services to `QGIS "
+"<http://www.qgis.org/en/commercial-support.html>`_ (Desktop, Server e Web "
+"Client), GRASS_, `PostgreSQL_ and `PostGIS <http://postgis.net/support>`_:"
 
 # f085741ebad245a78e054d8936399bf6
 #: ../../support.rst:14
