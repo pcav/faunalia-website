@@ -33,9 +33,11 @@ msgstr "Map of projects"
 # 1a76693376ba41ef822a3646731acb77
 #: ../../jobs.rst:21
 msgid ""
-"`Esplora la mappa <http://www2.faunalia.eu/map/lizmap/www/index.php/view/"
-"map/?repository=faunalia&project=faunalia_map_it/>`_"
+"`Esplora la mappa "
+"<http://www2.faunalia.eu/map/lizmap/www/index.php/view/map/?repository=faunalia&project=faunalia_map_it/>`_"
 msgstr ""
+"`Explore the map "
+"<http://www2.faunalia.eu/map/lizmap/www/index.php/view/map/?repository=faunalia&project=faunalia_map_en/>`_"
 
 # a4dd5c2238944fbf889fbcfdac51370c
 #: ../../jobs.rst:28
