@@ -222,7 +222,7 @@ msgid ""
 "collaboratori. Il *core team* è composto da:"
 msgstr ""
 "A actividade de Faunalia baseia-se é uma densa rede de colaboradores "
-"internacionais. * A equipa residente* é composta por:"
+"internacionais. *A equipa residente* é composta por:"
 
 # 4ea39f199b9a4022a3845ca9d59eb11d
 #: ../../intro.rst:48
