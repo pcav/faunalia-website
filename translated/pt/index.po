@@ -71,7 +71,7 @@ msgstr ":doc:`More info <support>`"
 # 74d5fd586c43466aafb1f532dfbf4ead
 #: ../../index.rst:33
 msgid "Corsi"
-msgstr "Formações"
+msgstr "Formação"
 
 # 1e7ec7a2516c48aa90fbd6563a143a77
 #: ../../index.rst:34
