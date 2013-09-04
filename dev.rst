@@ -11,8 +11,8 @@ Sviluppo
 Faunalia fornisce:
 
 * Sviluppo di plugin per QGIS_
-* Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR`__
-* Riparazione dei malfunzionamenti per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR`__
+* Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR <http://www.gdal.org/>`_
+* Riparazione dei malfunzionamenti per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR <http://www.gdal.org/>`_
 * Sviluppo di applicazioni webGIS ad hoc
 
 Garantiamo che tutto il codice sviluppato:
@@ -28,5 +28,4 @@ Faunalia ha sviluppato direttamente, già da molti anni, funzioni per tutti i so
 .. _PostGIS: http://postgis.net/
 .. _GRASS: http://grass.osgeo.org/
 .. _MapServer: http://mapserver.org/
-.. _GDAL: http://www.gdal.org/
-__ GDAL_
+

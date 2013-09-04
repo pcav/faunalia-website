@@ -32,16 +32,14 @@ msgstr "Faunalia propose:"
 
 # f08f7331cf78489899f60dac239e0742
 #: ../../dev.rst:13
-#, fuzzy
 msgid "Sviluppo di plugin per QGIS_"
-msgstr ""
-"le developpement d'extensions (plugins) pour `QGIS <http://www.qgis.org/>`_"
+msgstr "le developpement d'extensions (plugins) pour QGIS_"
 
 # 5b38585e1e384ef6bb57dfd79cb4902b
 #: ../../dev.rst:14
 msgid ""
-"Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/"
-"OGR`__"
+"Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, "
+"`GDAL/OGR`__"
 msgstr ""
 
 # cf99310f7e6e429a841b3f255af7dd46
@@ -97,10 +95,10 @@ msgstr ""
 #~ "<http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer "
 #~ "<http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
 #~ msgstr ""
-#~ "le developpement de nouvelles fonctionnalités pour `QGIS <http://www.qgis."
-#~ "org/>`_, `PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/"
-#~ ">`_, `MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/"
-#~ ">`_ "
+#~ "le developpement de nouvelles fonctionnalités pour `QGIS "
+#~ "<http://www.qgis.org/>`_, `PostGIS <http://postgis.net/>`_, `GRASS "
+#~ "<http://grass.osgeo.org/>`_, `MapServer <http://mapserver.org/>`_, "
+#~ "`GDAL/OGR <http://www.gdal.org/>`_ "
 
 # cf99310f7e6e429a841b3f255af7dd46
 #~ msgid ""
@@ -108,7 +106,7 @@ msgstr ""
 #~ "`PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, "
 #~ "`MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
 #~ msgstr ""
-#~ "la réparation des dysfonctionnements (bogues) pour `QGIS <http://www.qgis."
-#~ "org/>`_, `PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/"
-#~ ">`_, `MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/"
-#~ ">`_ "
+#~ "la réparation des dysfonctionnements (bogues) pour `QGIS "
+#~ "<http://www.qgis.org/>`_, `PostGIS <http://postgis.net/>`_, `GRASS "
+#~ "<http://grass.osgeo.org/>`_, `MapServer <http://mapserver.org/>`_, "
+#~ "`GDAL/OGR <http://www.gdal.org/>`_ "
