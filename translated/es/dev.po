@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-04 15:52\n"
+"POT-Creation-Date: 2013-09-04 16:23\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -38,17 +38,25 @@ msgstr "Desarrollo de plugin para `QGIS <http://www.qgis.org/>`_ "
 
 # 5b38585e1e384ef6bb57dfd79cb4902b
 #: ../../dev.rst:14
+#, fuzzy
 msgid ""
 "Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/"
-"OGR`__"
+"OGR <http://www.gdal.org/>`_"
 msgstr ""
+"Desarrollo de funciones *core* para `QGIS <http://www.qgis.org/>`_, `PostGIS "
+"<http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer "
+"<http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
 
 # cf99310f7e6e429a841b3f255af7dd46
 #: ../../dev.rst:15
+#, fuzzy
 msgid ""
 "Riparazione dei malfunzionamenti per QGIS_, PostGIS_, GRASS_, MapServer_, "
-"`GDAL/OGR`__"
+"`GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
+"Reparación de fallos en `QGIS <http://www.qgis.org/>`_, `PostGIS <http://"
+"postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer <http://"
+"mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_ "
 
 # d650ef8ee81b4e4584a51093561c5e93
 #: ../../dev.rst:16
@@ -90,23 +98,3 @@ msgstr ""
 "para todos los software citados anteriormente. Entre nuestros colaboradores "
 "contamos con muchos de los más importantes desarrolladores de estos "
 "proyectos."
-
-# 5b38585e1e384ef6bb57dfd79cb4902b
-#~ msgid ""
-#~ "Sviluppo di funzioni *core* per `QGIS <http://www.qgis.org/>`_, `PostGIS "
-#~ "<http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer "
-#~ "<http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
-#~ msgstr ""
-#~ "Desarrollo de funciones *core* para `QGIS <http://www.qgis.org/>`_, "
-#~ "`PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, "
-#~ "`MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
-
-# cf99310f7e6e429a841b3f255af7dd46
-#~ msgid ""
-#~ "Riparazione dei malfunzionamenti per `QGIS <http://www.qgis.org/>`_, "
-#~ "`PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, "
-#~ "`MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
-#~ msgstr ""
-#~ "Reparación de fallos en `QGIS <http://www.qgis.org/>`_, `PostGIS <http://"
-#~ "postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer <http://"
-#~ "mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_ "
