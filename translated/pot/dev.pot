@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-04 10:26\n"
+"POT-Creation-Date: 2013-09-04 15:52\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,17 +28,17 @@ msgstr ""
 
 #: ../../dev.rst:13
 # f08f7331cf78489899f60dac239e0742
-msgid "Sviluppo di plugin per `QGIS <http://www.qgis.org/>`_"
+msgid "Sviluppo di plugin per QGIS_"
 msgstr ""
 
 #: ../../dev.rst:14
 # 5b38585e1e384ef6bb57dfd79cb4902b
-msgid "Sviluppo di funzioni *core* per `QGIS <http://www.qgis.org/>`_, `PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
+msgid "Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR`__"
 msgstr ""
 
 #: ../../dev.rst:15
 # cf99310f7e6e429a841b3f255af7dd46
-msgid "Riparazione dei malfunzionamenti per `QGIS <http://www.qgis.org/>`_, `PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
+msgid "Riparazione dei malfunzionamenti per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR`__"
 msgstr ""
 
 #: ../../dev.rst:16
