@@ -253,4 +253,4 @@ Istruzioni
 Logistica
 ===================================================
 
-**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluse strutture ricettive). Convenzione con B\&B `Il Piccolo <http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple
+**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluse strutture ricettive). Convenzione con B & B `Il Piccolo <http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple
