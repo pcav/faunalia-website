@@ -53,7 +53,7 @@ msgid ""
 "<http://www.qgis.org/en/commercial-support.html>`_ (Desktop, Server e Web "
 "Client), GRASS_, PostgreSQL_ e `PostGIS <http://postgis.net/support/>`_:"
 msgstr ""
-" Faunalia provides professional services to `QGIS "
+"Faunalia provides professional services to `QGIS "
 "<http://www.qgis.org/en/commercial-support.html>`_ (Desktop, Server e Web "
 "Client), GRASS_, PostgreSQL_ and `PostGIS <http://postgis.net/support>`_:"
 
