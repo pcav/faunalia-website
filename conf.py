@@ -28,7 +28,7 @@ import sphinx_bootstrap_theme
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 # Unclear if they are necessary, or even useful. autodoc was added following qgis
-extensions = ['rst2pdf.pdfbuilder', 'sphinx.ext.todo', 'sphinx.ext.mathjax', 'sphinx.ext.autodoc']
+#extensions = ['rst2pdf.pdfbuilder', 'sphinx.ext.todo', 'sphinx.ext.mathjax', 'sphinx.ext.autodoc']
 # todo_include_todos = 'True'
 # default is false
 
@@ -102,14 +102,6 @@ pygments_style = 'sphinx'
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-#disattivati perche' non funzionano con il tema di Tim
-#html_theme_options = {
-#    'sidebarbgcolor':   "#40a52b", # Verde chiaro Faunalia
-#    'sidebarlinkcolor': "#222222", # Grigio molto scuro
-#    'footerbgcolor':    "#e7e1de", # Grigio chiaro Faunalia
-#    'footertextcolor':  "#444444", # Grigio scuro Faunalia
-#    'relbarbgcolor':    "#317f21"  # Verde scuro Faunalia
-#}
 
 # Custom CSS: if you want just redefine some styles, use @import url('default.css').
 #html_style = 'html_faunalia.css'
@@ -127,11 +119,11 @@ html_theme_options = {
     'bootswatch_theme': "readable",
 #redadble and united seem good
 #see http://bootswatch.com/ for a list
-    'navbar_pagenav': False,
-    'navbar_sidebarrel': False,
+#    'navbar_pagenav': "false",
+#    'navbar_sidebarrel': "false",
     'navbar_fixed_top': "true",
     'globaltoc_depth': 3,
-    'globaltoc_includehidden': "true",
+#    'globaltoc_includehidden': False,
 #this leaves the website global menu, untranslated, without name (only an arrow)
     'navbar_site_name': "",
 #menus in a row, topbar (it works, but is untranslatable)
@@ -256,41 +248,7 @@ htmlhelp_basename = 'index'
 # If false, no module index is generated.
 #latex_domain_indices = True
 
-
-# -- Options for manual page output --------------------------------------------
-
-# One entry per manual page. List of tuples
-# (source start file, name, description, authors, manual section).
-#man_pages = [
-#    ('corso_postgis', 'Faunalia', u'PostGIS',
-#     [u'Faunalia'], 1)
-#]
-
-# If true, show URL addresses after external links.
-#man_show_urls = False
-
-
-# -- Options for Texinfo output ------------------------------------------------
-
-# Grouping the document tree into Texinfo files. List of tuples
-# (source start file, target name, title, author,
-#  dir menu entry, description, category)
-#texinfo_documents = [
-#  ('corso_postgis', 'PostGIS', u'PostGIS',
-#   u'Faunalia', 'Faunalia', 'PostGIS man',
-#   'Corsi'),
-#]
-
-# Documents to append as an appendix to all manuals.
-#texinfo_appendices = []
-
-# If false, no module index is generated.
-#texinfo_domain_indices = True
-
-# How to display URL addresses: 'footnote', 'no', or 'inline'.
-#texinfo_show_urls = 'footnote'
-
-#aggiunto per le traduzioni
+# --- Added for translations ----------------------------------------------------
 locale_dirs = ['translated']
 
 pdf_documents = [
