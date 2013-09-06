@@ -18,7 +18,7 @@ Mappa dei lavori di Faunalia
    :align: left
    :target: http://www2.faunalia.eu/map/lizmap/www/index.php/view/map/?repository=faunalia&project=faunalia_map_en
 
-`Esplora la mappa <http://www2.faunalia.eu/map/lizmap/www/index.php/view/map/?repository=faunalia&project=faunalia_map_it/>`_
+`Esplora la mappa <http://www2.faunalia.eu/map/lizmap/www/index.php/view/map/?repository=faunalia&project=faunalia_map_it>`_
 
 .. raw:: html
 
