@@ -1061,9 +1061,8 @@ msgstr ""
 
 # d46e64fc0c7e494b826fb2dc83e7df1d
 #: ../../training.rst:244
-#, fuzzy
 msgid "Istruzioni"
-msgstr "Interpolación"
+msgstr "instrucciones"
 
 # ba42772ed13e492f937897053e863d23
 #: ../../training.rst:246
@@ -1074,8 +1073,8 @@ msgid ""
 "soluzione; in caso il corso non si svolga per qualunque motivo, la quota "
 "versata verrà interamente restituita"
 msgstr ""
-"Confirmación de inscripción al ingresar una fianza de 100 €, completando el "
-"pago antes del inicio del curso"
+"**inscripción** Confirmación de inscripción al ingresar una fianza de 100 €, "
+"completando el pago antes del inicio del curso"
 
 # 1b917c6bbf9943ebb0e405bc047b9493
 #: ../../training.rst:247
@@ -1131,7 +1130,7 @@ msgid ""
 "<http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere "
 "singole/doppie/triple"
 msgstr ""
-"**Sede** Pontedera (PI) en `Pont-Tech "
+"**Oficina** Pontedera (PI) en `Pont-Tech "
 "<http://www.pont-tech.it/?page_id=957>`_, o `Faunalia "
 "<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, de "
 "fácil accesso con medios públicos (tren y avión). `Detalles sobre la ciudad. "
