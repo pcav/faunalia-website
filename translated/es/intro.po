@@ -97,7 +97,7 @@ msgstr ""
 "Utilizar SIG  de código abierto supone incentivar el trabajo de "
 "desarrolladores locales, enriqueciendo el territorio e incrementando las "
 "competencias a nivel nacional. Así se favorece una mayor competitividad y el "
-"cliente recibe un mejor tutela respecto a los servicios de los monopolios. "
+"cliente recibe un mejor tutela respecto a los servicios de los monopolios."
 
 # 7e06819c7336461fa92f15a01a9b348c
 #: ../../intro.rst:21
