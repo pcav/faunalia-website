@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Faunalia
+# This file is distributed under the same license as the Faunalia package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Faunalia \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-04 17:23\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../_templates/layout.html:27
+# 328a1612257e4603abc91609e3f579b0
+msgid "Sviluppo"
+msgstr ""
+
+#: ../../_templates/layout.html:28
+# db744633cd90489cbec756179ff479be
+msgid "Assistenza"
+msgstr ""
+
+#: ../../_templates/layout.html:29
+# ec739ad248bc4c36b258690b49e22d9a
+msgid "Corsi"
+msgstr ""
+
+#: ../../_templates/layout.html:30
+# abb4dfb461a84ca0b61877b6fc69dc28
+msgid "Attivit&agrave;"
+msgstr ""
+
+#: ../../_templates/layout.html:31
+# 29460df703e744bb80f4bebd282517f9
+msgid "Chi siamo"
+msgstr ""
+
+#: ../../_templates/layout.html:70
+# f47eaf41d4c6469ca488efc004943cfc
+msgid "Italia"
+msgstr ""
+
+#: ../../_templates/layout.html:81
+# 7b29b197a3f94a338d7945fa61092b23
+msgid "Portogallo"
+msgstr ""
+
+#: ../../_templates/layout.html:92
+# 9d6c4e913fc94957bf66c1fb788eb3be
+msgid "Seguici"
+msgstr ""
+
+#: ../../_templates/layout.html:107
+# 1ea70063aa7c41c39672a6af995792f0
+msgid "Torna su"
+msgstr ""
+
+#: ../../_templates/layout.html:116
+# 31bf74f375e74590bc727fb65d3bc25f
+msgid "&copy; <a href=\"%(path)s\">Copyright</a> %(copyright)s."
+msgstr ""
+
+#: ../../_templates/layout.html:118
+# 1ec36e16f1574802bee1060c587020ba
+msgid "&copy; Copyright %(copyright)s."
+msgstr ""
+
+#: ../../_templates/layout.html:122
+# 6bc24bc6ec1a4cecb9986abfc3369263
+msgid "Last updated on %(last_updated)s."
+msgstr ""
+
+#: ../../_templates/layout.html:125
+# d2ddd47bb73349f58d8db59646ee9a53
+msgid "Created using <a href=\"http://sphinx.pocoo.org/\">Sphinx</a> %(sphinx_version)s."
+msgstr ""
+

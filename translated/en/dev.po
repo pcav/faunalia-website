@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-16 18:52\n"
+"POT-Creation-Date: 2013-09-04 16:23\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,30 +32,26 @@ msgstr "Faunalia provides:"
 
 # f08f7331cf78489899f60dac239e0742
 #: ../../dev.rst:13
-msgid "Sviluppo di plugin per `QGIS <http://www.qgis.org/>`_"
-msgstr "Development of plugins fro `QGIS <http://www.qgis.org/>`_"
+msgid "Sviluppo di plugin per QGIS_"
+msgstr "Development of plugins for QGIS_"
 
 # 5b38585e1e384ef6bb57dfd79cb4902b
 #: ../../dev.rst:14
 msgid ""
-"Sviluppo di funzioni *core* per `QGIS <http://www.qgis.org/>`_, `PostGIS "
-"<http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer "
-"<http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
+"Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, "
+"`GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
-"Development of core functions for `QGIS <http://www.qgis.org/>`_, `PostGIS "
-"<http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer "
-"<http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
+"Development of core functions for QGIS_, PostGIS_, GRASS_, MapServer_, "
+"`GDAL/OGR <http://www.gdal.org/>`_"
 
 # cf99310f7e6e429a841b3f255af7dd46
 #: ../../dev.rst:15
 msgid ""
-"Riparazione dei malfunzionamenti per `QGIS <http://www.qgis.org/>`_, "
-"`PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, "
-"`MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
+"Riparazione dei malfunzionamenti per QGIS_, PostGIS_, GRASS_, MapServer_, "
+"`GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
-"Bug fixingfor`QGIS <http://www.qgis.org/>`_, `PostGIS <http://postgis.net/"
-">`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer <http://mapserver.org/"
-">`_, `GDAL/OGR <http://www.gdal.org/>`_"
+"Bug fixing for QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR "
+"<http://www.gdal.org/>`_"
 
 # d650ef8ee81b4e4584a51093561c5e93
 #: ../../dev.rst:16
@@ -93,6 +89,6 @@ msgid ""
 "software sopra elencati e fra i nostri collaboratori annoveriamo molti dei "
 "più importanti sviluppatori di questi progetti."
 msgstr ""
-"Faunalia has developed, since many years, funcitions for all software listed "
+"Faunalia has developed, since many years, functions for all software listed "
 "above, and we count among our collaborators many of the best developers of "
 "these projects."

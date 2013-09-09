@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-16 18:52\n"
+"POT-Creation-Date: 2013-09-04 16:23\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,36 +32,31 @@ msgstr "Faunalia propose:"
 
 # f08f7331cf78489899f60dac239e0742
 #: ../../dev.rst:13
-msgid "Sviluppo di plugin per `QGIS <http://www.qgis.org/>`_"
-msgstr ""
-"Développement d'extensions (plugins) pour `QGIS <http://www.qgis.org/>`_"
+msgid "Sviluppo di plugin per QGIS_"
+msgstr "le developpement d'extensions (plugins) pour QGIS_"
 
 # 5b38585e1e384ef6bb57dfd79cb4902b
 #: ../../dev.rst:14
 msgid ""
-"Sviluppo di funzioni *core* per `QGIS <http://www.qgis.org/>`_, `PostGIS "
-"<http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, `MapServer "
-"<http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
+"Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, "
+"`GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
-"Développement de nouvelles fonctionnalités pour `QGIS <http://www.qgis.org/"
-">`_, `PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, "
-"`MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_ "
+"le developpement de nouvelles fonctionnalités pour QGIS_, PostGIS_, GRASS_, "
+"MapServer_, `GDAL/OGR <http://www.gdal.org/>`_ "
 
 # cf99310f7e6e429a841b3f255af7dd46
 #: ../../dev.rst:15
 msgid ""
-"Riparazione dei malfunzionamenti per `QGIS <http://www.qgis.org/>`_, "
-"`PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, "
-"`MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_"
+"Riparazione dei malfunzionamenti per QGIS_, PostGIS_, GRASS_, MapServer_, "
+"`GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
-"Réparation des dysfonctionnements (bogues) pour `QGIS <http://www.qgis.org/"
-">`_, `PostGIS <http://postgis.net/>`_, `GRASS <http://grass.osgeo.org/>`_, "
-"`MapServer <http://mapserver.org/>`_, `GDAL/OGR <http://www.gdal.org/>`_ "
+"la réparation des dysfonctionnements (bogues) pour QGIS_, PostGIS_, GRASS_, "
+"MapServer_, `GDAL/OGR <http://www.gdal.org/>`_ "
 
 # d650ef8ee81b4e4584a51093561c5e93
 #: ../../dev.rst:16
 msgid "Sviluppo di applicazioni webGIS ad hoc"
-msgstr "Développement d'applications webGIS personalisées"
+msgstr "le developpement d'applications webGIS personalisées"
 
 # dfe28156cafb481dbf5fce372538fc3f
 #: ../../dev.rst:18
@@ -76,7 +71,7 @@ msgstr "est publié avec licence libre et à code ouvert (open source)"
 # e9533e31a92d4e6caba072eab2464cbb
 #: ../../dev.rst:21
 msgid "viene incluso nel codice sorgente ufficiale dei rispettivi progetti"
-msgstr "est inclus dans le code source des projets principales"
+msgstr "est inclus dans le code source des projets principaux"
 
 # c746457b76d44f6a842b3ce1ec6be241
 #: ../../dev.rst:23
@@ -84,7 +79,7 @@ msgid ""
 "In questo modo sarete certi della sua fruibilità e facilità di manutenzione "
 "anche nel futuro."
 msgstr ""
-"Par consequence, vous serais sur de la possibilité d'utilisation et "
+"Par conséquent, vous serez assurés de la possibilité d'utilisation et de "
 "manutention, maintenant et dans le futur."
 
 # a651117ca4a943738387342da7f07ecc
@@ -94,6 +89,6 @@ msgid ""
 "software sopra elencati e fra i nostri collaboratori annoveriamo molti dei "
 "più importanti sviluppatori di questi progetti."
 msgstr ""
-"Faunalia a développé directement, depus plusieurs années, fonctions et "
-"extensions pour tous les projets sus-cités, et parmi nos collaborateurs nous "
-"avons aucuns des meilleurs développeurs de ces projets."
+"Faunalia a directement développé depus plusieurs années, des fonctions et "
+"des extensions pour tous les projets sus-cités, dont certains des meilleurs "
+"developpeurs sont a compter parmi nos collaborateurs."

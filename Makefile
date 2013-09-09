@@ -21,8 +21,13 @@ I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 .PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf text man changes linkcheck doctest gettext
 
 help:
+	@echo "For compiling the whole website, with translations,"
+	@echo "the sequence: make cv;make gettext;make compile_messages;make merge_messages"
+	@echo "and finally make html should do"
+	@echo "==="
 	@echo "Please use \`make <target>' where <target> is one of"
 	@echo "  compile_messages    to compile .po messages in .mo binaries."
+	@echo "  merge_messages    to merge new .po messages in .mo binaries."
 	@echo "  html      to make standalone HTML files"
 	@echo "  dirhtml   to make HTML files named index.html in directories"
 	@echo "  singlehtml to make a single large HTML file"
@@ -76,7 +81,7 @@ html:
 		mkdir -p $(BUILDDIR)/html/$(SOURCE)/$$lang $(BUILDDIR)/doctrees/$(SOURCE)/$$lang; \
 		echo "$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(SOURCE) $(BUILDDIR)/html/$$lang";\
 		$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(SOURCE) $(BUILDDIR)/html/$(SOURCE)/$$lang;\
-		ln -s /home/www/pdf $(BUILDDIR)/html/pdf;\
+		ln -s /home/www/pdf $(BUILDDIR)/html/$$lang/pdf;\
 	        ln -s /var/www/lizmap-web-client-2.8.1 /var/www/www.faunalia.eu/map;\
 		cp .ht* $(BUILDDIR)/html/;\
 	done
@@ -194,7 +199,8 @@ info:
 	@echo "makeinfo finished; the Info files are in $(BUILDDIR)/texinfo."
 
 gettext:
-	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS) $(BUILDDIR)/locale
+#	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS) $(BUILDDIR)/locale
+	$(SPHINXBUILD) -b gettext . translated/pot
 	@echo
 	@echo "Build finished. The message catalogs are in $(BUILDDIR)/locale."
 
@@ -205,6 +211,7 @@ changes:
 
 linkcheck:
 	$(SPHINXBUILD) -b linkcheck $(ALLSPHINXOPTS) $(BUILDDIR)/linkcheck
+#	$(SPHINXBUILD) -b linkcheck -d build/html/it $(BUILDDIR)/linkcheck
 	@echo
 	@echo "Link check complete; look for any errors in the above output " \
 	      "or in $(BUILDDIR)/linkcheck/output.txt."

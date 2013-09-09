@@ -22,6 +22,5 @@ msgstr ""
 
 # 5c8169e8e0e84d92b1c5fd39103db184
 #: ../../cv_pc.rst:2
-#, fuzzy
 msgid "Paolo Cavallini"
 msgstr "Paolo Cavallini"

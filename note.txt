@@ -1,76 +1,23 @@
 
-Note
+Notes
 ===============================================================================
-
-Da fare
--------------------------------------------------------------------------------
-
-* Gestire il multilinguismo
-
-  * entry point http://faunalia.eu (it, pt etc redirigono qui)
-  * riconoscimento della lingua del browser
-  * switch alla dir appropriata (/it /pt ecc.)  
-  * aggiungere le bandierine per switchare a mano, come in http://docs.qgis.org/
-  * non incasinarsi a mantenere i vecchi links con i redirect: fatta una 404 con indicazioni di andarsi a cercare i nuovi
-
-* Moduli (iscrizione e valutazione corsi)
-
-  * form in html liscio (si possono copiare da drupal)
-  * pagina php che riceve il form, lo salva su file (o altro) e lo manda via mail; la pagina meglio farla generica, in modo che accetti varie pagine di moduli
-
-* Mappa
-
-  * punti non visibili
-  * popup in $LANG?
-
-* Immagini (aggiunte alcune nella dir)
-
-* Style
-
-standard footer in layout.html
-
-Esempio ragionevole: http://jobpixels.com/bootbusiness/index.html
-
-Tema di Bootstrap adatto per Sphinx:
-
-https://pypi.python.org/pypi/sphinx-bootstrap-theme
-
-Forks:
-
-http://ryan-roemer.github.com/sphinx-bootstrap-theme/README.html
-
-http://ryan-roemer.github.com/sphinx-bootstrap-theme/examples.html
-
-http://ryan-roemer.github.com/sphinx-bootstrap-theme/README.html
-
-NB: verificare il tema di Tim, anche quello basato su Bootstrap
 
 Sulla macchina che compila l'html va installato anche::
 
- aptitude install python-pip #come root
- pip install sphinx_bootstrap_theme #come utente
+ aptitude install python-pip
+ pip install sphinx_bootstrap_theme --upgrade
+ pip install sphinx --upgrade
 
-* per inserire html: aggiungere raw:: html
+Per inserire html: aggiungere raw:: html
    :file: form.html
 
-* staff : inserire CVs
+Protocol for site update
+-------------------------------------------------------------------------------
 
-.. raw:: html
-
-	<?php require_once('/home/www/www.faunalia.it/ufficio/backend_ufficio.inc'); ?>
-
-	<?php
-   <li><a href="http://www.faunalia.it/ufficio/pdf/generator.php?chi=pc&all=1&op_en=0">Italiano (pdf)</a></li>
-   <li><a href="http://www.faunalia.it/ufficio/pdf/generator.php?chi=pc&style=eu">Formato europeo (pdf)</a></li>
-	?>
-
-<?php 
-$chi_sigla="pc";
-include('./ufficio/pdf/generator.php'); 
-?>
-
-http://www.faunalia.it/ufficio/pdf/generator.php?chi=pc&all=1&op_en=0
-
-.. note:: per l'inglese dovrebbe essere http://www.faunalia.it/ufficio/pdf/generator.php?chi=pc&all=1&op_en=1
-
-http://www.faunalia.it/ufficio/pdf/generator.php?chi=pc&all=1&html=1&op_en=1
+* change .rst
+* sh publish.sh # locally
+* check the corresponding .po and update translations
+* sh publish.sh # locally, again
+* check results (html)
+* git commit + push
+* publish on the server [this has to be done by the webmaster]

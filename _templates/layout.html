@@ -1,0 +1,130 @@
+{# Import the theme's layout. #}
+{% extends "!layout.html" %}
+
+{# Include our new CSS file into existing ones. #}
+{% set css_files = css_files + ['_static/faunalia.css']%}
+
+{# Sidebar: Rework into our Boostrap nav section. #}
+
+{% macro qgis_navBar() %}
+  <div id="navbar" class="{{ theme_navbar_class }} {% if theme_navbar_fixed_top == 'true' -%} navbar-fixed-top{%- endif -%}">
+    <div class="navbar-inner">
+      <div class="container">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+        <a class="brand" href="{{ pathto(master_doc) }}">{% if theme_navbar_title -%}{{ theme_navbar_title|e }}{%- else -%}{{ project|e }}{%- endif -%}</a>
+        <span class="navbar-text pull-left"><b>{{ version|e }}</b></span>
+
+        <div class="nav-collapse">
+          <ul class="nav">
+            <li class="divider-vertical"></li>
+
+                        <li><a href="{{ pathto('dev') }}">{{ gettext('Sviluppo') }}</a></li>
+                        <li><a href="{{ pathto('support') }}">{{ gettext('Assistenza') }}</a></li>
+                        <li><a href="{{ pathto('training') }}">{{ gettext('Corsi') }}</a></li>
+                        <li><a href="{{ pathto('jobs') }}">{{ gettext('Attivit&agrave;') }}</a></li>
+                        <li><a href="{{ pathto('intro') }}">{{ gettext('Chi siamo') }}</a></li>
+
+            {% if theme_navbar_sidebarrel %}
+              {% block sidebarrel %}
+              {% endblock %}
+            {% endif %}
+            {% if theme_source_link_position == "nav" %}
+              <li>{% include "sourcelink.html" %}</li>
+            {% endif %}
+          </ul>
+          {% block languageswitch %}
+            {% include "languageswitch.html" %}
+          {% endblock %}
+          {% block sidebarsearch %}
+            {% include "searchbox.html" %}
+          {% endblock %}
+        </div>
+      </div>
+    </div>
+  </div>
+{% endmacro %}
+
+{%- block content %}
+{{ qgis_navBar() }}
+<div class="container">
+  <div class="row">
+    {%- block sidebar1 %}{{ bsidebar() }}{% endblock %}
+    <div class="{{ bs_content_span }}">
+      {% block body %}{% endblock %}
+    </div>
+    {% block sidebar2 %} {# possible location for sidebar #} {% endblock %}
+  </div>
+</div>
+{%- endblock %}
+
+{%- block footer %}
+<footer class="footer">
+<div class="span4">
+            <div class="span5">
+              <h3>{{ gettext('Italia') }}</h3>
+              <p>Piazza Garibaldi, 5</p>
+              <p>56025 Pontedera (PI)</p>
+            <p><a class="reference external" href="mailto:info@faunalia.it">info@faunalia.it</a></p>
+            <p><a class="reference external" href="mailto:paolo.cavallini@pec.it">paolo.cavallini@pec.it</a></p>
+            <p><i>Fax</i> +39-0587213742</p>
+            <p><i>Phone/Viber/Line</i> +39-3483801953</p>
+            <p><i>Skype</i> paolo.gg.cavallini</p>
+            <p><i>Hangouts</i> <a class="reference external" href="mailto:paolo.cavallini@gmail.com">paolo.cavallini@gmail.com</a></p>
+            </div>
+            <div class="span5">
+              <h3>{{ gettext('Portogallo') }}</h3>
+              <p>Rua do Cano 56</p>
+              <p>7000-596 &Eacute;vora</p>
+            <p><a class="reference external" href="mailto:info@faunalia.it">info@faunalia.pt</a></p>
+            <p><i>Fax</i> +351-266429139</p>
+            <p><i>Phone</i> +351-266429139 / 939320104 / 967058216</p>
+            <p><i>Skype</i> toirao</p>
+            <p><i>Hangouts</i> <a class="reference external" href="mailto:giovanni.manghi@gmail.com">giovanni.manghi@gmail.com</a></p>
+            </div>
+          </div>
+          <div class="span5">
+            <h3>{{ gettext('Seguici') }}</h3> 
+            <!-- AddThis Follow BEGIN -->
+            <div class="addthis_toolbox addthis_32x32_style addthis_default_style">
+            <a class="addthis_button_facebook_follow" addthis:userid="faunaliagis"></a>
+            <a class="addthis_button_twitter_follow" addthis:userid="faunaliagis"></a>
+            <a class="addthis_button_linkedin_follow" addthis:userid="faunalia" addthis:usertype="company"></a>
+            <a class="addthis_button_google_follow" addthis:userid="105962386083078919938"></a>
+            <a class="addthis_button_youtube_follow" addthis:userid="faunaliagis"></a>
+            <a class="addthis_button_wordpress_follow" addthis:userid="faunaliagis"></a>
+            </div>
+            <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51fb95b90abe8ec7"></script>
+            <!-- AddThis Follow END -->
+          </div>
+  <div class="container">
+    <p class="pull-right">
+      <a href="#">{{ gettext('Torna su') }}</a>
+      {% if theme_source_link_position == "footer" %}
+        <br/>
+        {% include "sourcelink.html" %}
+      {% endif %}
+    </p>
+    <p>
+    {%- if show_copyright %}
+      {%- if hasdoc('copyright') %}
+        {% trans path=pathto('copyright'), copyright=copyright|e %}&copy; <a href="{{ path }}">Copyright</a> {{ copyright }}.{% endtrans %}<br/>
+      {%- else %}
+        {% trans copyright=copyright|e %}&copy; Copyright {{ copyright }}.{% endtrans %}<br/>
+      {%- endif %}
+    {%- endif %}
+    {%- if last_updated %}
+      {% trans last_updated=last_updated|e %}Last updated on {{ last_updated }}.{% endtrans %}<br/>
+    {%- endif %}
+    {%- if show_sphinx %}
+      {% trans sphinx_version=sphinx_version|e %}Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> {{ sphinx_version }}.{% endtrans %}<br/>
+    {%- endif %}
+    </p>
+  </div>
+</footer>
+{%- endblock %}

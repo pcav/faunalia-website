@@ -23,12 +23,12 @@ msgstr ""
 # 56bcab473aff44a6be177e81a69b3ec7
 #: ../../index.rst:16
 msgid "Faunalia"
-msgstr ""
+msgstr "Faunalia"
 
 # c24a6a0f2c1f47b581312366dd4113f7
 #: ../../index.rst:17
 msgid "Sistemi informativi territoriali liberi ed open source"
-msgstr ""
+msgstr "Sistemas de Informação Geográfica, exclusivamente Open Source "
 
 # b29116aece954590a864d9174f6d8416
 #: ../../index.rst:21
@@ -71,7 +71,7 @@ msgstr ":doc:`More info <support>`"
 # 74d5fd586c43466aafb1f532dfbf4ead
 #: ../../index.rst:33
 msgid "Corsi"
-msgstr "Formações"
+msgstr "Formação"
 
 # 1e7ec7a2516c48aa90fbd6563a143a77
 #: ../../index.rst:34

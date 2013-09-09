@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-16 18:52\n"
+"POT-Creation-Date: 2013-08-27 08:33\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,7 +47,6 @@ msgstr "A nossa visão"
 
 # 68ee4d1617054a4db1fdfe74fb47fdb2
 #: ../../intro.rst:13
-#, fuzzy
 msgid ""
 "Le nostre attività si basano sulla convinzione che il software libero e open "
 "source sia la scelta migliore e più efficace, in particolare in relazione ai "
@@ -80,7 +79,6 @@ msgstr ""
 
 # 32c6b33271d84475850ee5e73258f8d5
 #: ../../intro.rst:17
-#, fuzzy
 msgid ""
 "I software GIS liberi hanno un costo complessivo più basso dei software "
 "proprietari e l’assenza di costi di licenza d’uso rimuove una barriera "
@@ -132,9 +130,9 @@ msgid ""
 msgstr ""
 "**centralidade do cliente**: as necessidades do cliente são o princípio "
 "orientador do nosso negócio, não só para perseguir a sua plena satisfação, "
-"mas para torná-lo plenamente detentor das soluções desenvolvidas e do know-"
-"how necessário para a sua utilização, evitando uma relacção de dependência "
-"do fornecedor"
+"mas para torná-lo plenamente detentor das soluções desenvolvidas e do "
+"know-how necessário para a sua utilização, evitando uma relacção de "
+"dependência do fornecedor"
 
 # eb53568958e648c899431d285668bb7a
 #: ../../intro.rst:26
@@ -149,7 +147,6 @@ msgstr ""
 
 # dc3f3bec5fe94ef6b9d0c266fc68507b
 #: ../../intro.rst:28
-#, fuzzy
 msgid ""
 "Faunalia è inoltre particolarmente impegnata a diminuire il più possibile "
 "l'impatto delle proprie attività sull'ambiente, quindi: riduciamo i nostri "
@@ -168,14 +165,18 @@ msgstr ""
 # f8603e9b053a4ffd85874bc8ec20644f
 #: ../../intro.rst:31
 msgid "I servizi"
-msgstr ""
+msgstr "Os nossos serviços"
 
 # b8a0e5217dba40d69e56e9e492c4103b
 #: ../../intro.rst:32
 msgid ""
-"La nostra offerta di servizi è riassumibile in tre aree principali: :doc:"
-"`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione <training>`."
+"La nostra offerta di servizi è riassumibile in tre aree principali\\: "
+":doc:`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione "
+"<training>`."
 msgstr ""
+"Os nossos serviços podem ser resumidos em três grandes áreas "
+":doc:`desenvolvimento <dev>`, :doc:`suporte <support>` e :doc:`formação "
+"<training>`."
 
 # 0d9537fc94a942f2ab5df24400d3f760
 #: ../../intro.rst:34
@@ -185,6 +186,10 @@ msgid ""
 "internazionale. Negli anni, abbiamo contribuito allo sviluppo di vari "
 "strumenti, fra cui QGIS, GRASS, PostGIS, GDAL/OGR."
 msgstr ""
+"Faunalia trabalha directamente no desenvolvimento do software que usa e "
+"oferece no mercado, colaborando com os melhores programadores GIS em todo o "
+"mundo. Ao longo dos anos, têm contribuído para o desenvolvimento de várias "
+"ferramentas, incluindo QGIS, GRASS, PostGIS, GDAL / OGR."
 
 # 49bc3928cb4d4ba89abae2723e193b1f
 #: ../../intro.rst:36
@@ -193,6 +198,8 @@ msgid ""
 "intervento rapido e di assistenza continuativa su tutte le problematiche "
 "relative ai GIS."
 msgstr ""
+"Além do desenvolvimento de software, oferecemos, com custso competitivos, "
+"suporte contínuo para todas as questões relacionadas com o SIG."
 
 # 59b3b975362049aeb3bfc1cd14507d2d
 #: ../../intro.rst:38
@@ -200,6 +207,8 @@ msgid ""
 "Infine teniamo corsi di formazione teorico-pratica, sia standard, sia "
 "personalizzati, presso le nostre sedi e presso i nostri clienti."
 msgstr ""
+"Temos formações teóricas e práticas, também personalizadas, nos nossos "
+"escritórios ou em locais a escolha dos nossos clientes."
 
 # 75db996c26e9473fb509980159080576
 #: ../../intro.rst:41
@@ -213,7 +222,7 @@ msgid ""
 "collaboratori. Il *core team* è composto da:"
 msgstr ""
 "A actividade de Faunalia baseia-se é uma densa rede de colaboradores "
-"internacionais. * A equipa residente* é composta por:"
+"internacionais. *A equipa residente* é composta por:"
 
 # 4ea39f199b9a4022a3845ca9d59eb11d
 #: ../../intro.rst:48
@@ -228,8 +237,8 @@ msgstr "Fundador de Faunalia"
 # 89e9e1fc097a4254b73ea7b4f6d50b20
 #: ../../intro.rst:56
 msgid ""
-"Membro del *QGIS Project Steering Commitee* col ruolo di *Financial/"
-"Marketing Advisor*"
+"Membro del *QGIS Project Steering Commitee* col ruolo di "
+"*Financial/Marketing Advisor*"
 msgstr ""
 "Membro do *QGIS Project Steering Commitee* no  papel de *Financial/Marketing "
 "Advisor*"
@@ -255,11 +264,11 @@ msgstr ""
 # fdd0adf5373648759b7d691e40e92d7e
 #: ../../intro.rst:59
 msgid ""
-"Socio fondatore di `ITPUG - ITalian PostgreSQL User Group <http://www.itpug."
-"org>`_"
+"Socio fondatore di `ITPUG - ITalian PostgreSQL User Group "
+"<http://www.itpug.org>`_"
 msgstr ""
-"Sócio fundador de `ITPUG - ITalian PostgreSQL User Group <http://www.itpug."
-"org>`_"
+"Sócio fundador de `ITPUG - ITalian PostgreSQL User Group "
+"<http://www.itpug.org>`_"
 
 # 6f1bd28a37b245f286bf2b35665bd9fa
 #: ../../intro.rst:60
@@ -290,15 +299,15 @@ msgstr ":doc:`Curriculum Vitae (html) <cv_pc_it>`"
 
 # efe1417214834e749831e8ba73cca493
 #: ../../intro.rst:65
-#, fuzzy
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`_ - `europeo (pdf) <pdf/"
-"Cavallini_CV_eu.pdf>`_"
-msgstr "`Curriculum Vitae europeo (pdf) <pdf/Cavallini_CV_eu.pdf>`_"
+"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`_ - `europeo (pdf) "
+"<pdf/Cavallini_CV_eu.pdf>`_"
+msgstr ""
+"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_pt.pdf>`_ - `europeo (pdf) "
+"<pdf/Cavallini_CV_eu.pdf>`_"
 
 # b956ac317a9e43e3b3eba330e2a527c9
 #: ../../intro.rst:67
-#, fuzzy
 msgid "*e-mail*: cavallini@faunalia.it - *PEC*: paolo.cavallini@pec.it"
 msgstr "*e-mail*: cavallini@faunalia.it"
 
@@ -412,11 +421,11 @@ msgstr "Biólogo especializado em Conservation Biology"
 # 92e5e56111ae4a58af219d06bb84952b
 #: ../../intro.rst:106
 msgid ""
-"Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and Open-"
-"Source Software Association <http://osgeopt.pt/>`_"
+"Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and "
+"Open-Source Software Association <http://osgeopt.pt/>`_"
 msgstr ""
-"Sócio fundador de `OSGeo Portugal - Portuguese Geographic Free and Open-"
-"Source Software Association <http://osgeopt.pt/>`_"
+"Sócio fundador de `OSGeo Portugal - Portuguese Geographic Free and "
+"Open-Source Software Association <http://osgeopt.pt/>`_"
 
 # 162c6121a6004904abfddd9243d4e8df
 #: ../../intro.rst:107
@@ -430,7 +439,6 @@ msgstr ""
 # 64ccb14d406e4a11a5d713ae7e7a0153
 # 64ccb14d406e4a11a5d713ae7e7a0153
 #: ../../intro.rst:108 ../../intro.rst:128
-#, fuzzy
 msgid "Oltre 7 anni di esperienza sui GIS liberi"
 msgstr "Mais de 7 anos de experiencia sobre SIG livres"
 
@@ -441,11 +449,12 @@ msgstr ":doc:`Curriculum Vitae (html) <cv_gm_pt>`"
 
 # 3b8d4881b4ef49a9ae33dfff59d647d0
 #: ../../intro.rst:111
-#, fuzzy
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_ - `europeo (pdf) <pdf/"
-"Manghi_CV_eu.pdf>`_"
-msgstr "`Curriculum Vitae europeo (pdf) <pdf/Manghi_CV_eu.pdf>`_"
+"`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_ - `europeo (pdf) "
+"<pdf/Manghi_CV_eu.pdf>`_"
+msgstr ""
+"`Curriculum Vitae (pdf) <pdf/Manghi_CV_pt.pdf>`_ - `europeo (pdf) "
+"<pdf/Manghi_CV_eu.pdf>`_"
 
 # 3472687752ef4624a6d1046f9ab20882
 #: ../../intro.rst:113
@@ -485,11 +494,11 @@ msgstr "Bióloga especializada em Conservation Biology"
 # 92e5e56111ae4a58af219d06bb84952b
 #: ../../intro.rst:127
 msgid ""
-"Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and Open-"
-"Source Software Association <http://osgeopt.pt/>`_"
+"Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and "
+"Open-Source Software Association <http://osgeopt.pt/>`_"
 msgstr ""
-"Sócia fundadora di `OSGeo Portugal - Portuguese Geographic Free and Open-"
-"Source Software Association <http://osgeopt.pt/>`_"
+"Sócia fundadora di `OSGeo Portugal - Portuguese Geographic Free and "
+"Open-Source Software Association <http://osgeopt.pt/>`_"
 
 # f2e2c08f2fe54447b9ddb4ca52b3af41
 #: ../../intro.rst:130
@@ -498,11 +507,12 @@ msgstr ":doc:`Curriculum Vitae (html) <cv_vn_pt>`"
 
 # f6ae1371bb6049548203415bdea4393e
 #: ../../intro.rst:131
-#, fuzzy
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_ - `europeo (pdf) <pdf/"
-"Neves_CV_eu.pdf>`_"
-msgstr "`Curriculum Vitae europeo (pdf) <pdf/Neves_CV_eu.pdf>`_"
+"`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_ - `europeo (pdf) "
+"<pdf/Neves_CV_eu.pdf>`_"
+msgstr ""
+"`Curriculum Vitae (pdf) <pdf/Neves_CV_pt.pdf>`_ - `europeo (pdf) "
+"<pdf/Neves_CV_eu.pdf>`_"
 
 # 12db5196f90647d8b593e6b4c685d9d4
 #: ../../intro.rst:133
