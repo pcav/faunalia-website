@@ -101,7 +101,7 @@ Ficha de pré-inscrição para formações
 			}
 		}
 	?>
-	<form action="training.html#modulo-di-iscrizione" method="post">
+	<form action="subscr_form_it.html" method="post">
 
 	<label for="edit-submitted-nome">Nome <span class="form-required" title="O campo é obrigatório">*</span></label>
 	<input type="text" id="edit-submitted-nome" name="nome" value="<?=$nome ?>" size="60" maxlength="128" class="input-xlarge required" />

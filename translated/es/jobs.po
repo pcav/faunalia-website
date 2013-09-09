@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-03 07:49\n"
+"POT-Creation-Date: 2013-09-09 17:37\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,7 +34,7 @@ msgstr "Mapa de las intervenciones de Faunalia"
 #: ../../jobs.rst:21
 msgid ""
 "`Esplora la mappa <http://www2.faunalia.eu/map/lizmap/www/index.php/view/"
-"map/?repository=faunalia&project=faunalia_map_it/>`_"
+"map/?repository=faunalia&project=faunalia_map_it>`_"
 msgstr ""
 
 # a4dd5c2238944fbf889fbcfdac51370c
