@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-09 17:37\n"
+"POT-Creation-Date: 2013-09-09 18:06\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -155,7 +155,7 @@ msgstr ""
 
 #: ../../intro.rst:64
 # 6543fb195e3249f085e97ce8a5f95c9c
-msgid ":doc:`Curriculum Vitae (html) <cv_pc_it>`"
+msgid "`Curriculum Vitae (html) <cv_pc_it.html>`_"
 msgstr ""
 
 #: ../../intro.rst:65
@@ -267,7 +267,7 @@ msgstr ""
 
 #: ../../intro.rst:110
 # 5e966bb94bde4c998a6b3b92146670fe
-msgid ":doc:`Curriculum Vitae (html) <cv_gm_it>`"
+msgid "`Curriculum Vitae (html) <cv_gm_it.html>`_"
 msgstr ""
 
 #: ../../intro.rst:111
@@ -317,7 +317,7 @@ msgstr ""
 
 #: ../../intro.rst:130
 # c61b6797a4d349d4850a9c54fa7bad24
-msgid ":doc:`Curriculum Vitae (html) <cv_vn_it>`"
+msgid "`Curriculum Vitae (html) <cv_vn_it.html>`_"
 msgstr ""
 
 #: ../../intro.rst:131

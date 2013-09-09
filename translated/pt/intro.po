@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-27 08:33\n"
+"POT-Creation-Date: 2013-09-09 18:06\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -130,9 +130,9 @@ msgid ""
 msgstr ""
 "**centralidade do cliente**: as necessidades do cliente são o princípio "
 "orientador do nosso negócio, não só para perseguir a sua plena satisfação, "
-"mas para torná-lo plenamente detentor das soluções desenvolvidas e do "
-"know-how necessário para a sua utilização, evitando uma relacção de "
-"dependência do fornecedor"
+"mas para torná-lo plenamente detentor das soluções desenvolvidas e do know-"
+"how necessário para a sua utilização, evitando uma relacção de dependência "
+"do fornecedor"
 
 # eb53568958e648c899431d285668bb7a
 #: ../../intro.rst:26
@@ -170,12 +170,11 @@ msgstr "Os nossos serviços"
 # b8a0e5217dba40d69e56e9e492c4103b
 #: ../../intro.rst:32
 msgid ""
-"La nostra offerta di servizi è riassumibile in tre aree principali\\: "
-":doc:`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione "
-"<training>`."
+"La nostra offerta di servizi è riassumibile in tre aree principali\\: :doc:"
+"`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione <training>`."
 msgstr ""
-"Os nossos serviços podem ser resumidos em três grandes áreas "
-":doc:`desenvolvimento <dev>`, :doc:`suporte <support>` e :doc:`formação "
+"Os nossos serviços podem ser resumidos em três grandes áreas :doc:"
+"`desenvolvimento <dev>`, :doc:`suporte <support>` e :doc:`formação "
 "<training>`."
 
 # 0d9537fc94a942f2ab5df24400d3f760
@@ -237,8 +236,8 @@ msgstr "Fundador de Faunalia"
 # 89e9e1fc097a4254b73ea7b4f6d50b20
 #: ../../intro.rst:56
 msgid ""
-"Membro del *QGIS Project Steering Commitee* col ruolo di "
-"*Financial/Marketing Advisor*"
+"Membro del *QGIS Project Steering Commitee* col ruolo di *Financial/"
+"Marketing Advisor*"
 msgstr ""
 "Membro do *QGIS Project Steering Commitee* no  papel de *Financial/Marketing "
 "Advisor*"
@@ -264,11 +263,11 @@ msgstr ""
 # fdd0adf5373648759b7d691e40e92d7e
 #: ../../intro.rst:59
 msgid ""
-"Socio fondatore di `ITPUG - ITalian PostgreSQL User Group "
-"<http://www.itpug.org>`_"
+"Socio fondatore di `ITPUG - ITalian PostgreSQL User Group <http://www.itpug."
+"org>`_"
 msgstr ""
-"Sócio fundador de `ITPUG - ITalian PostgreSQL User Group "
-"<http://www.itpug.org>`_"
+"Sócio fundador de `ITPUG - ITalian PostgreSQL User Group <http://www.itpug."
+"org>`_"
 
 # 6f1bd28a37b245f286bf2b35665bd9fa
 #: ../../intro.rst:60
@@ -294,17 +293,18 @@ msgstr "Investigador (PhD)"
 
 # 7e88d4c193e8445f9729faedcd714934
 #: ../../intro.rst:64
-msgid ":doc:`Curriculum Vitae (html) <cv_pc_it>`"
+#, fuzzy
+msgid "`Curriculum Vitae (html) <cv_pc_it.html>`_"
 msgstr ":doc:`Curriculum Vitae (html) <cv_pc_it>`"
 
 # efe1417214834e749831e8ba73cca493
 #: ../../intro.rst:65
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`_ - `europeo (pdf) "
-"<pdf/Cavallini_CV_eu.pdf>`_"
+"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`_ - `europeo (pdf) <pdf/"
+"Cavallini_CV_eu.pdf>`_"
 msgstr ""
-"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_pt.pdf>`_ - `europeo (pdf) "
-"<pdf/Cavallini_CV_eu.pdf>`_"
+"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_pt.pdf>`_ - `europeo (pdf) <pdf/"
+"Cavallini_CV_eu.pdf>`_"
 
 # b956ac317a9e43e3b3eba330e2a527c9
 #: ../../intro.rst:67
@@ -421,11 +421,11 @@ msgstr "Biólogo especializado em Conservation Biology"
 # 92e5e56111ae4a58af219d06bb84952b
 #: ../../intro.rst:106
 msgid ""
-"Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and "
-"Open-Source Software Association <http://osgeopt.pt/>`_"
+"Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and Open-"
+"Source Software Association <http://osgeopt.pt/>`_"
 msgstr ""
-"Sócio fundador de `OSGeo Portugal - Portuguese Geographic Free and "
-"Open-Source Software Association <http://osgeopt.pt/>`_"
+"Sócio fundador de `OSGeo Portugal - Portuguese Geographic Free and Open-"
+"Source Software Association <http://osgeopt.pt/>`_"
 
 # 162c6121a6004904abfddd9243d4e8df
 #: ../../intro.rst:107
@@ -444,17 +444,18 @@ msgstr "Mais de 7 anos de experiencia sobre SIG livres"
 
 # 95dca4087d374ece822ccbd1aee35dec
 #: ../../intro.rst:110
-msgid ":doc:`Curriculum Vitae (html) <cv_gm_it>`"
+#, fuzzy
+msgid "`Curriculum Vitae (html) <cv_gm_it.html>`_"
 msgstr ":doc:`Curriculum Vitae (html) <cv_gm_pt>`"
 
 # 3b8d4881b4ef49a9ae33dfff59d647d0
 #: ../../intro.rst:111
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_ - `europeo (pdf) "
-"<pdf/Manghi_CV_eu.pdf>`_"
+"`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_ - `europeo (pdf) <pdf/"
+"Manghi_CV_eu.pdf>`_"
 msgstr ""
-"`Curriculum Vitae (pdf) <pdf/Manghi_CV_pt.pdf>`_ - `europeo (pdf) "
-"<pdf/Manghi_CV_eu.pdf>`_"
+"`Curriculum Vitae (pdf) <pdf/Manghi_CV_pt.pdf>`_ - `europeo (pdf) <pdf/"
+"Manghi_CV_eu.pdf>`_"
 
 # 3472687752ef4624a6d1046f9ab20882
 #: ../../intro.rst:113
@@ -494,25 +495,26 @@ msgstr "Bióloga especializada em Conservation Biology"
 # 92e5e56111ae4a58af219d06bb84952b
 #: ../../intro.rst:127
 msgid ""
-"Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and "
-"Open-Source Software Association <http://osgeopt.pt/>`_"
+"Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and Open-"
+"Source Software Association <http://osgeopt.pt/>`_"
 msgstr ""
-"Sócia fundadora di `OSGeo Portugal - Portuguese Geographic Free and "
-"Open-Source Software Association <http://osgeopt.pt/>`_"
+"Sócia fundadora di `OSGeo Portugal - Portuguese Geographic Free and Open-"
+"Source Software Association <http://osgeopt.pt/>`_"
 
 # f2e2c08f2fe54447b9ddb4ca52b3af41
 #: ../../intro.rst:130
-msgid ":doc:`Curriculum Vitae (html) <cv_vn_it>`"
+#, fuzzy
+msgid "`Curriculum Vitae (html) <cv_vn_it.html>`_"
 msgstr ":doc:`Curriculum Vitae (html) <cv_vn_pt>`"
 
 # f6ae1371bb6049548203415bdea4393e
 #: ../../intro.rst:131
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_ - `europeo (pdf) "
-"<pdf/Neves_CV_eu.pdf>`_"
+"`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_ - `europeo (pdf) <pdf/"
+"Neves_CV_eu.pdf>`_"
 msgstr ""
-"`Curriculum Vitae (pdf) <pdf/Neves_CV_pt.pdf>`_ - `europeo (pdf) "
-"<pdf/Neves_CV_eu.pdf>`_"
+"`Curriculum Vitae (pdf) <pdf/Neves_CV_pt.pdf>`_ - `europeo (pdf) <pdf/"
+"Neves_CV_eu.pdf>`_"
 
 # 12db5196f90647d8b593e6b4c685d9d4
 #: ../../intro.rst:133
