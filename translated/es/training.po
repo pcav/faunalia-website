@@ -1058,21 +1058,21 @@ msgstr ""
 
 # d46e64fc0c7e494b826fb2dc83e7df1d
 #: ../../training.rst:244
-#, fuzzy
 msgid "Istruzioni"
-msgstr "Interpolación"
+msgstr "instrucciones"
 
 # ba42772ed13e492f937897053e863d23
 #: ../../training.rst:246
-#, fuzzy
 msgid ""
 "**Iscrizione**: confermata al versamento di una caparra di 100 €, saldo "
 "prima dell'inizio del corso; è possibile versare l'intera quota in unica "
 "soluzione; in caso il corso non si svolga per qualunque motivo, la quota "
 "versata verrà interamente restituita"
 msgstr ""
-"Confirmación de inscripción al ingresar una fianza de 100 €, completando el "
-"pago antes del inicio del curso"
+"**inscripción** Confirmación de inscripción al ingresar una fianza de 100 €, "
+"completando el pago antes del inicio del curso. En caso de que el curso no "
+"se realice por cualquier motivo, la cuota ingresada será devuelta en su "
+"totalidad. "
 
 # 1b917c6bbf9943ebb0e405bc047b9493
 #: ../../training.rst:247
@@ -1080,6 +1080,8 @@ msgid ""
 "**Conferma**: il corso sarà confermato al raggiungimento del numero minimo "
 "di partecipanti"
 msgstr ""
+"**Confirmación**: se confirmará la realización del curso al llegar a un "
+"número mínimo de participantes."
 
 # 4155204fc0fa4423a607e82054c538a1
 #: ../../training.rst:248
@@ -1087,6 +1089,8 @@ msgid ""
 "**Requisiti**: computer portatile in buono stato di funzionamento; i "
 "programmi necessari verranno installati durante il corso"
 msgstr ""
+"**Requisitos**: ordenador portátil en buen estado de funcionamiento. Los "
+"programas necesarios serán instalados durante el curso."
 
 # 75efe5aadaaf49d287f1d89037bdcc98
 #: ../../training.rst:249
@@ -1094,6 +1098,8 @@ msgid ""
 "**Attestato**: la partecipazione al corso dà diritto ad un attestato di "
 "partecipazione"
 msgstr ""
+"**Certificado de participación**: la participación al curso da derecho a "
+"obtener un certificado."
 
 # 282ed836576c4f16bd52939196a1f7e0
 #: ../../training.rst:250
@@ -1103,11 +1109,15 @@ msgid ""
 "nome del corso; si raccomanda di inviare tutti i dati necessari per la "
 "fatturazione tramite il modulo qui di seguito"
 msgstr ""
+"**Pago**: ingreso en la cuenta bancaria de Faunalia (IBAN IT55 P052 3271 "
+"1310 0002 0048 369), indicando en el justificante nombre y apellidos de la "
+"persona que se inscribe y nombre del curso, se aconseja enviar todos los "
+"datos necesarios para la facturación a través de los siguientes módulos"
 
 # inserire "scrivici", come in altri punti
 #: ../../training.rst:252
 msgid ":doc:`Iscriviti qui <subscr_form_it>`"
-msgstr ""
+msgstr ":doc:`Inscríbase aqui <subscr_form_it>`"
 
 # 9da0e2efb514451bacaad5b961947b64
 #: ../../training.rst:255
@@ -1116,7 +1126,6 @@ msgstr "Logística"
 
 # e2c77797de9e472598dc6f4abdcf19db
 #: ../../training.rst:257
-#, fuzzy
 msgid ""
 "**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
 "page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
@@ -1126,6 +1135,7 @@ msgid ""
 "(incluse strutture ricettive). Convenzione con B & B `Il Piccolo <http://www."
 "ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple"
 msgstr ""
+<<<<<<< HEAD
 "**Sede** Pontedera (PI) en `Pont-Tech <http://www.pont-tech.it/?"
 "page_id=957>`_, o `Faunalia <http://www.openstreetmap.org/?"
 "lat=43.66154&lon=10.63763&zoom=17>`_, de fácil accesso con medios públicos "
@@ -1133,6 +1143,16 @@ msgstr ""
 "it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluídos "
 "alojamientos). Convención con B&B `Il Piccolo <http://www.ilpiccolorooms.it/"
 ">`_, 45/60/80 € por habitación simple/doble/triple"
+=======
+"**Sede** Pontedera (PI) en `Pont-Tech "
+"<http://www.pont-tech.it/?page_id=957>`_, o `Faunalia "
+"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, de "
+"fácil accesso con medios públicos (tren y avión). `Detalles sobre la ciudad. "
+"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluídos los alojamientos). Convención con B&B `Il Piccolo "
+"<http://www.ilpiccolorooms.it/>`_, 45/60/80 € por habitación "
+"simple/doble/triple"
+>>>>>>> 16772106f9af637e5214c0d068bacc10e3f156d0
 
 # 7a7ec0040dc243a29b9a554247e0fe1b
 #~ msgid "Geodatabase (PostgreSQL e PostGIS)"
