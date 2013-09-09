@@ -121,11 +121,11 @@ Ficha de pré-inscrição para formações
 	<label for="edit-submitted-corso">Curso <span class="form-required" title="O campo é obrigatório">*</span></label>
 	<select id="edit-submitted-corso" name="corso" class="input-xlarge required">
 		<option value="" <?php if ($corso=="") echo 'selected="selected"';?> >- Escolher -</option>
-		<option value="qgis_cartografia" <?php if ($corso=="qgis_cartografia") echo 'selected="selected"';?> >Cartográfia com QGIS</option>
-		<option value="qgis_analisi" <?php if ($corso=="qgis_analisi") echo 'selected="selected"';?> >Análise SIG com QGIS</option>
-		<option value="pyqgis" <?php if ($corso=="pyqgis") echo 'selected="selected"';?> >Desenvolvimento de extensões para QGIS em Python</option>
-		<option value="postgis" <?php if ($corso=="postgis") echo 'selected="selected"';?> >Bases de dados geográficas: PostgreSQL e PostGIS</option>
-		<option value="webgis" <?php if ($corso=="webgis") echo 'selected="selected"';?> >WebMapping com QGIS</option>
+		<option value="Cartográfia com QGIS" <?php if ($corso=="qgis_cartografia") echo 'selected="selected"';?> >Cartográfia com QGIS</option>
+		<option value="Análise SIG com QGIS" <?php if ($corso=="qgis_analisi") echo 'selected="selected"';?> >Análise SIG com QGIS</option>
+		<option value="Desenvolvimento de extensões para QGIS em Python" <?php if ($corso=="pyqgis") echo 'selected="selected"';?> >Desenvolvimento de extensões para QGIS em Python</option>
+		<option value="Bases de dados geográficas: PostgreSQL e PostGIS" <?php if ($corso=="postgis") echo 'selected="selected"';?> >Bases de dados geográficas: PostgreSQL e PostGIS</option>
+		<option value="WebMapping com QGIS" <?php if ($corso=="webgis") echo 'selected="selected"';?> >WebMapping com QGIS</option>
 	</select>
 
 	<label for="edit-submitted-dati-per-fatturazione">Dados para emissão de factura-recibo <span class="form-required" title="O campo é obrigatório">*</span></label>
