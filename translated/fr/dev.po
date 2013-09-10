@@ -33,7 +33,7 @@ msgstr "Faunalia propose:"
 # f08f7331cf78489899f60dac239e0742
 #: ../../dev.rst:13
 msgid "Sviluppo di plugin per QGIS_"
-msgstr "le developpement d'extensions (plugins) pour QGIS_"
+msgstr "le développement d'extensions (plugins) pour QGIS_"
 
 # 5b38585e1e384ef6bb57dfd79cb4902b
 #: ../../dev.rst:14
@@ -41,7 +41,7 @@ msgid ""
 "Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, "
 "`GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
-"le developpement de nouvelles fonctionnalités pour QGIS_, PostGIS_, GRASS_, "
+"le développement de nouvelles fonctionnalités pour QGIS_, PostGIS_, GRASS_, "
 "MapServer_, `GDAL/OGR <http://www.gdal.org/>`_ "
 
 # cf99310f7e6e429a841b3f255af7dd46
@@ -50,13 +50,13 @@ msgid ""
 "Riparazione dei malfunzionamenti per QGIS_, PostGIS_, GRASS_, MapServer_, "
 "`GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
-"la réparation des dysfonctionnements (bogues) pour QGIS_, PostGIS_, GRASS_, "
+"la réparation des dysfonctionnements (bugs) pour QGIS_, PostGIS_, GRASS_, "
 "MapServer_, `GDAL/OGR <http://www.gdal.org/>`_ "
 
 # d650ef8ee81b4e4584a51093561c5e93
 #: ../../dev.rst:16
 msgid "Sviluppo di applicazioni webGIS ad hoc"
-msgstr "le developpement d'applications webGIS personalisées"
+msgstr "le développement d'applications webGIS personnalisées"
 
 # dfe28156cafb481dbf5fce372538fc3f
 #: ../../dev.rst:18
@@ -66,7 +66,7 @@ msgstr "Nous fournissons la garantie que tout le code développé:"
 # a66b6e581f2549c2817abb09f3eb1f1d
 #: ../../dev.rst:20
 msgid "è pubblicato con licenza libera ed open source"
-msgstr "est publié avec licence libre et à code ouvert (open source)"
+msgstr "est publié avec une licence libre et en open source"
 
 # e9533e31a92d4e6caba072eab2464cbb
 #: ../../dev.rst:21
@@ -79,8 +79,8 @@ msgid ""
 "In questo modo sarete certi della sua fruibilità e facilità di manutenzione "
 "anche nel futuro."
 msgstr ""
-"Par conséquent, vous serez assurés de la possibilité d'utilisation et de "
-"manutention, maintenant et dans le futur."
+"Vous êtes ainsi assurés que le code est utilisable ed adaptable, maintenant "
+"et dans le futur."
 
 # a651117ca4a943738387342da7f07ecc
 #: ../../dev.rst:25
@@ -89,6 +89,6 @@ msgid ""
 "software sopra elencati e fra i nostri collaboratori annoveriamo molti dei "
 "più importanti sviluppatori di questi progetti."
 msgstr ""
-"Faunalia a directement développé depus plusieurs années, des fonctions et "
-"des extensions pour tous les projets sus-cités, dont certains des meilleurs "
+"Depuis plusieurs années, Faunalia développe directement des fonctionnalités "
+"et des extensions pour tous les projets cités, dont certains des meilleurs "
 "developpeurs sont a compter parmi nos collaborateurs."

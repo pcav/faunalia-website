@@ -32,9 +32,10 @@ msgid ""
 "liberi, avendo realizzato oltre 150 fra corsi, seminari e workshops, in "
 "italiano, inglese, portoghese e francese."
 msgstr ""
-"Faunalia a une très grande expérience dans la formation sur les SIG libres, "
-"en effet nous avons effectué plus de 150 interventions sous forme de cours, "
-"de séminaires et d'ateliers, en italien, anglais, portuguais et français."
+"Faunalia a une très grande expérience dans la formation sur les SIG libres. "
+"En effet nous avons effectué plus de 150 interventions sous la forme de "
+"cours, de séminaires et d'ateliers, en italien, anglais, portugais et "
+"français."
 
 # e109329698d54390a2cd6e6bf84ad8d2
 #: ../../training.rst:13
@@ -57,12 +58,13 @@ msgstr ""
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:17
 msgid ""
-"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
+"annunci di nuovi corsi."
 msgstr ""
-"Abonnez vous à la `liste de diffusion <http://lists.faunalia.it/cgi-bin/"
-"mailman/listinfo/formation>`_ pour recevoir les annonces des nouvelles "
-"activités de formation."
+"Abonnez vous à la `liste de diffusion "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/formation>`_ pour "
+"recevoir les annonces des nouvelles formations."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:20
@@ -97,10 +99,10 @@ msgid ""
 "membro dello *Steering Committee* di QGIS, e Faunalia ha sviluppato parti di "
 "GRASS, PostGIS, GDAL ecc."
 msgstr ""
-"ils sont enseignés par des moniteurs qui sont contribuent activement depuis "
-"plusieurs années au developpement des logiciels traités. En particulier, Mr "
+"Ils sont réalisés par des moniteurs qui contribuent activement, et ce depuis "
+"plusieurs années, au developpement des logiciels traités. En particulier, Mr "
 "Paolo Cavallini qui est membre du Comité de pilotage de QGIS et Faunalia qui "
-"a développé functions pour GRASS, PostGIS, GDAL, etc."
+"a développé des fonctionnalités pour GRASS, PostGIS, GDAL, etc."
 
 # 9596721bc5974de490fe070e18d5b240
 #: ../../training.rst:25
@@ -108,8 +110,8 @@ msgid ""
 "Hanno un costo sensibilmente inferiore alle alternative proprietarie "
 "presenti sul mercato"
 msgstr ""
-"Ils sont moins onéreux que les solutions propriétaires disponibles sur le "
-"marché"
+"Ils représentent un coût moins onéreux que les solutions propriétaires "
+"disponibles sur le marché"
 
 # 635858b71d10443db81b33db572ceec4
 #: ../../training.rst:26
@@ -117,15 +119,15 @@ msgid ""
 "Contribuiscono al miglioramento dei software utilizzati, destinando al loro "
 "sviluppo parte delle quote di iscrizione"
 msgstr ""
-"Ils contribuer à l'amélioration des logiciels utilisés, en allouant une "
-"partie des frais d'inscription au développement de base"
+"Ils contribuent à l'amélioration des logiciels utilisés, en allouant une "
+"partie des frais d'inscription à des développement futurs"
 
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:27
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
-"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
-"<http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
+"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
+"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
 "Ils permettent l'accès aux examens *European Computer Driving Licence - GIS*."
 
@@ -142,8 +144,8 @@ msgid ""
 "tematizzarli e produrre mappe di alta qualità grafica ed informativa. ad "
 "elevato contenuto informativo e ad alta qualità grafica"
 msgstr ""
-"Pour apprendre à installer et utiliser QGIS, accéder aux données, et "
-"produire des cartes thematiques de haute qualité informative et graphique"
+"Apprendre à installer et utiliser QGIS, accéder aux données et produire des "
+"cartes thématiques de haute qualité informative et graphique"
 
 # 3abb49f5677b45f9b62422fa3e6d26b9
 #: ../../training.rst:35
@@ -151,8 +153,8 @@ msgid ""
 "Adatto anche a chi ha poca esperienza sui GIS e sulla cartografia. È "
 "necessario avere dimestichezza con l'uso del PC."
 msgstr ""
-"Convient même pour ceux qui n'ont pas une très grande expérience sur les SIG "
-"et cartographie."
+"Convient même pour ceux qui n'ont pas une très grande expérience des SIG et "
+"cartographie. Il est cepandant nécessaire de maitriser l'informatique."
 
 # 0df4bcbac88b4ab781d9de43a538bc7c
 # 2b4af28416b84e8f934ec1d53e670e98
@@ -162,7 +164,7 @@ msgstr ""
 #: ../../training.rst:38 ../../training.rst:82 ../../training.rst:120
 #: ../../training.rst:165 ../../training.rst:198
 msgid "Argomenti principali"
-msgstr "Thèmes principaux"
+msgstr "Thématiqes abordées"
 
 # 3abc1e0cc88548a7b85dc43e7151f618
 #: ../../training.rst:40
@@ -202,7 +204,7 @@ msgstr "Gestion des plugins"
 # a309abb66f014b5fa7b3259ea0d3b7ca
 #: ../../training.rst:47
 msgid "I dati geografici vettoriali"
-msgstr "Les données géographiques vectoriaux"
+msgstr "Les données géographiques vectorielles"
 
 # 98259c90cff94be5bbfdfd41d5dad4ae
 #: ../../training.rst:49
@@ -218,8 +220,7 @@ msgstr "thématisation vecteur avancé et étiquetage"
 #: ../../training.rst:51
 msgid "tabelle dati, attributi ed azioni; importazione di dati tabellari"
 msgstr ""
-"tableaux de données, attributs et d'actions, importation des données "
-"tabulaires"
+"tableaux de données, attributs et actions, importation des données tabulaires"
 
 # fdc1cc2379d14ad9b5eb4af8fa1421e0
 #: ../../training.rst:53
@@ -229,7 +230,7 @@ msgstr "Gestion des projections"
 # 1270705ea2b54985943fc95f1fa8deb5
 #: ../../training.rst:54
 msgid "Interfacciamento con GPS"
-msgstr "Interfaçage avec GPS"
+msgstr "Interface avec GPS"
 
 # 9ccaf9f688d14bb181e6be211ed5d22a
 #: ../../training.rst:55
@@ -259,7 +260,7 @@ msgstr "Gestion des photos géo-référencées"
 # 0226a9e09cf54582af37c17b409aa67f
 #: ../../training.rst:59
 msgid "Esportazione dati per Google Earth"
-msgstr "Exportation des données pour Google Earth"
+msgstr "Exportation des données sur Google Earth"
 
 # 0807886f9a694b64937b33d9b387c8b0
 #: ../../training.rst:60
@@ -279,7 +280,7 @@ msgstr "gestion des systèmes de référence, mosaïques"
 # b45b00d96b2744789df0ee13c0f63055
 #: ../../training.rst:64
 msgid "georeferenziazione"
-msgstr "géoréférencement"
+msgstr "géo-référencement"
 
 # 4a0403ba6e094a48aba502573e812285
 #: ../../training.rst:66
@@ -320,11 +321,11 @@ msgid ""
 "appreso a gestire con facilità l'ambiente di lavoro di QGIS, e ad effettuare "
 "analisi anche complesse in modo semplice ed intuitivo."
 msgstr ""
-"Pour apprendre à créer analyses raster et vectorielles, et modélisation "
-"spatiale, en combinant la puissance de traitement de GRASS, SAGA, Orfeo "
-"ToolBox avec la facilité d'utilisation de QGIS. À la fin du cours, "
-"l'utilisateur aura appris à manier avec aise l'environnement de travail de "
-"QGIS, et à effectuer des analyses complexes d'une façon simple et intuitive."
+"Apprendre à créer des analyses raster et vectorielles et la modélisation "
+"spatiale, en combinant la puissance de traitement d'outils comme GRASS, "
+"SAGA, Orfeo ToolBox avec la facilité d'utilisation de QGIS. À la fin du "
+"cours, l'utilisateur aura appris à manier l'environnement de travail de QGIS "
+"et à effectuer des analyses complexes d'une façon simple et intuitive."
 
 # 0aae20c6352c4b4e850dbfbcfd804e5c
 #: ../../training.rst:77
@@ -332,8 +333,8 @@ msgid ""
 "Adatto a chi desidera approfondire l'uso analitico e predittivo dei GIS, "
 "avendo già delle nozioni di base."
 msgstr ""
-"Convient pour ceux qui veulent approfondir l'utilisation analytique et "
-"prédictive des SIG, en possedent des notions de base."
+"Ce cours s'adressent à ceux qui veulent approfondir l'utilisation analytique "
+"et prédictive des SIG."
 
 # 4a29f658a0294d45b8e1f60b8daa3125
 #: ../../training.rst:79
@@ -341,8 +342,8 @@ msgid ""
 "È necessaria una conoscenza base del GIS. È altamente consigliabile una "
 "conoscenza di base di QGIS."
 msgstr ""
-"Une connaissance de base des SIG est nécessaire. Il est fortement recommandé "
-"avoir une connaissance de base de QGIS."
+"Une connaissance de base des SIG est nécessaire. Il est aussi fortement "
+"recommandé d'avoir une connaissance de base en matière de QGIS."
 
 # 77344998c5a048b48338dc79c5c15ac7
 #: ../../training.rst:83
@@ -362,7 +363,7 @@ msgstr "Plugins supplémentaires"
 # 8c74135d1b5b447dba13cde0cfbff902
 #: ../../training.rst:87
 msgid "processing"
-msgstr "processing"
+msgstr "processing framework"
 
 # f92a255d0d69405e90d7c1544c213c44
 #: ../../training.rst:88
@@ -385,13 +386,13 @@ msgid ""
 "Analisi vettoriali di base: dissolve, merge, overlay, gestione delle tabelle "
 "di attributi, ecc."
 msgstr ""
-"Analyse vectorielle de base: dissolusion, fusion, superposition, gestion des "
+"Analyse vectorielle de base: dissolution, fusion, superposition, gestion des "
 "tableaux d'attributs, etc."
 
 # f944cfbed06b475289d1443f094bef57
 #: ../../training.rst:93
 msgid "Correzione di errori topologici e semplificazione dei vettori"
-msgstr "Correction d'erreurs et simplification topologique des vecteurs"
+msgstr "Correction d'erreurs toplogiques et simplification des vecteurs"
 
 # c0bbc499fd214924ad32d5595348d24f
 #: ../../training.rst:94
@@ -448,7 +449,7 @@ msgstr "Analyse multi-critères: cartes de priorité, cartes des risques"
 #: ../../training.rst:103
 msgid "Classificazione automatica dell'uso del suolo, estrazione di elementi"
 msgstr ""
-"Classification automatique d'utilisation du terrain, extraction des elements"
+"Classification automatique d'utilisation du terrain, extraction des éléments"
 
 # 8ab72f30f014423ab5c28b799175ae25
 #: ../../training.rst:104
@@ -478,8 +479,8 @@ msgid ""
 "breve introduzione a questo linguaggio, i partecipanti saranno guidati passo "
 "a passo nella creazione di un plugin."
 msgstr ""
-"Pour développer des plugins (extensions) pour QGIS, en utilisant le langage "
-"de programmation Python. L'objectif principal est de fournir les concepts "
+"Développer des plugins (extensions) pour QGIS, en utilisant le langage de "
+"programmation Python. L'objectif principal est de fournir les concepts "
 "fondamentaux et l'expérience pratique dans le développement de plugins. "
 "Après une brève introduction à ce langage, les participants seront guidés "
 "pas à pas dans la création d'un plugin."
@@ -490,8 +491,8 @@ msgid ""
 "È preferibile, ma non obbligatoria, una conoscenza di base di Phyton. È "
 "necessaria una conoscenza di base dei principi di programmazione."
 msgstr ""
-"Il est préférable, mais non nécessaire, une connaissance de base de Python. "
-"Une compréhension de base des principes de la programmation est nécessaire."
+"Il est préférable d'avoir une connaissance de base de Python. Il est "
+"nécessaire de connaître les principes de base de la programmation ."
 
 # 91d6dfef23564525b55bd3c31c7f8df7
 #: ../../training.rst:122
@@ -506,7 +507,7 @@ msgstr "syntaxe de Python (indentation, point-virgule, ...)"
 # c8ab81a997d34aa688f01b93bb727174
 #: ../../training.rst:125
 msgid "il mio primo plugin in Python: mostra un messaggio in un riquadro"
-msgstr "mon premier plugin en Python: afficher un message dans une boîte"
+msgstr "premier plugin en Python: afficher un message dans une boîte"
 
 # 93b63af743324c8b840d4ce1dd953ede
 #: ../../training.rst:126
@@ -643,12 +644,12 @@ msgid ""
 "l'interrogazione di dati sia geografici che alfanumerici tramite numerose "
 "applicazioni."
 msgstr ""
-"Pour apprendre à créer et gérer des bases de données géographiques "
-"complexes, et effectuer une analyse en profondeur avec affichage en temps "
-"réel des résultats de vos tests. Ce cours permet aux participants de se "
-"familiariser avec la gestion des données vectorielles en utilisant SQL, avec "
-"l'importation de données géographiques et interrogation géographiques et "
-"alphanumériques par plusieurs applications."
+"Apprendre à créer et gérer des bases de données géographiques complexes et "
+"effectuer une analyse en profondeur avec affichage en temps réel des "
+"résultats de vos tests. Ce cours permet aux participants de se familiariser "
+"avec la gestion des données vectorielles en utilisant SQL:importation de "
+"données géographiques et interrogation géographiques et alphanumériques par "
+"plusieurs applications."
 
 # ed57a47c1a9a400588231c9d574b2fa6
 #: ../../training.rst:162
@@ -670,12 +671,12 @@ msgstr "Avantages d'utiliser une base de données SIG"
 # aab8ad2534be4526880723ce445d84b0
 #: ../../training.rst:169
 msgid "Introduzione al RDBMS Open Source PostgreSQL"
-msgstr "Introduction à la base des données rélationelle libre PostgreSQL"
+msgstr "Introduction à la base des données relationelle libre PostgreSQL"
 
 # e5e06ae2ce984f0aa74bd5589d67bb38
 #: ../../training.rst:170
 msgid "Schemi, tabelle, viste, domini, funzioni"
-msgstr "Schèmes, tableaux, vues, domaines, fonctions"
+msgstr "Schémas, tableaux, vues, domaines, fonctions"
 
 # f1c390c38b3f430abf9e5003f410008a
 #: ../../training.rst:171
@@ -733,7 +734,7 @@ msgid ""
 "Funzioni avanzate di geodatabase: Funzioni standard OGC, Estensioni di "
 "PostGIS, Conversione tra sistemi di coordinate"
 msgstr ""
-"Fonctions avancée de géodatabase: fonctions standard OGC, extensions "
+"Fonctions avancées de géodatabase: fonctions standard OGC, extensions "
 "PostGIS, conversion entre systèmes de coordonnées"
 
 # 5255669f6a5f4f069c87d2853f543a52
@@ -749,7 +750,7 @@ msgstr "Notes sur la topologie"
 # 0b2bb8cbb2ca4588986639e1eee43562
 #: ../../training.rst:183
 msgid "Copia e salvataggio"
-msgstr "Copiee et sauvegarde"
+msgstr "Copie et sauvegarde"
 
 # 660512ec03ae4bc59a877c8ec19a3162
 #: ../../training.rst:190
@@ -762,8 +763,8 @@ msgid ""
 "Per apprendere in breve tempo il più innovativo e semplice ambiente di "
 "sviluppo per WebGIS e WebMapping, basato su QGIS."
 msgstr ""
-"Pour apprendre rapidement l'environnement de développement le plus innovant "
-"et simple pour le WebGIS et le WebMapping, basé sur QGIS."
+"Apprendre rapidement à utiliser l'environnement de développement le plus "
+"innovant et le plus simple pour le WebGIS et le WebMapping, basé sur QGIS."
 
 # 3a9a582d601549c6b9a2d41ed8d11ce1
 #: ../../training.rst:193
@@ -772,9 +773,9 @@ msgid ""
 "QGIS Desktop, senza necessità di complesse operazioni di configurazione del "
 "loro aspetto grafico."
 msgstr ""
-"Permets de publier des cartes sur le web, développé et configuré à l'aide "
-"QGIS Desktop, sans la nécessité des tâches de configuration complexes pour "
-"leur look and feel."
+"Permets de publier des cartes sur le web, développées et configurées à "
+"l'aide QGIS Desktop, sans la nécessité des tâches de configuration complexes "
+"pour leur look and feel."
 
 # ae866d822ef14d4a83eb71ada75c8f88
 #: ../../training.rst:195
@@ -791,7 +792,7 @@ msgstr ""
 #: ../../training.rst:200
 msgid "Gli standard *Open Geospatial Consortium* per la pubblicazione webGIS"
 msgstr ""
-"Les standard *Open Geospatial Consortium* pour la publication des webGIS"
+"Les standards *Open Geospatial Consortium* pour la publication des webGIS"
 
 # 463cd047ab6445fd9f21e856683776e8
 #: ../../training.rst:202
@@ -840,12 +841,13 @@ msgstr "Calendrier"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
 #: ../../training.rst:235
+#, qt-format
 msgid ""
-"`Scarica il calendario (ics) <https://www.google.com/calendar/ical/"
-"faunaliagis%40gmail.com/public/basic.ics>`_"
+"`Scarica il calendario (ics) "
+"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 msgstr ""
-"`Téléchargez le calendrier (ics) <https://www.google.com/calendar/ical/"
-"faunaliagis%40gmail.com/public/basic.ics>`_"
+"`Téléchargez le calendrier (ics) "
+"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 2b01fbfd1fbb417da072f5b12ca3fae2
 #: ../../training.rst:238
@@ -860,12 +862,12 @@ msgid ""
 "giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la "
 "ritenuta d'acconto, da versare 272,88 €)"
 msgstr ""
-"Pour les détails sur les frais des courses, écrivez nous: info@faunalia.eu"
+"Pour les détails sur les frais des courss, écrivez nous: info@faunalia.eu"
 
 # 26a08c8133c244a28bb579355207e4d0
 #: ../../training.rst:241
 msgid "**Sconti**: 5% per l'iscrizione simultanea a più corsi"
-msgstr "Réductions pour l'inscription simultanée à plusieurs courses"
+msgstr "Réductions pour l'inscription simultanée à plusieurs courss"
 
 # d46e64fc0c7e494b826fb2dc83e7df1d
 #: ../../training.rst:244
@@ -880,7 +882,7 @@ msgid ""
 "soluzione; in caso il corso non si svolga per qualunque motivo, la quota "
 "versata verrà interamente restituita"
 msgstr ""
-"L'inscription est confirmée au paiement de 100 €, remboursable si le cours "
+"L'inscription est confirmée avec paiement de 100 €, remboursable si le cours "
 "est annulé pour une raison quelconque"
 
 # 1b917c6bbf9943ebb0e405bc047b9493
@@ -889,7 +891,7 @@ msgid ""
 "**Conferma**: il corso sarà confermato al raggiungimento del numero minimo "
 "di partecipanti"
 msgstr ""
-"Le cours sera confirmée lorsque le nombre minimal d'abonnés sera atteint"
+"Le cours sera confirmé après avoir attient un nombre minimal d'inscrits"
 
 # 4155204fc0fa4423a607e82054c538a1
 #: ../../training.rst:248
@@ -905,7 +907,7 @@ msgstr ""
 msgid ""
 "**Attestato**: la partecipazione al corso dà diritto ad un attestato di "
 "partecipazione"
-msgstr "La participation au cours aura droit à un certificat de participation"
+msgstr "La participation au cours donne droit à un certificat de participation"
 
 # 282ed836576c4f16bd52939196a1f7e0
 #: ../../training.rst:250
@@ -915,14 +917,12 @@ msgid ""
 "nome del corso; si raccomanda di inviare tutti i dati necessari per la "
 "fatturazione tramite il modulo qui di seguito"
 msgstr ""
-"Pour les détails sur les paiements des courses, écrivez nous: info@faunalia."
-"eu"
+"Pour les détails sur les paiements des cours, écrivez nous: info@faunalia.eu"
 
 # ba650497b3c44258a03e96c3d9dbd556
 #: ../../training.rst:252
-#, fuzzy
 msgid "`Iscriviti qui <subscr_form_it.html>`_"
-msgstr "Pour s'inscrire aux courses, écrivez nous: info@faunalia.eu"
+msgstr "Pour s'inscrire aux cours, écrivez nous: info@faunalia.eu"
 
 # 9da0e2efb514451bacaad5b961947b64
 #: ../../training.rst:255
@@ -932,13 +932,15 @@ msgstr "Logistique"
 # e2c77797de9e472598dc6f4abdcf19db
 #: ../../training.rst:257
 msgid ""
-"**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
-"page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
-"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
-"pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune."
-"pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo <http://www."
-"ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple"
+"**Sede**: Pontedera (PI), presso `Pont-Tech "
+"<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
+"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
+"facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli "
+"sulla città "
+"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo "
+"<http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere "
+"singole/doppie/triple"
 msgstr ""
 "Pour les détails sur les sièges des courses, écrivez nous: info@faunalia.eu"
 
