@@ -26,6 +26,53 @@ Perché scegliere i corsi di Faunalia?
 * Contribuiscono al miglioramento dei software utilizzati, destinando al loro sviluppo parte delle quote di iscrizione
 * Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_.
 
+Calendario
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. rst-class:: table  
+
+======================================== ====================  ==================== ============== ===========
+Corso                                    Date e durata         Scadenza iscrizione  Dove           Lingua
+======================================== ====================  ==================== ============== ===========
+Cartografia con QGIS-IT                  25-27 Settembre 2013  10 Settembre         Pontedera, IT  Italiano
+Cartográfia com QGIS-PT                  Ottobre 2013 (3 g)    30 Settembre         Lisbona, PT    Portoghese
+Analisi con QGIS-IT                      16-18 Ottobre 2013    1 Ottobre            Pontedera, IT  Italiano
+Análise SIG com QGIS-PT                  Ottobre 2013 (2 g)    15 Ottobre           Lisbona, PT    Portoghese
+Creare plugin in Python per QGIS-IT      13-15 Novembre 2013   28 Ottobre           Pontedera, IT  Italiano
+GDAL/OGR avanzato- IT_                   18-20 Novembre 2013   5 Novembre           Pontedera, IT  Italiano
+Sviluppo web geospaziale- IT_            25-27 Novembre 2013   10 Novembre          Pontedera, IT  Italiano
+Geodatabase: PostgreSQL e PostGIS-IT     11-13 Dicembre 2013   25 Novembre          Pontedera, IT  Italiano
+Geodatabase: PostgreSQL and PostGIS-EN   Novembre 2013 (3 g)   31 Ottobre           Lisbona, PT    Inglese
+WebMapping con QGIS-IT                   23-24 Gennaio 2014    10 Gennaio           Pontedera, IT  Italiano
+WebMapping com QGIS-PT                   Dicembre 2013 (3 g)   31 Novembre          Lisbona, PT    Portoghese
+======================================== ====================  ==================== ============== ===========
+
+.. _IT: http://faunaliagis.wordpress.com/2013/09/10/corsi-speciali-gdalogr-avanzato-e-sviluppare-unapplicazione-web-geospaziale/
+
+* `Scarica il calendario (ics) <https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_
+
+Costi
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 323,41 €). Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 272,88 €) 
+* **Sconti**: 5% per l'iscrizione simultanea a più corsi
+
+Istruzioni
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* **Iscrizione**: confermata al versamento di una caparra di 100 €, saldo prima dell'inizio del corso; è possibile versare l'intera quota in unica soluzione; in caso il corso non si svolga per qualunque motivo, la quota versata verrà interamente restituita
+* **Conferma**: il corso sarà confermato al raggiungimento del numero minimo di partecipanti
+* **Requisiti**: computer portatile in buono stato di funzionamento; i programmi necessari verranno installati durante il corso
+* **Attestato**: la partecipazione al corso dà diritto ad un attestato di partecipazione
+* **Pagamenti**: bonifico sul conto corrente di Faunalia (IBAN IT55 P052 3271 1310 0002 0048 369), indicando nella causale nome e cognome dell'iscritto e nome del corso; si raccomanda di inviare tutti i dati necessari per la fatturazione tramite il modulo qui di seguito
+
+`Iscriviti qui <subscr_form_it.html>`_
+
+Logistica
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluse strutture ricettive). Convenzione con B & B `Il Piccolo <http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple
+
 Cartografia con QGIS
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -109,7 +156,7 @@ Durata
 
 Tre giorni *full time*
 
-Come creare un plugin in Python per QGIS
+Creare plugin in Python per QGIS
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Per sviluppare plugins (estensioni) per QGIS, utilizzando il linguaggio di programmazione Python. La finalità principale è fornire i concetti fondamentali e l'esperienza pratica per lo sviluppo di plugins. Dopo una breve introduzione a questo linguaggio, i partecipanti saranno guidati passo a passo nella creazione di un plugin.
@@ -119,7 +166,7 @@ Per sviluppare plugins (estensioni) per QGIS, utilizzando il linguaggio di progr
 Argomenti principali
 ===================================================
 
-* Come creare un plugin Python per QGIS
+* Come creare plugin Python per QGIS
 
   * la sintassi Python (indentazione, punto e virgola, ...)
   * il mio primo plugin in Python: mostra un messaggio in un riquadro
@@ -212,50 +259,3 @@ Durata
 ===================================================
 
 Due giorni *full time*
-
-Calendario
-+++++++++++++++++++++++++++++++++++++++++++++++++++
-
-.. rst-class:: table  
-
-======================================== ====================  ==================== ============== ===========
-Corso                                    Date e durata         Scadenza iscrizione  Dove           Lingua
-======================================== ====================  ==================== ============== ===========
-Cartografia con QGIS-IT                  25-27 Settembre 2013  10 Settembre         Pontedera, IT  Italiano
-Cartográfia com QGIS-PT                  Ottobre 2013 (3 g)    30 Settembre         Lisbona, PT    Portoghese
-Analisi con QGIS-IT                      16-18 Ottobre 2013    1 Ottobre            Pontedera, IT  Italiano
-Análise SIG com QGIS-PT                  Ottobre 2013 (2 g)    15 Ottobre           Lisbona, PT    Portoghese
-Creare plugin in Python per QGIS-IT      13-15 Novembre 2013   28 Ottobre           Pontedera, IT  Italiano
-GDAL/OGR avanzato- IT_                   18-20 Novembre 2013   5 Novembre           Pontedera, IT  Italiano
-Sviluppo web geospaziale- IT_            25-27 Novembre 2013   10 Novembre          Pontedera, IT  Italiano
-Geodatabase: PostgreSQL e PostGIS-IT     11-13 Dicembre 2013   25 Novembre          Pontedera, IT  Italiano
-Geodatabase: PostgreSQL and PostGIS-EN   Novembre 2013 (3 g)   31 Ottobre           Lisbona, PT    Inglese
-WebMapping con QGIS-IT                   23-24 Gennaio 2014    10 Gennaio           Pontedera, IT  Italiano
-WebMapping com QGIS-PT                   Dicembre 2013 (3 g)   31 Novembre          Lisbona, PT    Portoghese
-======================================== ====================  ==================== ============== ===========
-
-.. _IT: http://faunaliagis.wordpress.com/2013/09/10/corsi-speciali-gdalogr-avanzato-e-sviluppare-unapplicazione-web-geospaziale/
-
-* `Scarica il calendario (ics) <https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_
-
-Costi
-===================================================
-
-* Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 323,41 €). Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 272,88 €) 
-* **Sconti**: 5% per l'iscrizione simultanea a più corsi
-
-Istruzioni
-===================================================
-
-* **Iscrizione**: confermata al versamento di una caparra di 100 €, saldo prima dell'inizio del corso; è possibile versare l'intera quota in unica soluzione; in caso il corso non si svolga per qualunque motivo, la quota versata verrà interamente restituita
-* **Conferma**: il corso sarà confermato al raggiungimento del numero minimo di partecipanti
-* **Requisiti**: computer portatile in buono stato di funzionamento; i programmi necessari verranno installati durante il corso
-* **Attestato**: la partecipazione al corso dà diritto ad un attestato di partecipazione
-* **Pagamenti**: bonifico sul conto corrente di Faunalia (IBAN IT55 P052 3271 1310 0002 0048 369), indicando nella causale nome e cognome dell'iscritto e nome del corso; si raccomanda di inviare tutti i dati necessari per la fatturazione tramite il modulo qui di seguito
-
-`Iscriviti qui <subscr_form_it.html>`_
-
-Logistica
-===================================================
-
-**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluse strutture ricettive). Convenzione con B & B `Il Piccolo <http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple
