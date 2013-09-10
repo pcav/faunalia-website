@@ -37,8 +37,8 @@ Subscription form
 			// compose submitter mail
 			$from = 'From: ' . $sender_email; 
 			$to = $email; 
-			$subject = "Iscrizione al corso " . $corso . " avvenuta con successo";
-			$message = "La tua iscrizione e' stata registrata. Verrai contattato.\n Grazie.";
+			$subject = "Successfully subscribed to " . $corso . " course";
+			$message = "Your subscription has been recordered. You will be contacted.\n Thank you.";
 			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n $message";
 			if ( !mail ($to, $subject, $body, $from) ) { 
 				error_log("Error sending inscription receipt email: " . $body); 
@@ -95,9 +95,9 @@ Subscription form
 			}
 			
 			if ( $found_error ) {
-				echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>';
+				echo '<h2>Something went wrong. Try again or contact webmaster!</h2>';
 			} else {
-				echo "<h2>Iscrizione al corso " . $corso . " avvenuta con successo</h2>";
+				echo "<h2>Successfully subscribed to " . $corso . " course</h2>";
 			}
 		}
 	?>
