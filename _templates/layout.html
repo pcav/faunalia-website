@@ -13,7 +13,7 @@
       <div class="navbar-header">
 
         <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
-        <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
@@ -85,8 +85,8 @@
 
 {%- block footer %}
 <footer class="footer">
-<div class="span4">
-            <div class="span5">
+<div class="col-md-4">
+            <div class="col-md-5">
               <h3>{{ gettext('Italia') }}</h3>
               <p>Piazza Garibaldi, 5</p>
               <p>56025 Pontedera (PI)</p>
@@ -97,7 +97,7 @@
             <p><i>Skype</i> paolo.gg.cavallini</p>
             <p><i>Hangouts</i> <a class="reference external" href="mailto:paolo.cavallini@gmail.com">paolo.cavallini@gmail.com</a></p>
             </div>
-            <div class="span5">
+            <div class="col-md-5">
               <h3>{{ gettext('Portogallo') }}</h3>
               <p>Rua do Cano 56</p>
               <p>7000-596 &Eacute;vora</p>
@@ -108,7 +108,7 @@
             <p><i>Hangouts</i> <a class="reference external" href="mailto:giovanni.manghi@gmail.com">giovanni.manghi@gmail.com</a></p>
             </div>
           </div>
-          <div class="span5">
+          <div class="col-md-5">
             <h3>{{ gettext('Seguici') }}</h3> 
             <!-- AddThis Follow BEGIN -->
             <div class="addthis_toolbox addthis_32x32_style addthis_default_style">
