@@ -127,7 +127,7 @@ html_theme_options = {
 #this leaves the website global menu, untranslated, without name (only an arrow)
     'navbar_site_name': "",
 #menus in a row, topbar (it works, but is untranslatable)
-#better solution in qgis
+#better solution in layout.html
 #    'navbar_links': [('Sviluppo', 'dev'), ('Assistenza', 'support'), ('Corsi', 'training'), ('Attivit&agrave;', 'jobs'), ('Chi siamo', 'intro')], 
 
     # Choose Bootstrap version.

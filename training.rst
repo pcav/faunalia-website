@@ -5,6 +5,14 @@
 .. |it| image:: images/italy.png
 .. |pt| image:: images/portugal.png
 
+.. toctree::
+    :hidden:
+
+    subscr_form_pt
+    subscr_form_it
+    subscr_form_en
+    eval_form
+
 Corsi
 ---------------------------------------------------
 
