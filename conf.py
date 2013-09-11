@@ -116,7 +116,7 @@ html_theme = 'bootstrap'
 html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 html_theme_options = {
-    'bootswatch_theme': "readable",
+    'bootswatch_theme': "united",
 #redadble and united seem good
 #see http://bootswatch.com/ for a list
 #    'navbar_pagenav': "false",
@@ -132,7 +132,7 @@ html_theme_options = {
 
     # Choose Bootstrap version.
     # Values: "3" (default) or "2" (in quotes)
-    'bootstrap_version': "2",
+    'bootstrap_version': "3",
 }
 
 # The name for this set of Sphinx documents.  If None, it defaults to
