@@ -122,13 +122,17 @@ html_theme_options = {
 #    'navbar_pagenav': "false",
 #    'navbar_sidebarrel': "false",
     'navbar_fixed_top': "true",
-    'globaltoc_depth': 3,
+    'globaltoc_depth': 2,
 #    'globaltoc_includehidden': False,
 #this leaves the website global menu, untranslated, without name (only an arrow)
     'navbar_site_name': "",
 #menus in a row, topbar (it works, but is untranslatable)
 #better solution in qgis
 #    'navbar_links': [('Sviluppo', 'dev'), ('Assistenza', 'support'), ('Corsi', 'training'), ('Attivit&agrave;', 'jobs'), ('Chi siamo', 'intro')], 
+
+    # Choose Bootstrap version.
+    # Values: "3" (default) or "2" (in quotes)
+    'bootstrap_version': "2",
 }
 
 # The name for this set of Sphinx documents.  If None, it defaults to

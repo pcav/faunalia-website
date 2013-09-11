@@ -57,7 +57,7 @@ Costi
 * Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 323,41 €). Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 272,88 €) 
 * **Sconti**: 5% per l'iscrizione simultanea a più corsi
 
-Istruzioni
+Iscrizione
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
 * **Iscrizione**: confermata al versamento di una caparra di 100 €, saldo prima dell'inizio del corso; è possibile versare l'intera quota in unica soluzione; in caso il corso non si svolga per qualunque motivo, la quota versata verrà interamente restituita
@@ -73,8 +73,11 @@ Logistica
 
 **Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluse strutture ricettive). Convenzione con B & B `Il Piccolo <http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple
 
-Cartografia con QGIS
+Programmi
 +++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Cartografia con QGIS
+===================================================
 
 Per imparare ad installare ed utilizzare QGIS, ad accedere ai dati, tematizzarli e produrre mappe di alta qualità grafica ed informativa.
 ad elevato contenuto informativo e ad alta qualità grafica
@@ -82,7 +85,7 @@ ad elevato contenuto informativo e ad alta qualità grafica
 Adatto anche a chi ha poca esperienza sui GIS e sulla cartografia. È necessario avere dimestichezza con l'uso del PC.
 
 Argomenti principali
-===================================================
+...................................................................................................
 
 * Breve introduzione ai Sistemi Informativi Geografici opensource
 * Introduzione a QGIS
@@ -113,11 +116,11 @@ Argomenti principali
 * Stampa avanzata
 
 Durata 
-===================================================
+...................................................................................................
 Tre giorni *full time*
 
 Analisi con QGIS
-+++++++++++++++++++++++++++++++++++++++++++++++++++
+===================================================
 
 Per imparare a realizzare analisi raster e vettoriali, e modellistica spaziale, unendo la potenza di elaborazione GIS di GRASS, SAGA, Orfeo ToolBox con la semplicità d'uso di QGIS. Al termine del corso, l'utente avrà appreso a gestire con facilità l'ambiente di lavoro di QGIS, e ad effettuare analisi anche complesse in modo semplice ed intuitivo. 
 
@@ -126,7 +129,7 @@ Adatto a chi desidera approfondire l'uso analitico e predittivo dei GIS, avendo 
 È necessaria una conoscenza base del GIS. È altamente consigliabile una conoscenza di base di QGIS.
 
 Argomenti principali
-===================================================
+...................................................................................................
 * Introduzione ai vari software
 
   * QGIS e i suoi plugins
@@ -152,19 +155,19 @@ Argomenti principali
 * Creazione di modelli, tramite interfaccia grafica o testuale; script per l'automazione di processo
 
 Durata 
-===================================================
+...................................................................................................
 
 Tre giorni *full time*
 
 Creare plugin in Python per QGIS
-+++++++++++++++++++++++++++++++++++++++++++++++++++
+===================================================
 
 Per sviluppare plugins (estensioni) per QGIS, utilizzando il linguaggio di programmazione Python. La finalità principale è fornire i concetti fondamentali e l'esperienza pratica per lo sviluppo di plugins. Dopo una breve introduzione a questo linguaggio, i partecipanti saranno guidati passo a passo nella creazione di un plugin.
 
 È preferibile, ma non obbligatoria, una conoscenza di base di Phyton. È necessaria una conoscenza di base dei principi di programmazione.
 
 Argomenti principali
-===================================================
+...................................................................................................
 
 * Come creare plugin Python per QGIS
 
@@ -197,19 +200,19 @@ Argomenti principali
   * esempi di codice
 
 Durata 
-===================================================
+...................................................................................................
 
 Tre giorni *full time*
 
 Geodatabase: PostgreSQL e PostGIS
-+++++++++++++++++++++++++++++++++++++++++++++++++++
+===================================================
 
 Per apprendere a creare e gestire banche dati geografiche complesse, e realizzare analisi approfondite con visualizzazione in tempo reale delle analisi fatte. Il corso permette di familiarizzare con la gestione dei dati vettoriali tramite SQL, con l'importazione dei dati geografici e l'interrogazione di dati sia geografici che alfanumerici tramite numerose applicazioni.
 
 Preferibile conoscenza del linguaggio SQL. È necessario avere dimestichezza con l'uso del PC.
 
 Argomenti principali
-===================================================
+...................................................................................................
 
 * Introduzione ai sistemi informativi territoriali opensource
 * Vantaggi dell'uso di un database nel GIS
@@ -230,11 +233,11 @@ Argomenti principali
 * Copia e salvataggio
 
 Durata 
-===================================================
+...................................................................................................
 Tre giorni *full time*
 
 WebMapping con QGIS
-+++++++++++++++++++++++++++++++++++++++++++++++++++
+===================================================
 Per apprendere in breve tempo il più innovativo e semplice ambiente di sviluppo per WebGIS e WebMapping, basato su QGIS.
 
 Consente di pubblicare sul web le mappe sviluppate e configurate tramite QGIS Desktop, senza necessità di complesse operazioni di configurazione del loro aspetto grafico.
@@ -242,7 +245,7 @@ Consente di pubblicare sul web le mappe sviluppate e configurate tramite QGIS De
 Sono necessarie nozioni di base sui GIS, sulla cartografia e sul web. È consigliabile una conoscenza di base di QGIS. È necessario avere piena dimestichezza con l'uso del PC.
 
 Argomenti principali
-===================================================
+...................................................................................................
 
 * Gli standard *Open Geospatial Consortium* per la pubblicazione webGIS
 
@@ -256,6 +259,6 @@ Argomenti principali
 * Criteri di ottimizzazione
 
 Durata 
-===================================================
+...................................................................................................
 
 Due giorni *full time*
