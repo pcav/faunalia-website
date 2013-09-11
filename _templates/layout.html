@@ -7,9 +7,11 @@
 {# Sidebar: Rework into our Boostrap nav section. #}
 
 {% macro qgis_navBar() %}
-  <div id="navbar" class="{{ theme_navbar_class }} {% if theme_navbar_fixed_top == 'true' -%} navbar-fixed-top{%- endif -%}">
-    <div class="navbar-inner">
-      <div class="container">
+
+  <div id="navbar" class="{{ theme_navbar_class }} navbar-default {% if theme_navbar_fixed_top == 'true' -%} navbar-fixed-top{%- endif -%}">
+    <div class="container">
+      <div class="navbar-header">
+
         <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
         <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
           <span class="icon-bar"></span>
@@ -17,11 +19,13 @@
           <span class="icon-bar"></span>
         </button>
 
-        <a class="brand" href="{{ pathto(master_doc) }}">{% if theme_navbar_title -%}{{ theme_navbar_title|e }}{%- else -%}{{ project|e }}{%- endif -%}</a>
-        <span class="navbar-text pull-left"><b>{{ version|e }}</b></span>
+        <a class="navbar-brand" href="{{ pathto(master_doc) }}">{% if theme_navbar_title -%}{{ theme_navbar_title|e }}{%- else -%}{{ project|e }}{%- endif -%}</a>
+        <span class="navbar-text navbar-version pull-left"><b>{{ version|e }}</b></span>
+      </div>
 
-        <div class="nav-collapse">
-          <ul class="nav">
+        <div class="collapse navbar-collapse nav-collapse">
+          <ul class="nav navbar-nav">
+
             <li class="divider-vertical"></li>
 
                         <li><a href="{{ pathto('dev') }}">{{ gettext('Sviluppo') }}</a></li>
@@ -49,7 +53,6 @@
         </div>
       </div>
     </div>
-  </div>
 {% endmacro %}
 
 {%- block content %}
