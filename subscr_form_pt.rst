@@ -35,11 +35,11 @@ Ficha de pré-inscrição para formações
 			$note = $_POST["note"];
 			
 			// compose submitter mail
-			$from = 'From: ' . $sender_email; 
+			$from = 'De: ' . $sender_email; 
 			$to = $email; 
-			$subject = "Inscrição no curso " . $corso . " efectuada com sucesso";
-			$message = "A sua inscrição foi registrada. Será contactado o mais brevemente possível.\n Obrigado.";
-			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n $message";
+			$subject = "Faunalia LDA, inscrição no curso " . $corso . " efectuada com sucesso";
+			$message = "A sua inscrição foi registrada. Será contactado o mais brevemente possível.\n\nObrigado.";
+			$body = "From: $sender_name\nRemetente: $sender_email\nMensagem:\n$message";
 			if ( !mail ($to, $subject, $body, $from) ) { 
 				error_log("Error sending inscription receipt email: " . $body); 
 				$found_error = 1;
@@ -52,15 +52,15 @@ Ficha de pré-inscrição para formações
 				$subject = "Inscrição no curso: " . $corso . " de " . $nome . " " . $cognome;
 					
 					// key:value message
-					// $message = "Timestamp: " . date("c") . "\n" .
-							   // "Nome: " . $nome . "\n" .
-							   // "Cognome: " . $cognome . "\n" .
-							   // "Indirizzo: " . $indirizzo  . "\n" .
-							   // "Telefono: " . $telefono  . "\n" .
-							   // "Email: " . $email  . "\n" .
-							   // "Corso: " . $corso  . "\n" .
-							   // "Dati per Fatturazione: " . $dati_per_fatturazione  . "\n" .
-							   // "Note: " . $note  . "\n";	
+					$message_formatted = "Timestamp: " . date("c") . "\n" .
+							     "Nome: " . $nome . "\n" .
+							     "Apelido: " . $cognome . "\n" .
+							     "Endereço: " . $indirizzo  . "\n" .
+							     "Telefone: " . $telefono  . "\n" .
+							     "Email: " . $email  . "\n" .
+							     "Curso: " . $corso  . "\n" .
+							     "Dados para facturação: " . $dati_per_fatturazione  . "\n" .
+							     "Notas: " . $note  . "\n";	
 							   			
 					// with header csv message
 					$header = "Timestamp;Nome;Cognome;Indirizzo;Telefono;Email;Corso;Dati per Fatturazione;Note";
@@ -74,7 +74,7 @@ Ficha de pré-inscrição para formações
 								$dati_per_fatturazione  .";" .
 								$note;
 					
-				$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n$header\n$message\n";
+				$body = "De: $sender_name\nRemetente: $sender_email\nDetalhes:\n$message_formatted\n\nDetalhes para LibreOffice:\n$header\n$message\n";
 				if ( !mail ($to, $subject, $body, $from) ) {
 					error_log("Error sending internal inscription mail: ". $body);
 					$found_error = 1;
