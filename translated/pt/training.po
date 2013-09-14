@@ -1195,7 +1195,7 @@ msgid ""
 "singole/doppie/triple"
 msgstr ""
 "Para obter informações sobre a logística do curso que lhe interessa, "
-"escreva-nos (info@faunalia.pt) ou ligue para o 939320104"
+"escreva-nos **(info@faunalia.pt)** ou ligue para o **939320104**"
 
 # 7a7ec0040dc243a29b9a554247e0fe1b
 #~ msgid "Geodatabase (PostgreSQL e PostGIS)"
