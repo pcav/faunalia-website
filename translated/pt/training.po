@@ -902,7 +902,7 @@ msgstr "**Cartográfia com QGIS (PT)**"
 # c9b6799b8a60441e9f87b85027246b23
 #: ../../training.rst:225
 msgid "Ottobre 2013 (3 g)"
-msgstr "7, 8 e 9 de Outubro 2013"
+msgstr "7-9 de Outubro 2013"
 
 # 1477ed8907e24345b0045abe4fb7372a
 #: ../../training.rst:225
@@ -934,7 +934,7 @@ msgstr "Analisi con QGIS (IT)"
 # 789f35850632463296adba2404463064
 #: ../../training.rst:226
 msgid "16-18 Ottobre 2013"
-msgstr "16, 17 e 18 de Outubro 2013"
+msgstr "16-18 de Outubro 2013"
 
 # 01f98806e0874655a3cf578f9a0d6623
 #: ../../training.rst:226
@@ -955,7 +955,7 @@ msgstr "16, 17 e 18 de Outubro 2013"
 # 01f98806e0874655a3cf578f9a0d6623
 #: ../../training.rst:227
 msgid "15 Ottobre"
-msgstr "15 Outubro"
+msgstr "10 Outubro"
 
 # 93622693fbc3409ea870fc8d6b853c71
 #: ../../training.rst:228
@@ -975,7 +975,7 @@ msgstr "28 Outubro"
 # 97a4cd4b345c4e218cc6f5366c3b81e9
 #: ../../training.rst:229
 msgid "GDAL/OGR avanzato- IT_"
-msgstr "GDAL/OGR avanzato-(IT_)"
+msgstr "GDAL/OGR avanzato (IT_)"
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
 #: ../../training.rst:229
@@ -990,7 +990,7 @@ msgstr "5 Novembro"
 # 20e531468ad44818b589a307ff945b11
 #: ../../training.rst:230
 msgid "Sviluppo web geospaziale- IT_"
-msgstr "Sviluppo web geospaziale- (IT_)"
+msgstr "Sviluppo web geospaziale (IT_)"
 
 # 5264f422ac9d4034a6d68c5b38458a39
 #: ../../training.rst:230
@@ -1025,12 +1025,12 @@ msgstr "**Bases de dados geográficas: PostgreSQL e PostGIS (EN)**"
 # 483ad4bf82f0431c9d84d7d0e5223522
 #: ../../training.rst:232
 msgid "Novembre 2013 (3 g)"
-msgstr "Primeira semana de Novembro 2013 (3 dias)"
+msgstr "4-6 Novembro 2013 (3 dias)"
 
 # 01f98806e0874655a3cf578f9a0d6623
 #: ../../training.rst:232
 msgid "31 Ottobre"
-msgstr "31 Outubro"
+msgstr "27 Outubro"
 
 # 51c019364e82467cb3334d945ad1b04f
 #: ../../training.rst:232
@@ -1040,7 +1040,7 @@ msgstr "**Inglês**"
 # 660512ec03ae4bc59a877c8ec19a3162
 #: ../../training.rst:233
 msgid "WebMapping con QGIS-IT"
-msgstr "WebMapping con QGIS-(IT)"
+msgstr "WebMapping con QGIS (IT)"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
 #: ../../training.rst:233
@@ -1060,12 +1060,12 @@ msgstr "**WebMapping com QGIS (PT)**"
 # 4b9c5b92cc9241d59e3e60e49068be31
 #: ../../training.rst:234
 msgid "Dicembre 2013 (3 g)"
-msgstr "2, 3 e 4 de Dezembro 2013"
+msgstr "2-3 de Dezembro 2013"
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
 #: ../../training.rst:234
 msgid "31 Novembre"
-msgstr "31 Novembro"
+msgstr "25 Novembro"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
 #: ../../training.rst:239
