@@ -46,17 +46,17 @@ Calendario
 ======================================== ====================  ==================== ============== ===========
 Corso                                    Date e durata         Scadenza iscrizione  Dove           Lingua
 ======================================== ====================  ==================== ============== ===========
-Cartografia con QGIS-IT                  25-27 Settembre 2013  10 Settembre         Pontedera, IT  Italiano
-Cartográfia com QGIS-PT                  Ottobre 2013 (3 g)    30 Settembre         Lisbona, PT    Portoghese
-Analisi con QGIS-IT                      16-18 Ottobre 2013    1 Ottobre            Pontedera, IT  Italiano
-Análise SIG com QGIS-PT                  Ottobre 2013 (2 g)    15 Ottobre           Lisbona, PT    Portoghese
-Creare plugin in Python per QGIS-IT      13-15 Novembre 2013   28 Ottobre           Pontedera, IT  Italiano
-GDAL/OGR avanzato- IT_                   18-20 Novembre 2013   5 Novembre           Pontedera, IT  Italiano
-Sviluppo web geospaziale- IT_            25-27 Novembre 2013   10 Novembre          Pontedera, IT  Italiano
-Geodatabase: PostgreSQL e PostGIS-IT     11-13 Dicembre 2013   25 Novembre          Pontedera, IT  Italiano
-Geodatabase: PostgreSQL and PostGIS-EN   Novembre 2013 (3 g)   31 Ottobre           Lisbona, PT    Inglese
-WebMapping con QGIS-IT                   23-24 Gennaio 2014    10 Gennaio           Pontedera, IT  Italiano
-WebMapping com QGIS-PT                   Dicembre 2013 (3 g)   31 Novembre          Lisbona, PT    Portoghese
+Cartografia con QGIS (IT)                25-27 Settembre 2013  10 Settembre         Pontedera, IT  Italiano
+Cartográfia com QGIS (PT)                7-9 Ottobre 2013      30 Settembre         Lisbona, PT    Portoghese
+Analisi con QGIS (IT)                    16-18 Ottobre 2013    1 Ottobre            Pontedera, IT  Italiano
+Análise SIG com QGIS (PT)                16-18 Ottobre 2013    10 Ottobre           Lisbona, PT    Portoghese
+Creare plugin in Python per QGIS (IT)    13-15 Novembre 2013   28 Ottobre           Pontedera, IT  Italiano
+GDAL/OGR avanzato (IT_)                  18-20 Novembre 2013   5 Novembre           Pontedera, IT  Italiano
+Sviluppo web geospaziale (IT_)           25-27 Novembre 2013   10 Novembre          Pontedera, IT  Italiano
+Geodatabase: PostgreSQL e PostGIS (IT)   11-13 Dicembre 2013   25 Novembre          Pontedera, IT  Italiano
+Geodatabase: PostgreSQL and PostGIS (EN) 4-6 Novembre 2013     27 Ottobre           Lisbona, PT    Inglese
+WebMapping con QGIS (IT)                 23-24 Gennaio 2014    10 Gennaio           Pontedera, IT  Italiano
+WebMapping com QGIS (PT)                 2-3 Dicembre 2013     25 Novembre          Lisbona, PT    Portoghese
 ======================================== ====================  ==================== ============== ===========
 
 .. _IT: http://faunaliagis.wordpress.com/2013/09/10/corsi-speciali-gdalogr-avanzato-e-sviluppare-unapplicazione-web-geospaziale/
