@@ -1,4 +1,4 @@
-:tocdepth: 2
+:tocdepth: 3
 
 .. meta::
    :description: Faunalia home page
