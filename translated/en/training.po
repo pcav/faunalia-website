@@ -58,11 +58,13 @@ msgstr ""
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:29
 msgid ""
-"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
+"annunci di nuovi corsi."
 msgstr ""
-"Subscribe to the `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/training>`_ to receive the updates for new training activities."
+"Subscribe to the `mailing list "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/training>`_ to receive "
+"the updates for new training activities."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:32
@@ -120,9 +122,9 @@ msgstr ""
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:39
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
-"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
-"<http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
+"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
+"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
 "Allow the access to the European Computer Driving Licence - GIS (ECDL-GIS)."
 
@@ -159,9 +161,8 @@ msgstr "Language"
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
 #: ../../training.rst:49
-#, fuzzy
 msgid "Cartografia con QGIS (IT)"
-msgstr "Cartography with QGIS"
+msgstr "Cartography with QGIS (IT)"
 
 # 5264f422ac9d4034a6d68c5b38458a39
 #: ../../training.rst:49
@@ -198,15 +199,13 @@ msgstr "Italian"
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
 #: ../../training.rst:50
-#, fuzzy
 msgid "Cartográfia com QGIS (PT)"
-msgstr "Cartography with QGIS"
+msgstr "Cartography with QGIS (PT)"
 
 # 789f35850632463296adba2404463064
 #: ../../training.rst:50
-#, fuzzy
 msgid "7-9 Ottobre 2013"
-msgstr "16-18 October 2013"
+msgstr "7-9 October 2013"
 
 # 1477ed8907e24345b0045abe4fb7372a
 #: ../../training.rst:50
@@ -232,9 +231,8 @@ msgstr "Portuguese"
 # bd04cff96a1d4414899ef132ad5ba7bf
 # 84a61dcdc830454e9665797c69bd9891
 #: ../../training.rst:51
-#, fuzzy
 msgid "Analisi con QGIS (IT)"
-msgstr "GIS analysis with QGIS"
+msgstr "GIS analysis with QGIS (IT)"
 
 # 789f35850632463296adba2404463064
 #: ../../training.rst:51 ../../training.rst:52
@@ -249,21 +247,18 @@ msgstr "1 October"
 # bd04cff96a1d4414899ef132ad5ba7bf
 # 84a61dcdc830454e9665797c69bd9891
 #: ../../training.rst:52
-#, fuzzy
 msgid "Análise SIG com QGIS (PT)"
-msgstr "GIS analysis with QGIS"
+msgstr "GIS analysis with QGIS (PT)"
 
 # 01f98806e0874655a3cf578f9a0d6623
 #: ../../training.rst:52
-#, fuzzy
 msgid "10 Ottobre"
-msgstr "1 October"
+msgstr "10 October"
 
 # 93622693fbc3409ea870fc8d6b853c71
 #: ../../training.rst:53
-#, fuzzy
 msgid "Creare plugin in Python per QGIS (IT)"
-msgstr "How to create python plugins for QGIS"
+msgstr "How to create python plugins for QGIS (IT)"
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
 #: ../../training.rst:53
@@ -282,15 +277,13 @@ msgstr ""
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
 #: ../../training.rst:54
-#, fuzzy
 msgid "18-20 Novembre 2013"
-msgstr "13-15 November"
+msgstr "18-20 November 2013"
 
 # 98d67ad8d1324a71a5b91e8e65dc3716
 #: ../../training.rst:54
-#, fuzzy
 msgid "5 Novembre"
-msgstr "25 November"
+msgstr "5 November"
 
 # 20e531468ad44818b589a307ff945b11
 #: ../../training.rst:55
@@ -299,21 +292,18 @@ msgstr ""
 
 # 5264f422ac9d4034a6d68c5b38458a39
 #: ../../training.rst:55
-#, fuzzy
 msgid "25-27 Novembre 2013"
-msgstr "25-27 September 2013"
+msgstr "25-27 November 2013"
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
 #: ../../training.rst:55
-#, fuzzy
 msgid "10 Novembre"
-msgstr "13-15 November"
+msgstr "10 November"
 
 # 7cabf0be650643f1b85997a1c5b71df0
 #: ../../training.rst:56
-#, fuzzy
 msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
-msgstr "Geographic databases: PostgreSQL and PostGIS"
+msgstr "Geographic databases: PostgreSQL and PostGIS (IT)"
 
 # f7db670e6b22473f88e2168c85cf783a
 #: ../../training.rst:56
@@ -327,21 +317,18 @@ msgstr "25 November"
 
 # 7cabf0be650643f1b85997a1c5b71df0
 #: ../../training.rst:57
-#, fuzzy
 msgid "Geodatabase: PostgreSQL and PostGIS (EN)"
-msgstr "Geodatabase: PostgreSQL and PostGIS"
+msgstr "Geodatabase: PostgreSQL and PostGIS (EN)"
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
 #: ../../training.rst:57
-#, fuzzy
 msgid "4-6 Novembre 2013"
-msgstr "13-15 November"
+msgstr "4-6 November 2013"
 
 # ac7a57cb7dc44f15b51b36d55e91b27c
 #: ../../training.rst:57
-#, fuzzy
 msgid "27 Ottobre"
-msgstr "28 October"
+msgstr "27 October"
 
 # 51c019364e82467cb3334d945ad1b04f
 #: ../../training.rst:57
@@ -350,9 +337,8 @@ msgstr "**English**"
 
 # 660512ec03ae4bc59a877c8ec19a3162
 #: ../../training.rst:58
-#, fuzzy
 msgid "WebMapping con QGIS (IT)"
-msgstr "WebMapping with QGIS"
+msgstr "WebMapping with QGIS (IT)"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
 #: ../../training.rst:58
@@ -366,24 +352,23 @@ msgstr "10 January"
 
 # 660512ec03ae4bc59a877c8ec19a3162
 #: ../../training.rst:59
-#, fuzzy
 msgid "WebMapping com QGIS (PT)"
-msgstr "WebMapping with QGIS"
+msgstr "WebMapping with QGIS (PT)"
 
 # f7db670e6b22473f88e2168c85cf783a
 #: ../../training.rst:59
-#, fuzzy
 msgid "2-3 Dicembre 2013"
-msgstr "11-13 December 2013"
+msgstr "2-3 December 2013"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
 #: ../../training.rst:64
+#, qt-format
 msgid ""
-"`Scarica il calendario (ics) <https://www.google.com/calendar/ical/"
-"faunaliagis%40gmail.com/public/basic.ics>`_"
+"`Scarica il calendario (ics) "
+"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 msgstr ""
-"`Download the calendar <https://www.google.com/calendar/ical/faunaliagis"
-"%40gmail.com/public/basic.ics>`_"
+"`Download the calendar "
+"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 2b01fbfd1fbb417da072f5b12ca3fae2
 #: ../../training.rst:67
@@ -406,7 +391,6 @@ msgstr "Discounts for simultaneous subscription to more than one course"
 
 # d46e64fc0c7e494b826fb2dc83e7df1d
 #: ../../training.rst:73
-#, fuzzy
 msgid "Iscrizione"
 msgstr "Details"
 
@@ -457,7 +441,6 @@ msgstr "Payments: write us for details: info@faunalia.eu"
 
 # ba650497b3c44258a03e96c3d9dbd556
 #: ../../training.rst:81
-#, fuzzy
 msgid "`Iscriviti qui <subscr_form_it.html>`_"
 msgstr "For subscribing, write us: info@faunalia.eu"
 
@@ -469,13 +452,15 @@ msgstr "Logistic"
 # e2c77797de9e472598dc6f4abdcf19db
 #: ../../training.rst:86
 msgid ""
-"**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
-"page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
-"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
-"pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune."
-"pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo <http://www."
-"ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple"
+"**Sede**: Pontedera (PI), presso `Pont-Tech "
+"<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
+"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
+"facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli "
+"sulla città "
+"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo "
+"<http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere "
+"singole/doppie/triple"
 msgstr ""
 "Write us (info@faunalia.eu) for details about the course venue, details "
 "about boarding, etc"
@@ -483,7 +468,7 @@ msgstr ""
 # 70445496ccfb4e5f905683df99c5a6c3
 #: ../../training.rst:89
 msgid "Programmi"
-msgstr ""
+msgstr "Course contents"
 
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
@@ -813,7 +798,6 @@ msgstr ""
 
 # 93622693fbc3409ea870fc8d6b853c71
 #: ../../training.rst:175
-#, fuzzy
 msgid "Creare plugin in Python per QGIS"
 msgstr "How to create python plugins for QGIS"
 
@@ -840,9 +824,8 @@ msgstr ""
 
 # 91d6dfef23564525b55bd3c31c7f8df7
 #: ../../training.rst:184
-#, fuzzy
 msgid "Come creare plugin Python per QGIS"
-msgstr "How to create a python plugin for QGIS"
+msgstr "How to create python plugins for QGIS"
 
 # d25dfa1ed91447c998335bb5d8f0860a
 #: ../../training.rst:186
@@ -1210,12 +1193,13 @@ msgstr "Two days, full time"
 #~ msgstr "Subcription form"
 
 # 52fcfe35655c40ea911c20211b41f093
+#, qt-format
 #~ msgid ""
-#~ "`Download the calendar <https://www.google.com/calendar/ical/faunaliagis"
-#~ "%40gmail.com/public/basic.ics>`_"
+#~ "`Download the calendar "
+#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 #~ msgstr ""
-#~ "`Download the calendar <https://www.google.com/calendar/ical/faunaliagis"
-#~ "%40gmail.com/public/basic.ics>`_"
+#~ "`Download the calendar "
+#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 4868573d5e6e42e294a4f6e77e566933
 #~ msgid ""
