@@ -16,34 +16,34 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: es_ES\n"
 "X-Source-Language: it_IT\n"
 
 # 4ace189e9ac7465d87578837d5febd45
 #: ../../_templates/layout.html:32
 msgid "Sviluppo"
-msgstr ""
+msgstr "Desarollo"
 
 # 3f743cf8bb684faea309ea687aa80ba4
 #: ../../_templates/layout.html:33
 msgid "Assistenza"
-msgstr ""
+msgstr "Soporte"
 
 # d1cc04c59a4c4174af3a1470c6fff69a
 #: ../../_templates/layout.html:34
 msgid "Corsi"
-msgstr ""
+msgstr "Cursos"
 
 # 0c777c40006240408b712ea262435aa0
 #: ../../_templates/layout.html:35
 msgid "Attivit&agrave;"
-msgstr ""
+msgstr "Actividades"
 
 # 469c862a749a4d9fabd84223a5ec8d47
 #: ../../_templates/layout.html:36
 msgid "Chi siamo"
-msgstr ""
+msgstr "Quienes somos"
 
 # c88fd2cf0a644fd6abaa0d045f9b30ed
 #: ../../_templates/layout.html:75
@@ -53,12 +53,12 @@ msgstr ""
 # dd5eb9fe35da423fbcae480b99293cae
 #: ../../_templates/layout.html:86
 msgid "Portogallo"
-msgstr ""
+msgstr "Portugal"
 
 # 22f8d2bccc524f47903c8107962deafc
 #: ../../_templates/layout.html:101
 msgid "Torna su"
-msgstr ""
+msgstr "Vuelve arriba"
 
 # 1d977a1e00694fcda9a4b27949ba75a9
 #: ../../_templates/layout.html:110
@@ -73,16 +73,16 @@ msgstr ""
 # c4d0ad213dbe412b9bdc51811e7aa015
 #: ../../_templates/layout.html:116
 msgid "Last updated on %(last_updated)s."
-msgstr ""
+msgstr "Última actualización"
 
 # 2f4ecd869e2743a18cf45e830203ff84
 #: ../../_templates/layout.html:119
 msgid ""
 "Created using <a href=\"http://sphinx.pocoo.org/\">Sphinx</a> "
 "%(sphinx_version)s."
-msgstr ""
+msgstr "Creado utilizando"
 
 # 319c76da9e244e1fa86d395fa684c45d
 #: ../../_templates/layout.html:123
 msgid "Seguici"
-msgstr ""
+msgstr "Siganos"
