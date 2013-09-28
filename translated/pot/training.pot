@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-14 15:34\n"
+"POT-Creation-Date: 2013-09-28 19:25\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -108,7 +108,7 @@ msgstr ""
 
 #: ../../training.rst:49
 # b38404e0df5547808b124b4064b56b75
-msgid "Cartografia con QGIS-IT"
+msgid "Cartografia con QGIS (IT)"
 msgstr ""
 
 #: ../../training.rst:49
@@ -157,12 +157,12 @@ msgstr ""
 
 #: ../../training.rst:50
 # 8dde27b0acfc48eca2b7e334bbb9df69
-msgid "Cartográfia com QGIS-PT"
+msgid "Cartográfia com QGIS (PT)"
 msgstr ""
 
 #: ../../training.rst:50
 # d98d01acc2334457916912c3585f74ae
-msgid "Ottobre 2013 (3 g)"
+msgid "7-9 Ottobre 2013"
 msgstr ""
 
 #: ../../training.rst:50
@@ -192,11 +192,13 @@ msgstr ""
 
 #: ../../training.rst:51
 # c466b19d69474c4eb78ca2e38c25a0a7
-msgid "Analisi con QGIS-IT"
+msgid "Analisi con QGIS (IT)"
 msgstr ""
 
 #: ../../training.rst:51
+#: ../../training.rst:52
 # 345691036c3a440c9ebfa44fd47d8d73
+# f342edaa95554c90a1072f7bffe2011c
 msgid "16-18 Ottobre 2013"
 msgstr ""
 
@@ -207,22 +209,17 @@ msgstr ""
 
 #: ../../training.rst:52
 # 11f0a12e23a14c8bb29034b7ef645a2a
-msgid "Análise SIG com QGIS-PT"
-msgstr ""
-
-#: ../../training.rst:52
-# cfaeea710e074bb3be2b36f6d27e6d1b
-msgid "Ottobre 2013 (2 g)"
+msgid "Análise SIG com QGIS (PT)"
 msgstr ""
 
 #: ../../training.rst:52
 # caf8274fa04f4af0ad46dec9ae774934
-msgid "15 Ottobre"
+msgid "10 Ottobre"
 msgstr ""
 
 #: ../../training.rst:53
 # c5eecc7b700a4708af9c4b09effd20a4
-msgid "Creare plugin in Python per QGIS-IT"
+msgid "Creare plugin in Python per QGIS (IT)"
 msgstr ""
 
 #: ../../training.rst:53
@@ -237,7 +234,7 @@ msgstr ""
 
 #: ../../training.rst:54
 # 97a4cd4b345c4e218cc6f5366c3b81e9
-msgid "GDAL/OGR avanzato- IT_"
+msgid "GDAL/OGR avanzato (IT_)"
 msgstr ""
 
 #: ../../training.rst:54
@@ -252,7 +249,7 @@ msgstr ""
 
 #: ../../training.rst:55
 # 20e531468ad44818b589a307ff945b11
-msgid "Sviluppo web geospaziale- IT_"
+msgid "Sviluppo web geospaziale (IT_)"
 msgstr ""
 
 #: ../../training.rst:55
@@ -267,7 +264,7 @@ msgstr ""
 
 #: ../../training.rst:56
 # be5c171886e14c15ba7879adea865622
-msgid "Geodatabase: PostgreSQL e PostGIS-IT"
+msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
 msgstr ""
 
 #: ../../training.rst:56
@@ -276,23 +273,25 @@ msgid "11-13 Dicembre 2013"
 msgstr ""
 
 #: ../../training.rst:56
+#: ../../training.rst:59
 # cc18a1925e35459db34ba0af662928c6
+# c34f0f9ef9084b92a339231a4f6319c0
 msgid "25 Novembre"
 msgstr ""
 
 #: ../../training.rst:57
 # ec17ddf914064a41a5a1cb065379644b
-msgid "Geodatabase: PostgreSQL and PostGIS-EN"
+msgid "Geodatabase: PostgreSQL and PostGIS (EN)"
 msgstr ""
 
 #: ../../training.rst:57
 # 67ec394443764ed39fbaf218866f23c1
-msgid "Novembre 2013 (3 g)"
+msgid "4-6 Novembre 2013"
 msgstr ""
 
 #: ../../training.rst:57
 # 1a67ef9932464aaa91498dcdfc943548
-msgid "31 Ottobre"
+msgid "27 Ottobre"
 msgstr ""
 
 #: ../../training.rst:57
@@ -302,7 +301,7 @@ msgstr ""
 
 #: ../../training.rst:58
 # 97540782e845487ca93da03c0fa4f300
-msgid "WebMapping con QGIS-IT"
+msgid "WebMapping con QGIS (IT)"
 msgstr ""
 
 #: ../../training.rst:58
@@ -317,17 +316,12 @@ msgstr ""
 
 #: ../../training.rst:59
 # 4e4c95c701b2464bbc1b891cf9e120b4
-msgid "WebMapping com QGIS-PT"
+msgid "WebMapping com QGIS (PT)"
 msgstr ""
 
 #: ../../training.rst:59
 # eafdbe68fb894344a151fb2d4142818d
-msgid "Dicembre 2013 (3 g)"
-msgstr ""
-
-#: ../../training.rst:59
-# c34f0f9ef9084b92a339231a4f6319c0
-msgid "31 Novembre"
+msgid "2-3 Dicembre 2013"
 msgstr ""
 
 #: ../../training.rst:64

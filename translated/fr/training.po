@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-14 15:25\n"
+"POT-Creation-Date: 2013-09-28 18:55\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -164,7 +164,7 @@ msgstr "Language"
 # 3d3d613c57f54cc694e2872191f90b33
 #: ../../training.rst:49
 #, fuzzy
-msgid "Cartografia con QGIS-IT"
+msgid "Cartografia con QGIS (IT)"
 msgstr "Cartographie avec QGIS"
 
 # 5264f422ac9d4034a6d68c5b38458a39
@@ -203,13 +203,14 @@ msgstr "Italien"
 # 3d3d613c57f54cc694e2872191f90b33
 #: ../../training.rst:50
 #, fuzzy
-msgid "Cartográfia com QGIS-PT"
+msgid "Cartográfia com QGIS (PT)"
 msgstr "Cartographie avec QGIS"
 
-# c9b6799b8a60441e9f87b85027246b23
+# 789f35850632463296adba2404463064
 #: ../../training.rst:50
-msgid "Ottobre 2013 (3 g)"
-msgstr "Octobre 2013 (3 j)"
+#, fuzzy
+msgid "7-9 Ottobre 2013"
+msgstr "16-18 Octobre 2013"
 
 # 1477ed8907e24345b0045abe4fb7372a
 #: ../../training.rst:50
@@ -236,11 +237,11 @@ msgstr "Portuguese"
 # 84a61dcdc830454e9665797c69bd9891
 #: ../../training.rst:51
 #, fuzzy
-msgid "Analisi con QGIS-IT"
+msgid "Analisi con QGIS (IT)"
 msgstr "Analyse avec QGIS"
 
 # 789f35850632463296adba2404463064
-#: ../../training.rst:51
+#: ../../training.rst:51 ../../training.rst:52
 msgid "16-18 Ottobre 2013"
 msgstr "16-18 Octobre 2013"
 
@@ -253,23 +254,19 @@ msgstr "1 Octobre"
 # 84a61dcdc830454e9665797c69bd9891
 #: ../../training.rst:52
 #, fuzzy
-msgid "Análise SIG com QGIS-PT"
+msgid "Análise SIG com QGIS (PT)"
 msgstr "Analyse avec QGIS"
-
-# d07cad72656b4bf1853685f09f6e5655
-#: ../../training.rst:52
-msgid "Ottobre 2013 (2 g)"
-msgstr "Octobre 2013 (2 j)"
 
 # 01f98806e0874655a3cf578f9a0d6623
 #: ../../training.rst:52
-msgid "15 Ottobre"
-msgstr "15 Octobre"
+#, fuzzy
+msgid "10 Ottobre"
+msgstr "1 Octobre"
 
 # 93622693fbc3409ea870fc8d6b853c71
 #: ../../training.rst:53
 #, fuzzy
-msgid "Creare plugin in Python per QGIS-IT"
+msgid "Creare plugin in Python per QGIS (IT)"
 msgstr "Créer plugins Python pour QGIS"
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
@@ -284,7 +281,7 @@ msgstr "28 Octobre"
 
 # 97a4cd4b345c4e218cc6f5366c3b81e9
 #: ../../training.rst:54
-msgid "GDAL/OGR avanzato- IT_"
+msgid "GDAL/OGR avanzato (IT_)"
 msgstr ""
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
@@ -301,7 +298,7 @@ msgstr "25 Novembre"
 
 # 20e531468ad44818b589a307ff945b11
 #: ../../training.rst:55
-msgid "Sviluppo web geospaziale- IT_"
+msgid "Sviluppo web geospaziale (IT_)"
 msgstr ""
 
 # 5264f422ac9d4034a6d68c5b38458a39
@@ -319,7 +316,7 @@ msgstr "31 Novembre"
 # 7cabf0be650643f1b85997a1c5b71df0
 #: ../../training.rst:56
 #, fuzzy
-msgid "Geodatabase: PostgreSQL e PostGIS-IT"
+msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
 msgstr "Geodatabases: PostgreSQL et PostGIS"
 
 # f7db670e6b22473f88e2168c85cf783a
@@ -328,25 +325,27 @@ msgid "11-13 Dicembre 2013"
 msgstr "11-13 Décembre 2013"
 
 # 98d67ad8d1324a71a5b91e8e65dc3716
-#: ../../training.rst:56
+#: ../../training.rst:56 ../../training.rst:59
 msgid "25 Novembre"
 msgstr "25 Novembre"
 
 # 7cabf0be650643f1b85997a1c5b71df0
 #: ../../training.rst:57
 #, fuzzy
-msgid "Geodatabase: PostgreSQL and PostGIS-EN"
+msgid "Geodatabase: PostgreSQL and PostGIS (EN)"
 msgstr "Geodatabases: PostgreSQL et PostGIS"
 
-# 483ad4bf82f0431c9d84d7d0e5223522
+# bdc24911e5b54efc9a5a5d9ce5940acc
 #: ../../training.rst:57
-msgid "Novembre 2013 (3 g)"
-msgstr "Novembre 2013 (3 j)"
+#, fuzzy
+msgid "4-6 Novembre 2013"
+msgstr "13-15 Novembre 2013"
 
-# 01f98806e0874655a3cf578f9a0d6623
+# ac7a57cb7dc44f15b51b36d55e91b27c
 #: ../../training.rst:57
-msgid "31 Ottobre"
-msgstr "31 Octobre"
+#, fuzzy
+msgid "27 Ottobre"
+msgstr "28 Octobre"
 
 # 51c019364e82467cb3334d945ad1b04f
 #: ../../training.rst:57
@@ -356,7 +355,7 @@ msgstr "Anglais"
 # 660512ec03ae4bc59a877c8ec19a3162
 #: ../../training.rst:58
 #, fuzzy
-msgid "WebMapping con QGIS-IT"
+msgid "WebMapping con QGIS (IT)"
 msgstr "WebMapping avec QGIS"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
@@ -372,18 +371,14 @@ msgstr "10 Janvier"
 # 660512ec03ae4bc59a877c8ec19a3162
 #: ../../training.rst:59
 #, fuzzy
-msgid "WebMapping com QGIS-PT"
+msgid "WebMapping com QGIS (PT)"
 msgstr "WebMapping avec QGIS"
 
-# 4b9c5b92cc9241d59e3e60e49068be31
+# f7db670e6b22473f88e2168c85cf783a
 #: ../../training.rst:59
-msgid "Dicembre 2013 (3 g)"
-msgstr "Décembre 2013 (3 j)"
-
-# bdc24911e5b54efc9a5a5d9ce5940acc
-#: ../../training.rst:59
-msgid "31 Novembre"
-msgstr "31 Novembre"
+#, fuzzy
+msgid "2-3 Dicembre 2013"
+msgstr "11-13 Décembre 2013"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
 #: ../../training.rst:64
@@ -1197,6 +1192,34 @@ msgstr "Critères d'optimisation"
 #: ../../training.rst:276
 msgid "Due giorni *full time*"
 msgstr "Deux jours à plein temps"
+
+# c9b6799b8a60441e9f87b85027246b23
+#~ msgid "Ottobre 2013 (3 g)"
+#~ msgstr "Octobre 2013 (3 j)"
+
+# d07cad72656b4bf1853685f09f6e5655
+#~ msgid "Ottobre 2013 (2 g)"
+#~ msgstr "Octobre 2013 (2 j)"
+
+# 01f98806e0874655a3cf578f9a0d6623
+#~ msgid "15 Ottobre"
+#~ msgstr "15 Octobre"
+
+# 483ad4bf82f0431c9d84d7d0e5223522
+#~ msgid "Novembre 2013 (3 g)"
+#~ msgstr "Novembre 2013 (3 j)"
+
+# 01f98806e0874655a3cf578f9a0d6623
+#~ msgid "31 Ottobre"
+#~ msgstr "31 Octobre"
+
+# 4b9c5b92cc9241d59e3e60e49068be31
+#~ msgid "Dicembre 2013 (3 g)"
+#~ msgstr "Décembre 2013 (3 j)"
+
+# bdc24911e5b54efc9a5a5d9ce5940acc
+#~ msgid "31 Novembre"
+#~ msgstr "31 Novembre"
 
 # c34ea912bbb64bff91ad4dbb9534f388
 #~ msgid "Come creare un plugin in Python per QGIS"

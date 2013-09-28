@@ -12,6 +12,8 @@
     Attività <jobs>
     Chi siamo <intro>
 
+.. image :: images/logo_faunalia.png
+
 Faunalia
 ===========================================================================
 Sistemi informativi territoriali liberi ed open source
