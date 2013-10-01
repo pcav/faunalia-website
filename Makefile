@@ -81,10 +81,13 @@ html:
 		mkdir -p $(BUILDDIR)/html/$(SOURCE)/$$lang $(BUILDDIR)/doctrees/$(SOURCE)/$$lang; \
 		echo "$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(SOURCE) $(BUILDDIR)/html/$$lang";\
 		$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(SOURCE) $(BUILDDIR)/html/$(SOURCE)/$$lang;\
-		ln -s /home/www/pdf $(BUILDDIR)/html/$$lang/pdf;\
-	        ln -s /var/www/lizmap-web-client-2.8.1 /var/www/www.faunalia.eu/map;\
+#		ln -s /home/www/pdf $(BUILDDIR)/html/pdf;\
+		test -e $(BUILDDIR)/html/$$lang/pdf || ln -s /usr/local/src/faunalia-website/pdf $(BUILDDIR)/html/$$lang/;\
+#	        ln -s /var/www/lizmap-web-client-2.8.1 /var/www/www.faunalia.eu/map;\
 		cp .ht* $(BUILDDIR)/html/;\
 	done
+	test -e $(BUILDDIR)/html/pdf || ln -s /home/www/pdf $(BUILDDIR)/html/;
+	test -e /var/www/www.faunalia.eu/map || ln -s /var/www/lizmap-web-client-2.8.1 /var/www/www.faunalia.eu/map;
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html/<language>."
 
