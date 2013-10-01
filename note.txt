@@ -21,3 +21,11 @@ Protocol for site update
 * check results (html)
 * git commit + push
 * publish on the server [this has to be done by the webmaster]
+
+Istruzioni
+-------------------------------------------------------------------------------
+
+* la generazione dei CV e' affidata allo script /usr/local/src/website_scripts/pdf/multi_generator.php [**Attenzione**: c'e' da modificare il path se necessario]
+* i files bandierina_eu.png  logo_corp.png devono essere nella dir dove si compilano i cv pdf
+* i pdf degli articoli sono in /home/www/pdf (vanno quindi sincronizzati da /home/paolo/Documents/Articoli_miei/pdf/), linkati da make html in build/pdf
+* similarmente per le mappe
