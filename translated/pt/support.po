@@ -55,10 +55,7 @@ msgid ""
 msgstr ""
 "Em particular, Faunalia oferece serviços profissionais para `QGIS "
 "<http://www.qgis.org/en/commercial-support.html>`_ (Desktop, Server e Web "
-"Client), `GRASS <http://grass.osgeo.org/support/commercial-support/>`_, "
-"`PostgreSQL "
-"<http://www.postgresql.org/support/professional_support/europe/>`_/`PostGIS "
-"<http://postgis.net/support>`_:"
+"Client), GRASS_, PostgreSQL_ e `PostGIS <http://postgis.net/support>`_:"
 
 # f085741ebad245a78e054d8936399bf6
 #: ../../support.rst:14
