@@ -33,7 +33,7 @@ msgstr "Soporte"
 # d1cc04c59a4c4174af3a1470c6fff69a
 #: ../../_templates/layout.html:34
 msgid "Corsi"
-msgstr "Asistencia"
+msgstr "Cursos"
 
 # 0c777c40006240408b712ea262435aa0
 #: ../../_templates/layout.html:35
@@ -48,7 +48,7 @@ msgstr "Quienes somos"
 # c88fd2cf0a644fd6abaa0d045f9b30ed
 #: ../../_templates/layout.html:75
 msgid "Italia"
-msgstr ""
+msgstr "Italia"
 
 # dd5eb9fe35da423fbcae480b99293cae
 #: ../../_templates/layout.html:86
@@ -73,14 +73,14 @@ msgstr ""
 # c4d0ad213dbe412b9bdc51811e7aa015
 #: ../../_templates/layout.html:116
 msgid "Last updated on %(last_updated)s."
-msgstr "Última actualización"
+msgstr ""
 
 # 2f4ecd869e2743a18cf45e830203ff84
 #: ../../_templates/layout.html:119
 msgid ""
 "Created using <a href=\"http://sphinx.pocoo.org/\">Sphinx</a> "
 "%(sphinx_version)s."
-msgstr "Creado utilizando"
+msgstr ""
 
 # 319c76da9e244e1fa86d395fa684c45d
 #: ../../_templates/layout.html:123
