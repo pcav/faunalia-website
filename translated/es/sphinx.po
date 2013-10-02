@@ -28,7 +28,7 @@ msgstr "Desarrollo"
 # 3f743cf8bb684faea309ea687aa80ba4
 #: ../../_templates/layout.html:33
 msgid "Assistenza"
-msgstr "Soporte"
+msgstr "Asistencia"
 
 # d1cc04c59a4c4174af3a1470c6fff69a
 #: ../../_templates/layout.html:34
