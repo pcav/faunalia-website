@@ -13,7 +13,7 @@
     Chi siamo <intro>
     Error <404>
 
-.. image :: images/logo_faunalia.png
+.. image :: images/logo_faunalia_notext.png
 
 Faunalia
 ===========================================================================
