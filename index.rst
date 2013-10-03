@@ -11,6 +11,7 @@
     Corsi <training>
     Attività <jobs>
     Chi siamo <intro>
+    Error <404>
 
 .. image :: images/logo_faunalia.png
 

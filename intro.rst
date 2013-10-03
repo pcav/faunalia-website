@@ -74,8 +74,8 @@ Paolo Cavallini |it| |pt|
 * Oltre 10 anni di esperienza sui GIS liberi
 * Dottore di ricerca
 
-* `Curriculum Vitae (html) <cv_pc_it.html>`_
-* `Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`_ - `europeo (pdf) <pdf/Cavallini_CV_eu.pdf>`_
+* `Curriculum Vitae (html) <cv_pc_it.html>`__
+* `Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) <pdf/Cavallini_CV_eu.pdf>`__
 
 * *e-mail*: cavallini@faunalia.it - *PEC*: paolo.cavallini@pec.it
 * *Tel/Viber/Line*: +39-348-3801953
@@ -120,8 +120,8 @@ Giovanni Manghi |pt|
 * Membro di `IUCN - The World Conservation Union - *IUCN Small Carnivore Specialist Group* <http://www.iucn.org/>`_
 * Oltre 7 anni di esperienza sui GIS liberi
 
-* `Curriculum Vitae (html) <cv_gm_it.html>`_
-* `Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_ - `europeo (pdf) <pdf/Manghi_CV_eu.pdf>`_
+* `Curriculum Vitae (html) <cv_gm_it.html>`__
+* `Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`__ - `europeo (pdf) <pdf/Manghi_CV_eu.pdf>`__
 
 * *e-mail*: giovanni.manghi@faunalia.pt
 * *Tel/Viber/Line*: +351967058216
@@ -140,8 +140,8 @@ Vânia Neves |pt|
 * Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and Open-Source Software Association <http://osgeopt.pt/>`_
 * Oltre 7 anni di esperienza sui GIS liberi
 
-* `Curriculum Vitae (html) <cv_vn_it.html>`_
-* `Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_ - `europeo (pdf) <pdf/Neves_CV_eu.pdf>`_
+* `Curriculum Vitae (html) <cv_vn_it.html>`__
+* `Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`__ - `europeo (pdf) <pdf/Neves_CV_eu.pdf>`__
 
 * *e-mail*: vania.neves@faunalia.pt
 * *Tel/Viber/Line*: +351939320104
