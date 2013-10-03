@@ -40,9 +40,11 @@
             {% if theme_source_link_position == "nav" %}
               <li>{% include "sourcelink.html" %}</li>
             {% endif %}
+            <li>
           {% block languageswitch %}
             {% include "languageswitch.html" %}
           {% endblock %}
+          </li>
           </ul>
 
 {#
@@ -70,8 +72,9 @@
 
 {%- block footer %}
 <footer class="footer">
+  <div class="row">
 <div class="col-md-4">
-            <div class="col-md-5">
+            <div class="col-md-6">
               <h3>{{ gettext('Italia') }}</h3>
               <p>Piazza Garibaldi, 5</p>
               <p>56025 Pontedera (PI)</p>
@@ -82,7 +85,7 @@
             <p><i>Skype</i> paolo.gg.cavallini</p>
             <p><i>Hangouts</i> <a class="reference external" href="mailto:paolo.cavallini@gmail.com">paolo.cavallini@gmail.com</a></p>
             </div>
-            <div class="col-md-5">
+            <div class="col-md-6">
               <h3>{{ gettext('Portogallo') }}</h3>
               <p>Rua do Cano 56</p>
               <p>7000-596 &Eacute;vora</p>
@@ -94,7 +97,7 @@
             <p><i>Hangouts</i> <a class="reference external" href="mailto:giovanni.manghi@gmail.com">giovanni.manghi@gmail.com</a></p>
             </div>
           </div>
-          <div class="col-md-5">
+          <div class="col-md-6">
           </div>
   <div class="container">
     <p class="pull-right">
@@ -134,5 +137,6 @@
             <!-- AddThis Follow END -->
 
   </div>
+</div></div>
 </footer>
 {%- endblock %}
