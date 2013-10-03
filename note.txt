@@ -26,6 +26,7 @@ Istruzioni
 -------------------------------------------------------------------------------
 
 * la generazione dei CV e' affidata allo script /usr/local/src/website_scripts/pdf/multi_generator.php [**Attenzione**: c'e' da modificare il path se necessario]
-* i files bandierina_eu.png  logo_corp.png devono essere nella dir dove si compilano i cv pdf
+* i files bandierina_eu.png  logo_corp.png devono essere nella dir dove si compilano i cv pdf (?)
+* le traduzione degli altri script (per generare le liste in jobs.rst etc.) sono in /usr/local/src/website_scripts/pdfbackend_ufficio.inc
 * i pdf degli articoli sono in /home/www/pdf (vanno quindi sincronizzati da /home/paolo/Documents/Articoli_miei/pdf/), linkati da make html in build/pdf
 * similarmente per le mappe
