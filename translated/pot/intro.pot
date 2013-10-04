@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-02 05:16+0200\n"
+"POT-Creation-Date: 2013-10-04 16:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -155,12 +155,12 @@ msgstr ""
 
 #: ../../intro.rst:77
 # 6543fb195e3249f085e97ce8a5f95c9c
-msgid "`Curriculum Vitae (html) <cv_pc_it.html>`_"
+msgid "`Curriculum Vitae (html) <cv_pc_it.html>`__"
 msgstr ""
 
 #: ../../intro.rst:78
 # 70801919d32d45a49f60c7c3c9ff8b2e
-msgid "`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`_ - `europeo (pdf) <pdf/Cavallini_CV_eu.pdf>`_"
+msgid "`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) <pdf/Cavallini_CV_eu.pdf>`__"
 msgstr ""
 
 #: ../../intro.rst:80
@@ -267,12 +267,12 @@ msgstr ""
 
 #: ../../intro.rst:123
 # 5e966bb94bde4c998a6b3b92146670fe
-msgid "`Curriculum Vitae (html) <cv_gm_it.html>`_"
+msgid "`Curriculum Vitae (html) <cv_gm_it.html>`__"
 msgstr ""
 
 #: ../../intro.rst:124
 # fb9167a7fa5b4395a8d03095f9ae74cd
-msgid "`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_ - `europeo (pdf) <pdf/Manghi_CV_eu.pdf>`_"
+msgid "`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`__ - `europeo (pdf) <pdf/Manghi_CV_eu.pdf>`__"
 msgstr ""
 
 #: ../../intro.rst:126
@@ -317,12 +317,12 @@ msgstr ""
 
 #: ../../intro.rst:143
 # c61b6797a4d349d4850a9c54fa7bad24
-msgid "`Curriculum Vitae (html) <cv_vn_it.html>`_"
+msgid "`Curriculum Vitae (html) <cv_vn_it.html>`__"
 msgstr ""
 
 #: ../../intro.rst:144
 # 8630faa3be4b4cda952d6b505825b794
-msgid "`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_ - `europeo (pdf) <pdf/Neves_CV_eu.pdf>`_"
+msgid "`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`__ - `europeo (pdf) <pdf/Neves_CV_eu.pdf>`__"
 msgstr ""
 
 #: ../../intro.rst:146

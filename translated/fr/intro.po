@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-14 15:25\n"
+"POT-Creation-Date: 2013-10-03 13:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -295,14 +295,16 @@ msgstr "Docteur de recherche"
 
 # 7e88d4c193e8445f9729faedcd714934
 #: ../../intro.rst:77
-msgid "`Curriculum Vitae (html) <cv_pc_it.html>`_"
+#, fuzzy
+msgid "`Curriculum Vitae (html) <cv_pc_it.html>`__"
 msgstr "`Curriculum Vitae (html-en) <cv_pc_en.html>`_"
 
 # 0a87c16587584301b1d912bdf90752f8
 #: ../../intro.rst:78
+#, fuzzy
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`_ - `europeo (pdf) <pdf/"
-"Cavallini_CV_eu.pdf>`_"
+"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) <pdf/"
+"Cavallini_CV_eu.pdf>`__"
 msgstr "`Curriculum Vitae (pdf-en) <pdf/Cavallini_CV_en.pdf>`_"
 
 # b956ac317a9e43e3b3eba330e2a527c9
@@ -448,14 +450,16 @@ msgstr "Plus de 7 ans d'expérience en matière des SIG libres"
 
 # 95dca4087d374ece822ccbd1aee35dec
 #: ../../intro.rst:123
-msgid "`Curriculum Vitae (html) <cv_gm_it.html>`_"
+#, fuzzy
+msgid "`Curriculum Vitae (html) <cv_gm_it.html>`__"
 msgstr "`Curriculum Vitae (html-en) <cv_gm_en.html>`_"
 
 # 5b545c847c054fcd85c5ede7db0d9953
 #: ../../intro.rst:124
+#, fuzzy
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`_ - `europeo (pdf) <pdf/"
-"Manghi_CV_eu.pdf>`_"
+"`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`__ - `europeo (pdf) <pdf/"
+"Manghi_CV_eu.pdf>`__"
 msgstr "`Curriculum Vitae (pdf-en) <pdf/Manghi_CV_en.pdf>`_"
 
 # 3472687752ef4624a6d1046f9ab20882
@@ -504,14 +508,16 @@ msgstr ""
 
 # f2e2c08f2fe54447b9ddb4ca52b3af41
 #: ../../intro.rst:143
-msgid "`Curriculum Vitae (html) <cv_vn_it.html>`_"
+#, fuzzy
+msgid "`Curriculum Vitae (html) <cv_vn_it.html>`__"
 msgstr "`Curriculum Vitae (html-en) <cv_vn_en.html>`_"
 
 # b4774407f5f4434e85b360162f644107
 #: ../../intro.rst:144
+#, fuzzy
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`_ - `europeo (pdf) <pdf/"
-"Neves_CV_eu.pdf>`_"
+"`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`__ - `europeo (pdf) <pdf/"
+"Neves_CV_eu.pdf>`__"
 msgstr "`Curriculum Vitae (pdf-en) <pdf/Neves_CV_en.pdf>`_"
 
 # 12db5196f90647d8b593e6b4c685d9d4
