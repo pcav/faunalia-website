@@ -68,6 +68,8 @@ table.field-list {
   width: 100%;
   border-top: 1px solid #ccc;
   padding-top: 10px;
+  font-size: small;
+  line-height: 1em;
 }
 
 /*footer {*/
