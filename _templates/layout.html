@@ -2,7 +2,7 @@
 {% extends "!layout.html" %}
 
 {# Include our new CSS file into existing ones. #}
-{#% set css_files = css_files + ['_static/faunalia.css']%#}
+{% set css_files = css_files + ['_static/faunalia.css']%}
 {#% set script_files = script_files + ['_static/faunalia.js']%#}
 
 {# Sidebar: Rework into our Boostrap nav section. #}
@@ -72,19 +72,18 @@
 
 {%- block footer %}
 <footer class="footer">
-  <div class="row">
-<div class="col-md-4">
-            <div class="col-md-6">
+<div class="row">
+    <div class="col-md-9">
+        <div class="col-md-4">
               <h3>{{ gettext('Italia') }}</h3>
               <p><a class="reference external" href="http://www.openstreetmap.org/#map=19/43.66187/10.63795">Piazza Garibaldi, 5 - 56025 Pontedera (PI)</a></p>
-            <p><a class="reference external" href="mailto:info@faunalia.it">info@faunalia.it</a></p>
-            <p><a class="reference external" href="mailto:paolo.cavallini@pec.it">paolo.cavallini@pec.it</a></p>
+            <p><a class="reference external" href="mailto:info@faunalia.it">info@faunalia.it</a> / <a class="reference external" href="mailto:paolo.cavallini@pec.it">paolo.cavallini@pec.it</a></p>
             <p><i>Fax</i> +39-0587213742</p>
             <p><i>Phone/Viber/Line</i> +39-3483801953</p>
             <p><i>Skype</i> paolo.gg.cavallini</p>
             <p><i>Hangouts</i> <a class="reference external" href="mailto:paolo.cavallini@gmail.com">paolo.cavallini@gmail.com</a></p>
-            </div>
-            <div class="col-md-6">
+         </div>
+         <div class="col-md-4">
               <h3>{{ gettext('Portogallo') }}</h3>
               <p><a class="reference external" href="http://www.openstreetmap.org/#map=19/38.57586/-7.91277">Rua do Cano 56 - 7000-596 &Eacute;vora</a></p>
             <p><a class="reference external" href="mailto:info@faunalia.it">info@faunalia.pt</a></p>
@@ -93,48 +92,52 @@
             <p><i>Mobile Phones</i> +351-939320104 / 967058216</p>
             <p><i>Skype</i> toirao</p>
             <p><i>Hangouts</i> <a class="reference external" href="mailto:giovanni.manghi@gmail.com">giovanni.manghi@gmail.com</a></p>
-            </div>
-          </div>
-          <div class="col-md-6">
-          </div>
-  <div class="container">
-    <p class="pull-right">
-      <a href="#">{{ gettext('Torna su') }}</a>
-      {% if theme_source_link_position == "footer" %}
-        <br/>
-        {% include "sourcelink.html" %}
-      {% endif %}
-    </p>
-    <p>
-    {%- if show_copyright %}
-      {%- if hasdoc('copyright') %}
-        {% trans path=pathto('copyright'), copyright=copyright|e %}&copy; <a href="{{ path }}">Copyright</a> {{ copyright }}.{% endtrans %}<br/>
-      {%- else %}
-        {% trans copyright=copyright|e %}&copy; Copyright {{ copyright }}.{% endtrans %}<br/>
-      {%- endif %}
-    {%- endif %}
-    {%- if last_updated %}
-      {% trans last_updated=last_updated|e %}Last updated on {{ last_updated }}.{% endtrans %}<br/>
-    {%- endif %}
-    {%- if show_sphinx %}
-      {% trans sphinx_version=sphinx_version|e %}Created using <a href="http://sphinx-doc.org/">Sphinx</a> {{ sphinx_version }}.{% endtrans %}<br/>
-    {%- endif %}
-    </p>
-
+         </div>
+     <div class="col-md-4">  
             <h3>{{ gettext('Seguici') }}</h3> 
             <!-- AddThis Follow BEGIN -->
             <div class="addthis_toolbox addthis_32x32_style addthis_default_style">
-            <a class="addthis_button_facebook_follow" addthis:userid="faunaliagis"></a>
-            <a class="addthis_button_twitter_follow" addthis:userid="faunaliagis"></a>
-            <a class="addthis_button_linkedin_follow" addthis:userid="faunalia" addthis:usertype="company"></a>
-            <a class="addthis_button_google_follow" addthis:userid="105962386083078919938"></a>
-            <a class="addthis_button_youtube_follow" addthis:userid="faunaliagis"></a>
-            <a class="addthis_button_wordpress_follow" addthis:userid="faunaliagis"></a>
-            </div>
+		    <a class="addthis_button_facebook_follow" addthis:userid="faunaliagis"></a>
+		    <a class="addthis_button_twitter_follow" addthis:userid="faunaliagis"></a>
+		    <a class="addthis_button_linkedin_follow" addthis:userid="faunalia" addthis:usertype="company"></a>
+		    <a class="addthis_button_google_follow" addthis:userid="105962386083078919938"></a>
+		    <a class="addthis_button_youtube_follow" addthis:userid="faunaliagis"></a>
+		    <a class="addthis_button_wordpress_follow" addthis:userid="faunaliagis"></a>
+	    </div>
             <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51fb95b90abe8ec7"></script>
             <!-- AddThis Follow END -->
 
-  </div>
+
+	<div class="container">
+	    <p>
+	    <br/>
+	    {%- if show_copyright %}
+	      {%- if hasdoc('copyright') %}
+		{% trans path=pathto('copyright'), copyright=copyright|e %}&copy; <a href="{{ path }}">Copyright</a> {{ copyright }}.{% endtrans %}<br/>
+	      {%- else %}
+		{% trans copyright=copyright|e %}&copy; Copyright {{ copyright }}.{% endtrans %}<br/><br/>
+	      {%- endif %}
+	    {%- endif %}
+	    {%- if last_updated %}
+	      {% trans last_updated=last_updated|e %}Last updated on {{ last_updated }}.{% endtrans %}<br/>
+	    {%- endif %}
+	    {%- if show_sphinx %}
+	      {% trans sphinx_version=sphinx_version|e %}Created using <a href="http://sphinx-doc.org/">Sphinx</a> {{ sphinx_version }}.{% endtrans %}<br/>
+	    {%- endif %}
+	    </p>
+	    <br/>
+	    <p>
+	      <a href="#">{{ gettext('Torna su') }}</a>
+	      {% if theme_source_link_position == "footer" %}
+		<br/>
+		{% include "sourcelink.html" %}
+	      {% endif %}
+	    </p>
+
+	</div>
+    </div>
+
+    </div> <!-- col-md-8 -->
 </div></div>
 </footer>
 {%- endblock %}
