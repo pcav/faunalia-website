@@ -62,7 +62,7 @@
 <div class="container">
   <div class="row">
     {%- block sidebar1 %}{{ bsidebar() }}{% endblock %}
-    <div class="{{ bs_content_span }}">
+    <div class="{{ bs_span_prefix }}{{ bs_content_width }}">
       {% block body %}{% endblock %}
     </div>
     {% block sidebar2 %} {# possible location for sidebar #} {% endblock %}
