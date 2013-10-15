@@ -13,27 +13,36 @@
     Chi siamo <intro>
     Error <404>
 
+.. cssclass :: topcont
+
+Faunalia
+==========================================================================
 .. image :: images/logo_faunalia_notext.png
 
 Faunalia
-===========================================================================
+--------------------------------------------------------------------------
 Sistemi informativi territoriali liberi ed open source
 
+.. cssclass :: svi
 
 Sviluppo
--------------------------------------------------------------------------------
+=============================================================================
 Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro o di correggere un bug?
 
 :doc:`More info <dev>`
 
+.. cssclass :: ass
+
 Assistenza
--------------------------------------------------------------------------------
+============================================================================
 Vuoi la certezza e la tranquillità di un supporto costante per la soluzione dei tuoi problemi?
 
 :doc:`More info <support>`
 
+.. cssclass :: cor
+
 Corsi
--------------------------------------------------------------------------------
+===========================================================================
 Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il tuo GIS? 
 
 :doc:`More info <training>`
