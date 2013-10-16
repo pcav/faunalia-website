@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-04 16:23+0200\n"
+"POT-Creation-Date: 2013-10-15 07:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -51,38 +51,38 @@ msgid "Italia"
 msgstr "Italy"
 
 # dd5eb9fe35da423fbcae480b99293cae
-#: ../../_templates/layout.html:89
+#: ../../_templates/layout.html:87
 msgid "Portogallo"
 msgstr "Portugal"
 
-# 22f8d2bccc524f47903c8107962deafc
-#: ../../_templates/layout.html:104
-msgid "Torna su"
-msgstr "Back to up"
+# 319c76da9e244e1fa86d395fa684c45d
+#: ../../_templates/layout.html:96
+msgid "Seguici"
+msgstr "Follow us"
 
 # 1d977a1e00694fcda9a4b27949ba75a9
-#: ../../_templates/layout.html:113
+#: ../../_templates/layout.html:115
 msgid "&copy; <a href=\"%(path)s\">Copyright</a> %(copyright)s."
 msgstr ""
 
 # 4f58799d50f44e729f08c99cdc601920
-#: ../../_templates/layout.html:115
+#: ../../_templates/layout.html:117
 msgid "&copy; Copyright %(copyright)s."
 msgstr ""
 
 # c4d0ad213dbe412b9bdc51811e7aa015
-#: ../../_templates/layout.html:119
+#: ../../_templates/layout.html:121
 msgid "Last updated on %(last_updated)s."
 msgstr ""
 
 # 14fe3e3ce0bb40fe92d3710d651ef036
-#: ../../_templates/layout.html:122
+#: ../../_templates/layout.html:124
 msgid ""
 "Created using <a href=\"http://sphinx-doc.org/\">Sphinx</a> %(sphinx_version)"
 "s."
 msgstr ""
 
-# 319c76da9e244e1fa86d395fa684c45d
-#: ../../_templates/layout.html:126
-msgid "Seguici"
-msgstr "Follow us"
+# 22f8d2bccc524f47903c8107962deafc
+#: ../../_templates/layout.html:129
+msgid "Torna su"
+msgstr "Back to up"
