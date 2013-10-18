@@ -5,17 +5,30 @@
 * Sphinx stylesheet -- Twitter Bootstrap theme.
 */
 
+h1, h2 {
+color:#7C7C7C;
+}
+
 .section a {
 color:#3fb83b !important;
 }
 
+a.thumbnail:hover, a.thumbnail:focus{
+border-color:#79c378 !important;
+background-color: #9ee39d !important;
+}
+
 .navbar-brand {
-  color: #fae345 !important;
+color: #fae345 !important;
 text-shadow: #505050 0 1px 0 !important;
+display:inline;
 }
 
 .page-top {
   top: 0px;
+}
+.navbar{
+border-bottom-color:#e6ca1f !important; 
 }
 
 .navbar-default{
@@ -27,6 +40,15 @@ text-shadow: #505050 0 1px 0 !important;
 .navbar-default .navbar-nav>li>a:hover,.navbar-default .navbar-nav>li>a:focus{
 	color:#333333 !important;background-color:#e6ca1f !important;
 	}
+
+.navbar-toggle{
+border:1px solid #e6ca1f !important;
+background-color:transparent !important;
+}
+
+.navbar-collapse{
+border-top-color:#e6ca1f !important;
+}
 
 select {
 padding:2px 5px;
@@ -46,7 +68,7 @@ padding:2px 5px;
    
 .topcont{
 	width:100%;
-	 background: url('../images/isolines.jpg');
+	 background: url('http://img15.hostingpics.net/pics/126663isolines.jpg');
 	 border:1px solid #E9E9E9;
 	 margin:20px 0 0 0;
 }
@@ -78,45 +100,24 @@ margin:0 auto 20px auto;
 	color:#3fb83d;
 }
 
-.svi
-{
-	width:32%;
-	height:250px;
-	 border:1px solid #E9E9E9;
-	float:left;
-	margin:20px 2% 20px 0;
-}
-
-.ass
-{
-	width:32%;
-	height:250px;
-	 border:1px solid #E9E9E9;
-	float:left;
-	display:inline;
-	margin:20px 2% 20px 0;
-}
-
-.cor
-{
-	width:32%;
-	height:250px;
-	 border:1px solid #E9E9E9;
-	float:left;
-	display:inline;
-	margin:20px 0 20px 0;
-}
-
 .svi, .ass, .cor{
-background: #e5e5e5; 
+height:250px;
+background: #ffffff; 
+border-bottom:1px solid #E9E9E9;
+margin:20px 0 20px 0 !important;
 }
 
 .svi h1, .ass h1, .cor h1{
-	margin:20px auto 20px auto;text-align:center;color:#605f5f !important;text-shadow:#FFFFFF 0 2px 0;
+	margin:20px auto 20px auto;text-align:center;color:#7C7C7C !important;text-shadow:#FFFFFF 0 2px 0;
 }
 
+.svi h1 a, .ass h1 a, .cor h1 a{
+	display:none;
+}
 .svi p, .ass p, .cor p{
-	width:70%;margin:0 auto 30px auto;color:#707070 !important;
+	width:70%;margin:0 auto 30px auto;
+	font-size:1.1em;
+	text-align:center;
 }
 
 .svi p a, .ass p a, .cor p a{
@@ -126,14 +127,7 @@ background: #e5e5e5;
 	ont-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
 	padding: 10px 20px;
-	background: -moz-linear-gradient(
-		top,
-		#42cc3d 0%,
-		#3fb83d);
-	background: -webkit-gradient(
-		linear, left top, left bottom, 
-		from(#42cc3d),
-		to(#3fb83d));
+	background:#51a351;
 	-moz-border-radius: 6px;
 	-webkit-border-radius: 6px;
 	border-radius: 6px;
@@ -238,12 +232,20 @@ table.field-list {
   padding-top: 10px;
   font-size: small;
   line-height: 1em;
-  background-color: #51a351 !important;
-  color:#FFFFFF !important;
+  background-color: #7C7C7C !important;
+  color:#333333 !important;
+}
+
+.footer h3{
+color:#E0E0E0;
 }
 
 .footer a{
-color:#333333;
+color:#acabab;
+}
+
+.footer a:hover{
+color:#FFFFFF;
 }
 
 .affix{
@@ -257,11 +259,9 @@ background-color:#79c378 !important;
 
 .bs-sidenav .nav > li > a {
 color:#FFFFFF !important;
-text-shadow: #505050 0 1px 0 !important;
 }
 
 .bs-sidenav .nav > li > a:hover {
 background-color: #9ee39d !important;
 color:#333333 !important;
-text-shadow: #FFFFFF 0 1px 0 !important;
 }
