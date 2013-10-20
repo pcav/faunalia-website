@@ -11,7 +11,6 @@ Attività svolte
 Mappa dei lavori di Faunalia
 ...............................................................................
 
-.. rst-class:: map thumbnail
 .. image:: images/jobs_map.jpg
    :scale: 50 %
    :alt: Faunalia job locations
