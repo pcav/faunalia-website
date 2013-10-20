@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-02 05:16+0200\n"
+"POT-Creation-Date: 2013-10-20 10:52+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,16 +31,16 @@ msgid "Mappa dei lavori di Faunalia"
 msgstr "Mapa dos trabalhos realizados"
 
 # 1a76693376ba41ef822a3646731acb77
-#: ../../jobs.rst:21
+#: ../../jobs.rst:20
 msgid ""
-"`Esplora la mappa "
-"<../map/lizmap/www/index.php/view/map/?repository=faunalia&project=faunalia_map_it>`_"
+"`Esplora la mappa <../map/lizmap/www/index.php/view/map/?"
+"repository=faunalia&project=faunalia_map_it>`_"
 msgstr ""
-"`Explore o mapa "
-"<../map/lizmap/www/index.php/view/map/?repository=faunalia&project=faunalia_map_pt>`_"
+"`Explore o mapa <../map/lizmap/www/index.php/view/map/?"
+"repository=faunalia&project=faunalia_map_pt>`_"
 
 # a4dd5c2238944fbf889fbcfdac51370c
-#: ../../jobs.rst:28
+#: ../../jobs.rst:27
 msgid "Maggiori clienti"
 msgstr "Os nossos clientes mais importantes"
 

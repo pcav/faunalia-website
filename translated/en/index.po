@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-16 08:03+0200\n"
+"POT-Creation-Date: 2013-10-20 10:40+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,17 +26,17 @@ msgid "Faunalia"
 msgstr "Faunalia"
 
 # c24a6a0f2c1f47b581312366dd4113f7
-#: ../../index.rst:24
+#: ../../index.rst:25
 msgid "Sistemi informativi territoriali liberi ed open source"
 msgstr "Free and open source Geographic Information Systems"
 
 # b29116aece954590a864d9174f6d8416
-#: ../../index.rst:29
+#: ../../index.rst:30
 msgid "Sviluppo"
 msgstr "Development"
 
 # 1e0a20d246044004ba27ccf7bbb05251
-#: ../../index.rst:30
+#: ../../index.rst:32
 msgid ""
 "Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro "
 "o di correggere un bug?"
@@ -44,17 +44,17 @@ msgstr ""
 "Need a new command, a plugin to speed up your work, a fix of your worst bug?"
 
 # 2fd4a8b1ef644db38dcea8a1e8a61c03
-#: ../../index.rst:32
+#: ../../index.rst:34
 msgid ":doc:`More info <dev>`"
 msgstr ":doc:`More info <dev>`"
 
 # 2c65bd5329b9402b8ff3cdd828a1c810
-#: ../../index.rst:37
+#: ../../index.rst:39
 msgid "Assistenza"
 msgstr "Support"
 
 # 0413ebabaffd4d768717bd48f723e880
-#: ../../index.rst:38
+#: ../../index.rst:41
 msgid ""
 "Vuoi la certezza e la tranquillità di un supporto costante per la soluzione "
 "dei tuoi problemi?"
@@ -63,23 +63,23 @@ msgstr ""
 "solved?"
 
 # a2069a3f48204eed95a4f2d71236ff50
-#: ../../index.rst:40
+#: ../../index.rst:43
 msgid ":doc:`More info <support>`"
 msgstr ":doc:`More info <support>`"
 
 # 74d5fd586c43466aafb1f532dfbf4ead
-#: ../../index.rst:45
+#: ../../index.rst:48
 msgid "Corsi"
 msgstr "Training"
 
 # 1e7ec7a2516c48aa90fbd6563a143a77
-#: ../../index.rst:46
+#: ../../index.rst:50
 msgid ""
 "Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il "
 "tuo GIS?"
 msgstr "Need to know, quickly and effectively, how to master your free GIS?"
 
 # 80549d17aca94c20ba96853e17c8154d
-#: ../../index.rst:48
+#: ../../index.rst:52
 msgid ":doc:`More info <training>`"
 msgstr ":doc:`More info <training>`"

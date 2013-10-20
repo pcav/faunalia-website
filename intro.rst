@@ -61,7 +61,6 @@ Paolo Cavallini |it| |pt|
 ...............................................................................
 
 .. image:: images/pc.jpg
-   :width: 150 px
    :align: left
 
 * Fondatore di Faunalia
@@ -89,7 +88,6 @@ Renzo Cavallini |it|
 ...............................................................................
 
 .. image:: images/rc.jpg
-   :width: 150 px
    :align: left
 
 * Geologo, specializzato in geofisica
@@ -108,7 +106,6 @@ Giovanni Manghi |pt|
 ...............................................................................
 
 .. image:: images/gm.jpg
-   :width: 150 px
    :align: left
 
 * Fondatore di Faunalia Portogallo
@@ -130,7 +127,6 @@ Vânia Neves |pt|
 ...............................................................................
 
 .. image:: images/vn.jpg
-   :width: 150 px
    :align: left
 
 * Fondatrice di Faunalia Portogallo
