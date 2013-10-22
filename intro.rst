@@ -59,10 +59,8 @@ L'attività di Faunalia si basa su una fitta rete internazionale di collaborator
 
 Paolo Cavallini |it| |pt|
 ...............................................................................
-.. rst-class:: thumbnail staff-img
 
 .. image:: images/pc.jpg
-   :width: 150 px
    :align: left
 
 * Fondatore di Faunalia
@@ -88,10 +86,8 @@ Paolo Cavallini |it| |pt|
 
 Renzo Cavallini |it|
 ...............................................................................
-.. rst-class:: thumbnail staff-img
 
 .. image:: images/rc.jpg
-   :width: 150 px
    :align: left
 
 * Geologo, specializzato in geofisica
@@ -108,9 +104,8 @@ Renzo Cavallini |it|
 
 Giovanni Manghi |pt|
 ...............................................................................
-.. rst-class:: thumbnail staff-img
+
 .. image:: images/gm.jpg
-   :width: 150 px
    :align: left
 
 * Fondatore di Faunalia Portogallo
@@ -130,9 +125,8 @@ Giovanni Manghi |pt|
 
 Vânia Neves |pt|
 ...............................................................................
-.. rst-class:: thumbnail staff-img
+
 .. image:: images/vn.jpg
-   :width: 150 px
    :align: left
 
 * Fondatrice di Faunalia Portogallo

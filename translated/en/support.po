@@ -27,7 +27,6 @@ msgstr "Support"
 
 # 78d8555ca6d64dc485ccdfed4709f286
 #: ../../support.rst:10
-#, fuzzy
 msgid ""
 "Faunalia è la prima società in Italia a fornire assistenza tecnica per "
 "QGIS_. La nostra assistenza assicura, in caso di problemi, un intervento "
@@ -39,25 +38,26 @@ msgid ""
 "private."
 msgstr ""
 "Faunalia is one of the first company in Europe to provide technical support "
-"for `QGIS <http://www.qgis.org/>`_. Our services ensure, in case of "
-"problems, early intervention and ongoing support for the immediate "
-"restoration of the normal workflow. In addition, being an active contributor "
-"to the development of software, Faunalia is able to ensure, at competitive "
-"costs, interventions of maximum effectiveness, and the possibility of "
-"customization of the proposed solutions, for individual users and for "
-"organizations, both public and private."
+"for QGIS_. Our services ensure, in case of problems, early intervention and "
+"ongoing support for the immediate restoration of the normal workflow. In "
+"addition, being an active contributor to the development of software, "
+"Faunalia is able to ensure, at competitive costs, interventions of maximum "
+"effectiveness, and the possibility of customization of the proposed "
+"solutions, for individual users and for organizations, both public and "
+"private."
 
 # 1b26eeb1960f4a4aa19a2de96f8e55ac
 #: ../../support.rst:12
-#, fuzzy
 msgid ""
-"In particolare, Faunalia garantisce `servizi professionali per QGIS <http://"
-"www.qgis.org/en/site/forusers/commercial_support.html>`_ (Desktop, Server e "
-"Web Client), GRASS_, PostgreSQL_ `e PostGIS <http://postgis.net/support/>`_:"
+"In particolare, Faunalia garantisce `servizi professionali per QGIS "
+"<http://www.qgis.org/en/site/forusers/commercial_support.html>`_ (Desktop, "
+"Server e Web Client), GRASS_, PostgreSQL_ `e PostGIS "
+"<http://postgis.net/support/>`_:"
 msgstr ""
-"Faunalia provides professional services to `QGIS <http://www.qgis.org/en/"
-"commercial-support.html>`_ (Desktop, Server e Web Client), GRASS_, "
-"PostgreSQL_ and `PostGIS <http://postgis.net/support>`_:"
+"Faunalia provides `professional services to QGIS "
+"<http://www.qgis.org/en/site/forusers/commercial_support.html>`_ (Desktop, "
+"Server e Web Client), GRASS_, PostgreSQL_ `and PostGIS "
+"<http://postgis.net/support>`_:"
 
 # f085741ebad245a78e054d8936399bf6
 #: ../../support.rst:14
@@ -66,13 +66,12 @@ msgstr "Installation, configuration and upgrades"
 
 # 87388a1633154706b13c18ed33ad5af0
 #: ../../support.rst:15
-#, fuzzy
 msgid ""
 "Migrazione da GIS proprietari (es. ArcGIS e Oracle Spatial) a GIS liberi "
 "(es. QGIS_ e PostGIS_)"
 msgstr ""
 "Migration from proprietary GIS (e.g. ArcGIS and Oracle Spatial) to free GIS "
-"(e.g. `QGIS <http://www.qgis.org/>`_ and `PostGIS <http://postgis.net/>`_)"
+"(e.g. QGIS_ and PostGIS_)"
 
 # 7e6a9430a67d4ebcaaecfd9b0a4f50ee
 #: ../../support.rst:16
