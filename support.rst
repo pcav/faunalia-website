@@ -18,6 +18,16 @@ In particolare, Faunalia garantisce `servizi professionali per QGIS <http://www.
 * Bug fixing su richiesta
 * Abbonamento agli annunci sulle novità importanti sui software GIS open source e liberi
 
+
+.. image :: images/qgis-logo-48x48.png
+
+.. image :: images/grass-gis-logo-48x48.png
+
+.. image :: images/postgres-logo-48x48.png
+
+.. image :: images/postgis-logo-48x48.png
+
+
 .. _QGIS: http://www.qgis.org/
 .. _GRASS: http://grass.osgeo.org/support/commercial-support/
 .. _PostgreSQL: http://www.postgresql.org/support/professional_support/europe/

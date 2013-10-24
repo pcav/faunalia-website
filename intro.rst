@@ -71,10 +71,8 @@ Paolo Cavallini |it| |pt|
 * Membro di `IUCN - The World Conservation Union - Species Survival Commission <http://www.iucn.org/>`_, ex Presidente dello *IUCN Small Carnivore Specialist Group* e membro dello *IUCN - European Sustainable Use Specialist Group*
 * Oltre 10 anni di esperienza sui GIS liberi
 * Dottore di ricerca
-
 * `Curriculum Vitae (html) <cv_pc_it.html>`__
 * `Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) <pdf/Cavallini_CV_eu.pdf>`__
-
 * *e-mail*: cavallini@faunalia.it - *PEC*: paolo.cavallini@pec.it
 * *Tel/Viber/Line*: +39-348-3801953
 * *Skype*: paolo.gg.cavallini
@@ -94,12 +92,10 @@ Renzo Cavallini |it|
 * Ha collaborato a livello scientifico e didattico con l'Università di Pisa
 * Ha pubblicato nel settore geofisico
 * Conduce attività di prospezione geotecnica, in laboratorio ed *in situ*
-
   * esecuzione ed elaborazione di prove di laboratorio su terreni naturali: consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), compressione semplice, analisi granulometrica, limiti di consistenza (LL, LP, LR), peso specifico dei granuli, permeabilità in cella edometrica, triassiale e in permeametro (norme seguite: racc. AGI, CNR, ASTM)
   * esecuzione ed elaborazione di prove di laboratorio su materiali stradali e da costruzione: compattazione Proctor Standard e modificata, penetrazione CBR, miscelazione delle terre con calce (norme seguite: EN, CNR, ASTM)
   * esecuzione ed elaborazione di prove in situ: penetrometriche statiche con punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o senza rivestimento, PLT, densità in situ
   * installazione e messa a punto di apparecchiature di laboratorio e di sistemi di acquisizione automatica; calibrazione di trasduttori elettrici
-
 * *e-mail*: renzo.cavallini@faunalia.it
 
 Giovanni Manghi |pt|
@@ -114,10 +110,8 @@ Giovanni Manghi |pt|
 * Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and Open-Source Software Association <http://osgeopt.pt/>`_
 * Membro di `IUCN - The World Conservation Union - *IUCN Small Carnivore Specialist Group* <http://www.iucn.org/>`_
 * Oltre 7 anni di esperienza sui GIS liberi
-
 * `Curriculum Vitae (html) <cv_gm_it.html>`__
 * `Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`__ - `europeo (pdf) <pdf/Manghi_CV_eu.pdf>`__
-
 * *e-mail*: giovanni.manghi@faunalia.pt
 * *Tel/Viber/Line*: +351967058216
 * *Skype*: toirao
@@ -133,10 +127,8 @@ Vânia Neves |pt|
 * Biologa specializzata in Conservation Biology
 * Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and Open-Source Software Association <http://osgeopt.pt/>`_
 * Oltre 7 anni di esperienza sui GIS liberi
-
 * `Curriculum Vitae (html) <cv_vn_it.html>`__
 * `Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`__ - `europeo (pdf) <pdf/Neves_CV_eu.pdf>`__
-
 * *e-mail*: vania.neves@faunalia.pt
 * *Tel/Viber/Line*: +351939320104
 * *Skype*: vaniavanilla

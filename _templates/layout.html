@@ -41,11 +41,11 @@
               <li>{% include "sourcelink.html" %}</li>
             {% endif %}
             <li>
-          {% block languageswitch %}
+          </ul>
+
+{% block languageswitch %}
             {% include "languageswitch.html" %}
           {% endblock %}
-          </li>
-          </ul>
 
 {#
           {% block sidebarsearch %}
@@ -108,7 +108,6 @@
             <!-- AddThis Follow END -->
 
 
-	<div class="container">
 	    <p>
 	    <br/>
 	    {%- if show_copyright %}
@@ -134,7 +133,6 @@
 	      {% endif %}
 	    </p>
 
-	</div>
     </div>
 
     </div> <!-- col-md-8 -->

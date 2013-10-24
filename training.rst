@@ -61,7 +61,9 @@ WebMapping com QGIS (PT)                 2-3 Dicembre 2013     25 Novembre      
 
 .. _IT: http://faunaliagis.wordpress.com/2013/09/10/corsi-speciali-gdalogr-avanzato-e-sviluppare-unapplicazione-web-geospaziale/
 
-* `Scarica il calendario (ics) <https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_
+.. cssclass :: wht
+
+`Scarica il calendario (ics) <https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_
 
 Costi
 +++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -77,6 +79,8 @@ Iscrizione
 * **Requisiti**: computer portatile in buono stato di funzionamento; i programmi necessari verranno installati durante il corso
 * **Attestato**: la partecipazione al corso dà diritto ad un attestato di partecipazione
 * **Pagamenti**: bonifico sul conto corrente di Faunalia (IBAN IT55 P052 3271 1310 0002 0048 369), indicando nella causale nome e cognome dell'iscritto e nome del corso; si raccomanda di inviare tutti i dati necessari per la fatturazione tramite il modulo qui di seguito
+
+.. cssclass :: wht
 
 `Iscriviti qui <subscr_form_it.html>`_
 

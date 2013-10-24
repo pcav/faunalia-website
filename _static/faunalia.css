@@ -4,14 +4,18 @@
 *
 * Sphinx stylesheet -- Twitter Bootstrap theme.
 */
+html{
+min-height:100%;
+position:relative;
+}
 
 h1, h2 {
 color:#7C7C7C;
 }
 
-.section a {
-color:#3fb83b !important;
-}
+.section a {color:#3fb83b !important;}
+#iscrizione a, #calendario a {color:#FFFFFF !important;}
+
 
 a.thumbnail:hover, a.thumbnail:focus{
 border-color:#79c378 !important;
@@ -20,7 +24,6 @@ background-color: #9ee39d !important;
 
 .navbar-brand {
 color: #fae345 !important;
-text-shadow: #505050 0 1px 0 !important;
 display:inline;
 }
 
@@ -51,19 +54,22 @@ border-top-color:#e6ca1f !important;
 }
 
 select {
+float:right;
+background-color: #51a351 !important;
 padding:2px 5px;
     margin: 11px 0 0 15px !important;
     border-radius:4px;
     -webkit-box-shadow: 
         0 0px 0 #ccc,
         0 0px #fff inset;
-    color:#707070;
+    color:#e6ca1f !important;
     border:none;
     outline:none;
     display: inline-block;
-    -webkit-appearance:none; 
+    -webkit-appearance:button; 
+	appearance:button;
     cursor:pointer;
-    border: 1px solid #ccc;
+    border: 1px solid #e6ca1f;
    }
    
 .topcont{
@@ -120,11 +126,11 @@ margin:20px 0 20px 0 !important;
 	text-align:center;
 }
 
-.svi p a, .ass p a, .cor p a{
+.svi p a, .ass p a, .cor p a, .wht{
 	width:25% !important;
 	margin: 0 auto 0 auto !important;
 	color:#FFFFFF !important;
-	ont-family: Arial, Helvetica, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
 	padding: 10px 20px;
 	background:#51a351;
@@ -173,6 +179,9 @@ margin:20px 0 20px 0 !important;
 		0px 1px 0px rgba(255,255,255,0.3);
 }
 
+#sviluppo img, #assistenza img {
+margin:20px 30px 30px 0;
+}
 
 {% if theme_navbar_fixed_top == 'true' %}
 body {
@@ -227,21 +236,26 @@ table.field-list {
 }
 
 .footer {
+  position:relative;
+  bottom:0;
+margin:100px 0 0 0 !important;
   width: 100%;
   border-top: 1px solid #ccc;
   padding-top: 10px;
   font-size: small;
   line-height: 1em;
-  background-color: #7C7C7C !important;
+  background-color: #A2A2A2 !important;
   color:#333333 !important;
 }
 
 .footer h3{
-color:#E0E0E0;
+color:#333333;
+text-shadow:#E9E9E9 0 1px 0;
+margin:30px 0 30px 0;}
+.footer p{
 }
-
 .footer a{
-color:#acabab;
+color:#000000;
 }
 
 .footer a:hover{
@@ -259,9 +273,11 @@ background-color:#79c378 !important;
 
 .bs-sidenav .nav > li > a {
 color:#FFFFFF !important;
+text-shadow:none !important;
 }
 
 .bs-sidenav .nav > li > a:hover {
 background-color: #9ee39d !important;
 color:#333333 !important;
+text-shadow:none !important;
 }
