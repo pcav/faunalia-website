@@ -68,7 +68,7 @@ You're welcome to add your most needed plugin, either by writing it on your own,
 Join the group!
 ...............................................................................
 
-AniMove lives thanks to the efforts of many people, which contributed through time. Your help would therefore be much appreciated. This could be a suitable project for a MSc thesis. You can collaborate by testing the software, writing manuals and other. Please subscribe to the mailing list http://lists.faunalia.it/cgi-bin/mailman/listinfo/animov or write us info@faunalia.eu if you are interested.
+AniMove lives thanks to the efforts of many people, which contributed through time. Your help would therefore be much appreciated. This could be a suitable project for a MSc thesis. You can collaborate by testing the software, writing manuals and other. Please subscribe to the `mailing list <http://lists.faunalia.it/cgi-bin/mailman/listinfo/animov>`_ or write us (info@faunalia.eu) if you are interested.
 
 
 **Faunalia provides ongoing support to the project**
