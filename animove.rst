@@ -29,7 +29,7 @@ AniMove for Sextante
 
 It implements kernel analyses and restricted MCP in Pure Python_, without the need to install R and its libraries.
 
-The plugin is available through the ​`QGIS official repository <http://plugins.qgis.org/plugins/sextante_animove/>`_.
+The plugin is available through the `QGIS official repository <http://plugins.qgis.org/plugins/sextante_animove/>`__.
 
 **Please note**: the plugin works on QGIS_ 1.8, not on 2.0. If you are interested in upgrading it, please contact us.
 
@@ -45,7 +45,7 @@ A few notes:
 * if a HR is a multipolygon, it is rotated and moved as a whole
 * for very small ranges, rounding errors may cause problem; however, this is insignificant for any animal with home ranges larger then 10 m2 
 
-The plugin is available through the `QGIS official repository <http://plugins.qgis.org/plugins/randomHR/>`_.
+The plugin is available through the `QGIS official repository <http://plugins.qgis.org/plugins/randomHR/>`__.
 
 **Please note**: the plugin works on QGIS_ 1.8, not on 2.0. If you are interested in upgrading it, please contact us.
 
@@ -56,7 +56,7 @@ Triangulation
 
 It calculates the position of an anmial from its bearings.
 
-The plugin is available through the `QGIS official repository <http://plugins.qgis.org/plugins/triangulation/>`_.
+The plugin is available through the `QGIS official repository <http://plugins.qgis.org/plugins/triangulation/>`__.
 
 **Please note**: the plugin works on QGIS_ 1.8, not on 2.0. If you are interested in upgrading it, please contact us.
 
