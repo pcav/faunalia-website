@@ -29,7 +29,7 @@ AniMove for Sextante
 
 It implements kernel analyses and restricted MCP in Pure Python_, without the need to install R and its libraries.
 
-The plugin is available through the ​`QGIS official repository <http://plugins.qgis.org/sextante_animove/>`_.
+The plugin is available through the ​`QGIS official repository <http://plugins.qgis.org/plugins/sextante_animove/>`_.
 
 **Please note**: the plugin works on QGIS_ 1.8, not on 2.0. If you are interested in upgrading it, please contact us.
 
