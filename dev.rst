@@ -6,6 +6,7 @@
     :hidden:
 
     LRS <lrs>
+    AniMove <animove>
 
 .. |it| image:: images/italy.png
 .. |pt| image:: images/portugal.png
