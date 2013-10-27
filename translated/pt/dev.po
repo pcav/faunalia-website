@@ -36,12 +36,14 @@ msgid ""
 "Sviluppo di plugin per QGIS_ (*core*: GDALTools, DB Manager; *custom*: "
 "`lista dei plugins sviluppati <http://plugins.qgis.org/search/?q=faunalia>`_)"
 msgstr ""
+"Desenvolvimento de extensões para QGIS_ (*core*: GDALTools, DB Manager; "
+"*custom*: `lista: <http://plugins.qgis.org/search/?q=faunalia>`_)"
 
 # 5b38585e1e384ef6bb57dfd79cb4902b
 #: ../../dev.rst:19
 msgid ""
-"Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/"
-"OGR <http://www.gdal.org/>`_"
+"Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, "
+"`GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
 "Desenvolvimento de novas funcionalidades para QGIS_, PostGIS_, GRASS_, "
 "MapServer_, `GDAL/OGR <http://www.gdal.org/>`_"
@@ -52,8 +54,8 @@ msgid ""
 "Riparazione dei malfunzionamenti per QGIS_, PostGIS_, GRASS_, MapServer_, "
 "`GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
-"Correcção de bugs de QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR <http://"
-"www.gdal.org/>`_"
+"Correcção de bugs de QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR "
+"<http://www.gdal.org/>`_"
 
 # d650ef8ee81b4e4584a51093561c5e93
 #: ../../dev.rst:21
