@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-24 17:43+0200\n"
+"POT-Creation-Date: 2013-11-02 08:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,36 +21,36 @@ msgstr ""
 "X-Source-Language: it_IT\n"
 
 # 4e4267e056b54b4285d741002e12df7c
-#: ../../dev.rst:14
+#: ../../dev.rst:15
 msgid "Sviluppo"
 msgstr "Développement"
 
 # a765048a1a764d1aacdbff50d85a3c8d
-#: ../../dev.rst:16
+#: ../../dev.rst:17
 msgid "Faunalia fornisce:"
 msgstr "Faunalia propose:"
 
 # 871178ef43dc4d0292270cfe68e0df13
-#: ../../dev.rst:18
+#: ../../dev.rst:19
 msgid ""
 "Sviluppo di plugin per QGIS_ (*core*: GDALTools, DB Manager; *custom*: "
 "`lista dei plugins sviluppati <http://plugins.qgis.org/search/?q=faunalia>`_)"
 msgstr ""
 "le développement des extensions pour QGIS_ (*core*: GDALTools, DB Manager; "
-"*custom*: `liste des extensions développées par Faunalia "
-"<http://plugins.qgis.org/search/?q=faunalia>`_)"
+"*custom*: `liste des extensions développées par Faunalia <http://plugins."
+"qgis.org/search/?q=faunalia>`_)"
 
 # 5b38585e1e384ef6bb57dfd79cb4902b
-#: ../../dev.rst:19
+#: ../../dev.rst:20
 msgid ""
-"Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, "
-"`GDAL/OGR <http://www.gdal.org/>`_"
+"Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/"
+"OGR <http://www.gdal.org/>`_"
 msgstr ""
 "le développement de nouvelles fonctionnalités pour QGIS_, PostGIS_, GRASS_, "
 "MapServer_, `GDAL/OGR <http://www.gdal.org/>`_ "
 
 # cf99310f7e6e429a841b3f255af7dd46
-#: ../../dev.rst:20
+#: ../../dev.rst:21
 msgid ""
 "Riparazione dei malfunzionamenti per QGIS_, PostGIS_, GRASS_, MapServer_, "
 "`GDAL/OGR <http://www.gdal.org/>`_"
@@ -59,27 +59,27 @@ msgstr ""
 "MapServer_, `GDAL/OGR <http://www.gdal.org/>`_ "
 
 # d650ef8ee81b4e4584a51093561c5e93
-#: ../../dev.rst:21
+#: ../../dev.rst:22
 msgid "Sviluppo di applicazioni webGIS ad hoc"
 msgstr "le développement d'applications webGIS personnalisées"
 
 # dfe28156cafb481dbf5fce372538fc3f
-#: ../../dev.rst:23
+#: ../../dev.rst:24
 msgid "Garantiamo che tutto il codice sviluppato:"
 msgstr "Nous fournissons la garantie que tout le code développé:"
 
 # a66b6e581f2549c2817abb09f3eb1f1d
-#: ../../dev.rst:25
+#: ../../dev.rst:26
 msgid "è pubblicato con licenza libera ed open source"
 msgstr "est publié avec une licence libre et en open source"
 
 # e9533e31a92d4e6caba072eab2464cbb
-#: ../../dev.rst:26
+#: ../../dev.rst:27
 msgid "viene incluso nel codice sorgente ufficiale dei rispettivi progetti"
 msgstr "est inclus dans le code source des projets principaux"
 
 # c746457b76d44f6a842b3ce1ec6be241
-#: ../../dev.rst:28
+#: ../../dev.rst:29
 msgid ""
 "In questo modo sarete certi della sua fruibilità e facilità di manutenzione "
 "anche nel futuro."
@@ -88,7 +88,7 @@ msgstr ""
 "et dans le futur."
 
 # a651117ca4a943738387342da7f07ecc
-#: ../../dev.rst:30
+#: ../../dev.rst:31
 msgid ""
 "Faunalia ha sviluppato direttamente, già da molti anni, funzioni per tutti i "
 "software sopra elencati e fra i nostri collaboratori annoveriamo molti dei "

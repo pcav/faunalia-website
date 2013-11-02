@@ -12,6 +12,7 @@
     Attività <jobs>
     Chi siamo <intro>
     Error <404>
+    Dummy <dummy>
 
 .. cssclass :: topcont
 
