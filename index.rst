@@ -24,7 +24,7 @@ Faunalia
 
 Sistemi informativi territoriali liberi ed open source
 
-.. cssclass :: col-md-4 svi
+.. cssclass :: col-md-4  svi
 
 Sviluppo
 =============================================================================
@@ -42,7 +42,7 @@ Vuoi la certezza e la tranquillità di un supporto costante per la soluzione dei
 
 :doc:`More info <support>`
 
-.. cssclass :: col-md-4 cor
+.. cssclass :: col-md-4  cor
 
 Corsi
 ===========================================================================

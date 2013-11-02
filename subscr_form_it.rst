@@ -101,48 +101,91 @@ Modulo di iscrizione
 			}
 		}
 	?>
-	<form action="subscr_form_it.html" method="post" class="form-horizontal">
-	<div class="control-group">
-	<label for="edit-submitted-nome" class="control-label">Nome <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<div class="controls">
-	<input type="text" id="edit-submitted-nome" name="nome" value="<?=$nome ?>" size="60" maxlength="128" class="input-xlarge required" />
-	</div>
-	<label for="edit-submitted-cognome" class="control-label">Cognome <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<div class="controls>
-	<input type="text" id="edit-submitted-cognome" name="cognome" value="<?=$cognome ?>" size="60" maxlength="128" class="input-xlarge required" />
-	</div>
-	<label for="edit-submitted-indirizzo" class="control-label">Indirizzo <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<div class="controls">
-	<input type="text" id="edit-submitted-indirizzo" name="indirizzo" value="<?=$indirizzo ?>" size="60" maxlength="128" class="input-xlarge required" />
-	</div>
-	<label for="edit-submitted-telefono" class="control-label">Telefono <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<div class="controls">
-	<input type="text" id="edit-submitted-telefono" name="telefono" value="<?=$telefono ?>" size="60" maxlength="128" class="input-xlarge required" />
-	</div>
-	<label for="edit-submitted-e-mail" class="control-label">E-Mail <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<div class="controls">
-	<input class="email input-xlarge form-email required" type="email" value="<?=$email ?>" id="edit-submitted-e-mail" name="email" size="60" />
-	</div>
-	<label for="edit-submitted-corso" class="control-label">Corso <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<div class="controls">
-	<select id="edit-submitted-corso" name="corso" class="input-xlarge required">
+<form class="form-horizontal">
+<fieldset>
+
+<!-- Text input-->
+<div class="control-group">
+  <label class="control-label" for="edit-submitted-nome">Nome  <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+  <div class="controls">
+    <input id="edit-submitted-nome" name="nome" value="<?=$nome ?>" type="text" placeholder="" class="input-xlarge" required=""> 
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="control-group">
+  <label class="control-label" for="edit-submitted-cognome">Cognome  <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+  <div class="controls">
+    <input id="edit-submitted-cognome" name="cognome" value="<?=$cognome ?>" type="text" placeholder="" class="input-xlarge" required="">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="control-group">
+  <label class="control-label" for="edit-submitted-indirizzo">Indirizzo  <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+  <div class="controls">
+    <input id="edit-submitted-indirizzo" name="indirizzo" value="<?=$indirizzo ?>" type="text" placeholder="" class="input-xlarge" required="">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="control-group">
+  <label class="control-label" for="edit-submitted-telefono">Telefono  <span class="form-required" title="Questo campo è obbligatorio.">*</span> </label>
+  <div class="controls">
+    <input id="edit-submitted-telefono" name="telefono" value="<?=$telefono ?>" type="text" placeholder="" class="input-xlarge" required="">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="control-group">
+  <label class="control-label" for="edit-submitted-e-mail">E-Mail  <span class="form-required" title="Questo campo è obbligatorio.">*</span> </label>
+  <div class="controls">
+    <input id="edit-submitted-e-mail" name="email" value="<?=$email ?>" type="text" placeholder="" class="input-xlarge" required="">
+    
+  </div>
+</div>
+
+<!-- Select Basic -->
+<div class="control-group">
+  <label class="control-label" for="edit-submitted-corso">Corso  <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+  <div class="controls">
+    <select id="edit-submitted-corso" name="corso" class="input-xlarge">
 		<option value="" <?php if ($corso=="") echo 'selected="selected"';?> >- Scegliere -</option>
 		<option value="qgis_cartografia" <?php if ($corso=="qgis_cartografia") echo 'selected="selected"';?> >QGIS cartografia</option>
 		<option value="qgis_analisi" <?php if ($corso=="qgis_analisi") echo 'selected="selected"';?> >QGIS analisi</option>
 		<option value="pyqgis" <?php if ($corso=="pyqgis") echo 'selected="selected"';?> >Python-QGIS</option>
 		<option value="postgis" <?php if ($corso=="postgis") echo 'selected="selected"';?> >Geodatabase</option>
 		<option value="webgis" <?php if ($corso=="webgis") echo 'selected="selected"';?> >WebMapping</option>
-	</select>
-	</div>
-	<label for="edit-submitted-dati-per-fatturazione" class="control-label">Dati per fatturazione <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<div class="controls">
-	<textarea id="edit-submitted-dati-per-fatturazione" name="dati_per_fatturazione" cols="60" rows="5" class="input-xlarge required"><?php echo htmlspecialchars($dati_per_fatturazione); ?></textarea></div>
-	</div>
- 
-	<label for="edit-submitted-note" class="control-label">Note </label>
-	<div class="controls">
-	<textarea id="edit-submitted-note" name="note" cols="60" rows="5" class="input-xlarge"><?php echo htmlspecialchars($note); ?></textarea>
- 	 </div>
-	</br></br>
-	<input type="submit" name="SUBMIT" value="Invia" class="btn btn-success"/>
-	</form>
+    </select>
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="control-group">
+  <label class="control-label" for="edit-submitted-dati-per-fatturazione">Dati per fatturazione  <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+  <div class="controls">                     
+    <textarea id="edit-submitted-dati-per-fatturazione" name="textarea"><?php echo htmlspecialchars($dati_per_fatturazione); ?></textarea>
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="control-group">
+  <label class="control-label" for="edit-submitted-note">Note</label>
+  <div class="controls">                     
+    <textarea id="edit-submitted-note" name="note"><?php echo htmlspecialchars($note); ?></textarea>
+  </div>
+</div>
+
+<!-- Button -->
+<div class="control-group">
+  <label class="control-label" for="singlebutton"></label>
+  <div class="controls">
+    <input type="submit" id="SUBMIT" name="submit" class="btn btn-success">Invia</button>
+  </div>
+</div>
+
+</fieldset>
+</form>
