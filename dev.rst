@@ -30,20 +30,22 @@ In questo modo sarete certi della sua fruibilità e facilità di manutenzione an
 
 Faunalia ha sviluppato direttamente, già da molti anni, funzioni per tutti i software sopra elencati e fra i nostri collaboratori annoveriamo molti dei più importanti sviluppatori di questi progetti.
 
+.. image :: images/qgis-logo-48x48.png
+   :target: QGIS_
+
+.. image :: images/grass-gis-logo-48x48.png
+   :target: GRASS_
+
+.. image :: images/gdal-logo-48x48.png
+   :target: http://www.gdal.org/
+
+.. image :: images/mapserver-logo.png
+   :target: MapServer_
+
+.. image :: images/postgis-logo-48x48.png
+   :target: PostGIS_
+
 .. _QGIS: http://www.qgis.org/
 .. _PostGIS: http://postgis.net/
 .. _GRASS: http://grass.osgeo.org/
 .. _MapServer: http://mapserver.org/
-
-
-.. image :: images/qgis-logo-48x48.png
-
-.. image :: images/grass-gis-logo-48x48.png
-
-.. image :: images/gdal-logo-48x48.png
-
-.. image :: images/mapserver-logo.png
-
-.. image :: images/postgis-logo-48x48.png
-
-
