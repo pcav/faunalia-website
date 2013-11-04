@@ -127,7 +127,7 @@ font-size:.8em !important;
    
 .topcont{
 	width:100%;
-	 background: url('file:_images/isolines.jpg');
+	 background: url('../_images/isolines.jpg');
 	 border:1px solid #E9E9E9;
 	 margin:20px 0 0 0;
 }
