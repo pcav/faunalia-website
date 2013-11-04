@@ -1,6 +1,6 @@
 .. meta::
    :description: Faunalia home page
-   :keywords: GIS, QGIS, GRASS, OTB, PostGIS, PostgreSQL, WebMapping, MapServer, WebGISfree, Python, C++, SDI, OsGeo, OGC, assistenza, supporto, corsi, formazione, sviluppo, programmazione, risoluzione bugs, support, training, development, bug fixing, Open Source, Free Software, plugin, extensions, Software Libero, plugins, estensioni, formação,Software Livre, Software Aberto, extensões, IDE, desenvolvimento, programação, suporte, resolução bugs
+   :keywords: Open Source, Free Software, Software libero, Software Livre, Software Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, lavori, clienti, jobs, clients, trabalhos, clientes
 
 .. |it| image:: images/italy.png
 .. |pt| image:: images/portugal.png

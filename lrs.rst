@@ -1,6 +1,6 @@
 .. meta::
    :description: Faunalia linear referencing plugin
-   :keywords: GIS, QGIS, GRASS, OTB, PostGIS, plugins, estensioni
+   :keywords: GIS, QGIS, plugins, estensioni, extension, plugin, extensão, linear referencing, python
 
 Linear referencing plugin: Calculate dynamic segmentation for PostGIS layers
 --------------------------------------------------------------------------------------------------
