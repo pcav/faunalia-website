@@ -149,14 +149,14 @@ Modulo di iscrizione
 	<div class="form-group">
 	<label for="edit-submitted-dati-per-fatturazione" class="col-sm-3 control-label">Dati per fatturazione <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
 	<div class="col-sm-9">
-	<textarea id="edit-submitted-dati-per-fatturazione" name="dati_per_fatturazione" cols="60" rows="5" class="form-control"><?php echo htmlspecialchars($dati_per_fatturazione); ?></textarea></div>
+	<textarea id="edit-submitted-dati-per-fatturazione" name="dati_per_fatturazione" cols="60" rows="5" class="form-control"><?php echo htmlspecialchars($dati_per_fatturazione); ?></textarea>
 	</div>
 	</div
  
 	<div class="form-group">
-	<label for="edit-submitted-note" class="col-sm-3 control-label">Note </label>
+	<label for="edit-submitted-note" class="col-sm-3 control-label text-right">Note</label>
 	<div class="col-sm-9">
-	<textarea id="edit-submitted-note" name="note" class="form-control"><?php echo htmlspecialchars($note); ?></textarea><br><br>
+	<textarea id="edit-submitted-note" name="note" cols="60" rows="5" class="form-control"><?php echo htmlspecialchars($note); ?></textarea><br><br>
  	 </div>
 	</div>
 	

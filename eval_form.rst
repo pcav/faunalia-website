@@ -358,14 +358,14 @@ Minimo 0, Massimo 5
 	<div class="form-group">	
 	 <label for="edit-submitted-sito control-label" class="col-sm-3 control-label">Sito</label>
 	 <div class="col-sm-9">
-	<input type="text" id="edit-submitted-sito" name="sito" value="<?=$sito ?>" size="60" maxlength="128" class="input-xlarge" />
+	<input type="text" id="edit-submitted-sito" name="sito" value="<?=$sito ?>" size="60" maxlength="128" class="form-control" />
 	</div>
 	</div>
 
 	<div class="form-group">
 	<label for="edit-submitted-quale" class="col-sm-3 control-label">Quale </label>
 	<div class="col-sm-9">
-	<input type="text" id="edit-submitted-quale" name="quale" value="<?=$quale ?>" size="60" maxlength="128" class="input-xlarge" />
+	<input type="text" id="edit-submitted-quale" name="quale" value="<?=$quale ?>" size="60" maxlength="128" class="form-control" />
 	</div>
 	</div>
 	
