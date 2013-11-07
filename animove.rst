@@ -25,7 +25,7 @@ Developing python plugins for QGIS is easy, cheap, and fast. Our aim is to have 
 AniMove for Sextante
 ...............................................................................
 
-*Developers*: Fernando Gonzalez, Jorge Arevalo , Francesco Boccacci
+*Developers*: Víctor González, Jorge Arevalo , Francesco Boccacci
 
 It implements kernel analyses and restricted MCP in Pure Python_, without the need to install R and its libraries.
 
