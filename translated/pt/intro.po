@@ -295,7 +295,7 @@ msgstr "Investigador (PhD)"
 # 7e88d4c193e8445f9729faedcd714934
 #: ../../intro.rst:74
 msgid "`Curriculum Vitae (html) <cv_pc_it.html>`__"
-msgstr "`Curriculum Vitae (html) <cv_pc_it.html>`__"
+msgstr "`Curriculum Vitae (html) <cv_pc_pt.html>`__"
 
 # efe1417214834e749831e8ba73cca493
 #: ../../intro.rst:75
@@ -303,7 +303,7 @@ msgid ""
 "`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) "
 "<pdf/Cavallini_CV_eu.pdf>`__"
 msgstr ""
-"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) "
+"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_pt.pdf>`__ - `europeo (pdf) "
 "<pdf/Cavallini_CV_eu.pdf>`__"
 
 # b956ac317a9e43e3b3eba330e2a527c9
@@ -413,7 +413,7 @@ msgstr "Mais de 7 anos de experiencia sobre SIG livres"
 # 95dca4087d374ece822ccbd1aee35dec
 #: ../../intro.rst:113
 msgid "`Curriculum Vitae (html) <cv_gm_it.html>`__"
-msgstr "`Curriculum Vitae (html) <cv_gm_it.html>`__"
+msgstr "`Curriculum Vitae (html) <cv_gm_pt.html>`__"
 
 # 3b8d4881b4ef49a9ae33dfff59d647d0
 #: ../../intro.rst:114
@@ -421,7 +421,7 @@ msgid ""
 "`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`__ - `europeo (pdf) "
 "<pdf/Manghi_CV_eu.pdf>`__"
 msgstr ""
-"`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`__ - `europeo (pdf) "
+"`Curriculum Vitae (pdf) <pdf/Manghi_CV_pt.pdf>`__ - `europeo (pdf) "
 "<pdf/Manghi_CV_eu.pdf>`__"
 
 # 3472687752ef4624a6d1046f9ab20882
@@ -471,7 +471,7 @@ msgstr ""
 # f2e2c08f2fe54447b9ddb4ca52b3af41
 #: ../../intro.rst:130
 msgid "`Curriculum Vitae (html) <cv_vn_it.html>`__"
-msgstr "`Curriculum Vitae (html) <cv_vn_it.html>`__"
+msgstr "`Curriculum Vitae (html) <cv_vn_pt.html>`__"
 
 # f6ae1371bb6049548203415bdea4393e
 #: ../../intro.rst:131
@@ -479,7 +479,7 @@ msgid ""
 "`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`__ - `europeo (pdf) "
 "<pdf/Neves_CV_eu.pdf>`__"
 msgstr ""
-"`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`__ - `europeo (pdf) "
+"`Curriculum Vitae (pdf) <pdf/Neves_CV_pt.pdf>`__ - `europeo (pdf) "
 "<pdf/Neves_CV_eu.pdf>`__"
 
 # 12db5196f90647d8b593e6b4c685d9d4
