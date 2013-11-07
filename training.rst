@@ -2,7 +2,7 @@
 
 .. meta::
    :description: Faunalia home page
-   :keywords: Open Source, Free Software, Software libero, Software Livre, Software Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, Webmapping, Webgis, Websig, Mapserver, QGIS Server, Lizmap, QGIS Web Client, corsi, formazione, training courses, formação, cursos, Database geografico, Base de dados geográfica
+   :keywords: Open Source, Free Software, Software libero, Software Livre, Software Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, Webmapping, Webgis, Websig, Mapserver, QGIS Server, Lizmap, QGIS Web Client, corsi, formazione, training courses, formação, cursos, Database geografico, Base de dados geográfica, formation
 
 .. |it| image:: images/italy.png
 .. |pt| image:: images/portugal.png

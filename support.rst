@@ -1,6 +1,6 @@
 .. meta::
-   :description: Faunalia home page
-   :keywords: Open Source, Free Software, Software libero, Software Livre, Software Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, supporto, assistenza, risoluzione bugs, migrazione, support, bug fixing, migration, suporte, assistência, resolução bugs, migração
+   :description: Faunalia support
+   :keywords: Open Source, Free Software, Software libero, Software Livre, Software Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, supporto, assistenza, risoluzione bugs, migrazione, support, bug fixing, migration, suporte, assistência, resolução bugs, migração, développement
 
 .. |it| image:: images/italy.png
 .. |pt| image:: images/portugal.png

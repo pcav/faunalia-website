@@ -1,6 +1,6 @@
 .. meta::
    :description: Faunalia home page
-   :keywords: Open Source, Free Software, Software libero, Software Livre, Software Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, lavori, clienti, jobs, clients, trabalhos, clientes
+   :keywords: Open Source, Free Software, Software libero, Software Livre, Software Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, lavori, clienti, jobs, clients, trabalhos, clientes, travaux, clients
 
 .. |it| image:: images/italy.png
 .. |pt| image:: images/portugal.png

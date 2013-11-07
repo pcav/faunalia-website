@@ -1,6 +1,6 @@
 .. meta::
-   :description: Faunalia home page
-   :keywords: Open Source, Free Software, Software libero, Software Livre, Software Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, python, plugin, C++, sviluppo, programmazione, development, desenvolvimento, programação, risoluzione problemi, bug fixing, resolução problemas
+   :description: Faunalia development
+   :keywords: Open Source, Free Software, Software libero, Software Livre, Software Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, python, plugin, C++, sviluppo, programmazione, development, desenvolvimento, programação, développement, desarrollo, risoluzione problemi, bug fixing, resolução problemas, reparación de fallos
 
 .. toctree::
     :hidden:
