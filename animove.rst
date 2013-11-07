@@ -1,6 +1,6 @@
 .. meta::
    :description: AniMove home page
-   :keywords: GIS, QGIS, kerna analyses, animal home range
+   :keywords: GIS, QGIS, kernel analyses, animal home range, R, python
 
 AniMove - Animal Movements: A collaborative project
 -------------------------------------------------------------------------------

@@ -1,4 +1,4 @@
-Subscription form
+Modulo di iscrizione
 -------------------------------------------------------------------------------
 
 .. raw:: html
@@ -101,41 +101,71 @@ Subscription form
 			}
 		}
 	?>
-	<form action="subscr_form_en.html" method="post">
-
-	<label for="edit-submitted-nome">Name <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-nome" name="nome" value="<?=$nome ?>" size="60" maxlength="128" class="input-xlarge required" />
-
-	<label for="edit-submitted-cognome">Surname <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-cognome" name="cognome" value="<?=$cognome ?>" size="60" maxlength="128" class="input-xlarge required" />
-
-	<label for="edit-submitted-indirizzo">Address <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-indirizzo" name="indirizzo" value="<?=$indirizzo ?>" size="60" maxlength="128" class="input-xlarge required" />
-
-	<label for="edit-submitted-telefono">Phone <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input type="text" id="edit-submitted-telefono" name="telefono" value="<?=$telefono ?>" size="60" maxlength="128" class="input-xlarge required" />
-
-	<label for="edit-submitted-e-mail">E-Mail <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<input class="email input-xlarge form-email required" type="email" value="<?=$email ?>" id="edit-submitted-e-mail" name="email" size="60" />
-
-	<label for="edit-submitted-corso">Course <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-	<select id="edit-submitted-corso" name="corso" class="input-xlarge required">
+	<form action="subscr_form_it.html" method="post" class="form-horizontal">
+	<div class="form-group">
+	<label for="edit-submitted-nome" class="col-sm-3 control-label">First Name <span class="form-required" title="This field is mandatory.">*</span></label>
+	<div class="col-sm-9">
+	<input type="text" id="edit-submitted-nome" name="nome" value="<?=$nome ?>" size="60" maxlength="128" class="form-control" />
+	</div>
+	</div>
+	<div class="form-group">
+	<label for="edit-submitted-cognome" class="col-sm-3 control-label">Last Name <span class="form-required" title="This field is mandatory.">*</span></label>
+	<div class="col-sm-9">
+	<input type="text" id="edit-submitted-cognome" name="cognome" value="<?=$cognome ?>" size="60" maxlength="128" class="form-control" />
+	</div>
+	</div>
+	<div class="form-group">
+	<label for="edit-submitted-indirizzo" class="col-sm-3 control-label">Address <span class="form-required" title="This field is mandatory.">*</span></label>
+	<div class="col-sm-9">
+	<input type="text" id="edit-submitted-indirizzo" name="indirizzo" value="<?=$indirizzo ?>" size="60" maxlength="128" class="form-control" />
+	</div>
+	</div>
+	<div class="form-group">
+	<label for="edit-submitted-telefono" class="col-sm-3 control-label">Phone <span class="form-required" title="This field is mandatory.">*</span></label>
+	<div class="col-sm-9">
+	<input type="text" id="edit-submitted-telefono" name="telefono" value="<?=$telefono ?>" size="60" maxlength="128" class="form-control" />
+	</div>
+	</div>
+	<div class="form-group">
+	<label for="edit-submitted-e-mail" class="col-sm-3 control-label">E-Mail <span class="form-required" title="This field is mandatory.">*</span></label>
+	<div class="col-sm-9">
+	<input class="form-control" type="email" value="<?=$email ?>" id="edit-submitted-e-mail" name="email" size="60" />
+	</div>
+	</div>
+	<div class="form-group">
+	<label for="edit-submitted-corso" class="col-sm-3 control-label">Training Course <span class="form-required" title="This field is mandatory.">*</span></label>
+	<div class="col-sm-9">
+	<select id="edit-submitted-corso" name="corso" class="form-control">
 		<option value="" <?php if ($corso=="") echo 'selected="selected"';?> >- choose -</option>
-		<option value="qgis_cartografia" <?php if ($corso=="qgis_cartografia") echo 'selected="selected"';?> >QGIS cartografia</option>
-		<option value="qgis_analisi" <?php if ($corso=="qgis_analisi") echo 'selected="selected"';?> >QGIS analisi</option>
-		<option value="pyqgis" <?php if ($corso=="pyqgis") echo 'selected="selected"';?> >Python-QGIS</option>
-		<option value="postgis" <?php if ($corso=="postgis") echo 'selected="selected"';?> >Geodatabase</option>
-		<option value="webgis" <?php if ($corso=="webgis") echo 'selected="selected"';?> >WebMapping</option>
+		<option value="qgis_cartografia" <?php if ($corso=="qgis_cartografia") echo 'selected="selected"';?> >QGIS cartografia (IT)</option>
+		<option value="qgis_analisi" <?php if ($corso=="qgis_analisi") echo 'selected="selected"';?> >QGIS analisi (IT)</option>
+		<option value="pyqgis" <?php if ($corso=="pyqgis") echo 'selected="selected"';?> >Python-QGIS (IT)</option>
+		<option value="postgis" <?php if ($corso=="postgis") echo 'selected="selected"';?> >Geodatabase (IT)</option>
+		<option value="webgis" <?php if ($corso=="webgis") echo 'selected="selected"';?> >WebMapping (IT)</option>
+		<option value="WebMapping com QGIS" <?php if ($corso=="webgis") echo 'selected="selected"';?> >WebMapping com QGIS (PT)</option>
 	</select>
+	</div>
+	</div>
+	
+	<div class="form-group">
+	<label for="edit-submitted-dati-per-fatturazione" class="col-sm-3 control-label">Data for invoice <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+	<div class="col-sm-9">
+	<textarea id="edit-submitted-dati-per-fatturazione" name="dati_per_fatturazione" cols="60" rows="5" class="form-control"><?php echo htmlspecialchars($dati_per_fatturazione); ?></textarea>
+	</div>
+	</div
+ 
+	<div class="form-group">
+	<label for="edit-submitted-note" class="col-sm-3 control-label text-right">Notes</label>
+	<div class="col-sm-9">
+	<textarea id="edit-submitted-note" name="note" cols="60" rows="5" class="form-control"><?php echo htmlspecialchars($note); ?></textarea><br><br>
+ 	 </div>
+	</div>
+	
+	<div class="form-group">
+	<div class="col-sm-3"></div>
+	<div class="col-sm-9">
+	<button type="submit" name="SUBMIT" value="Send" class="btn btn-success">Send</button>
+	</div>
+	</div>
 
-	<label for="edit-submitted-dati-per-fatturazione">Data for invoice <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
-
-	<textarea id="edit-submitted-dati-per-fatturazione" name="dati_per_fatturazione" cols="60" rows="5" class="input-xlarge required"><?php echo htmlspecialchars($dati_per_fatturazione); ?></textarea></div>
-
-  <div>
-	<label for="edit-submitted-note">Notes </label>
-	<textarea id="edit-submitted-note" name="note" cols="60" rows="5" class="input-xlarge"><?php echo htmlspecialchars($note); ?></textarea>
-  </div>
-
-	<input type="submit" name="SUBMIT" value="Send" class="btn btn-primary"/>
 	</form>
