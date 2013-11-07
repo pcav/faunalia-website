@@ -1,3 +1,51 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
 * bootstrap-sphinx.css
 * ~~~~~~~~~~~~~~~~~~~~
@@ -13,14 +61,14 @@ position:relative;
 margin-right:20px;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
 color:#7C7C7C;
 }
 
 a {outline:none;}
 .section{display:block;}
 .section a {color:#3fb83b !important;font-weight:bold;}
-#iscrizione a, #calendario a {color:#FFFFFF !important;}
+#iscrizione a, #calendario a {color:#333333 !important;}
 a.thumbnail:hover, a.thumbnail:focus{
 border-color:#79c378 !important;
 background-color: #9ee39d !important;
@@ -67,18 +115,19 @@ background-color: #51a351 !important;
 padding:2px 2px 2px 2px;
     margin: 11px 0 0 0 !important;
     border-radius:4px;
-    width:90px;
+    width:auto;
     color:#e6ca1f !important;
     border:none;
     outline:none;
     display: inline-block;
     cursor:pointer;
     border: 1px solid #e6ca1f;
+font-size:.8em !important;
    }
    
 .topcont{
 	width:100%;
-	 background: url('http://img15.hostingpics.net/pics/126663isolines.jpg');
+	 background: url('../_images/isolines.jpg');
 	 border:1px solid #E9E9E9;
 	 margin:20px 0 0 0;
 }
@@ -92,7 +141,7 @@ padding:2px 2px 2px 2px;
 display:none;
 }
 .topcont h2{
-	font-size:4em;
+	font-size:4.2em;
 	margin:0 !important;
 	padding:0 !important;
 	text-align:center;
@@ -106,7 +155,7 @@ display:none;
 .topcont p{
 margin:0 auto 20px auto;
 	text-align:center;
-	font-size:1.6em;
+	font-size:1.5em;
 	color:#3fb83d;
 }
 
@@ -118,7 +167,7 @@ margin:20px 0 30px 0 !important;
 }
 
 .svi h1, .ass h1, .cor h1{
-	margin:20px auto 20px auto;text-align:center;color:#7C7C7C !important;text-shadow:#FFFFFF 0 2px 0;
+	font-size:2.2em;margin:20px auto 20px auto;text-align:center;color:#7C7C7C !important;text-shadow:#FFFFFF 0 2px 0;
 }
 
 .svi h1 a, .ass h1 a, .cor h1 a{
@@ -126,12 +175,12 @@ margin:20px 0 30px 0 !important;
 }
 .svi p, .ass p, .cor p{
 	width:70%;margin:0 auto 30px auto;
-	font-size:1em;
+	font-size:.9em;
 	text-align:center;
 }
 
 .svi p a, .ass p a, .cor p a, .wht{
-	width:25% !important;
+	width:28% !important;
 	margin: 0 auto 0 auto !important;
 	color:#FFFFFF !important;
 	font-family: Arial, Helvetica, sans-serif;
@@ -259,7 +308,8 @@ margin:20px 0 15px 0;}
 .footer p{
 }
 .footer a{
-color:#000000;
+color:#333333;
+font-weight:bold;
 }
 
 .footer a:hover{
