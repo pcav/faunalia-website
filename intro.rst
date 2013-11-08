@@ -54,8 +54,8 @@ Team
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 L'attività di Faunalia si basa su una fitta rete internazionale di collaboratori. Il *core team* è composto da:
 
-.. |it| image:: images/italy.png
-.. |pt| image:: images/portugal.png
+.. |it| image:: images/itflag.png
+.. |pt| image:: images/ptflag.png
 
 Paolo Cavallini |it| |pt|
 ...............................................................................
