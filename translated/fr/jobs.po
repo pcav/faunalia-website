@@ -28,16 +28,16 @@ msgstr "Activités"
 # ee632cfc6bc94e17b40abcbf082bd295
 #: ../../jobs.rst:12
 msgid "Mappa dei lavori di Faunalia"
-msgstr "Mappe des travaux de Faunalia"
+msgstr "Carte des réalisations de Faunalia"
 
 # 1a76693376ba41ef822a3646731acb77
 #: ../../jobs.rst:19
 msgid ""
-"`Esplora la mappa <../map/lizmap/www/index.php/view/map/?"
-"repository=faunalia&project=faunalia_map_it>`_"
+"`Esplora la mappa "
+"<../map/lizmap/www/index.php/view/map/?repository=faunalia&project=faunalia_map_it>`_"
 msgstr ""
-"`Naviguez sur la carte <../map/lizmap/www/index.php/view/map/?"
-"repository=faunalia&project=faunalia_map_en>`_"
+"`Naviguez sur la carte "
+"<../map/lizmap/www/index.php/view/map/?repository=faunalia&project=faunalia_map_en>`_"
 
 # a4dd5c2238944fbf889fbcfdac51370c
 #: ../../jobs.rst:26
@@ -62,12 +62,12 @@ msgstr "Entreprises privés"
 # 2cf4ff73bf384a97b17957cf3e037ee5
 #: ../../jobs.rst:57
 msgid "Associazioni e organizzazioni"
-msgstr "Associations et organizations"
+msgstr "Associations et organismes"
 
 # 7e1c52786577482bb298cfd65b4a7c8d
 #: ../../jobs.rst:63
 msgid "Corsi e workshop"
-msgstr "Courses et laboratoires"
+msgstr "Cours et travaux pratiques"
 
 # a64b7b2ec2e8470da49954558f731d32
 #: ../../jobs.rst:69
