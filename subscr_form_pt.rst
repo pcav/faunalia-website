@@ -1,4 +1,4 @@
-Modulo di iscrizione
+Formulário de inscrição
 -------------------------------------------------------------------------------
 
 .. raw:: html
@@ -133,7 +133,7 @@ Modulo di iscrizione
 	</div>
 	</div>
 	<div class="form-group">
-	<label for="edit-submitted-corso" class="col-sm-3 control-label">Cursi <span class="form-required" title="O campo é obrigatório.">*</span></label>
+	<label for="edit-submitted-corso" class="col-sm-3 control-label">Curso <span class="form-required" title="O campo é obrigatório.">*</span></label>
 	<div class="col-sm-9">
 	<select id="edit-submitted-corso" name="corso" class="form-control">
 		<option value="" <?php if ($corso=="") echo 'selected="selected"';?> >- Escolher -</option>
