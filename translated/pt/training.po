@@ -57,11 +57,13 @@ msgstr ""
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:29
 msgid ""
-"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
+"annunci di nuovi corsi."
 msgstr ""
-"Junte-se à `lista de discussão <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/formacao>`_ para receber os anúncios dos novos cursos."
+"Junte-se à `lista de discussão "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/formacao>`_ para receber "
+"os anúncios dos novos cursos."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:32
@@ -121,13 +123,13 @@ msgstr ""
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:39
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
-"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
-"<http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
+"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
+"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
-"Permitem o acesso aos exames AICA para a `certificação ECDL-GIS <http://www."
-"aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini é `examindador ECDL-GIS "
-"<http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+"Permitem o acesso aos exames AICA para a `certificação ECDL-GIS "
+"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini é `examindador "
+"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 
 # 60ceb7adc7744dfdba3c604cf37e7978
 #: ../../training.rst:42
@@ -298,12 +300,13 @@ msgstr "**Inglês**"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
 #: ../../training.rst:60
+#, qt-format
 msgid ""
-"`Scarica il calendario (ics) <https://www.google.com/calendar/ical/"
-"faunaliagis%40gmail.com/public/basic.ics>`_"
+"`Scarica il calendario (ics) "
+"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 msgstr ""
-"`Descarregue o calendário (ics) <https://www.google.com/calendar/ical/"
-"faunaliagis%40gmail.com/public/basic.ics>`_"
+"`Descarregue o calendário (ics) "
+"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 2b01fbfd1fbb417da072f5b12ca3fae2
 #: ../../training.rst:63
@@ -362,9 +365,9 @@ msgid ""
 "di partecipanti"
 msgstr ""
 "**Confirmação**: o curso será confirmado no dia em que o número mínimo de "
-"participantes seja alcançado, pelo que a partir desse momento a pré-"
-"inscrição será vinculativa; uma eventual desistência após a data definida de "
-"pré-inscrição não dará direito à devolução da respectiva caução"
+"participantes seja alcançado, pelo que a partir desse momento a "
+"pré-inscrição será vinculativa; uma eventual desistência após a data "
+"definida de pré-inscrição não dará direito à devolução da respectiva caução"
 
 # 4155204fc0fa4423a607e82054c538a1
 #: ../../training.rst:73
@@ -412,27 +415,29 @@ msgstr "Logistica"
 # c6486a10e57d437c9f251d7264fee4d8
 #: ../../training.rst:84
 msgid ""
-"**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
-"page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
-"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
-"pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune."
-"pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo <http://www."
-"ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple"
+"**Sede**: Pontedera (PI), presso `Pont-Tech "
+"<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
+"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
+"facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli "
+"sulla città "
+"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo "
+"<http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere "
+"singole/doppie/triple"
 msgstr ""
-"Para obter informações sobre a logística do curso que lhe interessa, escreva-"
-"nos **(info@faunalia.pt)** ou ligue para o **939320104**"
+"Para obter informações sobre a logística do curso que lhe interessa, "
+"escreva-nos **(info@faunalia.pt)** ou ligue para o **939320104**"
 
 # 70445496ccfb4e5f905683df99c5a6c3
 #: ../../training.rst:87
 msgid "Programmi"
-msgstr "conteúdos programáticos"
+msgstr "Conteúdos programáticos"
 
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
 #: ../../training.rst:90
 msgid "Cartografia con QGIS"
-msgstr "**Cartográfia com QGIS**"
+msgstr "Cartográfia com QGIS"
 
 # 80edd07044dc4aebbb245702028598a8
 #: ../../training.rst:92
@@ -609,7 +614,7 @@ msgstr "Três dias (24 horas)"
 # 84a61dcdc830454e9665797c69bd9891
 #: ../../training.rst:133
 msgid "Analisi con QGIS"
-msgstr "**Análise SIG com QGIS**"
+msgstr "Análise SIG com QGIS"
 
 # 09cf22b48c464b1a8c78d4978ac48bd6
 #: ../../training.rst:135
@@ -773,12 +778,13 @@ msgid ""
 "breve introduzione a questo linguaggio, i partecipanti saranno guidati passo "
 "a passo nella creazione di un plugin."
 msgstr ""
-"O curso dirige-se a quem pretenda aprender a desenvolver ferramentas/"
-"extensões para QGIS utilizando a linguagem de programação Python. Tem como "
-"finalidade fornecer os conceitos fundamentais e a experiência prática para o "
-"desenvolvimento de ferramentas para QGIS, pelo que após uma introdução à "
-"linguagem de programação, os participantes irão ser guiados passo a passo na "
-"criação de uma extensão para QGIS. O curso será ministrado em Inglês."
+"O curso dirige-se a quem pretenda aprender a desenvolver "
+"ferramentas/extensões para QGIS utilizando a linguagem de programação "
+"Python. Tem como finalidade fornecer os conceitos fundamentais e a "
+"experiência prática para o desenvolvimento de ferramentas para QGIS, pelo "
+"que após uma introdução à linguagem de programação, os participantes irão "
+"ser guiados passo a passo na criação de uma extensão para QGIS. O curso será "
+"ministrado em Inglês."
 
 # 2eb613fcabbb41d99cecb822ca686d5c
 #: ../../training.rst:177
@@ -923,7 +929,7 @@ msgstr "code examples"
 # 7cabf0be650643f1b85997a1c5b71df0
 #: ../../training.rst:218
 msgid "Geodatabase: PostgreSQL e PostGIS"
-msgstr "**Bases de dados geográficas: PostgreSQL e PostGIS**"
+msgstr "Bases de dados geográficas: PostgreSQL e PostGIS"
 
 # ffe653379cbb41ae9749d10917e5caab
 #: ../../training.rst:220
@@ -1045,7 +1051,7 @@ msgstr "Backup e restore"
 # 660512ec03ae4bc59a877c8ec19a3162
 #: ../../training.rst:250
 msgid "WebMapping con QGIS"
-msgstr "**WebMapping com QGIS**"
+msgstr "WebMapping com QGIS"
 
 # 38d2854ba2e24a43903768f6338bd84b
 #: ../../training.rst:251
@@ -1251,9 +1257,9 @@ msgstr "Dois dias (16 horas)"
 
 # 6ec8651bb26c4281a98f2bf149dff974
 #~ msgid ""
-#~ "`Dettagli sulla città <http://www.comune.pontedera.pi.it/cittadino/"
-#~ "Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluse strutture "
-#~ "ricettive)"
+#~ "`Dettagli sulla città "
+#~ "<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+#~ "(incluse strutture ricettive)"
 #~ msgstr "Não aplicável"
 
 # 006cf21f616247a8b9e8617563a76b7b
