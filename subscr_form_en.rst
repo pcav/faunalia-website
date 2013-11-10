@@ -1,4 +1,4 @@
-Modulo di iscrizione
+Training Courses subscriptions form
 -------------------------------------------------------------------------------
 
 .. raw:: html

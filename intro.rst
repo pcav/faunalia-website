@@ -54,13 +54,13 @@ Team
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 L'attività di Faunalia si basa su una fitta rete internazionale di collaboratori. Il *core team* è composto da:
 
-.. |it| image:: images/italy.png
-.. |pt| image:: images/portugal.png
+.. |it| image:: images/itflag.png
+.. |pt| image:: images/ptflag.png
 
 Paolo Cavallini |it| |pt|
 ...............................................................................
 
-.. image:: images/pc.jpg
+.. image:: images/pc.png
    :align: left
 
 * Fondatore di Faunalia
@@ -85,7 +85,7 @@ Paolo Cavallini |it| |pt|
 Renzo Cavallini |it|
 ...............................................................................
 
-.. image:: images/rc.jpg
+.. image:: images/rc.png
    :align: left
 
 * Geologo, specializzato in geofisica
@@ -101,7 +101,7 @@ Renzo Cavallini |it|
 Giovanni Manghi |pt|
 ...............................................................................
 
-.. image:: images/gm.jpg
+.. image:: images/gm.png
    :align: left
 
 * Fondatore di Faunalia Portogallo
@@ -120,7 +120,7 @@ Giovanni Manghi |pt|
 Vânia Neves |pt|
 ...............................................................................
 
-.. image:: images/vn.jpg
+.. image:: images/vn.png
    :align: left
 
 * Fondatrice di Faunalia Portogallo

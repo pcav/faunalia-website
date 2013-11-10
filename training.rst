@@ -48,11 +48,15 @@ Corso                                    Date e durata         Scadenza iscrizio
 ======================================== ====================  ==================== ============== ===========
 Geodatabase: PostgreSQL e PostGIS (IT)   11-13 Dicembre 2013   25 Novembre          Pontedera, IT  Italiano
 WebMapping com QGIS (PT)                 2-3 Dicembre 2013     25 Novembre          Lisbona, PT    Portoghese
+Geodatabase: PostgreSQL and PostGIS (EN) Gennaio 2014          Dicembre 2013        Évora, PT      Inglese
 WebMapping con QGIS (IT)                 23-24 Gennaio 2014    10 Gennaio           Pontedera, IT  Italiano
 Cartografia con QGIS (IT)                Marzo 2014            15 Febbraio          Pontedera, IT  Italiano
+Cartográfia com QGIS (PT)		 Marzo 2014	       01 Febbraio          Évora, PT      Portoghese
+Análise SIG com QGIS (PT)		 Marzo 2014	       15 Febbraio          Évora, PT      Portoghese
 Analisi con QGIS (IT)                    Aprile 2014           15 Marzo             Pontedera, IT  Italiano
+Criar plugins em Python para QGIS (PT)   Aprile 2014           15 Aprile            Évora, PT      Inglese
 Creare plugin in Python per QGIS (IT)    Maggio 2014           15 Aprile            Pontedera, IT  Italiano
-Geodatabase: PostgreSQL and PostGIS (EN) Gennaio 2014                               Lisbona, PT    Inglese
+Geodatabase: PostgreSQL and PostGIS (EN) Maggio 2014           15 Aprile            Évora, PT      Inglese
 ======================================== ====================  ==================== ============== ===========
 
 .. cssclass :: wht
