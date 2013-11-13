@@ -1,10 +1,13 @@
-<select id="languages" class="tps">
-  <option value="en">English</option>
-  <option value="it">Italiano</option>
-  <option value="pt">Português</option>
-  <option value="fr">Français</option>
-  <option value="es">Español</option>
-</select>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Languages <b class="caret"></b></a>
+<ul id="languages" class="dropdown-menu">
+  <li value="en"><a id="en" href="#">English</a></li>
+  <li value="it"><a id="it" href="#">Italiano</a></li>
+  <li value="pt"><a id="pt" href="#">Português</a></li>
+  <li value="fr"><a id="fr" href="#">Français</a></li>
+  <li value="es"><a id="es" href="#">Español</a></li>
+</ul>
+</li>
 
 <script>
     var currentPage = '{{current_page_name}}.html'; // coming from sphinx, always without starting '/'
@@ -37,11 +40,10 @@
         // this is for the flags:
         //$('#flag_'+currentLang.replace(/\//g,'')).css('background-color', '#cccccc');
         // set language select to current lang
+        //$("#languages").val(currentLang.replace(/\//g,'')); // currentLang is something like '/nl/'
 
-        $("#languages").val(currentLang.replace(/\//g,'')); // currentLang is something like '/nl/'
-
-        $("#languages").change(function() {
-            gotoLang($(this).val());
+        $("#languages li a").click(function() {
+            gotoLang($(this).attr("id"));
         });
 
     });

@@ -21,14 +21,11 @@
         </button>
 
         <a class="navbar-brand" href="{{ pathto(master_doc) }}">{% if theme_navbar_title -%}{{ theme_navbar_title|e }}{%- else -%}{{ project|e }}{%- endif -%}</a>
-        <span class="navbar-text navbar-version pull-left"><b>{{ version|e }}</b></span>
+	<span class="navbar-text navbar-version pull-left"><b>{{ version|e }}</b></span>
       </div>
 
         <div class="collapse navbar-collapse nav-collapse">
           <ul class="nav navbar-nav">
-
-            <li class="divider-vertical"></li>
-
                         <li><a href="{{ pathto('dev') }}">{{ gettext('Sviluppo') }}</a></li>
                         <li><a href="{{ pathto('support') }}">{{ gettext('Assistenza') }}</a></li>
                         <li><a href="{{ pathto('training') }}">{{ gettext('Corsi') }}</a></li>
@@ -41,11 +38,12 @@
               <li>{% include "sourcelink.html" %}</li>
             {% endif %}
             <li>
-          </ul>
-
 {% block languageswitch %}
             {% include "languageswitch.html" %}
           {% endblock %}
+
+          </ul>
+
 
 {#
           {% block sidebarsearch %}
