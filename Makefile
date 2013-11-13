@@ -88,6 +88,8 @@ html:
                 cp robots.txt $(BUILDDIR)/html/;\
 	done
 	test -e $(BUILDDIR)/html/pdf || ln -s /home/www/pdf $(BUILDDIR)/html/;
+	test -e $(BUILDDIR)/html/webalizer || ln -s /var/www/webalizer.www.faunalia.eu $(BUILDDIR)/html/webalizer;
+	test -e $(BUILDDIR)/html/qgis || ln -s /var/www/qgis $(BUILDDIR)/html/;
 	test -e /var/www/www.faunalia.eu/map || ln -s /var/www/lizmap-web-client-2.8.1 /var/www/www.faunalia.eu/map;
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html/<language>."

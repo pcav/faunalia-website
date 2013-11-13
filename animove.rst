@@ -54,7 +54,7 @@ Triangulation
 
 *Developer*: Borys Jurgiel
 
-It calculates the position of an anmial from its bearings.
+It calculates the position of an animal from its bearings.
 
 The plugin is available through the `QGIS official repository <http://plugins.qgis.org/plugins/triangulation/>`__.
 
