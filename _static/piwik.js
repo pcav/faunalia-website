@@ -1,4 +1,3 @@
-<!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
   _paq.push(["trackPageView"]);
@@ -15,4 +14,3 @@ s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
 s.parentNode.insertBefore(g,s);
   })();
 </script>
-<!-- End Piwik Code -->
