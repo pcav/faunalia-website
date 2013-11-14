@@ -101,7 +101,7 @@ Formulário de inscrição
 			}
 		}
 	?>
-	<form action="subscr_form_it.html" method="post" class="form-horizontal">
+	<form action="subscr_form_pt.html" method="post" class="form-horizontal">
 	<div class="form-group">
 	<label for="edit-submitted-nome" class="col-sm-3 control-label">Nome <span class="form-required" title="O campo é obrigatório.">*</span></label>
 	<div class="col-sm-9">
@@ -137,7 +137,12 @@ Formulário de inscrição
 	<div class="col-sm-9">
 	<select id="edit-submitted-corso" name="corso" class="form-control">
 		<option value="" <?php if ($corso=="") echo 'selected="selected"';?> >- Escolher -</option>
-		<option value="WebMapping com QGIS" <?php if ($corso=="webgis") echo 'selected="selected"';?> >WebMapping com QGIS (230€ +IVA)</option>
+		<option value="WebMapping com QGIS - 2/3 Dezembro 2013" <?php if ($corso=="webgis") echo 'selected="selected"';?> >WebMapping com QGIS - 2/3 Dezembro 2013</option>
+		<option value="BD geográficas: PostgreSQL e PostGIS - Janeiro 2014" <?php if ($corso=="webgis") echo 'selected="selected"';?> >BD geográficas: PostgreSQL e PostGIS - Janeiro 2014</option>
+		<option value="Cartográfia com QGIS - Março 2014" <?php if ($corso=="webgis") echo 'selected="selected"';?> >Cartográfia com QGIS - Março 2014</option>
+		<option value="Análise SIG com QGIS - Março 2014" <?php if ($corso=="webgis") echo 'selected="selected"';?> >Análise SIG com QGIS - Março 2014</option>
+		<option value="Criar plugins em Python para QGIS - Abril 2014" <?php if ($corso=="webgis") echo 'selected="selected"';?> >Criar plugins em Python para QGIS - Abril 2014</option>
+		<option value="BD geográficas: PostgreSQL e PostGIS - Maio 2014" <?php if ($corso=="webgis") echo 'selected="selected"';?> >BD geográficas: PostgreSQL e PostGIS - Maio 2014</option>
 	</select>
 	</div>
 	</div>

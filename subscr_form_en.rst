@@ -101,7 +101,7 @@ Training Courses subscriptions form
 			}
 		}
 	?>
-	<form action="subscr_form_it.html" method="post" class="form-horizontal">
+	<form action="subscr_form_en.html" method="post" class="form-horizontal">
 	<div class="form-group">
 	<label for="edit-submitted-nome" class="col-sm-3 control-label">First Name <span class="form-required" title="This field is mandatory.">*</span></label>
 	<div class="col-sm-9">
