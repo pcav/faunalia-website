@@ -286,7 +286,7 @@ msgstr "15 Fevereiro"
 # 3d3d613c57f54cc694e2872191f90b33
 #: ../../training.rst:54
 msgid "Cartográfia com QGIS (PT)"
-msgstr "**Cartográfia com QGIS (PT)**"
+msgstr "Cartográfia com QGIS (PT)"
 
 # 5f579eacdfe14ef58b3777e851296a6b
 #: ../../training.rst:54
@@ -297,7 +297,7 @@ msgstr "01 Fevereiro"
 # 84a61dcdc830454e9665797c69bd9891
 #: ../../training.rst:55
 msgid "Análise SIG com QGIS (PT)"
-msgstr "**Análise SIG com QGIS (PT)**"
+msgstr "Análise SIG com QGIS (PT)"
 
 # bd04cff96a1d4414899ef132ad5ba7bf
 # 84a61dcdc830454e9665797c69bd9891
@@ -362,7 +362,7 @@ msgstr ""
 "de **Análise SIG com QGIS** 320 € +IVA. Curso de **Bases de dados "
 "geográficas: PostgreSQL e PostGIS** 320 € +IVA. Curso de **WebMapping com "
 "QGIS** 230 € +IVA. Curso de **Cartográfia com QGIS** + **Análise SIG com "
-"QGIS** 500 € +IVA"
+"QGIS** 500 € +IVA Curso **Criar plugins em Python para QGIS ** 320 € +IVA"
 
 # c317ea377fba42d99ac33d7b4be557ba
 #: ../../training.rst:70
