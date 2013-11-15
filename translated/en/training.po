@@ -58,11 +58,13 @@ msgstr ""
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:29
 msgid ""
-"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
+"annunci di nuovi corsi."
 msgstr ""
-"Subscribe to the `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/training>`_ to receive the updates for new training activities."
+"Subscribe to the `mailing list "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/training>`_ to receive "
+"the updates for new training activities."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:32
@@ -120,9 +122,9 @@ msgstr ""
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:39
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
-"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
-"<http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
+"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
+"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
 "Allow the access to the European Computer Driving Licence - GIS (ECDL-GIS)."
 
@@ -223,15 +225,13 @@ msgstr "Geodatabase: PostgreSQL and PostGIS (EN)"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
 #: ../../training.rst:51
-#, fuzzy
 msgid "Gennaio 2014"
-msgstr "23-24 January 2014"
+msgstr "January 2014"
 
 # f7db670e6b22473f88e2168c85cf783a
 #: ../../training.rst:51
-#, fuzzy
 msgid "Dicembre 2013"
-msgstr "2-3 December 2013"
+msgstr "December 2013"
 
 # 231f101b353449b58ac1e1d733483ba5
 # 231f101b353449b58ac1e1d733483ba5
@@ -241,7 +241,7 @@ msgstr "2-3 December 2013"
 #: ../../training.rst:51 ../../training.rst:54 ../../training.rst:55
 #: ../../training.rst:57 ../../training.rst:59
 msgid "Évora, PT"
-msgstr ""
+msgstr "Évora, PT"
 
 # 51c019364e82467cb3334d945ad1b04f
 #: ../../training.rst:51 ../../training.rst:57 ../../training.rst:59
@@ -272,12 +272,12 @@ msgstr "Cartography with QGIS (IT)"
 # 53d00af130964089957a33ca9154d0b3
 #: ../../training.rst:53 ../../training.rst:54 ../../training.rst:55
 msgid "Marzo 2014"
-msgstr ""
+msgstr "March 2014"
 
 # 5f579eacdfe14ef58b3777e851296a6b
 #: ../../training.rst:53 ../../training.rst:55
 msgid "15 Febbraio"
-msgstr ""
+msgstr "15 February"
 
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
@@ -288,7 +288,7 @@ msgstr "Cartography with QGIS (PT)"
 # 5f579eacdfe14ef58b3777e851296a6b
 #: ../../training.rst:54
 msgid "01 Febbraio"
-msgstr ""
+msgstr "February 1st"
 
 # bd04cff96a1d4414899ef132ad5ba7bf
 # 84a61dcdc830454e9665797c69bd9891
@@ -305,23 +305,22 @@ msgstr "GIS analysis with QGIS (IT)"
 # eafdbe68fb894344a151fb2d4142818d
 #: ../../training.rst:56 ../../training.rst:57
 msgid "Aprile 2014"
-msgstr ""
+msgstr "April 2014"
 
 # 5b9b45b66a3e4c648de8b6c852acf4eb
 #: ../../training.rst:56
 msgid "15 Marzo"
-msgstr ""
+msgstr "15 March"
 
 # 93622693fbc3409ea870fc8d6b853c71
 #: ../../training.rst:57
-#, fuzzy
 msgid "Criar plugins em Python para QGIS (PT)"
-msgstr "How to create python plugins for QGIS (IT)"
+msgstr "How to create python plugins for QGIS (PT)"
 
 # 67da7a1be0814b30a5a20d7f14e2e4ba
 #: ../../training.rst:57 ../../training.rst:58 ../../training.rst:59
 msgid "15 Aprile"
-msgstr ""
+msgstr "15 April"
 
 # 93622693fbc3409ea870fc8d6b853c71
 #: ../../training.rst:58
@@ -331,16 +330,17 @@ msgstr "How to create python plugins for QGIS (IT)"
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
 #: ../../training.rst:58 ../../training.rst:59
 msgid "Maggio 2014"
-msgstr ""
+msgstr "May 2014"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
 #: ../../training.rst:64
+#, qt-format
 msgid ""
-"`Scarica il calendario (ics) <https://www.google.com/calendar/ical/"
-"faunaliagis%40gmail.com/public/basic.ics>`_"
+"`Scarica il calendario (ics) "
+"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 msgstr ""
-"`Download the calendar <https://www.google.com/calendar/ical/faunaliagis"
-"%40gmail.com/public/basic.ics>`_"
+"`Download the calendar "
+"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 2b01fbfd1fbb417da072f5b12ca3fae2
 #: ../../training.rst:67
@@ -349,7 +349,6 @@ msgstr "Fees"
 
 # a3e955054ac444d8bf2ab1805f051ce3
 #: ../../training.rst:69
-#, fuzzy
 msgid ""
 "Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA "
 "(meno la ritenuta d'acconto, da versare 326,61 €). Corso di Web Mapping (2 "
@@ -425,13 +424,15 @@ msgstr "Logistic"
 # e2c77797de9e472598dc6f4abdcf19db
 #: ../../training.rst:88
 msgid ""
-"**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
-"page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
-"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
-"pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune."
-"pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo <http://www."
-"ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple"
+"**Sede**: Pontedera (PI), presso `Pont-Tech "
+"<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
+"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
+"facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli "
+"sulla città "
+"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo "
+"<http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere "
+"singole/doppie/triple"
 msgstr ""
 "Write us (info@faunalia.eu) for details about the course venue, details "
 "about boarding, etc"
@@ -1224,12 +1225,13 @@ msgstr "Two days, full time"
 #~ msgstr "Subcription form"
 
 # 52fcfe35655c40ea911c20211b41f093
+#, qt-format
 #~ msgid ""
-#~ "`Download the calendar <https://www.google.com/calendar/ical/faunaliagis"
-#~ "%40gmail.com/public/basic.ics>`_"
+#~ "`Download the calendar "
+#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 #~ msgstr ""
-#~ "`Download the calendar <https://www.google.com/calendar/ical/faunaliagis"
-#~ "%40gmail.com/public/basic.ics>`_"
+#~ "`Download the calendar "
+#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 4868573d5e6e42e294a4f6e77e566933
 #~ msgid ""
