@@ -286,7 +286,7 @@ msgstr "15 Fevereiro"
 # 3d3d613c57f54cc694e2872191f90b33
 #: ../../training.rst:54
 msgid "Cartográfia com QGIS (PT)"
-msgstr "Cartográfia com QGIS (PT)"
+msgstr "Cartografia com QGIS (PT)"
 
 # 5f579eacdfe14ef58b3777e851296a6b
 #: ../../training.rst:54
@@ -358,11 +358,10 @@ msgid ""
 "giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la "
 "ritenuta d'acconto, da versare 272,88 €)"
 msgstr ""
-"Cursos em **PORTUGAL**: Curso de **Cartográfia com QGIS** 280 € +IVA. Curso "
-"de **Análise SIG com QGIS** 320 € +IVA. Curso de **Bases de dados "
-"geográficas: PostgreSQL e PostGIS** 320 € +IVA. Curso de **WebMapping com "
-"QGIS** 230 € +IVA. Curso de **Cartográfia com QGIS** + **Análise SIG com "
-"QGIS** 500 € +IVA Curso **Criar plugins em Python para QGIS** 320 € +IVA"
+"Cursos em **PORTUGAL**: Cartografia com QGIS: 280€ + IVA; Análise SIG com "
+"QGIS: 320€ + IVA; Criar plugins (extensões) em Python para QGIS: 375€ + IVA; "
+"Bases de Dados Geográficas: PostgreSQL e PostGIS: 320€ + IVA; WebMapping com "
+"QGIS: 230€ + IVA"
 
 # c317ea377fba42d99ac33d7b4be557ba
 #: ../../training.rst:70
@@ -474,7 +473,7 @@ msgstr "Conteúdos programáticos"
 # 3d3d613c57f54cc694e2872191f90b33
 #: ../../training.rst:94
 msgid "Cartografia con QGIS"
-msgstr "Cartográfia com QGIS"
+msgstr "Cartografia com QGIS"
 
 # 80edd07044dc4aebbb245702028598a8
 #: ../../training.rst:96
