@@ -164,7 +164,7 @@ msgstr "Idioma"
 # 7cabf0be650643f1b85997a1c5b71df0
 #: ../../training.rst:49
 msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
-msgstr "Geodatabase: PostgreSQL e PostGIS-(IT)"
+msgstr "Geodatabase: PostgreSQL e PostGIS (IT)"
 
 # f7db670e6b22473f88e2168c85cf783a
 #: ../../training.rst:49
@@ -352,7 +352,6 @@ msgstr "Custos"
 
 # a3e955054ac444d8bf2ab1805f051ce3
 #: ../../training.rst:69
-#, fuzzy
 msgid ""
 "Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA "
 "(meno la ritenuta d'acconto, da versare 323,41 €). Corso di Web Mapping (2 "
@@ -443,7 +442,7 @@ msgstr ""
 # ba650497b3c44258a03e96c3d9dbd556
 #: ../../training.rst:83
 msgid "`Iscriviti qui <subscr_form_it.html>`_"
-msgstr "`Iscreva-se aqui <subscr_form_pt.html>`_"
+msgstr "`Inscreva-se aqui <subscr_form_pt.html>`_"
 
 # 9da0e2efb514451bacaad5b961947b64
 #: ../../training.rst:86
