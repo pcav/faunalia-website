@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-13 08:23+0100\n"
+"POT-Creation-Date: 2013-11-15 16:34+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -363,11 +363,12 @@ msgstr "Costes"
 
 # 17698eff5be547c7ace8019856a6fe6c
 #: ../../training.rst:69
+#, fuzzy
 msgid ""
 "Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA "
-"(meno la ritenuta d'acconto, da versare 323,41 €). Corso di Web Mapping (2 "
+"(meno la ritenuta d'acconto, da versare 326,61 €). Corso di Web Mapping (2 "
 "giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la "
-"ritenuta d'acconto, da versare 272,88 €)"
+"ritenuta d'acconto, da versare 275,58 €)"
 msgstr ""
 "Cursos de tres días: 350 € para clientes privados, 320 €+ IVA para empresas/"
 "autónomos. Cursos de Wep Mapping (2 días): 290 para  clientes privados, 270 €"

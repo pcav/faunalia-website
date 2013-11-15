@@ -66,7 +66,7 @@ Geodatabase: PostgreSQL and PostGIS (EN) Maggio 2014           15 Aprile        
 Costi
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-* Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 323,41 €). Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 272,88 €) 
+* Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 326,61 €). Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 275,58 €) 
 * **Sconti**: 5% per l'iscrizione simultanea a più corsi
 
 Iscrizione
