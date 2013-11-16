@@ -23,4 +23,4 @@ msgstr ""
 # 867c0de46cc84c88b6f2d2554ad865d8
 #: ../../cv_pc_pt.rst:2
 msgid "Paolo Cavallini"
-msgstr ""
+msgstr "Paolo Cavallini"

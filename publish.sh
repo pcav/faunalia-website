@@ -13,10 +13,11 @@ make merge_messages
 #check if translations are ok
 # requires translate-toolkit
 # 1 untranslated string is added by gettext, we have to study how to get rid of it
+# now it seem mysteriously fixed, removing " | grep -v 1u"
 echo ""
 echo "**Statistics of untranslated (u) and fuzzy (f) strings**"
 
-pocount --incomplete --short-strings translated/*/*.po | grep -v 1u
+pocount --incomplete --short-strings translated/*/*.po
 
 #echo "Number of unfinished strings"
 #grep -c  fuzzy translated/*/*.po

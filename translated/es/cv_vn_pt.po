@@ -23,4 +23,4 @@ msgstr ""
 # 0e1558d3994c40449bc14b9729a9a989
 #: ../../cv_vn_pt.rst:2
 msgid "Vania Neves"
-msgstr ""
+msgstr "Vania Neves"

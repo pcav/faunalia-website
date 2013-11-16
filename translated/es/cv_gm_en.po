@@ -23,4 +23,4 @@ msgstr ""
 # 5b01aa209d2143efbb423d5cee127340
 #: ../../cv_gm_en.rst:2
 msgid "Giovanni Manghi"
-msgstr ""
+msgstr "Giovanni Manghi"
