@@ -11,15 +11,20 @@ make gettext
 make compile_messages
 make merge_messages
 #check if translations are ok
+# requires translate-toolkit
+# 1 untranslated string is added by gettext, we have to study how to get rid of it
+echo "Staistics of untranslated (u) and fuzzy (f) strings"
 
-echo "Number of unfinished strings"
-grep -c  fuzzy translated/*/*.po
-echo ""
-echo "Verify the above: 1 per file is normal, >1 needs a correction"
+pocount --incomplete --short-strings translated/*/*.po | grep -v 1u
+
+#echo "Number of unfinished strings"
+#grep -c  fuzzy translated/*/*.po
+#echo ""
+#echo "Verify the above: 1 per file is normal, >1 needs a correction"
 #echo "Total unfinished strings"
 #grep -l fuzzy translated/*/*.po | wc
-echo "Beware, untransalted strings are not taken into account"
-echo "in the count above"
+#echo "Beware, untransalted strings are not taken into account"
+#echo "in the count above"
 #echo "Number of potentially untranslated strings"
 #grep -c \"\" translated/*/*.po
 #echo "Total potentially untranslated strings"
