@@ -14,13 +14,16 @@ make merge_messages
 
 echo "Number of unfinished strings"
 grep -c  fuzzy translated/*/*.po
-echo "Total unfinished strings"
-grep -l fuzzy translated/*/*.po | wc
-
-echo "Number of potentially untranslated strings"
-grep -c \"\" translated/*/*.po
-echo "Total potentially untranslated strings"
-grep -l \"\" translated/*/*.po | wc
+echo ""
+echo "Verify the above: 1 per file is normal, >1 needs a correction"
+#echo "Total unfinished strings"
+#grep -l fuzzy translated/*/*.po | wc
+echo "Beware, untransalted strings are not taken into account"
+echo "in the count above"
+#echo "Number of potentially untranslated strings"
+#grep -c \"\" translated/*/*.po
+#echo "Total potentially untranslated strings"
+#grep -l \"\" translated/*/*.po | wc
 
 read -p "Are you sure you want to publish the website anyway? [y/n]" choice2
 case "$choice2" in 

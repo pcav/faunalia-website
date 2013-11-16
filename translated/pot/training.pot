@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-15 16:34+0100\n"
+"POT-Creation-Date: 2013-11-16 09:22+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -250,7 +250,7 @@ msgstr ""
 
 #: ../../training.rst:54
 # b38404e0df5547808b124b4064b56b75
-msgid "Cartográfia com QGIS (PT)"
+msgid "Cartografia com QGIS (PT)"
 msgstr ""
 
 #: ../../training.rst:54

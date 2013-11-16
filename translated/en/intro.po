@@ -165,8 +165,9 @@ msgstr "Services"
 # b8a0e5217dba40d69e56e9e492c4103b
 #: ../../intro.rst:45
 msgid ""
-"La nostra offerta di servizi è riassumibile in tre aree principali\\: :doc:"
-"`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione <training>`."
+"La nostra offerta di servizi è riassumibile in tre aree principali\\: "
+":doc:`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione "
+"<training>`."
 msgstr ""
 "Our commercial offer focuses on three main areas\\: :doc:`development "
 "<dev>`, :doc:`assistance <support>` and :doc:`training <training>`."
@@ -229,11 +230,11 @@ msgstr "Founder of Faunalia"
 # 89e9e1fc097a4254b73ea7b4f6d50b20
 #: ../../intro.rst:67
 msgid ""
-"Membro del *QGIS Project Steering Commitee* col ruolo di *Financial/"
-"Marketing Advisor*"
+"Membro del *QGIS Project Steering Commitee* col ruolo di "
+"*Financial/Marketing Advisor*"
 msgstr ""
-"Member of *QGIS Project Steering Commitee* with the role of *Financial/"
-"Marketing Advisor*"
+"Member of *QGIS Project Steering Commitee* with the role of "
+"*Financial/Marketing Advisor*"
 
 # 92e5e56111ae4a58af219d06bb84952b
 #: ../../intro.rst:68
@@ -250,14 +251,14 @@ msgid ""
 "Socio e *charter member* della fondazione internazionale `OSGeo - Open "
 "Source Geospatial Foundation <http://www.osgeo.org/>`_"
 msgstr ""
-"Charter member of `OSGeo - Open Source Geospatial Foundation <http://www."
-"osgeo.org/>`_ * international foundation"
+"Charter member of `OSGeo - Open Source Geospatial Foundation "
+"<http://www.osgeo.org/>`_ * international foundation"
 
 # fdd0adf5373648759b7d691e40e92d7e
 #: ../../intro.rst:70
 msgid ""
-"Socio fondatore di `ITPUG - ITalian PostgreSQL User Group <http://www.itpug."
-"org>`_"
+"Socio fondatore di `ITPUG - ITalian PostgreSQL User Group "
+"<http://www.itpug.org>`_"
 msgstr ""
 "Co-founder of `ITPUG - ITalian PostgreSQL User Group <http://www.itpug.org>`_"
 
@@ -285,17 +286,15 @@ msgstr "PhD"
 
 # 7e88d4c193e8445f9729faedcd714934
 #: ../../intro.rst:74
-#, fuzzy
 msgid "`Curriculum Vitae (html) <cv_pc_it.html>`__"
-msgstr "`Curriculum Vitae (html) <cv_pc_en>`"
+msgstr "`Curriculum Vitae (html) <cv_pc_en.html>`__"
 
 # 70801919d32d45a49f60c7c3c9ff8b2e
 #: ../../intro.rst:75
-#, fuzzy
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) <pdf/"
-"Cavallini_CV_eu.pdf>`__"
-msgstr "`Curriculum Vitae (pdf) <pdf/Cavallini_CV_en.pdf>`_"
+"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) "
+"<pdf/Cavallini_CV_eu.pdf>`__"
+msgstr "`Curriculum Vitae (pdf) <pdf/Cavallini_CV_en.pdf>`__"
 
 # a1c10919702c4131a1d76e6220ca4264
 #: ../../intro.rst:76
@@ -357,7 +356,7 @@ msgid ""
 "senza rivestimento, PLT, densità in situ * installazione e messa a punto di "
 "apparecchiature di laboratorio e di sistemi di acquisizione automatica; "
 "calibrazione di trasduttori elettrici"
-msgstr ""
+msgstr "Leads geotechnical explorations, in the laboratory and *in situ*"
 
 # a9ce1c992be34c53bd43f385da4f4bab
 #: ../../intro.rst:99
@@ -382,8 +381,8 @@ msgstr "Biologist, specialised in Conservation Biology"
 # 92e5e56111ae4a58af219d06bb84952b
 #: ../../intro.rst:110
 msgid ""
-"Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and Open-"
-"Source Software Association <http://osgeopt.pt/>`_"
+"Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and "
+"Open-Source Software Association <http://osgeopt.pt/>`_"
 msgstr ""
 "Co-founder of `OSGeo Portugal - Portuguese Geographic Free and Open-Source "
 "Software Association <http://osgeopt.pt/>`_"
@@ -405,17 +404,15 @@ msgstr "Over 7 years of experience on free and open source GIS"
 
 # 95dca4087d374ece822ccbd1aee35dec
 #: ../../intro.rst:113
-#, fuzzy
 msgid "`Curriculum Vitae (html) <cv_gm_it.html>`__"
-msgstr "`Curriculum Vitae (html) <cv_gm_en>`"
+msgstr "`Curriculum Vitae (html) <cv_gm_en.html>`__"
 
 # fb9167a7fa5b4395a8d03095f9ae74cd
 #: ../../intro.rst:114
-#, fuzzy
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`__ - `europeo (pdf) <pdf/"
-"Manghi_CV_eu.pdf>`__"
-msgstr "`Curriculum Vitae (pdf) <pdf/Manghi_CV_en.pdf>`_"
+"`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`__ - `europeo (pdf) "
+"<pdf/Manghi_CV_eu.pdf>`__"
+msgstr "`Curriculum Vitae (pdf) <pdf/Manghi_CV_en.pdf>`__"
 
 # 3472687752ef4624a6d1046f9ab20882
 #: ../../intro.rst:115
@@ -455,25 +452,23 @@ msgstr "Biologist, specialised in Conservation Biology"
 # 92e5e56111ae4a58af219d06bb84952b
 #: ../../intro.rst:128
 msgid ""
-"Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and Open-"
-"Source Software Association <http://osgeopt.pt/>`_"
+"Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and "
+"Open-Source Software Association <http://osgeopt.pt/>`_"
 msgstr ""
 "Co-founder of `OSGeo Portugal - Portuguese Geographic Free and Open-Source "
 "Software Association <http://osgeopt.pt/>`_"
 
 # f2e2c08f2fe54447b9ddb4ca52b3af41
 #: ../../intro.rst:130
-#, fuzzy
 msgid "`Curriculum Vitae (html) <cv_vn_it.html>`__"
-msgstr "`Curriculum Vitae (html) <cv_vn_en>`"
+msgstr "`Curriculum Vitae (html) <cv_vn_en.html>`__"
 
 # 8630faa3be4b4cda952d6b505825b794
 #: ../../intro.rst:131
-#, fuzzy
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`__ - `europeo (pdf) <pdf/"
-"Neves_CV_eu.pdf>`__"
-msgstr "`Curriculum Vitae (pdf) <pdf/Neves_CV_en.pdf>`_"
+"`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`__ - `europeo (pdf) "
+"<pdf/Neves_CV_eu.pdf>`__"
+msgstr "`Curriculum Vitae (pdf) <pdf/Neves_CV_en.pdf>`__"
 
 # 12db5196f90647d8b593e6b4c685d9d4
 #: ../../intro.rst:132

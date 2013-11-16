@@ -77,13 +77,12 @@ msgstr "Ultima actualização %(last_updated)s."
 
 # 2f4ecd869e2743a18cf45e830203ff84
 #: ../../_templates/layout.html:123
-#, fuzzy
 msgid ""
-"Created using <a href=\"http://sphinx-doc.org/\">Sphinx</a> %(sphinx_version)"
-"s."
+"Created using <a href=\"http://sphinx-doc.org/\">Sphinx</a> "
+"%(sphinx_version)s."
 msgstr ""
-"Criado com <a href=\"http://sphinx.pocoo.org/\">Sphinx</a> %(sphinx_version)"
-"s."
+"Criado com <a href=\"http://sphinx.pocoo.org/\">Sphinx</a> "
+"%(sphinx_version)s."
 
 # 22f8d2bccc524f47903c8107962deafc
 #: ../../_templates/layout.html:128

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-15 16:34+0100\n"
+"POT-Creation-Date: 2013-11-16 09:22+0100\n"
 "PO-Revision-Date: 2013-08-17 16:58+0200\n"
 "Last-Translator: Paolo Cavallini <cavallini@faunalia.it>\n"
 "Language-Team: Italiano <>\n"
@@ -282,7 +282,7 @@ msgstr "15 February"
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
 #: ../../training.rst:54
-msgid "Cartográfia com QGIS (PT)"
+msgid "Cartografia com QGIS (PT)"
 msgstr "Cartography with QGIS (PT)"
 
 # 5f579eacdfe14ef58b3777e851296a6b
