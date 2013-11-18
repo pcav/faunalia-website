@@ -378,7 +378,7 @@ msgstr ""
 # d46e64fc0c7e494b826fb2dc83e7df1d
 #: ../../training.rst:73
 msgid "Iscrizione"
-msgstr "Regulamento das formações"
+msgstr "Regulamento e Inscrição"
 
 # ba42772ed13e492f937897053e863d23
 #: ../../training.rst:75
