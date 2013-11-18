@@ -136,7 +136,6 @@ Training Courses subscriptions form
 	<label for="edit-submitted-corso" class="col-sm-3 control-label">Training Course <span class="form-required" title="This field is mandatory.">*</span></label>
 	<div class="col-sm-9">
 	<select id="edit-submitted-corso" name="corso" class="form-control">
-		<option value="" <?php if ($corso=="") echo 'selected="selected"';?> >- choose -</option>
 		<option value="qgis_cartografia" <?php if ($corso=="qgis_cartografia") echo 'selected="selected"';?> >QGIS cartografia (IT)</option>
 		<option value="qgis_analisi" <?php if ($corso=="qgis_analisi") echo 'selected="selected"';?> >QGIS analisi (IT)</option>
 		<option value="pyqgis" <?php if ($corso=="pyqgis") echo 'selected="selected"';?> >Python-QGIS (IT)</option>
