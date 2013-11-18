@@ -35,22 +35,18 @@
 
             {% block navbarextra %}
             {% endblock %}
-            {% if theme_source_link_position == "nav" %}
-              <li>{% include "sourcelink.html" %}</li>
-            {% endif %}
-            <li>
+<li>
 {% block languageswitch %}
             {% include "languageswitch.html" %}
           {% endblock %}
-
-          </ul>
-
-
+</li>
 {#
           {% block sidebarsearch %}
             {% include "searchbox.html" %}
           {% endblock %}
 #}
+
+</ul>
         </div>
       </div>
     </div>
