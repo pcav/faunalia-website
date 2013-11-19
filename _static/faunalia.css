@@ -60,14 +60,13 @@ color:#333333 !important;
 }
 
 .select-mini{
-margin:10px 0 0 20px;
-padding:4px 8px !important;
-font-size:14px !important;
-max-width:120px !important;
-height:35px !important;}
-
-.select-mini option:hover{
-background-color:#e6ca1f !important;
+margin:15px 0 0 10px;
+padding:0 5px !important;
+font-size:13px !important;
+width:105px !important;
+max-width:105px !important;
+height:25px !important;
+position:absolute;
 }
  
 .navbar-default .navbar-nav>li>a:hover,.navbar-default .navbar-nav>li>a:focus{
@@ -134,8 +133,8 @@ text-align:center;
 }
 
 .svi p a, .ass p a, .cor p a, .wht{
-width:28% !important;
-margin: 0 auto 0 auto !important;
+width:150px !important;
+margin: 0 auto 0 -75px !important;
 color:#FFFFFF !important;
 font-family: Arial, Helvetica, sans-serif;
 font-size: 14px;
@@ -155,6 +154,8 @@ inset 0px 0px 2px rgba(255,255,255,0.7);
 box-shadow:
 0px 1px 3px rgba(000,000,000,0.5),
 inset 0px 0px 2px rgba(255,255,255,0.7);
+position:absolute;
+bottom:25px;
 }
 
 .svi p a:hover, .ass p a:hover, .cor p a:hover{
