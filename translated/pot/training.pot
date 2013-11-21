@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-16 11:34+0100\n"
+"POT-Creation-Date: 2013-11-21 16:57+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -107,64 +107,26 @@ msgid "Lingua"
 msgstr ""
 
 #: ../../training.rst:49
-# be5c171886e14c15ba7879adea865622
-msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
+# 4e4c95c701b2464bbc1b891cf9e120b4
+msgid "WebMapping com QGIS (PT)"
 msgstr ""
 
 #: ../../training.rst:49
-# 1785107d7076404a83393a248f3a1639
-msgid "11-13 Dicembre 2013"
+# eafdbe68fb894344a151fb2d4142818d
+msgid "2-3 Dicembre 2013"
 msgstr ""
 
 #: ../../training.rst:49
-#: ../../training.rst:50
-# cc18a1925e35459db34ba0af662928c6
 # cc18a1925e35459db34ba0af662928c6
 msgid "25 Novembre"
 msgstr ""
 
 #: ../../training.rst:49
-#: ../../training.rst:52
-#: ../../training.rst:53
-#: ../../training.rst:56
-#: ../../training.rst:58
-# fa8c28a075ed4d659c114084d520b2b0
-# fa8c28a075ed4d659c114084d520b2b0
-# fa8c28a075ed4d659c114084d520b2b0
-# fa8c28a075ed4d659c114084d520b2b0
-# fa8c28a075ed4d659c114084d520b2b0
-msgid "Pontedera, IT"
-msgstr ""
-
-#: ../../training.rst:49
-#: ../../training.rst:52
-#: ../../training.rst:53
-#: ../../training.rst:56
-#: ../../training.rst:58
-# e72e601155a34872a1f9f562faec1c33
-# e72e601155a34872a1f9f562faec1c33
-# e72e601155a34872a1f9f562faec1c33
-# e72e601155a34872a1f9f562faec1c33
-# e72e601155a34872a1f9f562faec1c33
-msgid "Italiano"
-msgstr ""
-
-#: ../../training.rst:50
-# 4e4c95c701b2464bbc1b891cf9e120b4
-msgid "WebMapping com QGIS (PT)"
-msgstr ""
-
-#: ../../training.rst:50
-# eafdbe68fb894344a151fb2d4142818d
-msgid "2-3 Dicembre 2013"
-msgstr ""
-
-#: ../../training.rst:50
 # 231f101b353449b58ac1e1d733483ba5
 msgid "Lisbona, PT"
 msgstr ""
 
-#: ../../training.rst:50
+#: ../../training.rst:49
 #: ../../training.rst:54
 #: ../../training.rst:55
 # a7aa15816de84546a1b13273f6c408f1
@@ -173,24 +135,24 @@ msgstr ""
 msgid "Portoghese"
 msgstr ""
 
-#: ../../training.rst:51
+#: ../../training.rst:50
 #: ../../training.rst:59
 # ec17ddf914064a41a5a1cb065379644b
 # ec17ddf914064a41a5a1cb065379644b
 msgid "Geodatabase: PostgreSQL and PostGIS (EN)"
 msgstr ""
 
-#: ../../training.rst:51
+#: ../../training.rst:50
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
 msgid "Gennaio 2014"
 msgstr ""
 
-#: ../../training.rst:51
+#: ../../training.rst:50
 # bdc92360060b42b9b11fb29bd45ebbee
 msgid "Dicembre 2013"
 msgstr ""
 
-#: ../../training.rst:51
+#: ../../training.rst:50
 #: ../../training.rst:54
 #: ../../training.rst:55
 #: ../../training.rst:57
@@ -203,13 +165,54 @@ msgstr ""
 msgid "Évora, PT"
 msgstr ""
 
-#: ../../training.rst:51
+#: ../../training.rst:50
 #: ../../training.rst:57
 #: ../../training.rst:59
 # 3cf26dce61284301abaecbbc5915cb67
 # 3cf26dce61284301abaecbbc5915cb67
 # 3cf26dce61284301abaecbbc5915cb67
 msgid "Inglese"
+msgstr ""
+
+#: ../../training.rst:51
+# be5c171886e14c15ba7879adea865622
+msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
+msgstr ""
+
+#: ../../training.rst:51
+# a1f5b6a26beb4ff7b01ce0822fe1d8ab
+msgid "22-24 Gennaio 2013"
+msgstr ""
+
+#: ../../training.rst:51
+# 5f579eacdfe14ef58b3777e851296a6b
+msgid "5 Gennaio"
+msgstr ""
+
+#: ../../training.rst:51
+#: ../../training.rst:52
+#: ../../training.rst:53
+#: ../../training.rst:56
+#: ../../training.rst:58
+# fa8c28a075ed4d659c114084d520b2b0
+# fa8c28a075ed4d659c114084d520b2b0
+# fa8c28a075ed4d659c114084d520b2b0
+# fa8c28a075ed4d659c114084d520b2b0
+# fa8c28a075ed4d659c114084d520b2b0
+msgid "Pontedera, IT"
+msgstr ""
+
+#: ../../training.rst:51
+#: ../../training.rst:52
+#: ../../training.rst:53
+#: ../../training.rst:56
+#: ../../training.rst:58
+# e72e601155a34872a1f9f562faec1c33
+# e72e601155a34872a1f9f562faec1c33
+# e72e601155a34872a1f9f562faec1c33
+# e72e601155a34872a1f9f562faec1c33
+# e72e601155a34872a1f9f562faec1c33
+msgid "Italiano"
 msgstr ""
 
 #: ../../training.rst:52
@@ -219,12 +222,12 @@ msgstr ""
 
 #: ../../training.rst:52
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
-msgid "23-24 Gennaio 2014"
+msgid "13-14 Febbraio 2014"
 msgstr ""
 
 #: ../../training.rst:52
 # 5f579eacdfe14ef58b3777e851296a6b
-msgid "10 Gennaio"
+msgid "25 Gennaio"
 msgstr ""
 
 #: ../../training.rst:53

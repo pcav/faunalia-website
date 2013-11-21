@@ -132,7 +132,7 @@ font-size:.9em;
 text-align:center;
 }
 
-.svi p a, .ass p a, .cor p a, .wht{
+.svi p a, .ass p a, .cor p a{
 width:150px !important;
 margin: 0 auto 0 -75px !important;
 color:#FFFFFF !important;
@@ -156,6 +156,27 @@ box-shadow:
 inset 0px 0px 2px rgba(255,255,255,0.7);
 position:absolute;
 bottom:25px;
+}
+
+.wht{
+width:150px !important;
+margin: 0 auto !important;
+color:#FFFFFF !important;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+text-align:center;
+padding: 10px 20px;
+background:#51a351;
+-moz-border-radius: 6px;
+-webkit-border-radius: 6px;
+border-radius: 6px;
+border: 1px solid #369e34;
+-moz-box-shadow:
+0px 1px 3px rgba(000,000,000,0.5),
+inset 0px 0px 2px rgba(255,255,255,0.7);
+-webkit-box-shadow:
+0px 1px 3px rgba(000,000,000,0.5),
+inset 0px 0px 2px rgba(255,255,255,0.7);
 }
 
 .svi p a:hover, .ass p a:hover, .cor p a:hover{

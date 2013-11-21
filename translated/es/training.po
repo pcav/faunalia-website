@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-16 10:43+0100\n"
+"POT-Creation-Date: 2013-11-21 16:57+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -160,27 +160,87 @@ msgstr "Donde"
 msgid "Lingua"
 msgstr "Idioma"
 
-# 7cabf0be650643f1b85997a1c5b71df0
+# 660512ec03ae4bc59a877c8ec19a3162
 #: ../../training.rst:49
-msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
-msgstr "Geodatabase: PostgreSQL y PostGIS (IT)"
+msgid "WebMapping com QGIS (PT)"
+msgstr "WebMapping con QGIS (PT)"
 
 # f7db670e6b22473f88e2168c85cf783a
 #: ../../training.rst:49
-msgid "11-13 Dicembre 2013"
-msgstr "11-13 Diciembre 2013"
+msgid "2-3 Dicembre 2013"
+msgstr "2-3 Diciembre 2013"
 
 # 98d67ad8d1324a71a5b91e8e65dc3716
-#: ../../training.rst:49 ../../training.rst:50
+#: ../../training.rst:49
 msgid "25 Novembre"
 msgstr "25 de noviembre"
+
+# c36c959990c5438da3b43b6a7d9689cb
+# 3012295ac29a4fe793a064ae07e37b56
+# a4b7dd4373cb4866b08c1ba195474007
+# 19804cb0c4ff4b7a923f428bd87759ec
+#: ../../training.rst:49
+msgid "Lisbona, PT"
+msgstr "Lisboa, PT"
+
+# e255c3651fef4808985bd166dc74da2b
+# 0c945eeb010449b39192d6932cb7d000
+# 33a0ad503b554bbbb42d0384d5628652
+#: ../../training.rst:49 ../../training.rst:54 ../../training.rst:55
+msgid "Portoghese"
+msgstr "Portugués"
+
+# 7cabf0be650643f1b85997a1c5b71df0
+#: ../../training.rst:50 ../../training.rst:59
+msgid "Geodatabase: PostgreSQL and PostGIS (EN)"
+msgstr "Geodatabase: PostgreSQL y PostGIS (EN)"
+
+# b28a9fbcf9964ba28a693bb9feccab9b
+#: ../../training.rst:50
+msgid "Gennaio 2014"
+msgstr "Enero 2014"
+
+# f7db670e6b22473f88e2168c85cf783a
+#: ../../training.rst:50
+msgid "Dicembre 2013"
+msgstr "Diciembre 2013"
+
+# 231f101b353449b58ac1e1d733483ba5
+# 231f101b353449b58ac1e1d733483ba5
+# 231f101b353449b58ac1e1d733483ba5
+# 231f101b353449b58ac1e1d733483ba5
+# 231f101b353449b58ac1e1d733483ba5
+#: ../../training.rst:50 ../../training.rst:54 ../../training.rst:55
+#: ../../training.rst:57 ../../training.rst:59
+msgid "Évora, PT"
+msgstr "Évora, PT"
+
+# 51c019364e82467cb3334d945ad1b04f
+#: ../../training.rst:50 ../../training.rst:57 ../../training.rst:59
+msgid "Inglese"
+msgstr "Inglés"
+
+# 7cabf0be650643f1b85997a1c5b71df0
+#: ../../training.rst:51
+msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
+msgstr "Geodatabase: PostgreSQL y PostGIS (IT)"
+
+# b28a9fbcf9964ba28a693bb9feccab9b
+#: ../../training.rst:51
+msgid "22-24 Gennaio 2013"
+msgstr "22-24 de enero 2014"
+
+# 2837589f472d43e6b2fcc68aa9118522
+#: ../../training.rst:51
+msgid "5 Gennaio"
+msgstr "5 de enero"
 
 # 768ef41660e8444b834e3d11d5ef4934
 # 69abb73e3dbe4ec59cc72dd9e0314203
 # b926fe538c0a4266816e9a2e2da861a4
 # fa87477f305244138e8c92056cc005d3
 # bfaca8e307114040a30a78bdd2317625
-#: ../../training.rst:49 ../../training.rst:52 ../../training.rst:53
+#: ../../training.rst:51 ../../training.rst:52 ../../training.rst:53
 #: ../../training.rst:56 ../../training.rst:58
 msgid "Pontedera, IT"
 msgstr "Pontedera, IT"
@@ -190,65 +250,10 @@ msgstr "Pontedera, IT"
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
-#: ../../training.rst:49 ../../training.rst:52 ../../training.rst:53
+#: ../../training.rst:51 ../../training.rst:52 ../../training.rst:53
 #: ../../training.rst:56 ../../training.rst:58
 msgid "Italiano"
 msgstr "Italiano"
-
-# 660512ec03ae4bc59a877c8ec19a3162
-#: ../../training.rst:50
-msgid "WebMapping com QGIS (PT)"
-msgstr "WebMapping con QGIS (PT)"
-
-# f7db670e6b22473f88e2168c85cf783a
-#: ../../training.rst:50
-msgid "2-3 Dicembre 2013"
-msgstr "2-3 Diciembre 2013"
-
-# c36c959990c5438da3b43b6a7d9689cb
-# 3012295ac29a4fe793a064ae07e37b56
-# a4b7dd4373cb4866b08c1ba195474007
-# 19804cb0c4ff4b7a923f428bd87759ec
-#: ../../training.rst:50
-msgid "Lisbona, PT"
-msgstr "Lisboa, PT"
-
-# e255c3651fef4808985bd166dc74da2b
-# 0c945eeb010449b39192d6932cb7d000
-# 33a0ad503b554bbbb42d0384d5628652
-#: ../../training.rst:50 ../../training.rst:54 ../../training.rst:55
-msgid "Portoghese"
-msgstr "Portugués"
-
-# 7cabf0be650643f1b85997a1c5b71df0
-#: ../../training.rst:51 ../../training.rst:59
-msgid "Geodatabase: PostgreSQL and PostGIS (EN)"
-msgstr "Geodatabase: PostgreSQL y PostGIS (EN)"
-
-# b28a9fbcf9964ba28a693bb9feccab9b
-#: ../../training.rst:51
-msgid "Gennaio 2014"
-msgstr "Enero 2014"
-
-# f7db670e6b22473f88e2168c85cf783a
-#: ../../training.rst:51
-msgid "Dicembre 2013"
-msgstr "Diciembre 2013"
-
-# 231f101b353449b58ac1e1d733483ba5
-# 231f101b353449b58ac1e1d733483ba5
-# 231f101b353449b58ac1e1d733483ba5
-# 231f101b353449b58ac1e1d733483ba5
-# 231f101b353449b58ac1e1d733483ba5
-#: ../../training.rst:51 ../../training.rst:54 ../../training.rst:55
-#: ../../training.rst:57 ../../training.rst:59
-msgid "Évora, PT"
-msgstr "Évora, PT"
-
-# 51c019364e82467cb3334d945ad1b04f
-#: ../../training.rst:51 ../../training.rst:57 ../../training.rst:59
-msgid "Inglese"
-msgstr "Inglés"
 
 # 660512ec03ae4bc59a877c8ec19a3162
 #: ../../training.rst:52
@@ -257,13 +262,13 @@ msgstr "WebMapping con QGIS (IT)"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
 #: ../../training.rst:52
-msgid "23-24 Gennaio 2014"
-msgstr "23-24 de enero 2014"
+msgid "13-14 Febbraio 2014"
+msgstr "13-14 de febrero 2014"
 
 # 2837589f472d43e6b2fcc68aa9118522
 #: ../../training.rst:52
-msgid "10 Gennaio"
-msgstr "10 de enero"
+msgid "25 Gennaio"
+msgstr "25 de enero"
 
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
@@ -1163,6 +1168,10 @@ msgstr "Criterios de optimización"
 #: ../../training.rst:278
 msgid "Due giorni *full time*"
 msgstr "Dos días *full time*"
+
+# f7db670e6b22473f88e2168c85cf783a
+#~ msgid "11-13 Dicembre 2013"
+#~ msgstr "11-13 Diciembre 2013"
 
 # 5264f422ac9d4034a6d68c5b38458a39
 #~ msgid "25-27 Settembre 2013"
