@@ -35,7 +35,7 @@ Formulário de inscrição
 			$note = $_POST["note"];
 			
 			// compose submitter mail
-			$from = 'De: ' . $sender_email; 
+			$from = 'From: ' . $sender_email; 
 			$to = $email; 
 			$subject = "Faunalia LDA, inscrição no curso " . $corso . " efectuada com sucesso";
 			$message = "A sua inscrição foi registrada. Será contactado o mais brevemente possível.\n\nObrigado.";
@@ -136,7 +136,6 @@ Formulário de inscrição
 	<label for="edit-submitted-corso" class="col-sm-3 control-label">Curso <span class="form-required" title="O campo é obrigatório.">*</span></label>
 	<div class="col-sm-9">
 	<select id="edit-submitted-corso" name="corso" class="form-control">
-		<option value="" <?php if ($corso=="") echo 'selected="selected"';?> >- Escolher -</option>
 		<option value="WebMapping com QGIS - 2/3 Dezembro 2013" <?php if ($corso=="webgis") echo 'selected="selected"';?> >WebMapping com QGIS - 2/3 Dezembro 2013</option>
 		<option value="BD geográficas: PostgreSQL e PostGIS - Janeiro 2014" <?php if ($corso=="webgis") echo 'selected="selected"';?> >BD geográficas: PostgreSQL e PostGIS - Janeiro 2014</option>
 		<option value="Cartografia com QGIS - Março 2014" <?php if ($corso=="webgis") echo 'selected="selected"';?> >Cartografia com QGIS - Março 2014</option>

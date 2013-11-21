@@ -136,7 +136,6 @@ Modulo di iscrizione
 	<label for="edit-submitted-corso" class="col-sm-3 control-label">Corso <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
 	<div class="col-sm-9">
 	<select id="edit-submitted-corso" name="corso" class="form-control">
-		<option value="" <?php if ($corso=="") echo 'selected="selected"';?> >- Scegliere -</option>
 		<option value="qgis_cartografia" <?php if ($corso=="qgis_cartografia") echo 'selected="selected"';?> >QGIS cartografia</option>
 		<option value="qgis_analisi" <?php if ($corso=="qgis_analisi") echo 'selected="selected"';?> >QGIS analisi</option>
 		<option value="pyqgis" <?php if ($corso=="pyqgis") echo 'selected="selected"';?> >Python-QGIS</option>
