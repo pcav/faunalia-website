@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-21 16:57+0100\n"
+"POT-Creation-Date: 2013-11-22 10:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -179,7 +179,7 @@ msgstr "25 de noviembre"
 # 3012295ac29a4fe793a064ae07e37b56
 # a4b7dd4373cb4866b08c1ba195474007
 # 19804cb0c4ff4b7a923f428bd87759ec
-#: ../../training.rst:49
+#: ../../training.rst:49 ../../training.rst:50
 msgid "Lisbona, PT"
 msgstr "Lisboa, PT"
 
@@ -197,23 +197,13 @@ msgstr "Geodatabase: PostgreSQL y PostGIS (EN)"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
 #: ../../training.rst:50
-msgid "Gennaio 2014"
-msgstr "Enero 2014"
+msgid "3-5 Febbraio 2014"
+msgstr "3-5 de Febrero 2014"
 
-# f7db670e6b22473f88e2168c85cf783a
+# b28a9fbcf9964ba28a693bb9feccab9b
 #: ../../training.rst:50
-msgid "Dicembre 2013"
-msgstr "Diciembre 2013"
-
-# 231f101b353449b58ac1e1d733483ba5
-# 231f101b353449b58ac1e1d733483ba5
-# 231f101b353449b58ac1e1d733483ba5
-# 231f101b353449b58ac1e1d733483ba5
-# 231f101b353449b58ac1e1d733483ba5
-#: ../../training.rst:50 ../../training.rst:54 ../../training.rst:55
-#: ../../training.rst:57 ../../training.rst:59
-msgid "Évora, PT"
-msgstr "Évora, PT"
+msgid "3 Gennaio 2014"
+msgstr "3 Enero 2014"
 
 # 51c019364e82467cb3334d945ad1b04f
 #: ../../training.rst:50 ../../training.rst:57 ../../training.rst:59
@@ -277,12 +267,12 @@ msgid "Cartografia con QGIS (IT)"
 msgstr "Cartografía con QGIS (IT)"
 
 # 53d00af130964089957a33ca9154d0b3
-#: ../../training.rst:53 ../../training.rst:54 ../../training.rst:55
+#: ../../training.rst:53
 msgid "Marzo 2014"
 msgstr "Marzo 2014"
 
 # 5f579eacdfe14ef58b3777e851296a6b
-#: ../../training.rst:53 ../../training.rst:55
+#: ../../training.rst:53
 msgid "15 Febbraio"
 msgstr "15 Febrero"
 
@@ -292,16 +282,41 @@ msgstr "15 Febrero"
 msgid "Cartografia com QGIS (PT)"
 msgstr "Cartografía con QGIS (PT)"
 
+# 53d00af130964089957a33ca9154d0b3
+#: ../../training.rst:54
+msgid "10-12 Marzo 2014"
+msgstr "10-12 Marzo 2014"
+
 # 5f579eacdfe14ef58b3777e851296a6b
 #: ../../training.rst:54
-msgid "01 Febbraio"
-msgstr "1 Febrero"
+msgid "28 Febbraio"
+msgstr "28 Febrero"
+
+# 231f101b353449b58ac1e1d733483ba5
+# 231f101b353449b58ac1e1d733483ba5
+# 231f101b353449b58ac1e1d733483ba5
+# 231f101b353449b58ac1e1d733483ba5
+# 231f101b353449b58ac1e1d733483ba5
+#: ../../training.rst:54 ../../training.rst:55 ../../training.rst:57
+#: ../../training.rst:59
+msgid "Évora, PT"
+msgstr "Évora, PT"
 
 # bd04cff96a1d4414899ef132ad5ba7bf
 # 84a61dcdc830454e9665797c69bd9891
 #: ../../training.rst:55
 msgid "Análise SIG com QGIS (PT)"
 msgstr "Análisis con QGIS (PT)"
+
+# 53d00af130964089957a33ca9154d0b3
+#: ../../training.rst:55
+msgid "26-28 Marzo 2014"
+msgstr "26-28 Marzo 2014"
+
+# 5b9b45b66a3e4c648de8b6c852acf4eb
+#: ../../training.rst:55
+msgid "17 Marzo"
+msgstr "17 Marzo"
 
 # bd04cff96a1d4414899ef132ad5ba7bf
 # 84a61dcdc830454e9665797c69bd9891
@@ -310,7 +325,7 @@ msgid "Analisi con QGIS (IT)"
 msgstr "Análisis con QGIS (IT)"
 
 # eafdbe68fb894344a151fb2d4142818d
-#: ../../training.rst:56 ../../training.rst:57
+#: ../../training.rst:56
 msgid "Aprile 2014"
 msgstr "Abril 2014"
 
@@ -324,10 +339,15 @@ msgstr "15 Marzo"
 msgid "Criar plugins em Python para QGIS (PT)"
 msgstr "Crear plugin en Python para QGIS (PT)"
 
-# 67da7a1be0814b30a5a20d7f14e2e4ba
-#: ../../training.rst:57 ../../training.rst:58 ../../training.rst:59
-msgid "15 Aprile"
-msgstr "15 Abril"
+# eafdbe68fb894344a151fb2d4142818d
+#: ../../training.rst:57
+msgid "28-30 Aprile 2014"
+msgstr "28-30 Abril 2014"
+
+# 5b9b45b66a3e4c648de8b6c852acf4eb
+#: ../../training.rst:57
+msgid "28 Marzo"
+msgstr "28 Marzo"
 
 # 93622693fbc3409ea870fc8d6b853c71
 #: ../../training.rst:58
@@ -335,9 +355,24 @@ msgid "Creare plugin in Python per QGIS (IT)"
 msgstr "Crear plugin en Python para QGIS (IT)"
 
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
-#: ../../training.rst:58 ../../training.rst:59
+#: ../../training.rst:58
 msgid "Maggio 2014"
 msgstr "Mayo 2014"
+
+# 67da7a1be0814b30a5a20d7f14e2e4ba
+#: ../../training.rst:58
+msgid "15 Aprile"
+msgstr "15 Abril"
+
+# a1f5b6a26beb4ff7b01ce0822fe1d8ab
+#: ../../training.rst:59
+msgid "14-16 Maggio 2014"
+msgstr "14-16 Mayo 2014"
+
+# 67da7a1be0814b30a5a20d7f14e2e4ba
+#: ../../training.rst:59
+msgid "14 Aprile"
+msgstr "14 Abril"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
 #: ../../training.rst:64
@@ -1168,6 +1203,14 @@ msgstr "Criterios de optimización"
 #: ../../training.rst:278
 msgid "Due giorni *full time*"
 msgstr "Dos días *full time*"
+
+# f7db670e6b22473f88e2168c85cf783a
+#~ msgid "Dicembre 2013"
+#~ msgstr "Diciembre 2013"
+
+# 5f579eacdfe14ef58b3777e851296a6b
+#~ msgid "01 Febbraio"
+#~ msgstr "1 Febrero"
 
 # f7db670e6b22473f88e2168c85cf783a
 #~ msgid "11-13 Dicembre 2013"
