@@ -47,16 +47,16 @@ Calendario
 Corso                                    Date e durata         Scadenza iscrizione  Dove           Lingua
 ======================================== ====================  ==================== ============== ===========
 WebMapping com QGIS (PT)                 2-3 Dicembre 2013     25 Novembre          Lisbona, PT    Portoghese
-Geodatabase: PostgreSQL and PostGIS (EN) Gennaio 2014          Dicembre 2013        Évora, PT      Inglese
+Geodatabase: PostgreSQL and PostGIS (EN) 3-5 Febbraio 2014     3 Gennaio 2014       Lisbona, PT    Inglese
 Geodatabase: PostgreSQL e PostGIS (IT)   22-24 Gennaio 2013    5 Gennaio            Pontedera, IT  Italiano
 WebMapping con QGIS (IT)                 13-14 Febbraio 2014   25 Gennaio           Pontedera, IT  Italiano
 Cartografia con QGIS (IT)                Marzo 2014            15 Febbraio          Pontedera, IT  Italiano
-Cartografia com QGIS (PT)		 Marzo 2014	       01 Febbraio          Évora, PT      Portoghese
-Análise SIG com QGIS (PT)		 Marzo 2014	       15 Febbraio          Évora, PT      Portoghese
+Cartografia com QGIS (PT)		 10-12 Marzo 2014      28 Febbraio          Évora, PT      Portoghese
+Análise SIG com QGIS (PT)		 26-28 Marzo 2014      17 Marzo             Évora, PT      Portoghese
 Analisi con QGIS (IT)                    Aprile 2014           15 Marzo             Pontedera, IT  Italiano
-Criar plugins em Python para QGIS (PT)   Aprile 2014           15 Aprile            Évora, PT      Inglese
+Criar plugins em Python para QGIS (PT)   28-30 Aprile 2014     28 Marzo             Évora, PT      Inglese
 Creare plugin in Python per QGIS (IT)    Maggio 2014           15 Aprile            Pontedera, IT  Italiano
-Geodatabase: PostgreSQL and PostGIS (EN) Maggio 2014           15 Aprile            Évora, PT      Inglese
+Geodatabase: PostgreSQL and PostGIS (EN) 14-16 Maggio 2014     14 Aprile            Évora, PT      Inglese
 ======================================== ====================  ==================== ============== ===========
 
 .. cssclass :: wht
