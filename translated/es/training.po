@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-21 16:57+0100\n"
+"POT-Creation-Date: 2013-11-23 13:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,11 +57,13 @@ msgstr ""
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:29
 msgid ""
-"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
+"annunci di nuovi corsi."
 msgstr ""
-"Inscríbase en la `lista de correo <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/corsi>`_ para recibir anuncios de nuevos cursos."
+"Inscríbase en la `lista de correo "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ para recibir "
+"anuncios de nuevos cursos."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:32
@@ -121,14 +123,14 @@ msgstr ""
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:39
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
-"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
-"<http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
+"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
+"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
-"Permiten el accesso a los exámenes AICA para tener la `certificación ECDL-"
-"GIS <http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini es "
-"`exsaminador ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/"
-"c>`_."
+"Permiten el accesso a los exámenes AICA para tener la `certificación "
+"ECDL-GIS <http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini es "
+"`exsaminador ECDL-GIS "
+"<http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 
 # 60ceb7adc7744dfdba3c604cf37e7978
 #: ../../training.rst:42
@@ -179,7 +181,7 @@ msgstr "25 de noviembre"
 # 3012295ac29a4fe793a064ae07e37b56
 # a4b7dd4373cb4866b08c1ba195474007
 # 19804cb0c4ff4b7a923f428bd87759ec
-#: ../../training.rst:49
+#: ../../training.rst:49 ../../training.rst:50
 msgid "Lisbona, PT"
 msgstr "Lisboa, PT"
 
@@ -197,23 +199,13 @@ msgstr "Geodatabase: PostgreSQL y PostGIS (EN)"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
 #: ../../training.rst:50
-msgid "Gennaio 2014"
-msgstr "Enero 2014"
+msgid "3-5 Febbraio 2014"
+msgstr "3-5 Febrero 2014"
 
-# f7db670e6b22473f88e2168c85cf783a
+# b28a9fbcf9964ba28a693bb9feccab9b
 #: ../../training.rst:50
-msgid "Dicembre 2013"
-msgstr "Diciembre 2013"
-
-# 231f101b353449b58ac1e1d733483ba5
-# 231f101b353449b58ac1e1d733483ba5
-# 231f101b353449b58ac1e1d733483ba5
-# 231f101b353449b58ac1e1d733483ba5
-# 231f101b353449b58ac1e1d733483ba5
-#: ../../training.rst:50 ../../training.rst:54 ../../training.rst:55
-#: ../../training.rst:57 ../../training.rst:59
-msgid "Évora, PT"
-msgstr "Évora, PT"
+msgid "3 Gennaio 2014"
+msgstr "3 Enero 2014"
 
 # 51c019364e82467cb3334d945ad1b04f
 #: ../../training.rst:50 ../../training.rst:57 ../../training.rst:59
@@ -277,12 +269,12 @@ msgid "Cartografia con QGIS (IT)"
 msgstr "Cartografía con QGIS (IT)"
 
 # 53d00af130964089957a33ca9154d0b3
-#: ../../training.rst:53 ../../training.rst:54 ../../training.rst:55
+#: ../../training.rst:53
 msgid "Marzo 2014"
 msgstr "Marzo 2014"
 
 # 5f579eacdfe14ef58b3777e851296a6b
-#: ../../training.rst:53 ../../training.rst:55
+#: ../../training.rst:53
 msgid "15 Febbraio"
 msgstr "15 Febrero"
 
@@ -292,16 +284,41 @@ msgstr "15 Febrero"
 msgid "Cartografia com QGIS (PT)"
 msgstr "Cartografía con QGIS (PT)"
 
+# 53d00af130964089957a33ca9154d0b3
+#: ../../training.rst:54
+msgid "10-12 Marzo 2014"
+msgstr "10-12 Marzo 2014"
+
 # 5f579eacdfe14ef58b3777e851296a6b
 #: ../../training.rst:54
-msgid "01 Febbraio"
-msgstr "1 Febrero"
+msgid "28 Febbraio"
+msgstr "28 Febrero"
+
+# 231f101b353449b58ac1e1d733483ba5
+# 231f101b353449b58ac1e1d733483ba5
+# 231f101b353449b58ac1e1d733483ba5
+# 231f101b353449b58ac1e1d733483ba5
+# 231f101b353449b58ac1e1d733483ba5
+#: ../../training.rst:54 ../../training.rst:55 ../../training.rst:57
+#: ../../training.rst:59
+msgid "Évora, PT"
+msgstr "Évora, PT"
 
 # bd04cff96a1d4414899ef132ad5ba7bf
 # 84a61dcdc830454e9665797c69bd9891
 #: ../../training.rst:55
 msgid "Análise SIG com QGIS (PT)"
 msgstr "Análisis con QGIS (PT)"
+
+# 53d00af130964089957a33ca9154d0b3
+#: ../../training.rst:55
+msgid "26-28 Marzo 2014"
+msgstr "26-28 Marzo 2014"
+
+# 5b9b45b66a3e4c648de8b6c852acf4eb
+#: ../../training.rst:55
+msgid "17 Marzo"
+msgstr "17 Marzo"
 
 # bd04cff96a1d4414899ef132ad5ba7bf
 # 84a61dcdc830454e9665797c69bd9891
@@ -310,7 +327,7 @@ msgid "Analisi con QGIS (IT)"
 msgstr "Análisis con QGIS (IT)"
 
 # eafdbe68fb894344a151fb2d4142818d
-#: ../../training.rst:56 ../../training.rst:57
+#: ../../training.rst:56
 msgid "Aprile 2014"
 msgstr "Abril 2014"
 
@@ -324,10 +341,15 @@ msgstr "15 Marzo"
 msgid "Criar plugins em Python para QGIS (PT)"
 msgstr "Crear plugin en Python para QGIS (PT)"
 
-# 67da7a1be0814b30a5a20d7f14e2e4ba
-#: ../../training.rst:57 ../../training.rst:58 ../../training.rst:59
-msgid "15 Aprile"
-msgstr "15 Abril"
+# eafdbe68fb894344a151fb2d4142818d
+#: ../../training.rst:57
+msgid "28-30 Aprile 2014"
+msgstr "28-30 Abril 2014"
+
+# 5b9b45b66a3e4c648de8b6c852acf4eb
+#: ../../training.rst:57
+msgid "28 Marzo"
+msgstr "28 Marzo"
 
 # 93622693fbc3409ea870fc8d6b853c71
 #: ../../training.rst:58
@@ -335,18 +357,34 @@ msgid "Creare plugin in Python per QGIS (IT)"
 msgstr "Crear plugin en Python para QGIS (IT)"
 
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
-#: ../../training.rst:58 ../../training.rst:59
+#: ../../training.rst:58
 msgid "Maggio 2014"
 msgstr "Mayo 2014"
 
+# 67da7a1be0814b30a5a20d7f14e2e4ba
+#: ../../training.rst:58
+msgid "15 Aprile"
+msgstr "15 Abril"
+
+# a1f5b6a26beb4ff7b01ce0822fe1d8ab
+#: ../../training.rst:59
+msgid "14-16 Maggio 2014"
+msgstr "14-16 Mayo 2014"
+
+# 67da7a1be0814b30a5a20d7f14e2e4ba
+#: ../../training.rst:59
+msgid "14 Aprile"
+msgstr "14 Abril"
+
 # cb5c68a9adc449d8a912f7006c1d1d6c
 #: ../../training.rst:64
+#, qt-format
 msgid ""
-"`Scarica il calendario (ics) <https://www.google.com/calendar/ical/"
-"faunaliagis%40gmail.com/public/basic.ics>`_"
+"`Scarica il calendario (ics) "
+"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 msgstr ""
-"Descargue el calendario (ics) <https://www.google.com/calendar/ical/"
-"faunaliagis%40gmail.com/public/basic.ics>`_"
+"Descargue el calendario (ics) "
+"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 2b01fbfd1fbb417da072f5b12ca3fae2
 #: ../../training.rst:67
@@ -361,9 +399,9 @@ msgid ""
 "giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la "
 "ritenuta d'acconto, da versare 275,58 €)"
 msgstr ""
-"Cursos de tres días: 350 € para clientes privados, 320 €+ IVA para empresas/"
-"autónomos. Cursos de Wep Mapping (2 días): 290 para  clientes privados, 270 €"
-"+ IVA para empresas/autónomos"
+"Cursos de tres días: 350 € para clientes privados, 320 €+ IVA para "
+"empresas/autónomos. Cursos de Wep Mapping (2 días): 290 para  clientes "
+"privados, 270 €+ IVA para empresas/autónomos"
 
 # 26a08c8133c244a28bb579355207e4d0
 #: ../../training.rst:70
@@ -442,21 +480,24 @@ msgstr "Logística"
 # e2c77797de9e472598dc6f4abdcf19db
 #: ../../training.rst:88
 msgid ""
-"**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
-"page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
-"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
-"pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune."
-"pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo <http://www."
-"ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple"
+"**Sede**: Pontedera (PI), presso `Pont-Tech "
+"<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
+"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
+"facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli "
+"sulla città "
+"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo "
+"<http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere "
+"singole/doppie/triple"
 msgstr ""
-"**Sede** Pontedera (PI) en `Pont-Tech <http://www.pont-tech.it/?"
-"page_id=957>`_, o `Faunalia <http://www.openstreetmap.org/?"
-"lat=43.66154&lon=10.63763&zoom=17>`_, de fácil accesso con medios públicos "
-"(tren y avión). `Detalles sobre la ciudad. <http://www.comune.pontedera.pi."
-"it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluídos "
-"alojamientos). Convención con B&B `Il Piccolo <http://www.ilpiccolorooms.it/"
-">`_, 45/60/80 € por habitación simple/doble/triple"
+"**Sede** Pontedera (PI) en `Pont-Tech "
+"<http://www.pont-tech.it/?page_id=957>`_, o `Faunalia "
+"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, de "
+"fácil accesso con medios públicos (tren y avión). `Detalles sobre la ciudad. "
+"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluídos alojamientos). Convención con B&B `Il Piccolo "
+"<http://www.ilpiccolorooms.it/>`_, 45/60/80 € por habitación "
+"simple/doble/triple"
 
 # 70445496ccfb4e5f905683df99c5a6c3
 #: ../../training.rst:91
@@ -1168,6 +1209,14 @@ msgstr "Criterios de optimización"
 #: ../../training.rst:278
 msgid "Due giorni *full time*"
 msgstr "Dos días *full time*"
+
+# f7db670e6b22473f88e2168c85cf783a
+#~ msgid "Dicembre 2013"
+#~ msgstr "Diciembre 2013"
+
+# 5f579eacdfe14ef58b3777e851296a6b
+#~ msgid "01 Febbraio"
+#~ msgstr "1 Febrero"
 
 # f7db670e6b22473f88e2168c85cf783a
 #~ msgid "11-13 Dicembre 2013"
