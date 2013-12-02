@@ -94,7 +94,7 @@ margin:30px auto 0 auto;
 display:none;
 }
 .topcont h2{
-font-size:4.2em;
+font-size:3.9em;
 margin:0 !important;
 padding:0 !important;
 text-align:center;
@@ -120,7 +120,7 @@ margin:20px 0 30px 0 !important;
 padding-bottom:20px;}
 
 .svi h1, .ass h1, .cor h1{
-font-size:1.9em;margin:20px auto 20px auto;text-align:center;color:#7C7C7C !important;text-shadow:#FFFFFF 0 2px 0;
+font-size:1.7em;margin:20px auto 20px auto;text-align:center;color:#7C7C7C !important;text-shadow:#FFFFFF 0 2px 0;
 }
 
 .svi h1 a, .ass h1 a, .cor h1 a{
@@ -322,4 +322,8 @@ padding: 5px 20px !important;}
 background-color: #9ee39d !important;
 color:#333333 !important;
 text-shadow:none !important;
+}
+
+.nav-list > li > ul > li > a {
+margin-left:10px !important;
 }
