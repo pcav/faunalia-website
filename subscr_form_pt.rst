@@ -139,7 +139,7 @@ Formulário de inscrição
 		<option value="WebMapping com QGIS, 2-3 Dezembro 2013" <?php if ($corso=="webgis") echo 'selected="selected"';?> >WebMapping com QGIS, 2-3 Dezembro 2013</option>
 		<option value="BD geográficas: PostgreSQL e PostGIS, 3-5 Fevereiro 2014" <?php if ($corso=="webgis") echo 'selected="selected"';?> >BD geográficas: PostgreSQL e PostGIS, 3-5 Fevereiro 2014</option>
 		<option value="Cartografia com QGIS, 10-12 Março 2014" <?php if ($corso=="webgis") echo 'selected="selected"';?> >Cartografia com QGIS, 10-12 Março 2014</option>
-		<option value="Análise SIG com QGIS, 26-28 Março 2014" <?php if ($corso=="webgis") echo 'selected="selected"';?> >Análise SIG com QGIS, 26-28 Março 2014</option>
+		<option value="Análise SIG com QGIS, 2-4 Abril 2014" <?php if ($corso=="webgis") echo 'selected="selected"';?> >Análise SIG com QGIS, 2-4 Abril 2014</option>
 		<option value="Criar plugins em Python para QGIS, 28-30 Abril 2014" <?php if ($corso=="webgis") echo 'selected="selected"';?> >Criar plugins em Python para QGIS, 28-30 Abril 2014</option>
 		<option value="BD geográficas: PostgreSQL e PostGIS, 14-16 Maio 2014" <?php if ($corso=="webgis") echo 'selected="selected"';?> >BD geográficas: PostgreSQL e PostGIS, 14-16 Maio 2014</option>
 	</select>
