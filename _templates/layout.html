@@ -21,6 +21,12 @@
           <span class="icon-bar"></span>
         </button>
 
+        <div class="visible-xs languageswitch-phone">
+          {% block languageswitchphone %}
+            {% include "languageswitch.html" %}
+          {% endblock %}
+        </div>
+
         <a class="navbar-brand" href="{{ pathto(master_doc) }}">{% if theme_navbar_title -%}{{ theme_navbar_title|e }}{%- else -%}{{ project|e }}{%- endif -%}</a>
 	<span class="navbar-text navbar-version pull-left"><b>{{ version|e }}</b></span>
       </div>
@@ -35,7 +41,7 @@
 
             {% block navbarextra %}
             {% endblock %}
-<li>
+<li class="hidden-xs">
 {% block languageswitch %}
             {% include "languageswitch.html" %}
           {% endblock %}
@@ -134,4 +140,5 @@
 </div></div>
 </div>
 </footer>
+{% include "languages-script.html" %}
 {%- endblock %}
