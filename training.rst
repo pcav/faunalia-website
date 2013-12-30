@@ -46,16 +46,18 @@ Calendario
 ======================================== ====================  ==================== ============== ===========
 Corso                                    Date e durata         Scadenza iscrizione  Dove           Lingua
 ======================================== ====================  ==================== ============== ===========
+Geodatabase: PostgreSQL e PostGIS (IT)   22-24 Gennaio 2014    5 Gennaio            Pontedera, IT  Italiano
 Geodatabase: PostgreSQL and PostGIS (EN) 3-5 Febbraio 2014     3 Gennaio 2014       Lisbona, PT    Inglese
-Geodatabase: PostgreSQL e PostGIS (IT)   22-24 Gennaio 2013    5 Gennaio            Pontedera, IT  Italiano
-WebMapping con QGIS (IT)                 13-14 Febbraio 2014   25 Gennaio           Pontedera, IT  Italiano
-Cartografia con QGIS (IT)                Marzo 2014            15 Febbraio          Pontedera, IT  Italiano
+WebMapping con QGIS (IT)                 20-21 Febbraio 2014   5 Febbraio           Pontedera, IT  Italiano
+Cartografia con QGIS (IT)                12-14 Marzo 2014      15 Febbraio          Pontedera, IT  Italiano
 Cartografia com QGIS (PT)		 10-12 Marzo 2014      28 Febbraio          Évora, PT      Portoghese
 Análise SIG com QGIS (PT)		 2-4 Aprile 2014       24 Marzo             Évora, PT      Portoghese
-Analisi con QGIS (IT)                    Aprile 2014           15 Marzo             Pontedera, IT  Italiano
+Analisi con QGIS (IT)                    9-11 Aprile 2014      15 Marzo             Pontedera, IT  Italiano
 Criar plugins em Python para QGIS (PT)   28-30 Aprile 2014     28 Marzo             Évora, PT      Inglese
-Creare plugin in Python per QGIS (IT)    Maggio 2014           15 Aprile            Pontedera, IT  Italiano
+Creare plugin in Python per QGIS (IT)    7-9 Maggio 2014       15 Aprile            Pontedera, IT  Italiano
 Geodatabase: PostgreSQL and PostGIS (EN) 14-16 Maggio 2014     14 Aprile            Évora, PT      Inglese
+Geodatabase: PostgreSQL e PostGIS (IT)   11-13 Giugno 2014     15 Maggio            Pontedera, IT  Italiano
+WebMapping con QGIS (IT)                 3-4 Luglio 2014       15 Giugno            Pontedera, IT  Italiano
 ======================================== ====================  ==================== ============== ===========
 
 .. cssclass :: wht
