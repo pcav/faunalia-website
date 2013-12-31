@@ -46,18 +46,18 @@ Calendario
 ======================================== ====================  ==================== ============== ===========
 Corso                                    Date e durata         Scadenza iscrizione  Dove           Lingua
 ======================================== ====================  ==================== ============== ===========
-Geodatabase: PostgreSQL e PostGIS (IT)   22-24 Gennaio 2014    5 Gennaio            Pontedera, IT  Italiano
-Geodatabase: PostgreSQL and PostGIS (EN) 3-5 Febbraio 2014     3 Gennaio 2014       Lisbona, PT    Inglese
-WebMapping con QGIS (IT)                 20-21 Febbraio 2014   5 Febbraio           Pontedera, IT  Italiano
-Cartografia con QGIS (IT)                12-14 Marzo 2014      15 Febbraio          Pontedera, IT  Italiano
-Cartografia com QGIS (PT)		 10-12 Marzo 2014      28 Febbraio          Évora, PT      Portoghese
-Análise SIG com QGIS (PT)		 2-4 Aprile 2014       24 Marzo             Évora, PT      Portoghese
-Analisi con QGIS (IT)                    9-11 Aprile 2014      15 Marzo             Pontedera, IT  Italiano
-Criar plugins em Python para QGIS (PT)   28-30 Aprile 2014     28 Marzo             Évora, PT      Inglese
-Creare plugin in Python per QGIS (IT)    7-9 Maggio 2014       15 Aprile            Pontedera, IT  Italiano
-Geodatabase: PostgreSQL and PostGIS (EN) 14-16 Maggio 2014     14 Aprile            Évora, PT      Inglese
-Geodatabase: PostgreSQL e PostGIS (IT)   11-13 Giugno 2014     15 Maggio            Pontedera, IT  Italiano
-WebMapping con QGIS (IT)                 3-4 Luglio 2014       15 Giugno            Pontedera, IT  Italiano
+Geodatabase: PostgreSQL e PostGIS (IT)   22-24 Gennaio         5 Gennaio            Pontedera, IT  Italiano
+Geodatabase: PostgreSQL and PostGIS (EN) 3-5 Febbraio          3 Gennaio            Lisbona, PT    Inglese
+WebMapping con QGIS (IT)                 20-21 Febbraio        5 Febbraio           Pontedera, IT  Italiano
+Cartografia con QGIS (IT)                12-14 Marzo           15 Febbraio          Pontedera, IT  Italiano
+Cartografia com QGIS (PT)		 10-12 Marzo           28 Febbraio          Évora, PT      Portoghese
+Análise SIG com QGIS (PT)		 2-4 Aprile            24 Marzo             Évora, PT      Portoghese
+Analisi con QGIS (IT)                    9-11 Aprile           15 Marzo             Pontedera, IT  Italiano
+Geodatabase: PostgreSQL and PostGIS (EN) 28-30 Aprile          28 Marzo             Lisbona, PT    Inglese
+Creare plugin in Python per QGIS (IT)    7-9 Maggio            15 Aprile            Pontedera, IT  Italiano
+Criar plugins em Python para QGIS (PT)   14-16 Maggio          14 Aprile            Évora, PT      Inglese
+Geodatabase: PostgreSQL e PostGIS (IT)   11-13 Giugno          15 Maggio            Pontedera, IT  Italiano
+WebMapping con QGIS (IT)                 3-4 Luglio            15 Giugno            Pontedera, IT  Italiano
 ======================================== ====================  ==================== ============== ===========
 
 .. cssclass :: wht

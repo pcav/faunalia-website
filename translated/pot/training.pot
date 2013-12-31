@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-30 10:09+0100\n"
+"POT-Creation-Date: 2013-12-31 17:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -115,7 +115,7 @@ msgstr ""
 
 #: ../../training.rst:49
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
-msgid "22-24 Gennaio 2014"
+msgid "22-24 Gennaio"
 msgstr ""
 
 #: ../../training.rst:49
@@ -158,7 +158,7 @@ msgid "Italiano"
 msgstr ""
 
 #: ../../training.rst:50
-#: ../../training.rst:58
+#: ../../training.rst:56
 # ec17ddf914064a41a5a1cb065379644b
 # ec17ddf914064a41a5a1cb065379644b
 msgid "Geodatabase: PostgreSQL and PostGIS (EN)"
@@ -166,15 +166,17 @@ msgstr ""
 
 #: ../../training.rst:50
 # 5f579eacdfe14ef58b3777e851296a6b
-msgid "3-5 Febbraio 2014"
+msgid "3-5 Febbraio"
 msgstr ""
 
 #: ../../training.rst:50
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
-msgid "3 Gennaio 2014"
+msgid "3 Gennaio"
 msgstr ""
 
 #: ../../training.rst:50
+#: ../../training.rst:56
+# 231f101b353449b58ac1e1d733483ba5
 # 231f101b353449b58ac1e1d733483ba5
 msgid "Lisbona, PT"
 msgstr ""
@@ -197,7 +199,7 @@ msgstr ""
 
 #: ../../training.rst:51
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
-msgid "20-21 Febbraio 2014"
+msgid "20-21 Febbraio"
 msgstr ""
 
 #: ../../training.rst:51
@@ -212,7 +214,7 @@ msgstr ""
 
 #: ../../training.rst:52
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
-msgid "12-14 Marzo 2014"
+msgid "12-14 Marzo"
 msgstr ""
 
 #: ../../training.rst:52
@@ -227,7 +229,7 @@ msgstr ""
 
 #: ../../training.rst:53
 # 53d00af130964089957a33ca9154d0b3
-msgid "10-12 Marzo 2014"
+msgid "10-12 Marzo"
 msgstr ""
 
 #: ../../training.rst:53
@@ -237,9 +239,7 @@ msgstr ""
 
 #: ../../training.rst:53
 #: ../../training.rst:54
-#: ../../training.rst:56
 #: ../../training.rst:58
-# 231f101b353449b58ac1e1d733483ba5
 # 231f101b353449b58ac1e1d733483ba5
 # 231f101b353449b58ac1e1d733483ba5
 # 231f101b353449b58ac1e1d733483ba5
@@ -260,7 +260,7 @@ msgstr ""
 
 #: ../../training.rst:54
 # eafdbe68fb894344a151fb2d4142818d
-msgid "2-4 Aprile 2014"
+msgid "2-4 Aprile"
 msgstr ""
 
 #: ../../training.rst:54
@@ -275,7 +275,7 @@ msgstr ""
 
 #: ../../training.rst:55
 # eafdbe68fb894344a151fb2d4142818d
-msgid "9-11 Aprile 2014"
+msgid "9-11 Aprile"
 msgstr ""
 
 #: ../../training.rst:55
@@ -284,13 +284,8 @@ msgid "15 Marzo"
 msgstr ""
 
 #: ../../training.rst:56
-# c5eecc7b700a4708af9c4b09effd20a4
-msgid "Criar plugins em Python para QGIS (PT)"
-msgstr ""
-
-#: ../../training.rst:56
 # eafdbe68fb894344a151fb2d4142818d
-msgid "28-30 Aprile 2014"
+msgid "28-30 Aprile"
 msgstr ""
 
 #: ../../training.rst:56
@@ -305,7 +300,7 @@ msgstr ""
 
 #: ../../training.rst:57
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
-msgid "7-9 Maggio 2014"
+msgid "7-9 Maggio"
 msgstr ""
 
 #: ../../training.rst:57
@@ -314,8 +309,13 @@ msgid "15 Aprile"
 msgstr ""
 
 #: ../../training.rst:58
+# c5eecc7b700a4708af9c4b09effd20a4
+msgid "Criar plugins em Python para QGIS (PT)"
+msgstr ""
+
+#: ../../training.rst:58
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
-msgid "14-16 Maggio 2014"
+msgid "14-16 Maggio"
 msgstr ""
 
 #: ../../training.rst:58
@@ -325,7 +325,7 @@ msgstr ""
 
 #: ../../training.rst:59
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
-msgid "11-13 Giugno 2014"
+msgid "11-13 Giugno"
 msgstr ""
 
 #: ../../training.rst:59
@@ -335,7 +335,7 @@ msgstr ""
 
 #: ../../training.rst:60
 # 5f579eacdfe14ef58b3777e851296a6b
-msgid "3-4 Luglio 2014"
+msgid "3-4 Luglio"
 msgstr ""
 
 #: ../../training.rst:60
