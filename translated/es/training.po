@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-31 17:33+0000\n"
+"POT-Creation-Date: 2014-01-06 08:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -199,20 +199,20 @@ msgstr "Pontedera, IT"
 msgid "Italiano"
 msgstr "Italiano"
 
-# 7cabf0be650643f1b85997a1c5b71df0
-#: ../../training.rst:50 ../../training.rst:56
-msgid "Geodatabase: PostgreSQL and PostGIS (EN)"
-msgstr "Geodatabase: PostgreSQL y PostGIS (EN)"
+# 660512ec03ae4bc59a877c8ec19a3162
+#: ../../training.rst:50
+msgid "Web Mapping con QGIS (PT)"
+msgstr "WebMapping con QGIS (PT)"
 
 # 5f579eacdfe14ef58b3777e851296a6b
 #: ../../training.rst:50
-msgid "3-5 Febbraio"
-msgstr "3-5 de febrero"
+msgid "3-4 Febbraio"
+msgstr "3-4 de febrero"
 
 # 2837589f472d43e6b2fcc68aa9118522
 #: ../../training.rst:50
-msgid "3 Gennaio"
-msgstr "3 de enero"
+msgid "27 Gennaio"
+msgstr "27 de enero"
 
 # c36c959990c5438da3b43b6a7d9689cb
 # 3012295ac29a4fe793a064ae07e37b56
@@ -222,10 +222,12 @@ msgstr "3 de enero"
 msgid "Lisbona, PT"
 msgstr "Lisboa, PT"
 
-# 51c019364e82467cb3334d945ad1b04f
-#: ../../training.rst:50 ../../training.rst:56 ../../training.rst:58
-msgid "Inglese"
-msgstr "Inglés"
+# e255c3651fef4808985bd166dc74da2b
+# 0c945eeb010449b39192d6932cb7d000
+# 33a0ad503b554bbbb42d0384d5628652
+#: ../../training.rst:50 ../../training.rst:53 ../../training.rst:54
+msgid "Portoghese"
+msgstr "Portugués"
 
 # 660512ec03ae4bc59a877c8ec19a3162
 #: ../../training.rst:51 ../../training.rst:60
@@ -283,13 +285,6 @@ msgstr "28 de febrero"
 msgid "Évora, PT"
 msgstr "Évora, PT"
 
-# e255c3651fef4808985bd166dc74da2b
-# 0c945eeb010449b39192d6932cb7d000
-# 33a0ad503b554bbbb42d0384d5628652
-#: ../../training.rst:53 ../../training.rst:54
-msgid "Portoghese"
-msgstr "Portugués"
-
 # bd04cff96a1d4414899ef132ad5ba7bf
 # 84a61dcdc830454e9665797c69bd9891
 #: ../../training.rst:54
@@ -322,6 +317,11 @@ msgstr "9-11 de abril"
 msgid "15 Marzo"
 msgstr "15 de marzo"
 
+# 7cabf0be650643f1b85997a1c5b71df0
+#: ../../training.rst:56
+msgid "Geodatabase: PostgreSQL and PostGIS (EN)"
+msgstr "Geodatabase: PostgreSQL y PostGIS (EN)"
+
 # eafdbe68fb894344a151fb2d4142818d
 #: ../../training.rst:56
 msgid "28-30 Aprile"
@@ -331,6 +331,11 @@ msgstr "28-30 de abril"
 #: ../../training.rst:56
 msgid "28 Marzo"
 msgstr "28 de marzo"
+
+# 51c019364e82467cb3334d945ad1b04f
+#: ../../training.rst:56 ../../training.rst:58
+msgid "Inglese"
+msgstr "Inglés"
 
 # 93622693fbc3409ea870fc8d6b853c71
 #: ../../training.rst:57
@@ -1216,6 +1221,10 @@ msgstr "Criterios de optimización"
 msgid "Due giorni *full time*"
 msgstr "Dos días *full time*"
 
+# 2837589f472d43e6b2fcc68aa9118522
+#~ msgid "3 Gennaio"
+#~ msgstr "3 de enero"
+
 # b28a9fbcf9964ba28a693bb9feccab9b
 #~ msgid "3-5 Febbraio 2014"
 #~ msgstr "3-5 de febrero 2014"
@@ -1236,10 +1245,6 @@ msgstr "Dos días *full time*"
 #~ msgid "2-4 Aprile 2014"
 #~ msgstr "2-4 de abril 2014"
 
-# 2837589f472d43e6b2fcc68aa9118522
-#~ msgid "25 Gennaio"
-#~ msgstr "25 de enero"
-
 # 53d00af130964089957a33ca9154d0b3
 #~ msgid "Marzo 2014"
 #~ msgstr "Marzo 2014"
@@ -1247,10 +1252,6 @@ msgstr "Dos días *full time*"
 # eafdbe68fb894344a151fb2d4142818d
 #~ msgid "Aprile 2014"
 #~ msgstr "Abril 2014"
-
-# 660512ec03ae4bc59a877c8ec19a3162
-#~ msgid "WebMapping com QGIS (PT)"
-#~ msgstr "WebMapping con QGIS (PT)"
 
 # f7db670e6b22473f88e2168c85cf783a
 #~ msgid "2-3 Dicembre 2013"
