@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-31 17:33+0000\n"
+"POT-Creation-Date: 2014-01-21 11:05+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -127,7 +127,7 @@ msgid "Socio fondatore di ed ex presidente di `GFOSS.it - Italian Geographic Fre
 msgstr ""
 
 #: ../../intro.rst:69
-#: ../../intro.rst:109
+#: ../../intro.rst:111
 # 91b830e33d514b42bc0d4ba120b29a63
 # 002a2ba14e974473904af291753a7487
 msgid "Socio e *charter member* della fondazione internazionale `OSGeo - Open Source Geospatial Foundation <http://www.osgeo.org/>`_"
@@ -204,123 +204,143 @@ msgid "Ha pubblicato nel settore geofisico"
 msgstr ""
 
 #: ../../intro.rst:94
+# 7ecdcbd2c0834973a33a09b52dee5b56
+msgid "Conduce attività di prospezione geotecnica, in laboratorio ed *in situ*"
+msgstr ""
+
+#: ../../intro.rst:96
 # ed5d29949685436bb24ee66a0f36a9f6
-msgid "Conduce attività di prospezione geotecnica, in laboratorio ed *in situ* * esecuzione ed elaborazione di prove di laboratorio su terreni naturali: consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), compressione semplice, analisi granulometrica, limiti di consistenza (LL, LP, LR), peso specifico dei granuli, permeabilità in cella edometrica, triassiale e in permeametro (norme seguite: racc. AGI, CNR, ASTM) * esecuzione ed elaborazione di prove di laboratorio su materiali stradali e da costruzione: compattazione Proctor Standard e modificata, penetrazione CBR, miscelazione delle terre con calce (norme seguite: EN, CNR, ASTM) * esecuzione ed elaborazione di prove in situ: penetrometriche statiche con punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o senza rivestimento, PLT, densità in situ * installazione e messa a punto di apparecchiature di laboratorio e di sistemi di acquisizione automatica; calibrazione di trasduttori elettrici"
+msgid "esecuzione ed elaborazione di prove di laboratorio su terreni naturali: consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), compressione semplice, analisi granulometrica, limiti di consistenza (LL, LP, LR), peso specifico dei granuli, permeabilità in cella edometrica, triassiale e in permeametro (norme seguite: racc. AGI, CNR, ASTM)"
+msgstr ""
+
+#: ../../intro.rst:97
+# 427296eebc7a4466908a07e1f3edc153
+msgid "esecuzione ed elaborazione di prove di laboratorio su materiali stradali e da costruzione: compattazione Proctor Standard e modificata, penetrazione CBR, miscelazione delle terre con calce (norme seguite: EN, CNR, ASTM)"
+msgstr ""
+
+#: ../../intro.rst:98
+# 5880bd7020504a14ae11300f5ab3f917
+msgid "esecuzione ed elaborazione di prove in situ: penetrometriche statiche con punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o senza rivestimento, PLT, densità in situ"
 msgstr ""
 
 #: ../../intro.rst:99
+# 9f41a96e3f3b4e59985344b226f43072
+msgid "installazione e messa a punto di apparecchiature di laboratorio e di sistemi di acquisizione automatica; calibrazione di trasduttori elettrici"
+msgstr ""
+
+#: ../../intro.rst:101
 # 83a29ae79c2049309aa7b8a55a62fa2f
 msgid "*e-mail*: renzo.cavallini@faunalia.it"
 msgstr ""
 
-#: ../../intro.rst:102
+#: ../../intro.rst:104
 # 9383e9c37e4a47a49746f366dab2ea19
 msgid "Giovanni Manghi |pt|"
 msgstr ""
 
-#: ../../intro.rst:107
+#: ../../intro.rst:109
 # 1d1bba1b63f549919e39c82a9ffabf8b
 msgid "Fondatore di Faunalia Portogallo"
 msgstr ""
 
-#: ../../intro.rst:108
+#: ../../intro.rst:110
 # bd1de22296ec4e22bbd51fb068bc122b
 msgid "Biologo specializzato in Conservation Biology"
 msgstr ""
 
-#: ../../intro.rst:110
+#: ../../intro.rst:112
 # 410be7bb469d4d3f8355f869cbf7f73e
 msgid "Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and Open-Source Software Association <http://osgeopt.pt/>`_"
 msgstr ""
 
-#: ../../intro.rst:111
+#: ../../intro.rst:113
 # d205d8820a054459a8ed6577f04a3945
 msgid "Membro di `IUCN - The World Conservation Union - *IUCN Small Carnivore Specialist Group* <http://www.iucn.org/>`_"
 msgstr ""
 
-#: ../../intro.rst:112
-#: ../../intro.rst:129
+#: ../../intro.rst:114
+#: ../../intro.rst:131
 # 5124bd8f369744908e0748675ec84bfc
 # 5124bd8f369744908e0748675ec84bfc
 msgid "Oltre 7 anni di esperienza sui GIS liberi"
 msgstr ""
 
-#: ../../intro.rst:113
+#: ../../intro.rst:115
 # 5e966bb94bde4c998a6b3b92146670fe
 msgid "`Curriculum Vitae (html) <cv_gm_it.html>`__"
 msgstr ""
 
-#: ../../intro.rst:114
+#: ../../intro.rst:116
 # fb9167a7fa5b4395a8d03095f9ae74cd
 msgid "`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`__ - `europeo (pdf) <pdf/Manghi_CV_eu.pdf>`__"
 msgstr ""
 
-#: ../../intro.rst:115
+#: ../../intro.rst:117
 # ffe9dba9d9084eec9b1bc694a13d14c8
 msgid "*e-mail*: giovanni.manghi@faunalia.pt"
 msgstr ""
 
-#: ../../intro.rst:116
+#: ../../intro.rst:118
 # 2582499f254145ab947e43398f847d2a
 msgid "*Tel/Viber/Line*: +351967058216"
 msgstr ""
 
-#: ../../intro.rst:117
+#: ../../intro.rst:119
 # 94b11ec41adf4fb6b92269803791d2b3
 msgid "*Skype*: toirao"
 msgstr ""
 
-#: ../../intro.rst:118
+#: ../../intro.rst:120
 # e4e7fedc0e64415b933a3697b1f5ba7a
 msgid "*Hangout*: giovanni.manghi@gmail.com"
 msgstr ""
 
-#: ../../intro.rst:121
+#: ../../intro.rst:123
 # 123b48c4848841d7a067b5e2807b1237
 msgid "Vânia Neves |pt|"
 msgstr ""
 
-#: ../../intro.rst:126
+#: ../../intro.rst:128
 # c8fe807c719d4accaf32b9de56c8052f
 msgid "Fondatrice di Faunalia Portogallo"
 msgstr ""
 
-#: ../../intro.rst:127
+#: ../../intro.rst:129
 # 3302a8057ad84b31bb704cb9cf64f399
 msgid "Biologa specializzata in Conservation Biology"
 msgstr ""
 
-#: ../../intro.rst:128
+#: ../../intro.rst:130
 # d4c4e12b263e44dcaba02fb47b11c091
 msgid "Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and Open-Source Software Association <http://osgeopt.pt/>`_"
 msgstr ""
 
-#: ../../intro.rst:130
+#: ../../intro.rst:132
 # c61b6797a4d349d4850a9c54fa7bad24
 msgid "`Curriculum Vitae (html) <cv_vn_it.html>`__"
 msgstr ""
 
-#: ../../intro.rst:131
+#: ../../intro.rst:133
 # 8630faa3be4b4cda952d6b505825b794
 msgid "`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`__ - `europeo (pdf) <pdf/Neves_CV_eu.pdf>`__"
 msgstr ""
 
-#: ../../intro.rst:132
+#: ../../intro.rst:134
 # b0065d3562d842c99a9f1538ef8294d5
 msgid "*e-mail*: vania.neves@faunalia.pt"
 msgstr ""
 
-#: ../../intro.rst:133
+#: ../../intro.rst:135
 # a9bf96c16e8741d081b517dda0e32917
 msgid "*Tel/Viber/Line*: +351939320104"
 msgstr ""
 
-#: ../../intro.rst:134
+#: ../../intro.rst:136
 # 680517e0e79044fc97eb353ec1de2c9b
 msgid "*Skype*: vaniavanilla"
 msgstr ""
 
-#: ../../intro.rst:135
+#: ../../intro.rst:137
 # 9e4f84fd6de14c91b786a8ea23c215e6
 msgid "*Hangout*: vbneves@gmail.com"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-31 17:33+0000\n"
+"POT-Creation-Date: 2014-01-21 11:05+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -158,20 +158,18 @@ msgid "Italiano"
 msgstr ""
 
 #: ../../training.rst:50
-#: ../../training.rst:56
-# ec17ddf914064a41a5a1cb065379644b
-# ec17ddf914064a41a5a1cb065379644b
-msgid "Geodatabase: PostgreSQL and PostGIS (EN)"
+# 870798e507014ecfbc5b7cfff82ca114
+msgid "Web Mapping con QGIS (PT)"
 msgstr ""
 
 #: ../../training.rst:50
 # 5f579eacdfe14ef58b3777e851296a6b
-msgid "3-5 Febbraio"
+msgid "3-4 Febbraio"
 msgstr ""
 
 #: ../../training.rst:50
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
-msgid "3 Gennaio"
+msgid "27 Gennaio"
 msgstr ""
 
 #: ../../training.rst:50
@@ -182,12 +180,12 @@ msgid "Lisbona, PT"
 msgstr ""
 
 #: ../../training.rst:50
-#: ../../training.rst:56
-#: ../../training.rst:58
-# 3cf26dce61284301abaecbbc5915cb67
-# 3cf26dce61284301abaecbbc5915cb67
-# 3cf26dce61284301abaecbbc5915cb67
-msgid "Inglese"
+#: ../../training.rst:53
+#: ../../training.rst:54
+# b3b7a30a6ec94d1a8a39713618e58f09
+# a7aa15816de84546a1b13273f6c408f1
+# 30f45ccd513e48d09189ccd1e96bde1c
+msgid "Portoghese"
 msgstr ""
 
 #: ../../training.rst:51
@@ -246,13 +244,6 @@ msgstr ""
 msgid "Évora, PT"
 msgstr ""
 
-#: ../../training.rst:53
-#: ../../training.rst:54
-# a7aa15816de84546a1b13273f6c408f1
-# 30f45ccd513e48d09189ccd1e96bde1c
-msgid "Portoghese"
-msgstr ""
-
 #: ../../training.rst:54
 # c466b19d69474c4eb78ca2e38c25a0a7
 msgid "Análise SIG com QGIS (PT)"
@@ -284,6 +275,11 @@ msgid "15 Marzo"
 msgstr ""
 
 #: ../../training.rst:56
+# ec17ddf914064a41a5a1cb065379644b
+msgid "Geodatabase: PostgreSQL and PostGIS (EN)"
+msgstr ""
+
+#: ../../training.rst:56
 # eafdbe68fb894344a151fb2d4142818d
 msgid "28-30 Aprile"
 msgstr ""
@@ -291,6 +287,13 @@ msgstr ""
 #: ../../training.rst:56
 # 8eb976a5352c4ed983df77902520af00
 msgid "28 Marzo"
+msgstr ""
+
+#: ../../training.rst:56
+#: ../../training.rst:58
+# 3cf26dce61284301abaecbbc5915cb67
+# 3cf26dce61284301abaecbbc5915cb67
+msgid "Inglese"
 msgstr ""
 
 #: ../../training.rst:57

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-06 08:17+0000\n"
+"POT-Creation-Date: 2014-01-06 12:05+0100\n"
 "PO-Revision-Date: 2013-08-17 16:58+0200\n"
 "Last-Translator: Paolo Cavallini <cavallini@faunalia.it>\n"
 "Language-Team: Italiano <>\n"
@@ -58,13 +58,11 @@ msgstr ""
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:29
 msgid ""
-"Iscrivetevi alla `mailing list "
-"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
-"annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
+"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
 msgstr ""
-"Subscribe to the `mailing list "
-"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/training>`_ to receive "
-"the updates for new training activities."
+"Subscribe to the `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
+"listinfo/training>`_ to receive the updates for new training activities."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:32
@@ -122,9 +120,9 @@ msgstr ""
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:39
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
-"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
-"ECDL-GIS <http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
+"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
+"<http://www.ecdlgis.it/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
 "Allow the access to the European Computer Driving Licence - GIS (ECDL-GIS)."
 
@@ -385,13 +383,12 @@ msgstr "15 June"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
 #: ../../training.rst:65
-#, qt-format
 msgid ""
-"`Scarica il calendario (ics) "
-"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
+"`Scarica il calendario (ics) <https://www.google.com/calendar/ical/"
+"faunaliagis%40gmail.com/public/basic.ics>`_"
 msgstr ""
-"`Download the calendar "
-"<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
+"`Download the calendar <https://www.google.com/calendar/ical/faunaliagis"
+"%40gmail.com/public/basic.ics>`_"
 
 # 2b01fbfd1fbb417da072f5b12ca3fae2
 #: ../../training.rst:68
@@ -475,15 +472,13 @@ msgstr "Logistic"
 # e2c77797de9e472598dc6f4abdcf19db
 #: ../../training.rst:89
 msgid ""
-"**Sede**: Pontedera (PI), presso `Pont-Tech "
-"<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
-"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
-"facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli "
-"sulla città "
-"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo "
-"<http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere "
-"singole/doppie/triple"
+"**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
+"page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
+"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
+"pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune."
+"pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo <http://www."
+"ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple"
 msgstr ""
 "Write us (info@faunalia.eu) for details about the course venue, details "
 "about boarding, etc"
@@ -1332,13 +1327,12 @@ msgstr "Two days, full time"
 #~ msgstr "Subcription form"
 
 # 52fcfe35655c40ea911c20211b41f093
-#, qt-format
 #~ msgid ""
-#~ "`Download the calendar "
-#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
+#~ "`Download the calendar <https://www.google.com/calendar/ical/faunaliagis"
+#~ "%40gmail.com/public/basic.ics>`_"
 #~ msgstr ""
-#~ "`Download the calendar "
-#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
+#~ "`Download the calendar <https://www.google.com/calendar/ical/faunaliagis"
+#~ "%40gmail.com/public/basic.ics>`_"
 
 # 4868573d5e6e42e294a4f6e77e566933
 #~ msgid ""
