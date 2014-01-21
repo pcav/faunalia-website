@@ -92,10 +92,12 @@ Renzo Cavallini |it|
 * Ha collaborato a livello scientifico e didattico con l'Università di Pisa
 * Ha pubblicato nel settore geofisico
 * Conduce attività di prospezione geotecnica, in laboratorio ed *in situ*
+
   * esecuzione ed elaborazione di prove di laboratorio su terreni naturali: consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), compressione semplice, analisi granulometrica, limiti di consistenza (LL, LP, LR), peso specifico dei granuli, permeabilità in cella edometrica, triassiale e in permeametro (norme seguite: racc. AGI, CNR, ASTM)
   * esecuzione ed elaborazione di prove di laboratorio su materiali stradali e da costruzione: compattazione Proctor Standard e modificata, penetrazione CBR, miscelazione delle terre con calce (norme seguite: EN, CNR, ASTM)
   * esecuzione ed elaborazione di prove in situ: penetrometriche statiche con punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o senza rivestimento, PLT, densità in situ
   * installazione e messa a punto di apparecchiature di laboratorio e di sistemi di acquisizione automatica; calibrazione di trasduttori elettrici
+
 * *e-mail*: renzo.cavallini@faunalia.it
 
 Giovanni Manghi |pt|
