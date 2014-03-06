@@ -97,7 +97,7 @@ Training Courses subscriptions form
 			if ( $found_error ) {
 				echo '<h2>Something went wrong. Try again or contact webmaster!</h2>';
 			} else {
-				echo "<h2>Successfully subscribed to " . $corso . " course</h2>";
+				echo "<h2 style="color:red;>Successfully subscribed to " . $corso . " course</h2>";
 			}
 		}
 	?>
