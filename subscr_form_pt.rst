@@ -97,7 +97,7 @@ Formulário de inscrição
 			if ( $found_error ) {
 				echo '<h2>Erro, contactar os responsáveis do site</h2>';
 			} else {
-				echo "<h2 style="color:red;>Inscrição no curso " . $corso . " efectuada com sucesso</h2>";
+				echo "<h2 style="color:red;">Inscrição no curso " . $corso . " efectuada com sucesso</h2>";
 			}
 		}
 	?>
