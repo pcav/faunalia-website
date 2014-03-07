@@ -97,7 +97,7 @@ Modulo di iscrizione
 			if ( $found_error ) {
 				echo '<h2>Qualcosa non ha funzionato. Riprova o contatta il webmaster!</h2>';
 			} else {
-				echo "<h2>Iscrizione al corso " . $corso . " avvenuta con successo</h2>";
+				echo "<h2 style="color:red;">Iscrizione al corso " . $corso . " avvenuta con successo</h2>";
 			}
 		}
 	?>
