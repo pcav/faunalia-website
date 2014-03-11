@@ -10,6 +10,8 @@ touch *.rst
 make gettext
 make compile_messages
 make merge_messages
+make linkcheck
+
 #check if translations are ok
 # requires translate-toolkit
 # 1 untranslated string is added by gettext, we have to study how to get rid of it
