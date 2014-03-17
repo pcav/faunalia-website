@@ -46,7 +46,6 @@ Calendario
 ======================================== ====================  ==================== ============== ===========
 Corso                                    Date e durata         Scadenza iscrizione  Dove           Lingua
 ======================================== ====================  ==================== ============== ===========
-Cartografia con QGIS (IT)                12-14 Marzo           15 Febbraio          Pontedera, IT  Italiano
 Análise SIG com QGIS (PT)		 2-4 Aprile            24 Marzo             Évora, PT      Portoghese
 Analisi con QGIS (IT)                    9-11 Aprile           15 Marzo             Pontedera, IT  Italiano
 Geodatabase: PostgreSQL and PostGIS (EN) 28-30 Aprile          28 Marzo             Lisbona, PT    Inglese
