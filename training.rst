@@ -227,7 +227,7 @@ Argomenti principali
 * Introduzione ai sistemi informativi territoriali opensource
 * Vantaggi dell'uso di un database nel GIS
 * Introduzione al RDBMS Open Source PostgreSQL
-* Schemi, tabelle, viste, domini, funzioni
+* Schemi, tabelle, viste, funzioni
 * Prima configurazione del database
 * Utenti, permessi, accessi
 * Introduzione a PostGIS (standard Open Geospatial Consortium)
@@ -236,7 +236,7 @@ Argomenti principali
 * Amministrazione del database e accesso ai dati
 * Amministrazione da riga di comando: psql
 * I front-ends grafici: QGIS, PhpPgAdmin, PgAdmin 3, OpenOffice, ecc.
-* PostGIS e QGIS: Importazione shapefile, Digitalizzazione, Query, Plugins avanzati per queries: RT SQL Layer e RT SQL extractor
+* PostGIS e QGIS: Importazione shapefile, Digitalizzazione, Query, Plugins avanzati per queries
 * Funzioni avanzate di geodatabase: Funzioni standard OGC, Estensioni di PostGIS, Conversione tra sistemi di coordinate
 * I raster in PostGIS
 * Cenni sulla topologia
