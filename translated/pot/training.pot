@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-17 08:00+0100\n"
+"POT-Creation-Date: 2014-03-18 17:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -776,7 +776,7 @@ msgstr ""
 
 #: ../../training.rst:230
 # e5e06ae2ce984f0aa74bd5589d67bb38
-msgid "Schemi, tabelle, viste, domini, funzioni"
+msgid "Schemi, tabelle, viste, funzioni"
 msgstr ""
 
 #: ../../training.rst:231
@@ -821,7 +821,7 @@ msgstr ""
 
 #: ../../training.rst:239
 # 5e3d5e500f754810ad6f350974c3ce86
-msgid "PostGIS e QGIS: Importazione shapefile, Digitalizzazione, Query, Plugins avanzati per queries: RT SQL Layer e RT SQL extractor"
+msgid "PostGIS e QGIS: Importazione shapefile, Digitalizzazione, Query, Plugins avanzati per queries"
 msgstr ""
 
 #: ../../training.rst:240
