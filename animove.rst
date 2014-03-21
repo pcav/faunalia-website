@@ -22,7 +22,7 @@ Another approach is to use plain QGIS_ to run many useful analyses (e.g. basic s
 
 Developing python plugins for QGIS is easy, cheap, and fast. Our aim is to have a toolbox in which anybody can add her/his own preferred analyses.
 
-AniMove for Sextante
+AniMove for QGIS
 ...............................................................................
 
 *Developers*: Víctor González, Jorge Arevalo , Francesco Boccacci
@@ -30,8 +30,6 @@ AniMove for Sextante
 It implements kernel analyses and restricted MCP in Pure Python_, without the need to install R and its libraries.
 
 The plugin is available through the `QGIS official repository <http://plugins.qgis.org/plugins/sextante_animove/>`__.
-
-**Please note**: the plugin works on QGIS_ 1.8, not on 2.0. If you are interested in upgrading it, please contact us.
 
 RandomHR
 ...............................................................................
