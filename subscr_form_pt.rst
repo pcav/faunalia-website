@@ -136,11 +136,9 @@ Formulário de inscrição
 	<label for="edit-submitted-corso" class="col-sm-3 control-label">Curso <span class="form-required" title="O campo é obrigatório.">*</span></label>
 	<div class="col-sm-9">
 	<select id="edit-submitted-corso" name="corso" class="form-control">
-		<option value="WebMapping com QGIS, 3-4 Fevereiro" <?php if ($corso=="webgis") echo 'selected="selected"';?> >WebMapping com QGIS, 3-4 Fevereiro</option>
-		<option value="Cartografia com QGIS, 10-12 Março" <?php if ($corso=="webgis") echo 'selected="selected"';?> >Cartografia com QGIS, 10-12 Março</option>
-		<option value="Análise SIG com QGIS, 9-11 Abril" <?php if ($corso=="webgis") echo 'selected="selected"';?> >Análise SIG com QGIS, 9-11 Abril</option>
 		<option value="BD geográficas: PostgreSQL e PostGIS, 28-30 Abril" <?php if ($corso=="webgis") echo 'selected="selected"';?> >BD geográficas: PostgreSQL e PostGIS, 28-30 Abril</option>
 		<option value="Criar plugins em Python para QGIS, 14-16 Maio" <?php if ($corso=="webgis") echo 'selected="selected"';?> >Criar plugins em Python para QGIS, 14-16 Maio</option>
+		<option value="Análise SIG com QGIS, 16-18 Junho" <?php if ($corso=="webgis") echo 'selected="selected"';?> >Análise SIG com QGIS, 16-18 Junho</option>
 	</select>
 	</div>
 	</div>
