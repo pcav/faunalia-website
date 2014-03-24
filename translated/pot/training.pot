@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-18 17:25+0100\n"
+"POT-Creation-Date: 2014-03-24 10:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -108,49 +108,22 @@ msgstr ""
 
 #: ../../training.rst:49
 # c466b19d69474c4eb78ca2e38c25a0a7
-msgid "Análise SIG com QGIS (PT)"
-msgstr ""
-
-#: ../../training.rst:49
-# eafdbe68fb894344a151fb2d4142818d
-msgid "2-4 Aprile"
-msgstr ""
-
-#: ../../training.rst:49
-# 8eb976a5352c4ed983df77902520af00
-msgid "24 Marzo"
-msgstr ""
-
-#: ../../training.rst:49
-#: ../../training.rst:53
-# 231f101b353449b58ac1e1d733483ba5
-# 231f101b353449b58ac1e1d733483ba5
-msgid "Évora, PT"
-msgstr ""
-
-#: ../../training.rst:49
-# b3b7a30a6ec94d1a8a39713618e58f09
-msgid "Portoghese"
-msgstr ""
-
-#: ../../training.rst:50
-# c466b19d69474c4eb78ca2e38c25a0a7
 msgid "Analisi con QGIS (IT)"
 msgstr ""
 
-#: ../../training.rst:50
+#: ../../training.rst:49
 # eafdbe68fb894344a151fb2d4142818d
 msgid "9-11 Aprile"
 msgstr ""
 
-#: ../../training.rst:50
+#: ../../training.rst:49
 # 5b9b45b66a3e4c648de8b6c852acf4eb
 msgid "15 Marzo"
 msgstr ""
 
-#: ../../training.rst:50
-#: ../../training.rst:52
-#: ../../training.rst:54
+#: ../../training.rst:49
+#: ../../training.rst:51
+#: ../../training.rst:53
 #: ../../training.rst:55
 # fa8c28a075ed4d659c114084d520b2b0
 # fa8c28a075ed4d659c114084d520b2b0
@@ -159,9 +132,9 @@ msgstr ""
 msgid "Pontedera, IT"
 msgstr ""
 
-#: ../../training.rst:50
-#: ../../training.rst:52
-#: ../../training.rst:54
+#: ../../training.rst:49
+#: ../../training.rst:51
+#: ../../training.rst:53
 #: ../../training.rst:55
 # e72e601155a34872a1f9f562faec1c33
 # e72e601155a34872a1f9f562faec1c33
@@ -170,76 +143,103 @@ msgstr ""
 msgid "Italiano"
 msgstr ""
 
-#: ../../training.rst:51
+#: ../../training.rst:50
 # ec17ddf914064a41a5a1cb065379644b
 msgid "Geodatabase: PostgreSQL and PostGIS (EN)"
 msgstr ""
 
-#: ../../training.rst:51
+#: ../../training.rst:50
 # eafdbe68fb894344a151fb2d4142818d
 msgid "28-30 Aprile"
 msgstr ""
 
-#: ../../training.rst:51
+#: ../../training.rst:50
 # 8eb976a5352c4ed983df77902520af00
 msgid "28 Marzo"
 msgstr ""
 
-#: ../../training.rst:51
+#: ../../training.rst:50
+#: ../../training.rst:54
+# 231f101b353449b58ac1e1d733483ba5
 # 231f101b353449b58ac1e1d733483ba5
 msgid "Lisbona, PT"
 msgstr ""
 
-#: ../../training.rst:51
-#: ../../training.rst:53
+#: ../../training.rst:50
+#: ../../training.rst:52
 # 3cf26dce61284301abaecbbc5915cb67
 # 3cf26dce61284301abaecbbc5915cb67
 msgid "Inglese"
 msgstr ""
 
-#: ../../training.rst:52
+#: ../../training.rst:51
 # c5eecc7b700a4708af9c4b09effd20a4
 msgid "Creare plugin in Python per QGIS (IT)"
 msgstr ""
 
-#: ../../training.rst:52
+#: ../../training.rst:51
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
 msgid "7-9 Maggio"
 msgstr ""
 
-#: ../../training.rst:52
+#: ../../training.rst:51
 # 67da7a1be0814b30a5a20d7f14e2e4ba
 msgid "15 Aprile"
 msgstr ""
 
-#: ../../training.rst:53
+#: ../../training.rst:52
 # c5eecc7b700a4708af9c4b09effd20a4
 msgid "Criar plugins em Python para QGIS (PT)"
 msgstr ""
 
-#: ../../training.rst:53
+#: ../../training.rst:52
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
 msgid "14-16 Maggio"
 msgstr ""
 
-#: ../../training.rst:53
+#: ../../training.rst:52
 # 67da7a1be0814b30a5a20d7f14e2e4ba
 msgid "14 Aprile"
 msgstr ""
 
-#: ../../training.rst:54
+#: ../../training.rst:52
+# 231f101b353449b58ac1e1d733483ba5
+msgid "Évora, PT"
+msgstr ""
+
+#: ../../training.rst:53
 # be5c171886e14c15ba7879adea865622
 msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
 msgstr ""
 
-#: ../../training.rst:54
+#: ../../training.rst:53
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
 msgid "11-13 Giugno"
 msgstr ""
 
-#: ../../training.rst:54
+#: ../../training.rst:53
 # 5f579eacdfe14ef58b3777e851296a6b
 msgid "15 Maggio"
+msgstr ""
+
+#: ../../training.rst:54
+# c466b19d69474c4eb78ca2e38c25a0a7
+msgid "Análise SIG com QGIS (PT)"
+msgstr ""
+
+#: ../../training.rst:54
+# a1f5b6a26beb4ff7b01ce0822fe1d8ab
+msgid "16-18 Giugno"
+msgstr ""
+
+#: ../../training.rst:54
+# a1f5b6a26beb4ff7b01ce0822fe1d8ab
+msgid "01 Giugno"
+msgstr ""
+
+#: ../../training.rst:54
+# b3b7a30a6ec94d1a8a39713618e58f09
+msgid "Portoghese"
 msgstr ""
 
 #: ../../training.rst:55
