@@ -55,10 +55,6 @@ Análise SIG com QGIS (PT)		 16-18 Giugno          01 Giugno            Lisbona,
 WebMapping con QGIS (IT)                 3-4 Luglio            15 Giugno            Pontedera, IT  Italiano
 ======================================== ====================  ==================== ============== ===========
 
-.. cssclass :: wht
-
-`Scarica il calendario (ics) <https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_
-
 Costi
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
