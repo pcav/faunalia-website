@@ -56,8 +56,6 @@ It calculates the position of an animal from its bearings.
 
 The plugin is available through the `QGIS official repository <http://plugins.qgis.org/plugins/triangulation/>`__.
 
-**Please note**: the plugin works on QGIS_ 1.8, not on 2.0. If you are interested in upgrading it, please contact us.
-
 More
 ...............................................................................
 
