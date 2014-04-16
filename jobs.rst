@@ -12,7 +12,7 @@ Mappa dei lavori di Faunalia
 ...............................................................................
 
 .. figure:: images/jobs_map.jpg
-   :scale: 40%
+   :scale: 50%
    :alt: Faunalia job locations
 
    `Esplora la mappa <http://lizmap.faunalia.eu/index.php/view/map/?repository=faunalia&project=faunalia_it>`_
