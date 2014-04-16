@@ -32,13 +32,12 @@ msgstr "Mapa dos trabalhos realizados"
 
 # 1a76693376ba41ef822a3646731acb77
 #: ../../jobs.rst:18
-#, fuzzy
 msgid ""
-"`Esplora la mappa <http://lizmap.faunalia.eu/index.php/view/map/?"
-"repository=faunalia&project=faunalia_it>`_"
+"`Esplora la mappa "
+"<http://lizmap.faunalia.eu/index.php/view/map/?repository=faunalia&project=faunalia_it>`_"
 msgstr ""
-"`Explore o mapa <../map/lizmap/www/index.php/view/map/?"
-"repository=faunalia&project=faunalia_map_pt>`_"
+"`Explore o mapa "
+"<http://lizmap.faunalia.eu/index.php/view/map/?repository=faunalia&project=faunalia_pt>`_"
 
 # a4dd5c2238944fbf889fbcfdac51370c
 #: ../../jobs.rst:25
