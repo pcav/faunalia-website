@@ -47,9 +47,7 @@ Calendario
 Corso                                    Date e durata         Scadenza iscrizione  Dove           Lingua
 ======================================== ====================  ==================== ============== ===========
 Analisi con QGIS (IT)                    9-11 Aprile           15 Marzo             Pontedera, IT  Italiano
-Geodatabase: PostgreSQL and PostGIS (EN) 28-30 Aprile          28 Marzo             Lisbona, PT    Inglese
 Creare plugin in Python per QGIS (IT)    7-9 Maggio            15 Aprile            Pontedera, IT  Italiano
-Criar plugins em Python para QGIS (PT)   14-16 Maggio          14 Aprile            Évora, PT      Inglese
 Geodatabase: PostgreSQL e PostGIS (IT)   11-13 Giugno          15 Maggio            Pontedera, IT  Italiano
 Análise SIG com QGIS (PT)		 16-18 Giugno          01 Giugno            Lisbona, PT    Portoghese
 WebMapping con QGIS (IT)                 3-4 Luglio            15 Giugno            Pontedera, IT  Italiano
