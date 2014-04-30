@@ -49,19 +49,18 @@ Corso                                    Date e durata         Scadenza iscrizio
 Geodatabase: PostgreSQL e PostGIS (IT)   11-13 Giugno          15 Maggio            Pontedera, IT  Italiano
 Análise SIG com QGIS (PT)                16-18 Giugno          01 Giugno            Lisbona, PT    Portoghese
 WebMapping con QGIS (IT)                 3-4 Luglio            15 Giugno            Pontedera, IT  Italiano
-
-Cartografia con QGIS (IT)                Settembre
-Analisi con QGIS (IT)                    Ottobre
+Geodatabase: PostgreSQL e PostGIS (PT)   8-10 Ottobre          15 Settembre         Lisbona, PT    Inglese
+Cartografia con QGIS (IT)                17-19 Settembre       01 Settembre         Pontedera, IT  Italiano
+Analisi con QGIS (IT)                    15-17 Ottobre         01 Ottobre           Pontedera, IT  Italiano
 Creare plugin in Python per QGIS (IT)    Novembre              A richiesta          Pontedera, IT  Italiano
-Geodatabase: PostgreSQL e PostGIS (IT)   Dicembre          15 Maggio            Pontedera, IT  Italiano
-WebMapping con QGIS (IT)                 Gennaio            15 Giugno            Pontedera, IT  Italiano
-
+Geodatabase: PostgreSQL e PostGIS (IT)   10-12 Dicembre        01 Dicembre          Pontedera, IT  Italiano
+WebMapping con QGIS (IT)                 21-23 Gennaio         07 Gennaio           Pontedera, IT  Italiano
 ======================================== ====================  ==================== ============== ===========
 
 Costi
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-* Corsi di 3 giorni: 350 € per i privati, 320 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 326,61 €). Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 275,58 €) 
+* Corsi di 3 giorni: 350 € per i privati, 330 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 336,82 €). Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 275,58 €) 
 * **Sconti**: 5% per l'iscrizione simultanea a più corsi
 
 Iscrizione
