@@ -25,9 +25,13 @@ Developing python plugins for QGIS is easy, cheap, and fast. Our aim is to have 
 AniMove for QGIS
 ...............................................................................
 
-*Developers*: Víctor González, Jorge Arevalo , Francesco Boccacci
+*Developers*: Víctor González, Jorge Arevalo , Francesco Boccacci, Alexander Bruy
 
-It implements kernel analyses and restricted MCP in Pure Python_, without the need to install R and its libraries.
+It implements kernel analyses and restricted MCP in Pure Python_, without the need to install R and its libraries. Since version 1.4.0 the plugin adds new functionalities: 
+
+* A porting to the Processing toolbox of the "RandomHR" plugin (Randomization of home ranges within a study area, see http://plugins.qgis.org/plugins/randomHR/) that was previously available for QGIS 1.x but not for 2.x, see below.
+
+* A new tool called "Random path" that allows to randomize paths (lines) within a study area and with many options: keep angles, randomize angles (range as user choice), randomize starting points, keep starting points, use a point layer for starting points, check if the random path crosses features of a specified line/polygon layer.
 
 The plugin is available through the `QGIS official repository <http://plugins.qgis.org/plugins/sextante_animove/>`__.
 
