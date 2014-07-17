@@ -44,10 +44,16 @@ Calendario
 ======================================== ====================  ==================== ============== ===========
 Corso                                    Date e durata         Scadenza iscrizione  Dove           Lingua
 ======================================== ====================  ==================== ============== ===========
-Cartografia con QGIS (IT)                17-19 Settembre       01 Settembre         Pontedera, IT  Italiano
 Geodatabase: PostgreSQL e PostGIS (PT)   8-10 Ottobre          15 Settembre         Lisbona, PT    Inglese
+Cartografia con QGIS (IT)                17-19 Settembre       01 Settembre         Pontedera, IT  Italiano
+Cartografia con QGIS (PT)                20-22 Ottobre         15 Ottobre           Lisbona, PT    Portoghese
+Novitá QGIS 2.6 (PT)                     31 Ottobre            24 Ottobre           Évora, PT      Portoghese
 Analisi con QGIS (IT)                    22-24 Ottobre         01 Ottobre           Pontedera, IT  Italiano
+Analisi con QGIS (PT)                    10-12 Novembre        05 Novembre          Lisbona, PT    Portoghese
+Novitá QGIS 2.6 (PT)                     28 Novembre           24 Novembre          Évora, PT      Portoghese
 Creare plugin in Python per QGIS (IT)    Novembre              A richiesta          Pontedera, IT  Italiano
+Creare plugin in Python per QGIS (PT)    Novembre              A richiesta          Lisbona, PT    Portoghese
+WebMapping con QGIS (PT)                 01-02 Dicembre        20 Novembre          Lisbona, PT    Portoghese
 Geodatabase: PostgreSQL e PostGIS (IT)   10-12 Dicembre        01 Dicembre          Pontedera, IT  Italiano
 WebMapping con QGIS (IT)                 21-23 Gennaio         07 Gennaio           Pontedera, IT  Italiano
 ======================================== ====================  ==================== ============== ===========
