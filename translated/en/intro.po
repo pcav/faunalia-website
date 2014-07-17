@@ -215,7 +215,7 @@ msgid ""
 "collaboratori. Il *core team* è composto da:"
 msgstr ""
 "The activities of Faunalia are based on a tight international network of "
-"high profile collaborators. Core tema is composed by:"
+"high profile collaborators. Core team is composed by:"
 
 # 4ea39f199b9a4022a3845ca9d59eb11d
 #: ../../intro.rst:61
