@@ -371,7 +371,7 @@ Minimo 0, Massimo 5
 	
 	<div class="form-group">
 	<div class="col-sm-3">
-	<input type="hidden" name="nome_corso" value="Corso di prova" />
+	<input type="hidden" name="nome_corso" value="Corso Faunalia" />
 	</div>
 	<dic class="col-sm-9">
 	<button type="submit" name="SUBMIT" value="Invia" class="btn btn-success">Invia</button>

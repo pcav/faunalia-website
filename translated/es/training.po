@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-27 15:45+0200\n"
+"POT-Creation-Date: 2014-06-25 08:43+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -288,10 +288,10 @@ msgstr "01 de septiembre"
 msgid "Analisi con QGIS (IT)"
 msgstr "Análisis con QGIS (IT)"
 
-# 01f98806e0874655a3cf578f9a0d6623
+# ac7a57cb7dc44f15b51b36d55e91b27c
 #: ../../training.rst:52
-msgid "15-17 Ottobre"
-msgstr "15-17 de octubre"
+msgid "22-24 Ottobre"
+msgstr "22-24 de octubre"
 
 # 01f98806e0874655a3cf578f9a0d6623
 #: ../../training.rst:52
@@ -1160,6 +1160,10 @@ msgstr "Criterios de optimización"
 msgid "Due giorni *full time*"
 msgstr "Dos días *full time*"
 
+# 01f98806e0874655a3cf578f9a0d6623
+#~ msgid "15-17 Ottobre"
+#~ msgstr "15-17 de octubre"
+
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
 #~ msgid "7-9 Maggio"
 #~ msgstr "7-9 de mayo"
@@ -1337,10 +1341,6 @@ msgstr "Dos días *full time*"
 # bdc24911e5b54efc9a5a5d9ce5940acc
 #~ msgid "13-15 Novembre 2013"
 #~ msgstr "13-15 de Noviembre 2013"
-
-# ac7a57cb7dc44f15b51b36d55e91b27c
-#~ msgid "28 Ottobre"
-#~ msgstr "28 de octubre"
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
 #~ msgid "18-20 Novembre 2013"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-06-10 11:57+0200\n"
+"POT-Creation-Date: 2014-06-25 08:43+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -243,7 +243,7 @@ msgstr ""
 
 #: ../../training.rst:52
 # 48a5c7f75d8f4232ba2f36bce41f4221
-msgid "15-17 Ottobre"
+msgid "22-24 Ottobre"
 msgstr ""
 
 #: ../../training.rst:52
