@@ -136,7 +136,12 @@ Formulário de inscrição
 	<label for="edit-submitted-corso" class="col-sm-3 control-label">Curso <span class="form-required" title="O campo é obrigatório.">*</span></label>
 	<div class="col-sm-9">
 	<select id="edit-submitted-corso" name="corso" class="form-control">
-		<option value="Análise SIG com QGIS, 16-18 Junho" <?php if ($corso=="webgis") echo 'selected="selected"';?> >Análise SIG com QGIS, 16-18 Junho</option>
+		<option value="Cartografia com QGIS, 20-22 Outubro" <?php if ($corso=="Cartografia com QGIS, 20-22 Outubro") echo 'selected="selected"';?> >Cartografia com QGIS, 20-22 Outubro</option>
+	        <option value="Sessão Actualização conhecimentos QGIS 2.6, 31 Outubro" <?php if ($corso=="Sessão Actualização conhecimentos QGIS 2.6, 31 Outubro") echo 'selected="selected"';?> >Sessão Actualização conhecimentos QGIS 2.6, 31 Outubro</option>
+		<option value="Análise SIG com QGIS, 10-12 Novembro" <?php if ($corso=="Análise SIG com QGIS, 10-12 Novembro") echo 'selected="selected"';?> >Análise SIG com QGIS, 10-12 Novembro</option>
+	        <option value="Sessão Actualização conhecimentos QGIS 2.6, 28 Novembro" <?php if ($corso=="Sessão Actualização conhecimentos QGIS 2.6, 28 Novembro") echo 'selected="selected"';?> >Sessão Actualização conhecimentos QGIS 2.6, 28 Novembro</option>	        
+	        <option value="Desenvolvimento de extensões para QGIS em Python, Novembro" <?php if ($corso=="Desenvolvimento de extensões para QGIS em Python, Novembro") echo 'selected="selected"';?> >Desenvolvimento de extensões para QGIS em Python, Novembro</option>	        
+	        <option value="WebMapping com QGIS, 01 e 02 Dezembro" <?php if ($corso=="WebMapping com QGIS, 01 e 02 Dezembro") echo 'selected="selected"';?> >WebMapping com QGIS, 01 e 02 Dezembro</option>
 	</select>
 	</div>
 	</div>
