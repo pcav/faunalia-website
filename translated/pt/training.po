@@ -337,7 +337,7 @@ msgstr "A pedido"
 # 93622693fbc3409ea870fc8d6b853c71
 #: ../../training.rst:55
 msgid "Creare plugin in Python per QGIS (PT)"
-msgstr "Desenvolvimento de extensões para QGIS em Python"
+msgstr "Desenvolvimento de extensões Python para QGIS (PT)"
 
 # 660512ec03ae4bc59a877c8ec19a3162
 #: ../../training.rst:56
@@ -399,10 +399,10 @@ msgid ""
 "i privati, 270 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, "
 "da versare 275,58 €)"
 msgstr ""
-"Cursos em **Portugal**, valores com IVA 23\\% incluído: Cartografia com "
-"QGIS: 310€; Análise SIG com QGIS: 350€; Desenvolvimento de extensões para "
-"QGIS em Python: 780€; Bases de Dados Geográficas: PostgreSQL e PostGIS: "
-"350€; WebMapping com QGIS: 240€; Actualização conhecimentos QGIS 2.6: 60€"
+"Cursos em **Portugal**, valores com IVA 23% incluído: Cartografia com QGIS: "
+"310€; Análise SIG com QGIS: 350€; Desenvolvimento de extensões Python para "
+"QGIS: 780€; Bases de Dados Geográficas: PostgreSQL e PostGIS: 350€; "
+"WebMapping com QGIS: 240€; Actualização conhecimentos QGIS 2.6: 60€"
 
 # c317ea377fba42d99ac33d7b4be557ba
 #: ../../training.rst:65
@@ -843,7 +843,7 @@ msgstr "Criação de modelos"
 # 93622693fbc3409ea870fc8d6b853c71
 #: ../../training.rst:172
 msgid "Creare plugin in Python per QGIS"
-msgstr "Criar plugins (extensões) em Python para QGIS"
+msgstr "Desenvolvimento de extensões Python para QGIS"
 
 # 29574042eb1941cca194ea8ae8371ded
 #: ../../training.rst:174
