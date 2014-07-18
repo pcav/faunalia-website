@@ -272,7 +272,7 @@ msgstr "01 de octubre"
 # 93d3c03737f44d8d9bc2ad965b13e95b
 #: ../../training.rst:51 ../../training.rst:53
 msgid "Novitá QGIS 2.6 (PT)"
-msgstr "Novedades QGIS 2.6 (PT)"
+msgstr "Novedades de QGIS 2.6 (PT)"
 
 # 01f98806e0874655a3cf578f9a0d6623
 #: ../../training.rst:51
