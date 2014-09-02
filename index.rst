@@ -1,5 +1,10 @@
 .. meta::
-   :description: Faunalia home page
+   :description lang=en: Faunalia, Open Source GIS. Leader in solutions based on QGIS: training, development, support
+   :description lang=it:  Faunalia, GIS Open Source. Impresa leader nelle soluzioni basate su QGIS: formazione, sviluppo, supporto
+   :description lang=pt_PT:  Faunalia, SIG Open Source. Empresa líder em soluções baseadas em QGIS: formação, desenvolvimento, suporte
+   :description lang=pt_BR:  Faunalia, SIG Open Source. Empresa líder em soluções baseadas em QGIS: formação, desenvolvimento, suporte
+   :description lang=es:  Faunalia, Open Source GIS. Líder en soluciones basadas en QGIS: cursos, desarrollo, asistencia
+   :description lang=fr:  Faunalia, SIG Open Source. Leader dans les solutions basés sur QGIS: formation, développement, assistance
    :keywords: Open Source, Free Software, Software libero, Software Livre, Software Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, supporto, assistenza, risoluzione bugs, migrazione, support, bug fixing, migration, suporte, assistência, resolução bugs, migração, sviluppo, development, desenvolvimento, programação, corsi, formazione, training courses, formação, cursos, développement, assistance, formation
 
 .. toctree::
