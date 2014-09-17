@@ -136,7 +136,9 @@ Formulário de inscrição
 	<label for="edit-submitted-corso" class="col-sm-3 control-label">Curso <span class="form-required" title="O campo é obrigatório.">*</span></label>
 	<div class="col-sm-9">
 	<select id="edit-submitted-corso" name="corso" class="form-control">
+		<!-- 
 		<option value="Bases de dados geográficas: PostgreSQL e PostGIS, 08-10 Outubro" <?php if ($corso=="Bases de dados geográficas: PostgreSQL e PostGIS, 08-10 Outubro") echo 'selected="selected"';?> >Bases de dados geográficas: PostgreSQL e PostGIS, 08-10 Outubro</option>
+		-->
 		<option value="Cartografia com QGIS, 20-22 Outubro" <?php if ($corso=="Cartografia com QGIS, 20-22 Outubro") echo 'selected="selected"';?> >Cartografia com QGIS, 20-22 Outubro</option>
 	        <option value="Sessão Actualização conhecimentos QGIS 2.6, 31 Outubro" <?php if ($corso=="Sessão Actualização conhecimentos QGIS 2.6, 31 Outubro") echo 'selected="selected"';?> >Sessão Actualização conhecimentos QGIS 2.6, 31 Outubro</option>
 		<option value="Análise SIG com QGIS, 10-12 Novembro" <?php if ($corso=="Análise SIG com QGIS, 10-12 Novembro") echo 'selected="selected"';?> >Análise SIG com QGIS, 10-12 Novembro</option>
