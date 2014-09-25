@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-17 20:04+0200\n"
+"POT-Creation-Date: 2014-09-25 12:24+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,13 +58,12 @@ msgstr ""
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:27
 msgid ""
-"Iscrivetevi alla `mailing list "
-"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
-"annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
+"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
 msgstr ""
-"Abonnez vous à la `liste de diffusion "
-"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/formation>`_ pour "
-"recevoir les annonces des nouvelles formations."
+"Abonnez vous à la `liste de diffusion <http://lists.faunalia.it/cgi-bin/"
+"mailman/listinfo/formation>`_ pour recevoir les annonces des nouvelles "
+"formations."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:30
@@ -125,9 +124,8 @@ msgstr ""
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:37
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
-"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
-"ECDL-GIS "
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
+"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
 "<http://www.aica.it/aica/ecdl-gis/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
 "Ils permettent l'accès aux examens *European Computer Driving Licence - GIS*."
@@ -183,8 +181,8 @@ msgstr "01 Septembre"
 # b926fe538c0a4266816e9a2e2da861a4
 # fa87477f305244138e8c92056cc005d3
 # bfaca8e307114040a30a78bdd2317625
-#: ../../training.rst:47 ../../training.rst:50 ../../training.rst:54
-#: ../../training.rst:57 ../../training.rst:58
+#: ../../training.rst:47 ../../training.rst:49 ../../training.rst:53
+#: ../../training.rst:56 ../../training.rst:57
 msgid "Pontedera, IT"
 msgstr "Pontedera, IT"
 
@@ -193,93 +191,74 @@ msgstr "Pontedera, IT"
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
-#: ../../training.rst:47 ../../training.rst:50 ../../training.rst:54
-#: ../../training.rst:57 ../../training.rst:58
+#: ../../training.rst:47 ../../training.rst:49 ../../training.rst:53
+#: ../../training.rst:56 ../../training.rst:57
 msgid "Italiano"
 msgstr "Italien"
 
-# 7cabf0be650643f1b85997a1c5b71df0
+# 9df10e3690b541f18c1a208a812d8836
+# 3d3d613c57f54cc694e2872191f90b33
 #: ../../training.rst:48
-msgid "Geodatabase: PostgreSQL e PostGIS (PT)"
-msgstr "Geodatabases: PostgreSQL et PostGIS (PT)"
+msgid "Cartografia con QGIS (PT)"
+msgstr "Cartographie avec QGIS (PT)"
+
+# ac7a57cb7dc44f15b51b36d55e91b27c
+#: ../../training.rst:48
+msgid "20-22 Ottobre"
+msgstr "20-22 Octobre"
 
 # 01f98806e0874655a3cf578f9a0d6623
 #: ../../training.rst:48
-msgid "8-10 Ottobre"
-msgstr "8-10 Octobre"
-
-# 1477ed8907e24345b0045abe4fb7372a
-#: ../../training.rst:48
-msgid "15 Settembre"
-msgstr "15 Septembre"
+msgid "15 Ottobre"
+msgstr "15 Octobre"
 
 # c36c959990c5438da3b43b6a7d9689cb
 # 3012295ac29a4fe793a064ae07e37b56
 # a4b7dd4373cb4866b08c1ba195474007
 # 19804cb0c4ff4b7a923f428bd87759ec
-#: ../../training.rst:48 ../../training.rst:49 ../../training.rst:52
-#: ../../training.rst:55 ../../training.rst:56
+#: ../../training.rst:48 ../../training.rst:51 ../../training.rst:54
+#: ../../training.rst:55 ../../training.rst:58
 msgid "Lisbona, PT"
 msgstr "Lisbonne, PT"
-
-# 51c019364e82467cb3334d945ad1b04f
-#: ../../training.rst:48
-msgid "Inglese"
-msgstr "Anglais"
-
-# 9df10e3690b541f18c1a208a812d8836
-# 3d3d613c57f54cc694e2872191f90b33
-#: ../../training.rst:49
-msgid "Cartografia con QGIS (PT)"
-msgstr "Cartographie avec QGIS (PT)"
-
-# ac7a57cb7dc44f15b51b36d55e91b27c
-#: ../../training.rst:49
-msgid "20-22 Ottobre"
-msgstr "20-22 Octobre"
-
-# 01f98806e0874655a3cf578f9a0d6623
-#: ../../training.rst:49
-msgid "15 Ottobre"
-msgstr "15 Octobre"
 
 # e255c3651fef4808985bd166dc74da2b
 # 0c945eeb010449b39192d6932cb7d000
 # 33a0ad503b554bbbb42d0384d5628652
-#: ../../training.rst:49 ../../training.rst:51 ../../training.rst:52
-#: ../../training.rst:53 ../../training.rst:55 ../../training.rst:56
+#: ../../training.rst:48 ../../training.rst:50 ../../training.rst:51
+#: ../../training.rst:52 ../../training.rst:54 ../../training.rst:55
+#: ../../training.rst:58
 msgid "Portoghese"
 msgstr "Portuguese"
 
 # bd04cff96a1d4414899ef132ad5ba7bf
 # 84a61dcdc830454e9665797c69bd9891
-#: ../../training.rst:50
+#: ../../training.rst:49
 msgid "Analisi con QGIS (IT)"
 msgstr "Analyse avec QGIS (IT)"
 
 # ac7a57cb7dc44f15b51b36d55e91b27c
-#: ../../training.rst:50
+#: ../../training.rst:49
 msgid "22-24 Ottobre"
 msgstr "22-24 Octobre"
 
 # 01f98806e0874655a3cf578f9a0d6623
-#: ../../training.rst:50
+#: ../../training.rst:49
 msgid "01 Ottobre"
 msgstr "01 Octobre"
 
 # a1726afc82ca4d928bab1c52f818e549
 # 93d3c03737f44d8d9bc2ad965b13e95b
-#: ../../training.rst:51 ../../training.rst:53
+#: ../../training.rst:50 ../../training.rst:52
 msgid "Novitá QGIS 2.6 (PT)"
 msgstr "Nouvelles fonctionnalités de QGIS 2.6 (PT)"
 
 # 01f98806e0874655a3cf578f9a0d6623
-#: ../../training.rst:51
+#: ../../training.rst:50
 msgid "31 Ottobre"
 msgstr "31 Octobre"
 
 # ac7a57cb7dc44f15b51b36d55e91b27c
-#: ../../training.rst:51
+#: ../../training.rst:50
 msgid "24 Ottobre"
 msgstr "24 Octobre"
 
@@ -288,100 +267,117 @@ msgstr "24 Octobre"
 # 231f101b353449b58ac1e1d733483ba5
 # 231f101b353449b58ac1e1d733483ba5
 # 231f101b353449b58ac1e1d733483ba5
-#: ../../training.rst:51 ../../training.rst:53
+#: ../../training.rst:50 ../../training.rst:52
 msgid "Évora, PT"
 msgstr "Évora, PT"
 
 # bd04cff96a1d4414899ef132ad5ba7bf
 # 84a61dcdc830454e9665797c69bd9891
-#: ../../training.rst:52
+#: ../../training.rst:51
 msgid "Analisi con QGIS (PT)"
 msgstr "Analyse avec QGIS (PT)"
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
-#: ../../training.rst:52
+#: ../../training.rst:51
 msgid "10-12 Novembre"
 msgstr "10-12 Novembre"
 
 # 98d67ad8d1324a71a5b91e8e65dc3716
-#: ../../training.rst:52
+#: ../../training.rst:51
 msgid "05 Novembre"
 msgstr "05 Novembre"
 
 # 98d67ad8d1324a71a5b91e8e65dc3716
-#: ../../training.rst:53
+#: ../../training.rst:52
 msgid "28 Novembre"
 msgstr "28 Novembre"
 
 # 98d67ad8d1324a71a5b91e8e65dc3716
-#: ../../training.rst:53
+#: ../../training.rst:52
 msgid "24 Novembre"
 msgstr "24 Novembre"
 
 # 93622693fbc3409ea870fc8d6b853c71
-#: ../../training.rst:54
+#: ../../training.rst:53
 msgid "Creare plugin in Python per QGIS (IT)"
 msgstr "Créer plugins Python pour QGIS (IT)"
 
 # 98d67ad8d1324a71a5b91e8e65dc3716
-#: ../../training.rst:54 ../../training.rst:55
+#: ../../training.rst:53 ../../training.rst:54
 msgid "Novembre"
 msgstr "Novembre"
 
 # 251df4bf0dac4985b41967283d307c6c
-#: ../../training.rst:54 ../../training.rst:55
+#: ../../training.rst:53 ../../training.rst:54
 msgid "A richiesta"
 msgstr "Sur demande"
 
 # 93622693fbc3409ea870fc8d6b853c71
-#: ../../training.rst:55
+#: ../../training.rst:54
 msgid "Creare plugin in Python per QGIS (PT)"
 msgstr "Créer plugins Python pour QGIS (PT)"
 
 # 660512ec03ae4bc59a877c8ec19a3162
-#: ../../training.rst:56
+#: ../../training.rst:55
 msgid "WebMapping con QGIS (PT)"
 msgstr "WebMapping avec QGIS (PT)"
 
 # f7db670e6b22473f88e2168c85cf783a
-#: ../../training.rst:56
+#: ../../training.rst:55
 msgid "01-02 Dicembre"
 msgstr "01-02 Décembre"
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
-#: ../../training.rst:56
+#: ../../training.rst:55
 msgid "20 Novembre"
 msgstr "20 Novembre"
 
 # 7cabf0be650643f1b85997a1c5b71df0
-#: ../../training.rst:57
+#: ../../training.rst:56
 msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
 msgstr "Geodatabases: PostgreSQL et PostGIS (IT)"
 
 # f7db670e6b22473f88e2168c85cf783a
-#: ../../training.rst:57
+#: ../../training.rst:56
 msgid "10-12 Dicembre"
 msgstr "10-12 Décembre"
 
 # f7db670e6b22473f88e2168c85cf783a
-#: ../../training.rst:57
+#: ../../training.rst:56
 msgid "01 Dicembre"
 msgstr "01 Décembre"
 
 # 660512ec03ae4bc59a877c8ec19a3162
-#: ../../training.rst:58
+#: ../../training.rst:57
 msgid "WebMapping con QGIS (IT)"
 msgstr "WebMapping avec QGIS (IT)"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
-#: ../../training.rst:58
+#: ../../training.rst:57
 msgid "21-23 Gennaio"
 msgstr "21-23 Janvier"
 
 # 2837589f472d43e6b2fcc68aa9118522
-#: ../../training.rst:58
+#: ../../training.rst:57
 msgid "07 Gennaio"
 msgstr "07 Janvier"
+
+# 7cabf0be650643f1b85997a1c5b71df0
+#: ../../training.rst:58
+msgid "Geodatabase: PostgreSQL e PostGIS (PT)"
+msgstr "Geodatabases: PostgreSQL et PostGIS (PT)"
+
+# 5f579eacdfe14ef58b3777e851296a6b
+#: ../../training.rst:58
+#, fuzzy
+msgid "02-04 Febbraio"
+msgstr "3-4 Février"
+
+# 5f579eacdfe14ef58b3777e851296a6b
+#: ../../training.rst:58
+#, fuzzy
+msgid "01 Febbraio"
+msgstr "15 Février"
 
 # 2b01fbfd1fbb417da072f5b12ca3fae2
 #: ../../training.rst:62
@@ -405,8 +401,8 @@ msgstr ""
 msgid "**Sconti**: 5% per l'iscrizione simultanea a più corsi"
 msgstr ""
 "Réductions pour l'inscription simultanée à plusieurs courss, ou si vous êtes "
-"un étudiant ou sans emploi, écrivez-nous pour plus de détails: "
-"info@faunalia.eu"
+"un étudiant ou sans emploi, écrivez-nous pour plus de détails: info@faunalia."
+"eu"
 
 # d46e64fc0c7e494b826fb2dc83e7df1d
 #: ../../training.rst:68
@@ -471,15 +467,13 @@ msgstr "Logistique"
 # e2c77797de9e472598dc6f4abdcf19db
 #: ../../training.rst:83
 msgid ""
-"**Sede**: Pontedera (PI), presso `Pont-Tech "
-"<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
-"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
-"facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli "
-"sulla città "
-"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo "
-"<http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere "
-"singole/doppie/triple"
+"**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
+"page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
+"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
+"pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune."
+"pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo <http://www."
+"ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple"
 msgstr ""
 "Pour les détails sur les sièges des courses, écrivez nous: info@faunalia.eu"
 
@@ -1191,6 +1185,18 @@ msgstr "Critères d'optimisation"
 msgid "Due giorni *full time*"
 msgstr "Deux jours à plein temps"
 
+# 01f98806e0874655a3cf578f9a0d6623
+#~ msgid "8-10 Ottobre"
+#~ msgstr "8-10 Octobre"
+
+# 1477ed8907e24345b0045abe4fb7372a
+#~ msgid "15 Settembre"
+#~ msgstr "15 Septembre"
+
+# 51c019364e82467cb3334d945ad1b04f
+#~ msgid "Inglese"
+#~ msgstr "Anglais"
+
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
 #~ msgid "11-13 Giugno"
 #~ msgstr "11-13 Juin"
@@ -1265,13 +1271,12 @@ msgstr "Deux jours à plein temps"
 #~ msgstr "14 Avril"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
-#, qt-format
 #~ msgid ""
-#~ "`Scarica il calendario (ics) "
-#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
+#~ "`Scarica il calendario (ics) <https://www.google.com/calendar/ical/"
+#~ "faunaliagis%40gmail.com/public/basic.ics>`_"
 #~ msgstr ""
-#~ "`Téléchargez le calendrier (ics) "
-#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
+#~ "`Téléchargez le calendrier (ics) <https://www.google.com/calendar/ical/"
+#~ "faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 67da7a1be0814b30a5a20d7f14e2e4ba
 #~ msgid "2-4 Aprile"
@@ -1285,17 +1290,9 @@ msgstr "Deux jours à plein temps"
 #~ msgid "12-14 Marzo"
 #~ msgstr "12-14 Mars"
 
-# 5f579eacdfe14ef58b3777e851296a6b
-#~ msgid "15 Febbraio"
-#~ msgstr "15 Février"
-
 # 2837589f472d43e6b2fcc68aa9118522
 #~ msgid "5 Gennaio"
 #~ msgstr "5 Janvier"
-
-# 5f579eacdfe14ef58b3777e851296a6b
-#~ msgid "3-4 Febbraio"
-#~ msgstr "3-4 Février"
 
 # 5f579eacdfe14ef58b3777e851296a6b
 #~ msgid "20-21 Febbraio"
