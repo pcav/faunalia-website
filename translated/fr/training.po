@@ -356,9 +356,8 @@ msgstr "WebMapping avec QGIS (IT)"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
 #: ../../training.rst:57
-#, fuzzy
 msgid "22-23 Gennaio"
-msgstr "21-23 Janvier"
+msgstr "22-23 Janvier"
 
 # 2837589f472d43e6b2fcc68aa9118522
 #: ../../training.rst:57
