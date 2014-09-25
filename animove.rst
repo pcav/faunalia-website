@@ -12,7 +12,7 @@ The analysis of animal movement and ranging behaviour (including the estimation 
 * limited or no interaction with Geographic Information Systems (GIS)
 * the need to purchase proprietary, expensive software
 
-We believe the problem could be solved by the use of several free and open source programs, available both for GNU/Linux, Mac OSX and MS Windows operating systems. We aim at producing the most advanced software; our indicative term of reference is `Animal Movements <http://www.absc.usgs.gov/glba/gistools/animal_mvmt.htm>`_ (which requires the expensive, obsolete, and proprietary ArcView + Spatial Analyst proprietary packages).
+We believe the problem could be solved by the use of several free and open source programs, available both for GNU/Linux, Mac OSX and MS Windows operating systems. We aim at producing the most advanced software; our indicative term of reference is `Animal Movements <http://gcmd.nasa.gov/records/USGS_animal_mvmt.html>`_ (which requires the expensive, obsolete, and proprietary ArcView + Spatial Analyst proprietary packages).
 
 All resulting software is and will be freely available (under GPL or similar licences).
 
