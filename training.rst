@@ -55,6 +55,7 @@ Creare plugin in Python per QGIS (PT)    Novembre              A richiesta      
 WebMapping con QGIS (PT)                 01-02 Dicembre        20 Novembre          Lisbona, PT    Portoghese
 Geodatabase: PostgreSQL e PostGIS (IT)   10-12 Dicembre        01 Dicembre          Pontedera, IT  Italiano
 WebMapping con QGIS (IT)                 21-23 Gennaio         07 Gennaio           Pontedera, IT  Italiano
+Geodatabase: PostgreSQL e PostGIS (PT)   02-04 Febbraio        01 Febbraio          Lisbona, PT    Portoghese
 ======================================== ====================  ==================== ============== ===========
 
 Costi
