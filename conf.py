@@ -46,7 +46,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Faunalia'
-copyright = u'2013, Faunalia'
+copyright = u'2013-2014, Faunalia'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -163,6 +163,8 @@ html_static_path = ['_static']
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
 #html_last_updated_fmt = '%b %d, %Y'
+
+html_last_updated_fmt = '%d %b %Y'
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
