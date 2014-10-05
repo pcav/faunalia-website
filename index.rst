@@ -59,6 +59,8 @@ Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il tuo 
 
 .. cssclass :: topcont
 
+Specialisti di:
+
 .. image :: images/qgis-logo-48x48.png
    :target: http://www.qgis.org/en/site/forusers/commercial_support.html
 
