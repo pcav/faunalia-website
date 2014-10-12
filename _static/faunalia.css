@@ -78,6 +78,27 @@ border:1px solid #e6ca1f !important;
 background-color:transparent !important;
 }
 
+.bottomcont{
+ width:100%;
+ background: url('../_images/pontedera_qgis.png');
+ border:1px solid #E9E9E9;
+ margin:300px 0 0 0;
+}
+
+.bottomcont h1{
+ font-size:1.7em;margin:20px auto 20px auto;text-align:center;color:#000000 !important;text-shadow:#FFFFFF 0 2px 0;
+}
+
+.bottomcont p{
+ width:70%;margin:0 auto 30px auto;
+ font-size:.9em;
+ text-align:justify;
+}
+
+.bottomcont h1 a{
+ display:none !important;
+}
+
 .topcont{
 width:100%;
  background: url('../_images/isolines.jpg');
