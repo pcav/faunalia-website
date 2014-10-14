@@ -57,21 +57,6 @@ Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il tuo 
 
 :doc:`More info <training>`
 
-.. cssclass :: topcont
-
-Specialisti di:
-
-.. image :: images/qgis-logo-48x48.png
-   :target: http://www.qgis.org/en/site/forusers/commercial_support.html
-
-.. image :: images/grass-gis-logo-48x48.png
-   :target: GRASS_
-
-.. image :: images/postgres-logo-48x48.png
-   :target: PostgreSQL_
-
-.. image :: images/postgis-logo-48x48.png
-   :target: http://postgis.net/support/
 
 .. _QGIS: http://www.qgis.org/
 .. _GRASS: http://grass.osgeo.org/support/commercial-support/
