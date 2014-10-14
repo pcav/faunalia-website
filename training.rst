@@ -44,7 +44,6 @@ Calendario
 ======================================== ====================  ==================== ============== ===========
 Corso                                    Date e durata         Scadenza iscrizione  Dove           Lingua
 ======================================== ====================  ==================== ============== ===========
-Cartografia con QGIS (PT)                20-22 Ottobre         15 Ottobre           Lisbona, PT    Portoghese
 Analisi con QGIS (IT)                    22-24 Ottobre         01 Ottobre           Pontedera, IT  Italiano
 Novitá QGIS 2.6 (PT)                     31 Ottobre            24 Ottobre           Évora, PT      Portoghese
 Analisi con QGIS (PT)                    10-12 Novembre        05 Novembre          Lisbona, PT    Portoghese
