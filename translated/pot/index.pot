@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2013, Faunalia
+# Copyright (C) 2013-2014, Faunalia
 # This file is distributed under the same license as the Faunalia package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-25 16:03+0200\n"
+"POT-Creation-Date: 2014-10-14 18:03+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -71,5 +71,10 @@ msgstr ""
 #: ../../index.rst:58
 # 80549d17aca94c20ba96853e17c8154d
 msgid ":doc:`More info <training>`"
+msgstr ""
+
+#: ../../index.rst:62
+# ba6a34749daf4698817c8b29e59f4a0d
+msgid "Specialisti di:"
 msgstr ""
 
