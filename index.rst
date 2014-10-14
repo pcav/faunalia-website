@@ -57,23 +57,17 @@ Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il tuo 
 
 :doc:`More info <training>`
 
-.. cssclass :: topcont
+.. cssclass :: bottomcont
 
-Specialisti di:
+Specialisti di QGIS (Quantum GIS) e Database Geografici PostGIS
+============================================================================
 
-.. image :: images/qgis-logo-48x48.png
-   :target: http://www.qgis.org/en/site/forusers/commercial_support.html
+QGIS e PostGIS mettono a disposizione un grande numero di funzionalità
+per visualizzare, gestire,
+editare, geoprocessare e analizzare dati geografici e per creare
+layouts di stampa con simbologia cartografica avanzata.
 
-.. image :: images/grass-gis-logo-48x48.png
-   :target: GRASS_
-
-.. image :: images/postgres-logo-48x48.png
-   :target: PostgreSQL_
-
-.. image :: images/postgis-logo-48x48.png
-   :target: http://postgis.net/support/
-
-.. _QGIS: http://www.qgis.org/
-.. _GRASS: http://grass.osgeo.org/support/commercial-support/
-.. _PostgreSQL: http://www.postgresql.org/support/professional_support/europe/
-.. _PostGIS: http://postgis.net/
+QGIS e PostGIS forniscono un modo semplice ed economico di gestire
+grandi volumi di dati (ex: Catasto Urbano, Catasto Rustico, etc.),
+di pubblicare servizi standard OpenGeospatialConsortium (WMS,WFS,WCS)
+cosí come mappe on-line (WebGIS).
