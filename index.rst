@@ -57,8 +57,20 @@ Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il tuo 
 
 :doc:`More info <training>`
 
+.. cssclass :: socialstream
 
-.. _QGIS: http://www.qgis.org/
-.. _GRASS: http://grass.osgeo.org/support/commercial-support/
-.. _PostgreSQL: http://www.postgresql.org/support/professional_support/europe/
-.. _PostGIS: http://postgis.net/
+Twitter stream
+============================================================================
+
+.. raw:: html
+
+     <a class="twitter-timeline" height="395" href="https://twitter.com/FaunaliaGIS" data-widget-id="367686737524301824">Tweets by @FaunaliaGIS</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+.. cssclass :: socialstream
+
+Facebook stream
+============================================================================
+
+.. raw:: html
+
+        <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FFaunaliagis&amp;width=500&amp;height=395&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:500px; height:395px;" allowTransparency="true"></iframe>
