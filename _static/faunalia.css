@@ -78,6 +78,24 @@ border:1px solid #e6ca1f !important;
 background-color:transparent !important;
 }
 
+.socialstream {
+    float: left;
+    width: 50%;
+    height: 470px;
+    background: #ffffff;
+    border:1px solid #E9E9E9;
+    margin:20px 0 0 0 !important;
+    font-size:.9em;text-align:center;color:#7C7C7C !important;text-shadow:#FFFFFF 0 2px 0;
+}
+
+.socialstream h1 {
+  font-size:1.7em;
+}
+
+.socialstream h1 a{
+  display:none !important;
+}
+
 .topcont{
 width:100%;
  background: url('../_images/isolines.jpg');
