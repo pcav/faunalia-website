@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-14 18:03+0100\n"
+"POT-Creation-Date: 2014-10-21 11:44+0200\n"
 "PO-Revision-Date: 2013-08-17 16:58+0200\n"
 "Last-Translator: Paolo Cavallini <cavallini@faunalia.it>\n"
 "Language-Team: Italiano <>\n"
@@ -347,13 +347,14 @@ msgstr "Fees"
 
 # a3e955054ac444d8bf2ab1805f051ce3
 #: ../../training.rst:62
+#, fuzzy
 msgid ""
-"Corsi di 3 giorni: 350 € per i privati, 330 € + IVA per aziende/partite IVA "
-"(meno la ritenuta d'acconto, da versare 336,82 €). Corso Python-QGIS: 700 € "
-"per i privati, 660 € + IVA per aziende/partite IVA (meno la ritenuta "
-"d'acconto, da versare 673,64 €). Corso di Web Mapping (2 giorni): 290 € per "
-"i privati, 270 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, "
-"da versare 275,58 €)"
+"Corsi di Cartografia QGIS, Analisi QGIS, Geodatabase PostGIS (3 giorni): 350 "
+"€ per i privati, 330 € + IVA per aziende/partite IVA (meno la ritenuta "
+"d'acconto, da versare 336,82 €). Corso Python-QGIS: 700 € per i privati, 660 "
+"€ + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare "
+"673,64 €). Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA "
+"per aziende/partite IVA (meno la ritenuta d'acconto, da versare 275,58 €)"
 msgstr "Write us for details about costs: info@faunalia.eu"
 
 # c317ea377fba42d99ac33d7b4be557ba

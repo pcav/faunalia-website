@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-14 18:03+0100\n"
+"POT-Creation-Date: 2014-10-21 11:44+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -162,7 +162,6 @@ msgstr "Idioma"
 # bd04cff96a1d4414899ef132ad5ba7bf
 # 84a61dcdc830454e9665797c69bd9891
 #: ../../training.rst:47
-
 msgid "Analisi con QGIS (IT)"
 msgstr "Analisi con QGIS (IT)"
 
@@ -351,13 +350,14 @@ msgstr "Custos"
 
 # a3e955054ac444d8bf2ab1805f051ce3
 #: ../../training.rst:62
+#, fuzzy
 msgid ""
-"Corsi di 3 giorni: 350 € per i privati, 330 € + IVA per aziende/partite IVA "
-"(meno la ritenuta d'acconto, da versare 336,82 €). Corso Python-QGIS: 700 € "
-"per i privati, 660 € + IVA per aziende/partite IVA (meno la ritenuta "
-"d'acconto, da versare 673,64 €). Corso di Web Mapping (2 giorni): 290 € per "
-"i privati, 270 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, "
-"da versare 275,58 €)"
+"Corsi di Cartografia QGIS, Analisi QGIS, Geodatabase PostGIS (3 giorni): 350 "
+"€ per i privati, 330 € + IVA per aziende/partite IVA (meno la ritenuta "
+"d'acconto, da versare 336,82 €). Corso Python-QGIS: 700 € per i privati, 660 "
+"€ + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare "
+"673,64 €). Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA "
+"per aziende/partite IVA (meno la ritenuta d'acconto, da versare 275,58 €)"
 msgstr ""
 "Cursos em **Portugal**, valores com IVA 23% incluído: Cartografia com QGIS: "
 "310€; Análise SIG com QGIS: 350€; Desenvolvimento de extensões Python para "
