@@ -8,11 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-<<<<<<< HEAD
-"POT-Creation-Date: 2014-10-05 16:50+0200\n"
-=======
-"POT-Creation-Date: 2014-10-14 18:03+0100\n"
->>>>>>> cb2a2d2f2c59da148cba1c2596ea81cd0b92b2a9
+"POT-Creation-Date: 2014-10-21 11:34+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -91,9 +87,14 @@ msgstr ""
 msgid ":doc:`More info <training>`"
 msgstr ":doc:`More info <training>`"
 
-# ba6a34749daf4698817c8b29e59f4a0d
-#: ../../index.rst:62
-msgid "Specialisti di:"
+# 27ba75a5c87b4d7fbe43caa345a2a862
+#: ../../index.rst:63
+msgid "Twitter stream"
+msgstr ""
+
+# 7c86988afd8844b38c23017831348731
+#: ../../index.rst:72
+msgid "Facebook stream"
 msgstr ""
 
 # 6b6a7e7df7a64e8eb22e79f72ef832f4
