@@ -90,12 +90,12 @@ msgstr ":doc:`More info <training>`"
 # 27ba75a5c87b4d7fbe43caa345a2a862
 #: ../../index.rst:63
 msgid "Twitter stream"
-msgstr ""
+msgstr "Twitter stream"
 
 # 7c86988afd8844b38c23017831348731
 #: ../../index.rst:72
 msgid "Facebook stream"
-msgstr ""
+msgstr "Facebook stream"
 
 # 6b6a7e7df7a64e8eb22e79f72ef832f4
 #~ msgid "Attività svolte"

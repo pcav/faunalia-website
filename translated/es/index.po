@@ -89,9 +89,9 @@ msgstr ":doc:`Más información <training>`"
 # 27ba75a5c87b4d7fbe43caa345a2a862
 #: ../../index.rst:63
 msgid "Twitter stream"
-msgstr ""
+msgstr "Twitter Faunalia"
 
 # 7c86988afd8844b38c23017831348731
 #: ../../index.rst:72
 msgid "Facebook stream"
-msgstr ""
+msgstr "Facebook Faunalia"
