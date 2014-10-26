@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-14 18:03+0100\n"
+"POT-Creation-Date: 2014-10-26 11:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,777 +16,777 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:3
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:3
 # 8c27893a1942411b95f0b93d8c1597fe
 msgid "History"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:6
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:6
 # 5a84ca324a014a92a789d96f449310ca
 msgid "v0.4.0"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:7
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:7
 # 490ddb426ab943ff94a34e5fdd6a6bed
 msgid "Fix bug preventing Glyphicons from working with Bootswatch themes."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:10
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:10
 # cb6ce589451b41078fa4c40ec1ec5282
 msgid "v0.3.9"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:11
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:11
 # eb1b7b465832464eb1195209c846af31
 msgid "Restyle alerts and admonitions. (`@masklinn`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:14
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:14
 # c6e5e0b1d41d47b8be15a9dbb86dadbf
 msgid "v0.3.8"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:15
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:15
 # ba6fad46befc42d3ac6df0b8d03fb3c7
 msgid "Update to Bootstrap v3.1.0. (`@torbjoernk`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:18
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:18
 # 61f4e73d4d454fe9ac08c80a0a7adb44
 msgid "v0.3.7"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:19
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:19
 # d6549747d22d4c18bfd518c8a9931c35
 msgid "Add footnote styling. (`@russell`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:20
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:20
 # 25d1a8085a4c4a058195ab1dc0ed7c6a
 msgid "Update search.html to allow search locally. (`@fjfeijoo`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:21
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:21
 # 8d739ee5991d44928e794ee9b800b242
 msgid "Updated search template for BS3. (`@russell`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:24
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:24
 # 5978adcb61c64954b7633f76a05f1d2c
 msgid "v0.3.6"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:25
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:25
 # 6b3d38a9a64d4e11a27f4817b7fc0db7
 msgid "Add bootswatch glyphicon links in bootswatch."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:26
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:26
 # 916eb1cbf62a4905b56a8b96ffcfe559
 msgid "Selectively hide links on navbar in certain view sizes. From here on out, `hidden-sm` in BS3 is applied to next/previous and source navigation links."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:28
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:28
 # a8e1794624ba4368b9eb8668ec7ff70d
 msgid "Make navbar logo work with subdirectories. (`@cdbennett`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:31
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:31
 # d9df44f6efe048618e17464822535a95
 msgid "v0.3.5"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:32
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:32
 # 7e212a8397554a95a184773304e60aa3
 msgid "Adds navbar logo's back to BS3. Switch to actual ``<img>`` tags for logos. Fixes `#52 <https://github.com/ryan-roemer/sphinx-bootstrap-theme/issues/52>`_."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:34
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:34
 # 9b7c5fb27a1543cd8b4b5da767beb7b8
 msgid "Fix responsive Bootswatch for Bootstrap v2."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:37
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:37
 # 78bacd7cdac5420eb19b1ef25274d8c6
 msgid "v0.3.4"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:38
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:38
 # f442be46725a4bbe82bc9fedf23b5736
 msgid "Switch demo to \"flatly\" theme."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:39
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:39
 # 6ec74fd8ce354534825f2517ad041503
 msgid "Fix the long-broken \"Source\" nav. link."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:40
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:40
 # 5a871162d98d4b009dc329b005880c0a
 msgid "Add missing \"flatly\" to bootswatch CSS static files."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:43
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:43
 # 1c0ddbe943624b4b8d2938636678c14c
 msgid "v0.3.3"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:44
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:44
 # 3499691b44174efd8d961827744f5563
 msgid "Allow custom CSS overrides, even on Bootstrap CSS. Completes `#68 <https://github.com/ryan-roemer/sphinx-bootstrap-theme/issues/68>`_."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:46
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:46
 # cdc7da90c4d842ccb2abe7efae9fcf8a
 msgid "Add offline bootswatch files. Completes `#19 <https://github.com/ryan-roemer/sphinx-bootstrap-theme/issues/19>`_."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:48
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:48
 # be32b326936b46aab61260128e0b6097
 msgid "Preserve HTML inside literal code blocks. (`@tristanlins`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:51
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:51
 # edfb65445bfa4599b573914be8dd28f9
 msgid "v0.3.2"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:52
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:52
 # 590816417357476e86e10ed63e9c66e5
 msgid "Fix scroll handlers for nav. bar. (`@sccolbert`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:53
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:53
 # 63c4459abb3e4396bcd54228690b6980
 msgid "Fix background color visibility behind rounding in code blocks. (`@kosiakk`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:56
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:56
 # c9c30d8fed1e4406b6acc989958eacc7
 msgid "v0.3.1"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:57
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:57
 # 66777980f9f446a38aecf2da4066cacd
 msgid "Re-add ``navbar_links`` theme option lost in bad merge. (`@newgene`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:58
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:58
 # 600895f63f9a42ad82e3145f1e92f7af
 msgid "Fixed display of sidebar. (`@adamcharnock`_, `@russell`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:61
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:61
 # d1533ab42be644f981b0fa9e7744754f
 msgid "v0.3.0"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:62
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:62
 # d4c9a0ab942d48ad8717ba103cf071b1
 msgid "Add Bootstrap v3.0.0 with legacy option for v2.3.2. (`@MiCHiLU`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:65
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:65
 # b34d439e44224c1c898f6d151cffa62f
 msgid "v0.2.9"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:66
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:66
 # e8f1242f41ee42d4a515a31a07b3328a
 msgid "Add ``navbar_links`` theme option. (`@newgene`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:67
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:67
 # 0cb13f77b1c547869dbfbee05f869d77
 msgid "Add ``navbarextra`` block in \"layout.html\". (`@grncdr`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:70
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:70
 # ff8f345583b34db59478c8ccc3735ccb
 msgid "v0.2.8"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:71
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:71
 # dd339e0c0c91407e8074be1d8ae33d38
 msgid "Sphinx compatible Sidebars. (`@russell`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:72
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:72
 # 64a16248266044a98d7a7a6600694726
 msgid "Topnav sidebarrel can now be disabled. (`@russell`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:73
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:73
 # 62968d780516404d9db2953c5dfabdc8
 msgid "Topnav page nav menu can now be disabled. (`@russell`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:76
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:76
 # 169deca6af094ce48b203dc8ea121bbf
 msgid "v0.2.7"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:77
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:77
 # ff1f3c91dc9a4be3a327056fc7253786
 msgid "Add custom nav bar links. (`@russell`_) Completes `#34 <https://github.com/ryan-roemer/sphinx-bootstrap-theme/issues/34>`_."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:79
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:79
 # 6258b0d8a4c64682b5c8465c5e23c279
 msgid "Fix wrapping of line numbers in code includes. (`@russell`_) Fixes `#35 <https://github.com/ryan-roemer/sphinx-bootstrap-theme/issues/35>`_."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:81
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:81
 # dd5b08db9a2d4fafa58ba8fe0d67a8a1
 msgid "Truncate long page titles in navigation bar. (`@aababilov`_) Fixes `#27 <https://github.com/ryan-roemer/sphinx-bootstrap-theme/issues/27>`_."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:85
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:85
 # 8c790bb3e3724b018c600da99104c425
 msgid "v0.2.6"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:86
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:86
 # bdeb62df21584d19919c05d70e9cec68
 msgid "Use network path for Bootswatch (`@nail`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:87
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:87
 # 50f94fcf237d463db232d085a9769111
 msgid "Switch from distribute to setuptools. (Suggested by `@thedrow`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:90
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:90
 # 05df33a48f974a74a12016af59501954
 msgid "v0.2.5"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:91
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:91
 # 27b060fef3664877a9aaae0e3c5ee486
 msgid "Search page styling. (`@russell`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:94
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:94
 # 90a4bd7dcfd4411c950168d7cac0504d
 msgid "v0.2.4"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:95
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:95
 # 172c697ed651491888df0285e8ab4b6a
 msgid "Adjust the max width of field lists. (`@russell`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:96
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:96
 # 2e405be5e44d44f7b035e9b29591d7e1
 msgid "Update to Bootstrap v2.3.2."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:97
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:97
 # abdfd496a049465cb6bfdab87f1e321a
 msgid "Navbar search box now uses bootstrap search-query class. (`@russell`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:98
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:98
 # 535d615b2c544746bb69e3e0ee120013
 msgid "Field-list tables now have an inherited width. (`@russell`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:101
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:101
 # afc14e3052ec4885b3eee997d39f0c6f
 msgid "v0.2.3"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:102
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:102
 # 40965cbefb454935accda0be301d161a
 msgid "Put navbar within a `container`. (`@inducer`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:103
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:103
 # 87218a12d22343f8bbb477218c38c760
 msgid "Add `navbar_site_name` for renaming site nav. tab. (Suggested by `@inducer`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:106
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:106
 # e52319b8f2114cc9946dfc71e1103fc8
 msgid "v0.2.2"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:107
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:107
 # 1deae9383bae44e291d7250356f1db1a
 msgid "Better literal markup handling for Bootstrap code formatting. (`@russell`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:108
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:108
 # 8de5842cd5f54e4c8d7f05e825409b67
 msgid "Scroll window when jumping to an anchor. (`@russell`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:111
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:111
 # a0be42a9463c4ad8bd7ac2f504b4922a
 msgid "v0.2.1"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:112
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:112
 # 18fa23272332449b8803b5501276fc11
 msgid "Fix code styling collision for cross references and inline code blocks. (`@russell`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:116
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:116
 # acfab898fdee41798b58e190998768b3
 msgid "v0.2.0"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:117
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:117
 # fa7a083b240f4b4bb41c649748d66712
 msgid "Update to Bootstrap v2.3.1."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:118
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:118
 # 25db160b4ac94ed995140652e0909e23
 msgid "Add ``bootswatch_theme`` option for `Bootswatch <http://bootswatch.com>`_ CSS theme support. (`@zyga`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:122
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:122
 # c800bc18e10344c9b4147da70a28f34a
 msgid "v0.1.8"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:123
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:123
 # f666233a686a4b7f8c76937c9583ae56
 msgid "Add ``globaltoc_includehidden`` option."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:126
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:126
 # 9fb9895d40244f8f913036a2647b0b9d
 msgid "v0.1.7"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:127
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:127
 # d44db7ed3fcc4d4fbda9d008666c645c
 msgid "Add Python 3 support. (`@zyga`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:128
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:128
 # 6d54409edd064517bd9c7d7a9b42c52c
 msgid "Add support for ``navbar_title`` theme configuration. The documentation originally stated that ``html_short_title`` was supported for overriding the navbar title (brand), but this never actually worked. (Thanks to Tim Kedmenec for pointing this out)."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:134
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:134
 # a6bd7d6fc1cc447390197ee29ce1bd3a
 msgid "v0.1.4"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:135
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:135
 # 41419df064f64732aacb163c8638ae68
 msgid "Remove the ``Site`` nav button if no other pages."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:136
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:136
 # e24833e3c3d2403289bfca81bbbaeee7
 msgid "Added jQuery v1.9.1 with ``noConflict()`` to allow underlying Sphinx to use whatever jQuery it wants."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:138
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:138
 # 1e874230a1dc488f93bf18b4bab39714
 msgid "Update to Bootstrap v2.3.0."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:139
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:139
 # 70813ba720b34a5682b061c264c6f6e5
 msgid "Fix multi-word Bootstrap-styled ``code`` elements."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:142
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:142
 # e7574c9f710a4504ac72cba2fca5cc64
 msgid "v0.1.3"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:143
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:143
 # 4c56322d2e1d4fefb202dd8e632b885b
 msgid "Convert inline code to Bootstrap-styled ``code`` elements."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:146
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:146
 # 4ecac9dd6cca4feb94913b16e7529ec8
 msgid "v0.1.2"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:147
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:147
 # bffebbc7aeef4734b4d0d2be7e0f789b
 msgid "Add ``globaltoc_depth`` theme option."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:148
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:148
 # 2f66eb680764480dadcf54bf91edc67d
 msgid "Add Bootstrap alert styling to \"note\", \"warning\" Sphinx directives."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:151
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:151
 # e1fb1afdd2734c24a6b80b2f71aa9afb
 msgid "v0.1.1"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:152
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:152
 # 7c823485611f43949e3c9a9676578f10
 msgid "Add Bootstrap table styling."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:155
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:155
 # 193d99dd461d452889a8de415d426d47
 msgid "v0.1.0"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:156
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:156
 # 4ab06b040dc64c9b8e39e960e12909c5
 msgid "Add support for deployment via PyPI."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:159
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:159
 # 904884d8e71e43f1bfeb0dc82d672765
 msgid "v0.0.6"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:160
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:160
 # 729f5d48bad944c9aa816c237fb679e6
 msgid "Fix logo display in navbar."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:163
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:163
 # d793d6f3d2cd40f082c6a236b953382b
 msgid "v0.0.4"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:164
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:164
 # 45422dad07694d4fab0961dd9c3532a4
 msgid "Get mobile (iPhone) viewport and nav menus working."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:165
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:165
 # 292cc7d5e4854f4a88a8fa36fdb7ec65
 msgid "Add new theme options ``navbar_class``, ``source_link_position``."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:168
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:168
 # 3fbe8f89d0a04f06b4879bd9eae4582b
 msgid "v0.0.3"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:169
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:169
 # adc68176d17f4c4298f86a8c78ec0ffd
 msgid "Update to Bootstrap v2.2.1."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:170
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:170
 # f492651f27b5443abe82c1d7c977d913
 msgid "Switch to responsive CSS."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:171
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:171
 # dea3803f46dc46d498b6941681e186b5
 msgid "Make navbar menus do real dropdowns recursively."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:174
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:174
 # 45d1dde48058496ab39c11dc5d30c3f6
 msgid "v0.0.2"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:175
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:175
 # 5627d161cf0f4191899cd2c1e235961e
 msgid "Update to Bootstrap v2.0. (`@oscarcp`_)"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:178
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:178
 # 6a3b0bdae27247a4bc0dc38e14fb322f
 msgid "v0.0.1"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/HISTORY.rst:179
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/HISTORY.rst:179
 # 983531a5dbab4aeda4affb7927dbb3ab
 msgid "Original theme based on Bootstrap v1.4.0."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:3
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:3
 # d93d5f87327b4a618d31de779e188c0c
 msgid "Sphinx Bootstrap Theme"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:5
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:5
 # cd6333900d5c4d96be113fb641d99971
 msgid "This Sphinx_ theme_ integrates the Twitter Bootstrap_ CSS / JavaScript framework with various layout options, hierarchical menu navigation, and mobile-friendly responsive design. It is configurable, extensible and can use any number of different Bootswatch_ CSS themes."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:18
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:18
 # 94e474ceff0b49b9965dfb1eb2e8647e
 msgid "Introduction and Demos"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:19
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:19
 # d3d7a99a3d1f434b99af9d663f4920b7
 msgid "The theme is introduced and discussed in the following posts:"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:21
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:21
 # 73ea1d6f0cee4312b5dc6ac2a0504896
 msgid "12/09/2011 - `Twitter Bootstrap Theme for Sphinx <http://loose-bits.com/2011/12/09/sphinx-twitter-bootstrap-theme.html>`_"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:22
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:22
 # 1db46bb0dce04b47b8fbfdb6caf0732d
 msgid "11/19/2012 - `Sphinx Bootstrap Theme Updates - Mobile, Dropdowns, and More <http://loose-bits.com/2012/11/19/sphinx-bootstrap-theme-updates.html>`_"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:23
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:23
 # 7deeae0f08974633a6092d08defb4cd7
 msgid "2/12/2013 - `Sphinx Bootstrap Theme 0.1.6 - Bootstrap and Other Updates <http://loose-bits.com/2013/02/12/sphinx-bootstrap-theme-updates.html>`_"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:24
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:24
 # 08de64e1d97e4e27b306542de356f0db
 msgid "4/10/2013 - `Sphinx Bootstrap Theme 0.2.0 - Now with Bootswatch! <http://loose-bits.com/2013/04/10/sphinx-bootstrap-theme-bootswatch.html>`_"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:25
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:25
 # 86b4e90aeb2a4f55a14fcdb21f76e6bf
 msgid "9/8/2013 - `Sphinx Bootstrap Theme 0.3.0 - Bootstrap v3 and more! <http://loose-bits.com/2013/09/08/sphinx-bootstrap-theme-bootstrap-3.html>`_"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:27
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:27
 # 78e468e9806741d6ba1f64fa73c1508a
 msgid "Examples of the theme in use for some public projects:"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:29
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:29
 # 145290262b3241dc9e44292b6c16edd0
 msgid "`Sphinx Bootstrap Theme`_: This project, with the theme option ``'bootswatch_theme': \"flatly\"`` to use the \"Flatly_\" Bootswatch_ theme."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:31
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:31
 # 2569855716144d3286e247aef3c18526
 msgid "`Django Cloud Browser`_: A Django reusable app for browsing cloud datastores (e.g., Amazon Web Services S3)."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:34
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:34
 # eac28d4097164caab0cb5a1df52541d2
 msgid "The theme demo website also includes an `examples page`_ for some useful illustrations of getting Sphinx to play nicely with Bootstrap (also take a look at the `examples source`_ for the underlying reStructuredText)."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:48
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:48
 # 9e7b2dffd95748778fcf35dcd9ba57a5
 msgid "Installation"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:49
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:49
 # da59b98b2f834256ba53e89f3ed3f6c7
 msgid "Installation from PyPI_ is fairly straightforward:"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:51
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:51
 # 6c26b6d8af0e4baab50a7b0793ec5e8e
 msgid "Install the package::"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:55
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:55
 # c48a0d3ccfb245dc88613a4c2f602e68
 msgid "Edit the \"conf.py\" configuration file to point to the bootstrap theme::"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:68
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:68
 # 962785542c3b4f93bd397b9aa2dca095
 msgid "Customization"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:69
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:69
 # 0312448a96f34a2ba561b6bdd4d470a8
 msgid "The can be customized in varying ways (some a little more work than others)."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:72
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:72
 # 1c936523cb1e4b618ea07d69bdbad645
 msgid "Theme Options"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:73
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:73
 # 8ef4ea1a15224b31be8ac8bd3b25986b
 msgid "The theme provides many built-in options that can be configured by editing your \"conf.py\" file::"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:143
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:143
 # 8153301f56fa4f96891610e909353d7b
 msgid "Note for the navigation bar title that if you don't specify a theme option of ``navbar_title`` that the \"conf.py\" ``project`` string will be used. We don't use the ``html_title`` or ``html_short_title`` values because by default those both contain version strings, which the navigation bar treats differently."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:149
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:149
 # b13d577c1dd94162b9677a5bd7c86b8a
 msgid "Bootstrap Versions"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:150
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:150
 # db636800370c43c68466c45ba3040390
 msgid "The theme supports Bootstrap v2.3.2 and v3.0.0 via the ``bootstrap_version`` theme option (of ``\"2\"`` or ``\"3\"``). Some notes regarding version differences:"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:153
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:153
 # 8681c7fa3d144deb879b8eda0dac5efc
 msgid "Bootstrap 3 has dropped support for `sub-menus`_, so while supported by this theme, they will not show up in site or page menus."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:155
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:155
 # 93ad8668bbd842c0bf5b98b6e03bce71
 msgid "Internally, \"navbar.html\" is the Sphinx template used for Bootstrap v3 and \"navbar-2.html\" is the template used for v2."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:161
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:161
 # db356641fcbf44e8898e3bd6741f2a51
 msgid "Extending \"layout.html\""
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:162
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:162
 # e63c633ff4324a96b6f2fe47ffb325b2
 msgid "As a more \"hands on\" approach to customization, you can override any template in this Sphinx theme or any others. A good candidate for changes is \"layout.html\", which provides most of the look and feel. First, take a look at the \"layout.html\" file that the theme provides, and figure out what you need to override. As a side note, we have some theme-specific enhancements, such as the ``navbarextra`` template block for additional content in the navbar."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:170
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:170
 # 76c262db5d564f6bba7fed3efa6f3c1e
 msgid "Then, create your own \"_templates\" directory and \"layout.html\" file (assuming you build from a \"source\" directory)::"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:176
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:176
 # 1b58c9665eb843a49db4d8ee079fe376
 msgid "Then, configure your \"conf.py\"::"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:180
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:180
 # 4f7946f999844d5bb07f5b0ca6fbc5dd
 msgid "Finally, edit your override file \"source/_templates/layout.html\"::"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:193
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:193
 # 4751539c45a6458f80ab9eee851d15bb
 msgid "Adding Custom CSS"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:194
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:194
 # 409499ed8da34d1690909bee046ad420
 msgid "Alternately, you could add your own custom static media directory with a CSS file to override a style, which in the demo would be something like::"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:200
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:200
 # 5b946dfbe0c340fc95cc980d75b363aa
 msgid "Then, in \"conf.py\", edit this line::"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:204
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:204
 # b4c4df858391403da19859c12703a172
 msgid "You will also need the override template \"source/_templates/layout.html\" file configured as above, but with the following code::"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:213
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:213
 # 5085947a96ba459c904d400ce684c9c2
 msgid "Then, in the new file \"source/_static/my-styles.css\", add any appropriate styling, e.g. a bold background color::"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:222
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:222
 # 03d224908bdc4b51b01e481229b725fa
 msgid "Theme Notes"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:224
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:224
 # 5638251693fc468bba69da6365ffb709
 msgid "Sphinx"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:225
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:225
 # 448c4b2b5ffc42d3bcbebb42f81a8575
 msgid "The theme places the global TOC, local TOC, navigation (prev, next) and source links all in the top Bootstrap navigation bar, along with the Sphinx search bar on the left side."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:229
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:229
 # 36ad64b9c6a946fda8eb9f575016fa1a
 msgid "The global (site-wide) table of contents is the \"Site\" navigation dropdown, which is a configurable level rendering of the ``toctree`` for the entire site. The local (page-level) table of contents is the \"Page\" navigation dropdown, which is a multi-level rendering of the current page's ``toc``."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:236
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:236
 # 4eb8998b466e48159cbfbc19ba278970
 msgid "Bootstrap"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:237
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:237
 # 1295cac69d044df7a4ebaf87ee109d26
 msgid "The theme offers Twitter Bootstrap v2.x and v3.x, both of which rely on jQuery v.1.9.x. As the jQuery that Bootstrap wants can radically depart from the jQuery Sphinx internal libraries use, the library from this theme is integrated via ``noConflict()`` as ``$jqTheme``."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:242
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:242
 # 05496374e5234910bcf3201e3da11cc7
 msgid "You can override any static JS/CSS files by dropping different versions in your Sphinx \"_static\" directory."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:247
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:247
 # 603de0dad50c465bafc997a4e14a0358
 msgid "Contributing"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:248
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:248
 # 42ec3e3f47884e72bb40b8a09422a4d6
 msgid "Contributions to this project are most welcome. Please make sure that the demo site builds cleanly, and looks like what you want. First build the demo::"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:253
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:253
 # 51aa89881ad8409f802e6382153cc103
 msgid "Then, view the site in the development server::"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:257
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:257
 # e45d6a757b2d489b8ddf9a1484971833
 msgid "Also, if you are adding a new type of styling or Sphinx or Bootstrap construct, please add a usage example to the \"Examples\" page."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:262
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:262
 # 25e83edbc4a043bc89b57a382855dc41
 msgid "Licenses"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:263
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:263
 # d58b1af4224c405d99323c4b03377487
 msgid "Sphinx Bootstrap Theme is licensed under the MIT_ license."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/README.rst:265
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/README.rst:265
 # 03c4f038fa1748b1892154b5b2c9bb27
 msgid "Twitter Bootstrap is licensed under the Apache_ license."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/TODO.rst:3
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/TODO.rst:3
 # 17f5274b7d75445f8f826f99df6e1439
 msgid "Future Work"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/TODO.rst:6
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/TODO.rst:6
 # e71990439def4618a47119e6dacda255
 msgid "CSS / Layout"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/TODO.rst:7
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/TODO.rst:7
 # d9322084cef144f9a2d520fe5d911141
 msgid "Search Bar: Is aligned right inconsistently in BS2 vs. BS3."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/TODO.rst:8
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/TODO.rst:8
 # 2b1ee183d17543989b361a9067061ed6
 msgid "Footnotes: Need much better styling. Maybe switch to tooltips."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/TODO.rst:9
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/TODO.rst:9
 # 0ece6777a6624ce3b8e78a27f7577ee8
 msgid "Optionally move the ``localtoc`` from the top navigation bar into it's own navbar below the page title."
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/TODO.rst:13
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/TODO.rst:13
 # 0f0bfa1329604ad1a616f61eceff9a5b
 msgid "Infrastructure"
 msgstr ""
 
-#: ../../build/sphinx-bootstrap-theme/TODO.rst:14
+#: ../../../../Desktop/git/faunalia-website/build/sphinx-bootstrap-theme/TODO.rst:14
 # 287c3aba645447d0a6bac76db8791151
 msgid "Re-enable the downloads."
 msgstr ""
