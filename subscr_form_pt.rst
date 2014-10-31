@@ -137,9 +137,7 @@ Formulário de inscrição
 	<div class="col-sm-9">
 	<select id="edit-submitted-corso" name="corso" class="form-control">
 		<!-- <option value="Cartografia com QGIS, 20-22 Outubro" <?php if ($corso=="Cartografia com QGIS, 20-22 Outubro") echo 'selected="selected"';?> >Cartografia com QGIS, 20-22 Outubro</option> -->
-	        <option value="Sessão Actualização conhecimentos QGIS 2.6, 31 Outubro" <?php if ($corso=="Sessão Actualização conhecimentos QGIS 2.6, 31 Outubro") echo 'selected="selected"';?> >Sessão Actualização conhecimentos QGIS 2.6, 31 Outubro</option>
 		<option value="Análise SIG com QGIS, 10-12 Novembro" <?php if ($corso=="Análise SIG com QGIS, 10-12 Novembro") echo 'selected="selected"';?> >Análise SIG com QGIS, 10-12 Novembro</option>
-	        <option value="Sessão Actualização conhecimentos QGIS 2.6, 28 Novembro" <?php if ($corso=="Sessão Actualização conhecimentos QGIS 2.6, 28 Novembro") echo 'selected="selected"';?> >Sessão Actualização conhecimentos QGIS 2.6, 28 Novembro</option>	        
 	        <option value="Desenvolvimento de extensões para QGIS em Python, Novembro" <?php if ($corso=="Desenvolvimento de extensões para QGIS em Python, Novembro") echo 'selected="selected"';?> >Desenvolvimento de extensões para QGIS em Python, Novembro</option>	        
 	        <option value="WebMapping com QGIS, 01 e 02 Dezembro" <?php if ($corso=="WebMapping com QGIS, 01 e 02 Dezembro") echo 'selected="selected"';?> >WebMapping com QGIS, 01 e 02 Dezembro</option>
 		<option value="Bases de dados geográficas: PostgreSQL e PostGIS, 02-04 Fevereiro 2015" <?php if ($corso=="Bases de dados geográficas: PostgreSQL e PostGIS, 02-04 Fevereiro 2015") echo 'selected="selected"';?> >Bases de dados geográficas: PostgreSQL e PostGIS, 02-04 Fevereiro 2015</option>	
