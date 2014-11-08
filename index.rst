@@ -30,7 +30,7 @@ Faunalia
 
 Sistemi informativi territoriali liberi ed open source
 
-.. cssclass :: col-md-4  svi
+.. cssclass :: col-md-4  cor
 
 Corsi
 ===========================================================================
@@ -39,7 +39,7 @@ Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il tuo 
 
 :doc:`More info <training>`
 
-.. cssclass :: socialstream
+.. cssclass :: col-md-4 ass
 
 Assistenza
 ============================================================================
@@ -48,7 +48,7 @@ Vuoi la certezza e la tranquillità di un supporto costante per la soluzione dei
 
 :doc:`More info <support>`
 
-.. cssclass :: col-md-4  cor
+.. cssclass :: col-md-4  svi
 
 Sviluppo
 =============================================================================
@@ -57,7 +57,7 @@ Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro o di
 
 :doc:`More info <dev>`
 
-.. cssclass :: col-md-4 ass
+.. cssclass :: socialstream
 
 Twitter stream
 ============================================================================
