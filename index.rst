@@ -11,9 +11,9 @@
     :maxdepth: 4
     :hidden:
 
-    Sviluppo <dev>
-    Assistenza <support>
     Corsi <training>
+    Assistenza <support>
+    Sviluppo <dev>
     Attività <jobs>
     Chi siamo <intro>
     Error <404>
@@ -32,14 +32,14 @@ Sistemi informativi territoriali liberi ed open source
 
 .. cssclass :: col-md-4  svi
 
-Sviluppo
-=============================================================================
+Corsi
+===========================================================================
 
-Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro o di correggere un bug?
+Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il tuo GIS? 
 
-:doc:`More info <dev>`
+:doc:`More info <training>`
 
-.. cssclass :: col-md-4 ass
+.. cssclass :: socialstream
 
 Assistenza
 ============================================================================
@@ -50,14 +50,14 @@ Vuoi la certezza e la tranquillità di un supporto costante per la soluzione dei
 
 .. cssclass :: col-md-4  cor
 
-Corsi
-===========================================================================
+Sviluppo
+=============================================================================
 
-Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il tuo GIS? 
+Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro o di correggere un bug?
 
-:doc:`More info <training>`
+:doc:`More info <dev>`
 
-.. cssclass :: socialstream
+.. cssclass :: col-md-4 ass
 
 Twitter stream
 ============================================================================
