@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-21 11:34+0200\n"
+"POT-Creation-Date: 2014-11-08 08:54+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,24 +30,22 @@ msgstr "Faunalia"
 msgid "Sistemi informativi territoriali liberi ed open source"
 msgstr "Systèmes d'information géographique libres et en open source"
 
-# b29116aece954590a864d9174f6d8416
+# 74d5fd586c43466aafb1f532dfbf4ead
 #: ../../index.rst:36
-msgid "Sviluppo"
-msgstr "Développement"
+msgid "Corsi"
+msgstr "Formation"
 
-# 1e0a20d246044004ba27ccf7bbb05251
+# 1e7ec7a2516c48aa90fbd6563a143a77
 #: ../../index.rst:38
 msgid ""
-"Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro "
-"o di correggere un bug?"
-msgstr ""
-"Vous avez besoin d'une nouvelle fonctionnalité, d'une extension pour un "
-"travail plus rapide ou bien de corriger un bug"
+"Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il "
+"tuo GIS?"
+msgstr "Vous voulez apprendre rapidement et efficacement à maitriser votre SIG"
 
-# 2fd4a8b1ef644db38dcea8a1e8a61c03
+# 80549d17aca94c20ba96853e17c8154d
 #: ../../index.rst:40
-msgid ":doc:`More info <dev>`"
-msgstr ":doc:`Plus d'info <dev>`"
+msgid ":doc:`More info <training>`"
+msgstr ":doc:`Plus d'info <training>`"
 
 # 2c65bd5329b9402b8ff3cdd828a1c810
 #: ../../index.rst:45
@@ -68,22 +66,24 @@ msgstr ""
 msgid ":doc:`More info <support>`"
 msgstr ":doc:`Plus d'info <support>`"
 
-# 74d5fd586c43466aafb1f532dfbf4ead
+# b29116aece954590a864d9174f6d8416
 #: ../../index.rst:54
-msgid "Corsi"
-msgstr "Formation"
+msgid "Sviluppo"
+msgstr "Développement"
 
-# 1e7ec7a2516c48aa90fbd6563a143a77
+# 1e0a20d246044004ba27ccf7bbb05251
 #: ../../index.rst:56
 msgid ""
-"Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il "
-"tuo GIS?"
-msgstr "Vous voulez apprendre rapidement et efficacement à maitriser votre SIG"
+"Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro "
+"o di correggere un bug?"
+msgstr ""
+"Vous avez besoin d'une nouvelle fonctionnalité, d'une extension pour un "
+"travail plus rapide ou bien de corriger un bug"
 
-# 80549d17aca94c20ba96853e17c8154d
+# 2fd4a8b1ef644db38dcea8a1e8a61c03
 #: ../../index.rst:58
-msgid ":doc:`More info <training>`"
-msgstr ":doc:`Plus d'info <training>`"
+msgid ":doc:`More info <dev>`"
+msgstr ":doc:`Plus d'info <dev>`"
 
 # 27ba75a5c87b4d7fbe43caa345a2a862
 #: ../../index.rst:63
