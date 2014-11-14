@@ -45,7 +45,6 @@ Calendario
 Corso                                    Date e durata         Scadenza iscrizione  Dove           Lingua
 ======================================== ====================  ==================== ============== ===========
 Analisi con QGIS (IT)                    22-24 Ottobre         01 Ottobre           Pontedera, IT  Italiano
-Analisi con QGIS (PT)                    10-12 Novembre        05 Novembre          Lisbona, PT    Portoghese
 Creare plugin in Python per QGIS (IT)    Novembre              A richiesta          Pontedera, IT  Italiano
 Creare plugin in Python per QGIS (PT)    Novembre              A richiesta          Lisbona, PT    Portoghese
 WebMapping con QGIS (PT)                 01-02 Dicembre        20 Novembre          Lisbona, PT    Portoghese
