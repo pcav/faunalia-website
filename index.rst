@@ -57,6 +57,15 @@ Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro o di
 
 :doc:`More info <dev>`
 
+.. cssclass :: bottomcont
+
+Specialisti di QGIS e Database Geografici PostGIS
+============================================================================
+
+QGIS_ e PostGIS_ mettono a disposizione un grande numero di funzionalità per visualizzare, gestire, editare e analizzare dati geografici e per creare stampe con simbologia cartografica avanzata.
+
+QGIS_ e PostGIS_ forniscono un modo semplice ed economico per gestire grandi volumi di dati (ad es. Catasto Urbano, Catasto Rurale, etc.) e per pubblicare servizi standard OpenGeospatialConsortium_ (WMS, WFS, WCS), così come mappe on-line (WebGIS).
+
 .. cssclass :: socialstream
 
 Twitter stream
@@ -74,3 +83,7 @@ Facebook stream
 .. raw:: html
 
         <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FFaunaliagis&amp;width=500&amp;height=395&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:500px; height:395px;" allowTransparency="true"></iframe>
+
+.. _QGIS: http://www.qgis.org/
+.. _PostGIS: http://postgis.net/
+.. _OpenGeospatialConsortium: http://www.opengeospatial.org/

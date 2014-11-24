@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-24 12:10+0100\n"
+"POT-Creation-Date: 2014-11-24 16:12+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -122,7 +122,7 @@ msgid "A richiesta"
 msgstr ""
 
 #: ../../training.rst:47
-#: ../../training.rst:49
+#: ../../training.rst:48
 #: ../../training.rst:52
 # 231f101b353449b58ac1e1d733483ba5
 # 231f101b353449b58ac1e1d733483ba5
@@ -131,7 +131,7 @@ msgid "Lisbona, PT"
 msgstr ""
 
 #: ../../training.rst:47
-#: ../../training.rst:49
+#: ../../training.rst:48
 #: ../../training.rst:52
 # 4f997474abae4b29af20cb73fdc3fb7f
 # 4f997474abae4b29af20cb73fdc3fb7f
@@ -140,21 +140,36 @@ msgid "Portoghese"
 msgstr ""
 
 #: ../../training.rst:48
-# c5eecc7b700a4708af9c4b09effd20a4
-msgid "Creare plugin in Python per QGIS (IT)"
+# 97540782e845487ca93da03c0fa4f300
+msgid "WebMapping con QGIS (PT)"
 msgstr ""
 
 #: ../../training.rst:48
-# c7c006fc39ce4f56a7ebc6e0e98a2150
-msgid "19-21 Gennaio 2015"
+# 685af8f9382d4a0c82c1b8ae3c37a145
+msgid "01-02 Dicembre"
 msgstr ""
 
 #: ../../training.rst:48
-# d2f1eb9f44834589a7148109377abc86
-msgid "5 Gennaio"
+# 06981aa91b2e4bdf8a13041b6c2e1450
+msgid "20 Novembre"
 msgstr ""
 
-#: ../../training.rst:48
+#: ../../training.rst:49
+# be5c171886e14c15ba7879adea865622
+msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
+msgstr ""
+
+#: ../../training.rst:49
+# 685af8f9382d4a0c82c1b8ae3c37a145
+msgid "03-05 Dicembre"
+msgstr ""
+
+#: ../../training.rst:49
+# f89f8db8873549b09ff3f487b3570dc7
+msgid "01 Dicembre"
+msgstr ""
+
+#: ../../training.rst:49
 #: ../../training.rst:50
 #: ../../training.rst:51
 #: ../../training.rst:53
@@ -167,7 +182,7 @@ msgstr ""
 msgid "Pontedera, IT"
 msgstr ""
 
-#: ../../training.rst:48
+#: ../../training.rst:49
 #: ../../training.rst:50
 #: ../../training.rst:51
 #: ../../training.rst:53
@@ -180,34 +195,19 @@ msgstr ""
 msgid "Italiano"
 msgstr ""
 
-#: ../../training.rst:49
-# 97540782e845487ca93da03c0fa4f300
-msgid "WebMapping con QGIS (PT)"
-msgstr ""
-
-#: ../../training.rst:49
-# 685af8f9382d4a0c82c1b8ae3c37a145
-msgid "01-02 Dicembre"
-msgstr ""
-
-#: ../../training.rst:49
-# 06981aa91b2e4bdf8a13041b6c2e1450
-msgid "20 Novembre"
+#: ../../training.rst:50
+# c5eecc7b700a4708af9c4b09effd20a4
+msgid "Creare plugin in Python per QGIS (IT)"
 msgstr ""
 
 #: ../../training.rst:50
-# be5c171886e14c15ba7879adea865622
-msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
+# c7c006fc39ce4f56a7ebc6e0e98a2150
+msgid "19-21 Gennaio 2015"
 msgstr ""
 
 #: ../../training.rst:50
-# 685af8f9382d4a0c82c1b8ae3c37a145
-msgid "03-05 Dicembre"
-msgstr ""
-
-#: ../../training.rst:50
-# f89f8db8873549b09ff3f487b3570dc7
-msgid "01 Dicembre"
+# d2f1eb9f44834589a7148109377abc86
+msgid "5 Gennaio"
 msgstr ""
 
 #: ../../training.rst:51
