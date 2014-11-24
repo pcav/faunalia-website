@@ -5,3 +5,4 @@
 .. image:: images/wpress.png
 .. image:: images/youtube.png
 .. image:: images/isolines.jpg
+.. image:: images/pontedera_qgis.png
