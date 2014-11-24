@@ -91,6 +91,8 @@ msgstr ":doc:`More info <dev>`"
 #: ../../index.rst:63
 msgid "Specialisti di QGIS e Database Geografici PostGIS"
 msgstr ""
+"Especialistas em QGIS (Quantum GIS) e bases de dados geográficas "
+"PostgreSQL/PostGIS"
 
 # 1f54f146a10b4daca7070a3d26ba800f
 #: ../../index.rst:65
@@ -99,6 +101,9 @@ msgid ""
 "visualizzare, gestire, editare e analizzare dati geografici e per creare "
 "stampe con simbologia cartografica avanzata."
 msgstr ""
+"QGIS_ e PostGIS_ disponiblizam um grande numero de funcionalidades para "
+"visualizar, gerir, editar e analizar dados geográficos e para criar layouts "
+"de impressão com simbologia cartográfica avançada."
 
 # ad6688da853a4c0cba4fb82635bc7f5a
 #: ../../index.rst:67
@@ -108,6 +113,10 @@ msgid ""
 "pubblicare servizi standard OpenGeospatialConsortium_ (WMS, WFS, WCS), così "
 "come mappe on-line (WebGIS)."
 msgstr ""
+"QGIS_ e PostGIS_ fornecem uma forma simples e economica para gerir grandes "
+"volumes de dados (por exemplo, Cadastro Urbano, Cadastro Rural) e para "
+"publicar serviços padrão do OpenGeospatialConsortium_ (WMS, WFS, WCS), "
+"assimo como mapas em ambiente Web (WebSIG)."
 
 # 27ba75a5c87b4d7fbe43caa345a2a862
 #: ../../index.rst:72
