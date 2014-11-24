@@ -47,7 +47,7 @@ Corso                                    Date e durata         Scadenza iscrizio
 Creare plugin in Python per QGIS (PT)    Novembre              A richiesta          Lisbona, PT    Portoghese
 Creare plugin in Python per QGIS (IT)    19-21 Gennaio 2015    5 Gennaio            Pontedera, IT  Italiano
 WebMapping con QGIS (PT)                 01-02 Dicembre        20 Novembre          Lisbona, PT    Portoghese
-Geodatabase: PostgreSQL e PostGIS (IT)   10-12 Dicembre        01 Dicembre          Pontedera, IT  Italiano
+Geodatabase: PostgreSQL e PostGIS (IT)   03-05 Dicembre        01 Dicembre          Pontedera, IT  Italiano
 WebMapping con QGIS (IT)                 22-23 Gennaio 2015    07 Gennaio           Pontedera, IT  Italiano
 Geodatabase: PostgreSQL e PostGIS (PT)   02-04 Febbraio 2015   01 Febbraio          Lisbona, PT    Portoghese
 Cartografia con QGIS (IT)                Marzo 2015            15 Febbraio          Pontedera, IT  Italiano

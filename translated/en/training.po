@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-24 11:53+0100\n"
+"POT-Creation-Date: 2014-11-24 12:08+0100\n"
 "PO-Revision-Date: 2013-08-17 16:58+0200\n"
 "Last-Translator: Paolo Cavallini <cavallini@faunalia.it>\n"
 "Language-Team: Italiano <>\n"
@@ -246,8 +246,8 @@ msgstr "Geographic databases: PostgreSQL and PostGIS (IT)"
 
 # f7db670e6b22473f88e2168c85cf783a
 #: ../../training.rst:50
-msgid "10-12 Dicembre"
-msgstr "10-12 December"
+msgid "03-05 Dicembre"
+msgstr "03-05 December"
 
 # f7db670e6b22473f88e2168c85cf783a
 #: ../../training.rst:50
@@ -1096,6 +1096,10 @@ msgstr "Data optimization"
 #: ../../training.rst:269
 msgid "Due giorni *full time*"
 msgstr "Two days, full time"
+
+# f7db670e6b22473f88e2168c85cf783a
+#~ msgid "10-12 Dicembre"
+#~ msgstr "10-12 December"
 
 # f7db670e6b22473f88e2168c85cf783a
 #~ msgid "Dicembre"
