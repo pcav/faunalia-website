@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-20 11:10+0100\n"
+"POT-Creation-Date: 2014-11-24 11:53+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,13 +58,12 @@ msgstr ""
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:27
 msgid ""
-"Iscrivetevi alla `mailing list "
-"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
-"annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
+"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
 msgstr ""
-"Abonnez vous à la `liste de diffusion "
-"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/formation>`_ pour "
-"recevoir les annonces des nouvelles formations."
+"Abonnez vous à la `liste de diffusion <http://lists.faunalia.it/cgi-bin/"
+"mailman/listinfo/formation>`_ pour recevoir les annonces des nouvelles "
+"formations."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:30
@@ -125,9 +124,8 @@ msgstr ""
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:37
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
-"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
-"ECDL-GIS "
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
+"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
 "<http://www.aica.it/aica/ecdl-gis/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
 "Ils permettent l'accès aux examens *European Computer Driving Licence - GIS*."
@@ -173,7 +171,7 @@ msgid "Novembre"
 msgstr "Novembre"
 
 # 251df4bf0dac4985b41967283d307c6c
-#: ../../training.rst:47 ../../training.rst:48
+#: ../../training.rst:47
 msgid "A richiesta"
 msgstr "Sur demande"
 
@@ -197,10 +195,16 @@ msgstr "Portuguese"
 msgid "Creare plugin in Python per QGIS (IT)"
 msgstr "Créer plugins Python pour QGIS (IT)"
 
-# f7db670e6b22473f88e2168c85cf783a
+# b28a9fbcf9964ba28a693bb9feccab9b
 #: ../../training.rst:48
-msgid "Dicembre"
-msgstr "Décembre"
+#, fuzzy
+msgid "19-21 Gennaio 2015"
+msgstr "22-23 Janvier 2015"
+
+# 2837589f472d43e6b2fcc68aa9118522
+#: ../../training.rst:48
+msgid "5 Gennaio"
+msgstr "5 Janvier"
 
 # 768ef41660e8444b834e3d11d5ef4934
 # 69abb73e3dbe4ec59cc72dd9e0314203
@@ -336,8 +340,8 @@ msgstr ""
 msgid "**Sconti**: 5% per l'iscrizione simultanea a più corsi"
 msgstr ""
 "Réductions pour l'inscription simultanée à plusieurs courss, ou si vous êtes "
-"un étudiant ou sans emploi, écrivez-nous pour plus de détails: "
-"info@faunalia.eu"
+"un étudiant ou sans emploi, écrivez-nous pour plus de détails: info@faunalia."
+"eu"
 
 # d46e64fc0c7e494b826fb2dc83e7df1d
 #: ../../training.rst:64
@@ -402,15 +406,13 @@ msgstr "Logistique"
 # e2c77797de9e472598dc6f4abdcf19db
 #: ../../training.rst:79
 msgid ""
-"**Sede**: Pontedera (PI), presso `Pont-Tech "
-"<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
-"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
-"facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli "
-"sulla città "
-"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo "
-"<http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere "
-"singole/doppie/triple"
+"**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
+"page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
+"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
+"pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune."
+"pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo <http://www."
+"ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/triple"
 msgstr ""
 "Pour les détails sur les sièges des courses, écrivez nous: info@faunalia.eu"
 
@@ -1122,6 +1124,10 @@ msgstr "Critères d'optimisation"
 msgid "Due giorni *full time*"
 msgstr "Deux jours à plein temps"
 
+# f7db670e6b22473f88e2168c85cf783a
+#~ msgid "Dicembre"
+#~ msgstr "Décembre"
+
 # ac7a57cb7dc44f15b51b36d55e91b27c
 #~ msgid "22-24 Ottobre"
 #~ msgstr "22-24 Octobre"
@@ -1275,13 +1281,12 @@ msgstr "Deux jours à plein temps"
 #~ msgstr "14 Avril"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
-#, qt-format
 #~ msgid ""
-#~ "`Scarica il calendario (ics) "
-#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
+#~ "`Scarica il calendario (ics) <https://www.google.com/calendar/ical/"
+#~ "faunaliagis%40gmail.com/public/basic.ics>`_"
 #~ msgstr ""
-#~ "`Téléchargez le calendrier (ics) "
-#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
+#~ "`Téléchargez le calendrier (ics) <https://www.google.com/calendar/ical/"
+#~ "faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 67da7a1be0814b30a5a20d7f14e2e4ba
 #~ msgid "2-4 Aprile"
@@ -1294,10 +1299,6 @@ msgstr "Deux jours à plein temps"
 # 5b9b45b66a3e4c648de8b6c852acf4eb
 #~ msgid "12-14 Marzo"
 #~ msgstr "12-14 Mars"
-
-# 2837589f472d43e6b2fcc68aa9118522
-#~ msgid "5 Gennaio"
-#~ msgstr "5 Janvier"
 
 # 5f579eacdfe14ef58b3777e851296a6b
 #~ msgid "20-21 Febbraio"

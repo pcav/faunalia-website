@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-20 11:10+0100\n"
+"POT-Creation-Date: 2014-11-24 11:53+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -117,8 +117,6 @@ msgid "Novembre"
 msgstr ""
 
 #: ../../training.rst:47
-#: ../../training.rst:48
-# 251df4bf0dac4985b41967283d307c6c
 # 251df4bf0dac4985b41967283d307c6c
 msgid "A richiesta"
 msgstr ""
@@ -147,8 +145,13 @@ msgid "Creare plugin in Python per QGIS (IT)"
 msgstr ""
 
 #: ../../training.rst:48
-# f89f8db8873549b09ff3f487b3570dc7
-msgid "Dicembre"
+# c7c006fc39ce4f56a7ebc6e0e98a2150
+msgid "19-21 Gennaio 2015"
+msgstr ""
+
+#: ../../training.rst:48
+# d2f1eb9f44834589a7148109377abc86
+msgid "5 Gennaio"
 msgstr ""
 
 #: ../../training.rst:48
