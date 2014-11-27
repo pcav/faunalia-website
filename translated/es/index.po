@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-24 16:12+0100\n"
+"POT-Creation-Date: 2014-11-27 09:33+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,69 +30,13 @@ msgstr "Faunalia"
 msgid "Sistemi informativi territoriali liberi ed open source"
 msgstr "Sistemas informativos territoriales libres y de código abierto"
 
-# 74d5fd586c43466aafb1f532dfbf4ead
-#: ../../index.rst:36
-msgid "Corsi"
-msgstr "Cursos"
-
-# 1e7ec7a2516c48aa90fbd6563a143a77
-#: ../../index.rst:38
-msgid ""
-"Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il "
-"tuo GIS?"
-msgstr ""
-"¿Quiere aprender de modo rápido y eficaz a conocer y gestionar en su "
-"totalidad su SIG?"
-
-# 80549d17aca94c20ba96853e17c8154d
-#: ../../index.rst:40
-msgid ":doc:`More info <training>`"
-msgstr ":doc:`Más información <training>`"
-
-# 2c65bd5329b9402b8ff3cdd828a1c810
-#: ../../index.rst:45
-msgid "Assistenza"
-msgstr "Asistencia"
-
-# 0413ebabaffd4d768717bd48f723e880
-#: ../../index.rst:47
-msgid ""
-"Vuoi la certezza e la tranquillità di un supporto costante per la soluzione "
-"dei tuoi problemi?"
-msgstr ""
-"¿Quiere estar seguro de tener un apoyo constante para resolver sus problemas?"
-
-# a2069a3f48204eed95a4f2d71236ff50
-#: ../../index.rst:49
-msgid ":doc:`More info <support>`"
-msgstr ":doc:`Más información <support>`"
-
-# b29116aece954590a864d9174f6d8416
-#: ../../index.rst:54
-msgid "Sviluppo"
-msgstr "Desarrollo"
-
-# 1e0a20d246044004ba27ccf7bbb05251
-#: ../../index.rst:56
-msgid ""
-"Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro "
-"o di correggere un bug?"
-msgstr ""
-"¿Necesita un nuevo comando, un plugin para agilizar su trabajo o corregir "
-"algún fallo?"
-
-# 2fd4a8b1ef644db38dcea8a1e8a61c03
-#: ../../index.rst:58
-msgid ":doc:`More info <dev>`"
-msgstr ":doc:`Más información <dev>`"
-
 # c228af7a0dac424691110af07c2cfbe3
-#: ../../index.rst:63
+#: ../../index.rst:36
 msgid "Specialisti di QGIS e Database Geografici PostGIS"
 msgstr "Especialistas QGIS y base de datos geográficos PostGIS"
 
 # 1f54f146a10b4daca7070a3d26ba800f
-#: ../../index.rst:65
+#: ../../index.rst:38
 msgid ""
 "QGIS_ e PostGIS_ mettono a disposizione un grande numero di funzionalità per "
 "visualizzare, gestire, editare e analizzare dati geografici e per creare "
@@ -103,7 +47,7 @@ msgstr ""
 "simbología cartográfica avanzada."
 
 # ad6688da853a4c0cba4fb82635bc7f5a
-#: ../../index.rst:67
+#: ../../index.rst:40
 msgid ""
 "QGIS_ e PostGIS_ forniscono un modo semplice ed economico per gestire grandi "
 "volumi di dati (ad es. Catasto Urbano, Catasto Rurale, etc.) e per "
@@ -114,6 +58,62 @@ msgstr ""
 "grandes volúmenes de datos (por ejemplo Catastro Urbano, Registro de la "
 "Propiedad Rural, etc.) y para publicar servicios OpenGeospatialConsortium_ "
 "estándar (WMS, WFS, WCS), así como los mapas en línea (WebGIS)."
+
+# 74d5fd586c43466aafb1f532dfbf4ead
+#: ../../index.rst:45
+msgid "Corsi"
+msgstr "Cursos"
+
+# 1e7ec7a2516c48aa90fbd6563a143a77
+#: ../../index.rst:47
+msgid ""
+"Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il "
+"tuo GIS?"
+msgstr ""
+"¿Quiere aprender de modo rápido y eficaz a conocer y gestionar en su "
+"totalidad su SIG?"
+
+# 80549d17aca94c20ba96853e17c8154d
+#: ../../index.rst:49
+msgid ":doc:`More info <training>`"
+msgstr ":doc:`Más información <training>`"
+
+# 2c65bd5329b9402b8ff3cdd828a1c810
+#: ../../index.rst:54
+msgid "Assistenza"
+msgstr "Asistencia"
+
+# 0413ebabaffd4d768717bd48f723e880
+#: ../../index.rst:56
+msgid ""
+"Vuoi la certezza e la tranquillità di un supporto costante per la soluzione "
+"dei tuoi problemi?"
+msgstr ""
+"¿Quiere estar seguro de tener un apoyo constante para resolver sus problemas?"
+
+# a2069a3f48204eed95a4f2d71236ff50
+#: ../../index.rst:58
+msgid ":doc:`More info <support>`"
+msgstr ":doc:`Más información <support>`"
+
+# b29116aece954590a864d9174f6d8416
+#: ../../index.rst:63
+msgid "Sviluppo"
+msgstr "Desarrollo"
+
+# 1e0a20d246044004ba27ccf7bbb05251
+#: ../../index.rst:65
+msgid ""
+"Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro "
+"o di correggere un bug?"
+msgstr ""
+"¿Necesita un nuevo comando, un plugin para agilizar su trabajo o corregir "
+"algún fallo?"
+
+# 2fd4a8b1ef644db38dcea8a1e8a61c03
+#: ../../index.rst:67
+msgid ":doc:`More info <dev>`"
+msgstr ":doc:`Más información <dev>`"
 
 # 27ba75a5c87b4d7fbe43caa345a2a862
 #: ../../index.rst:72

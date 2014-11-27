@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-24 16:12+0100\n"
+"POT-Creation-Date: 2014-11-27 09:33+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,67 +30,13 @@ msgstr "Faunalia"
 msgid "Sistemi informativi territoriali liberi ed open source"
 msgstr "Free and open source Geographic Information Systems"
 
-# 74d5fd586c43466aafb1f532dfbf4ead
-#: ../../index.rst:36
-msgid "Corsi"
-msgstr "Training"
-
-# 1e7ec7a2516c48aa90fbd6563a143a77
-#: ../../index.rst:38
-msgid ""
-"Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il "
-"tuo GIS?"
-msgstr "Need to know, quickly and effectively, how to master your free GIS?"
-
-# 80549d17aca94c20ba96853e17c8154d
-#: ../../index.rst:40
-msgid ":doc:`More info <training>`"
-msgstr ":doc:`More info <training>`"
-
-# 2c65bd5329b9402b8ff3cdd828a1c810
-#: ../../index.rst:45
-msgid "Assistenza"
-msgstr "Support"
-
-# 0413ebabaffd4d768717bd48f723e880
-#: ../../index.rst:47
-msgid ""
-"Vuoi la certezza e la tranquillità di un supporto costante per la soluzione "
-"dei tuoi problemi?"
-msgstr ""
-"Want peace of mind, knowing you can call for help and have your problems "
-"solved?"
-
-# a2069a3f48204eed95a4f2d71236ff50
-#: ../../index.rst:49
-msgid ":doc:`More info <support>`"
-msgstr ":doc:`More info <support>`"
-
-# b29116aece954590a864d9174f6d8416
-#: ../../index.rst:54
-msgid "Sviluppo"
-msgstr "Development"
-
-# 1e0a20d246044004ba27ccf7bbb05251
-#: ../../index.rst:56
-msgid ""
-"Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro "
-"o di correggere un bug?"
-msgstr ""
-"Need a new command, a plugin to speed up your work, a fix of your worst bug?"
-
-# 2fd4a8b1ef644db38dcea8a1e8a61c03
-#: ../../index.rst:58
-msgid ":doc:`More info <dev>`"
-msgstr ":doc:`More info <dev>`"
-
 # c228af7a0dac424691110af07c2cfbe3
-#: ../../index.rst:63
+#: ../../index.rst:36
 msgid "Specialisti di QGIS e Database Geografici PostGIS"
 msgstr "Specialist of QGIS and PostGIS geographic databases"
 
 # 1f54f146a10b4daca7070a3d26ba800f
-#: ../../index.rst:65
+#: ../../index.rst:38
 msgid ""
 "QGIS_ e PostGIS_ mettono a disposizione un grande numero di funzionalità per "
 "visualizzare, gestire, editare e analizzare dati geografici e per creare "
@@ -100,7 +46,7 @@ msgstr ""
 "geographic data, and to create sophisticated cartographic maps."
 
 # ad6688da853a4c0cba4fb82635bc7f5a
-#: ../../index.rst:67
+#: ../../index.rst:40
 msgid ""
 "QGIS_ e PostGIS_ forniscono un modo semplice ed economico per gestire grandi "
 "volumi di dati (ad es. Catasto Urbano, Catasto Rurale, etc.) e per "
@@ -111,6 +57,60 @@ msgstr ""
 "volumes of geodata (e.g. cadastre, land use, etc.) and to publish standard "
 "OpenGeospatialConsortium_ Web Services (WMS, WFS, WCS), as well as full "
 "WebGIS."
+
+# 74d5fd586c43466aafb1f532dfbf4ead
+#: ../../index.rst:45
+msgid "Corsi"
+msgstr "Training"
+
+# 1e7ec7a2516c48aa90fbd6563a143a77
+#: ../../index.rst:47
+msgid ""
+"Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il "
+"tuo GIS?"
+msgstr "Need to know, quickly and effectively, how to master your free GIS?"
+
+# 80549d17aca94c20ba96853e17c8154d
+#: ../../index.rst:49
+msgid ":doc:`More info <training>`"
+msgstr ":doc:`More info <training>`"
+
+# 2c65bd5329b9402b8ff3cdd828a1c810
+#: ../../index.rst:54
+msgid "Assistenza"
+msgstr "Support"
+
+# 0413ebabaffd4d768717bd48f723e880
+#: ../../index.rst:56
+msgid ""
+"Vuoi la certezza e la tranquillità di un supporto costante per la soluzione "
+"dei tuoi problemi?"
+msgstr ""
+"Want peace of mind, knowing you can call for help and have your problems "
+"solved?"
+
+# a2069a3f48204eed95a4f2d71236ff50
+#: ../../index.rst:58
+msgid ":doc:`More info <support>`"
+msgstr ":doc:`More info <support>`"
+
+# b29116aece954590a864d9174f6d8416
+#: ../../index.rst:63
+msgid "Sviluppo"
+msgstr "Development"
+
+# 1e0a20d246044004ba27ccf7bbb05251
+#: ../../index.rst:65
+msgid ""
+"Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro "
+"o di correggere un bug?"
+msgstr ""
+"Need a new command, a plugin to speed up your work, a fix of your worst bug?"
+
+# 2fd4a8b1ef644db38dcea8a1e8a61c03
+#: ../../index.rst:67
+msgid ":doc:`More info <dev>`"
+msgstr ":doc:`More info <dev>`"
 
 # 27ba75a5c87b4d7fbe43caa345a2a862
 #: ../../index.rst:72
