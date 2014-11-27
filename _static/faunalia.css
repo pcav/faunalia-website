@@ -82,7 +82,7 @@ background-color:transparent !important;
 width:100%;
 background: url('../_images/pontedera_qgis.png');
 border:1px solid #E9E9E9;
-margin:300px 0 0 0;
+margin:20px 0 0 0;
 }
 
 .bottomcont h1{
@@ -101,11 +101,11 @@ display:none !important;
 
 .socialstream {
     float: left;
-    width: 50%;
+    width: 570px;
     height: 470px;
     background: #ffffff;
-    border:1px solid #E9E9E9;
-    margin:20px 0 0 0 !important;
+    border:0px solid #E9E9E9;
+    margin:0px 0 0 0 !important;
     font-size:.9em;text-align:center;color:#7C7C7C !important;text-shadow:#FFFFFF 0 2px 0;
 }
 

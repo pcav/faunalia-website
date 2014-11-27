@@ -30,6 +30,15 @@ Faunalia
 
 Sistemi informativi territoriali liberi ed open source
 
+.. cssclass :: bottomcont
+
+Specialisti di QGIS e Database Geografici PostGIS
+============================================================================
+
+QGIS_ e PostGIS_ mettono a disposizione un grande numero di funzionalità per visualizzare, gestire, editare e analizzare dati geografici e per creare stampe con simbologia cartografica avanzata.
+
+QGIS_ e PostGIS_ forniscono un modo semplice ed economico per gestire grandi volumi di dati (ad es. Catasto Urbano, Catasto Rurale, etc.) e per pubblicare servizi standard OpenGeospatialConsortium_ (WMS, WFS, WCS), così come mappe on-line (WebGIS).
+
 .. cssclass :: col-md-4  cor
 
 Corsi
@@ -56,15 +65,6 @@ Sviluppo
 Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro o di correggere un bug?
 
 :doc:`More info <dev>`
-
-.. cssclass :: bottomcont
-
-Specialisti di QGIS e Database Geografici PostGIS
-============================================================================
-
-QGIS_ e PostGIS_ mettono a disposizione un grande numero di funzionalità per visualizzare, gestire, editare e analizzare dati geografici e per creare stampe con simbologia cartografica avanzata.
-
-QGIS_ e PostGIS_ forniscono un modo semplice ed economico per gestire grandi volumi di dati (ad es. Catasto Urbano, Catasto Rurale, etc.) e per pubblicare servizi standard OpenGeospatialConsortium_ (WMS, WFS, WCS), così come mappe on-line (WebGIS).
 
 .. cssclass :: socialstream
 
