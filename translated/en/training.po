@@ -401,7 +401,6 @@ msgstr "Logistic"
 
 # e2c77797de9e472598dc6f4abdcf19db
 #: ../../training.rst:79
-#, fuzzy
 msgid ""
 "**Sede**: Pontedera (PI), presso `Pont-Tech "
 "<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
@@ -429,7 +428,6 @@ msgstr "Cartography with QGIS"
 
 # 80edd07044dc4aebbb245702028598a8
 #: ../../training.rst:87
-#, fuzzy
 msgid ""
 "Per imparare ad installare ed utilizzare QGIS, ad accedere ai dati, "
 "tematizzarli e produrre mappe di alta qualità grafica ed informativa, ad "
