@@ -39,6 +39,8 @@ QGIS_ e PostGIS_ mettono a disposizione un grande numero di funzionalità per vi
 
 QGIS_ e PostGIS_ forniscono un modo semplice ed economico per gestire grandi volumi di dati (ad es. Catasto Urbano, Catasto Rurale, etc.) e per pubblicare servizi standard OpenGeospatialConsortium_ (WMS, WFS, WCS), così come mappe on-line (WebGIS).
 
+`Esempio di WebGIS di Faunalia <http://lizmap.faunalia.eu/index.php/view/map/?repository=faunalia&project=pontedera>`_
+
 .. cssclass :: col-md-4  cor
 
 Corsi
