@@ -33,7 +33,7 @@ msgstr "Systèmes d'information géographique libres et en open source"
 # c228af7a0dac424691110af07c2cfbe3
 #: ../../index.rst:36
 msgid "Specialisti di QGIS e Database Geografici PostGIS"
-msgstr "Spécialistes QGIS et base de données géographiques PostGIS"
+msgstr "Spécialistes de QGIS et de base de données géographiques PostGIS"
 
 # 1f54f146a10b4daca7070a3d26ba800f
 #: ../../index.rst:38
