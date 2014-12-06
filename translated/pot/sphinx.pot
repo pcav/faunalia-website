@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-12-03 19:27+0100\n"
+"POT-Creation-Date: 2014-12-06 19:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,54 +17,67 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../_templates/layout.html:30
+# a3c86707dfd747edaf42fa718181c877
 msgid "Corsi"
 msgstr ""
 
 #: ../../_templates/layout.html:31
+# 51e3cb21c95544278fd74970de2eb5ce
 msgid "Assistenza"
 msgstr ""
 
 #: ../../_templates/layout.html:32
+# 0ab3b6f1d63e4078b207c2fc9b18282f
 msgid "Sviluppo"
 msgstr ""
 
 #: ../../_templates/layout.html:33
+# b928c7242d1a47019e7e40aba0dfa72d
 msgid "Attivit&agrave;"
 msgstr ""
 
 #: ../../_templates/layout.html:34
+# f846a830d4c34b818813641d3e0dad61
 msgid "Chi siamo"
 msgstr ""
 
 #: ../../_templates/layout.html:74
+# c84476fe557c4ffebf824ab0d2861941
 msgid "Italia"
 msgstr ""
 
 #: ../../_templates/layout.html:84
+# a3e445d91a3748dda57b288098c7f32e
 msgid "Portogallo"
 msgstr ""
 
 #: ../../_templates/layout.html:94
+# 29439d4e548c420da057c56fb57ac5a5
 msgid "Seguici"
 msgstr ""
 
 #: ../../_templates/layout.html:112
+# 80edb440a6834d84840bbe69c14b0183
 msgid "&copy; <a href=\"%(path)s\">Copyright</a> %(copyright)s."
 msgstr ""
 
 #: ../../_templates/layout.html:114
+# aca7e14bdf1245bda3c8833985e63bd5
 msgid "&copy; Copyright %(copyright)s."
 msgstr ""
 
 #: ../../_templates/layout.html:118
+# ebbb95fcfb5841b095421e0ca4ffcaec
 msgid "Last updated on %(last_updated)s."
 msgstr ""
 
 #: ../../_templates/layout.html:121
+# 78894180d26541deb159e5de0d3cb304
 msgid "Created using <a href=\"http://sphinx-doc.org/\">Sphinx</a> %(sphinx_version)s."
 msgstr ""
 
 #: ../../_templates/layout.html:126
+# ff54ad7114c543b78759da40ee167fd4
 msgid "Torna su"
 msgstr ""
 
