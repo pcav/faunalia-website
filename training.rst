@@ -51,7 +51,7 @@ Cartografia con QGIS (IT)                25-27 Marzo           15 Febbraio      
 Analisi con QGIS (IT)                    15-17 Aprile          15 Marzo             Pontedera, IT  Italiano
 Geodatabase: PostgreSQL e PostGIS (IT)   6-8 Maggio            15 Aprile            Pontedera, IT  Italiano
 WebMapping con QGIS (IT)                 11-12 Giugno          15 Maggio            Pontedera, IT  Italiano
-Creare plugin in Python per QGIS (IT)    1-3 Luglio            15 Giugno            Pontedera, IT  Italiano
+Creare plugin in Python per QGIS (IT)    1-3 Luglio            1 Giugno             Pontedera, IT  Italiano
 ======================================== ====================  ==================== ============== ===========
 
 Costi
