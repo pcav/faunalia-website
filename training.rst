@@ -44,14 +44,14 @@ Calendario
 ======================================== ====================  ==================== ============== ===========
 Corso                                    Date e durata         Scadenza iscrizione  Dove           Lingua
 ======================================== ====================  ==================== ============== ===========
-Creare plugin in Python per QGIS (PT)    Novembre              A richiesta          Lisbona, PT    Portoghese
-WebMapping con QGIS (PT)                 01-02 Dicembre        20 Novembre          Lisbona, PT    Portoghese
-Geodatabase: PostgreSQL e PostGIS (IT)   03-05 Dicembre        01 Dicembre          Pontedera, IT  Italiano
-Creare plugin in Python per QGIS (IT)    19-21 Gennaio 2015    5 Gennaio            Pontedera, IT  Italiano
-WebMapping con QGIS (IT)                 22-23 Gennaio 2015    07 Gennaio           Pontedera, IT  Italiano
-Geodatabase: PostgreSQL e PostGIS (PT)   02-04 Febbraio 2015   01 Febbraio          Lisbona, PT    Portoghese
-Cartografia con QGIS (IT)                Marzo 2015            15 Febbraio          Pontedera, IT  Italiano
-Analisi con QGIS (IT)                    Aprile 2015           15 Marzo             Pontedera, IT  Italiano
+Creare plugin in Python per QGIS (IT)    19-21 Gennaio         5 Gennaio            Pontedera, IT  Italiano
+WebMapping con QGIS (IT)                 22-23 Gennaio         7 Gennaio            Pontedera, IT  Italiano
+Geodatabase: PostgreSQL e PostGIS (PT)   2-4 Febbraio          1 Febbraio           Lisbona, PT    Inglese
+Cartografia con QGIS (IT)                25-27 Marzo           15 Febbraio          Pontedera, IT  Italiano
+Analisi con QGIS (IT)                    15-17 Aprile          15 Marzo             Pontedera, IT  Italiano
+Geodatabase: PostgreSQL e PostGIS (IT)   6-8 Maggio            15 Aprile            Pontedera, IT  Italiano
+WebMapping con QGIS (IT)                 11-12 Giugno          15 Maggio            Pontedera, IT  Italiano
+Creare plugin in Python per QGIS (IT)    1-3 Luglio            15 Giugno            Pontedera, IT  Italiano
 ======================================== ====================  ==================== ============== ===========
 
 Costi
