@@ -44,8 +44,6 @@ Calendario
 ======================================== ====================  ==================== ============== ===========
 Corso                                    Date e durata         Scadenza iscrizione  Dove           Lingua
 ======================================== ====================  ==================== ============== ===========
-Creare plugin in Python per QGIS (IT)    19-21 Gennaio         5 Gennaio            Pontedera, IT  Italiano
-WebMapping con QGIS (IT)                 22-23 Gennaio         7 Gennaio            Pontedera, IT  Italiano
 Geodatabase: PostgreSQL e PostGIS (PT)   2-4 Febbraio          1 Febbraio           Lisbona, PT    Inglese
 Cartografia con QGIS (IT)                25-27 Marzo           15 Febbraio          Pontedera, IT  Italiano
 Analisi con QGIS (IT)                    15-17 Aprile          15 Marzo             Pontedera, IT  Italiano
