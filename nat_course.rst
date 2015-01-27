@@ -29,6 +29,10 @@ The program will be focused on practical applications of GIS for naturalists; yo
 * georeferencing and displaying photos
 * ecology and nature plugins: a wealth of resources
 * analysing data: raster, vector, tables
+* home ranges and movements
+* using the full power: GRASS, R, SAGA, OTB
+* easily creating models (e.g. habitat suitability) and batch analyses
+* remote sensing and land use analyses
 * preparing beautiful maps
 * mass production of maps (e.g. for distribution areas)
 * show your data: simple webGIS.
