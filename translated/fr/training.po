@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-26 12:04+0100\n"
+"POT-Creation-Date: 2015-01-27 09:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -194,10 +194,11 @@ msgstr "Anglais"
 msgid "Cartografia con QGIS (IT)"
 msgstr "Cartographie avec QGIS (IT)"
 
-# 5b9b45b66a3e4c648de8b6c852acf4eb
+# 53d00af130964089957a33ca9154d0b3
 #: ../../training.rst:48
-msgid "25-27 Marzo"
-msgstr "25-27 Mars"
+#, fuzzy
+msgid "18-20 Marzo"
+msgstr "10-12 Mars"
 
 # 5f579eacdfe14ef58b3777e851296a6b
 #: ../../training.rst:48
@@ -1092,6 +1093,10 @@ msgstr "Critères d'optimisation"
 msgid "Due giorni *full time*"
 msgstr "Deux jours à plein temps"
 
+# 5b9b45b66a3e4c648de8b6c852acf4eb
+#~ msgid "25-27 Marzo"
+#~ msgstr "25-27 Mars"
+
 # b28a9fbcf9964ba28a693bb9feccab9b
 #~ msgid "19-21 Gennaio"
 #~ msgstr "19-21 Janvier"
@@ -1318,10 +1323,6 @@ msgstr "Deux jours à plein temps"
 # 3d3d613c57f54cc694e2872191f90b33
 #~ msgid "Cartografia com QGIS (PT)"
 #~ msgstr "Cartographie avec QGIS (PT)"
-
-# 53d00af130964089957a33ca9154d0b3
-#~ msgid "10-12 Marzo"
-#~ msgstr "10-12 Mars"
 
 # 2837589f472d43e6b2fcc68aa9118522
 #~ msgid "3 Gennaio"
