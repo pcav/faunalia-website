@@ -10,7 +10,7 @@
 New course: QGIS for naturalists
 -----------------------------------
 
-An in-depth course on free and open source GIS, focused on the popular `QGIS <http://qgis.org>`_ software and its application in natural sciences (ornithology, mammalogy, ecology), in one of the most scenic environments in Italy, the `Maremma Natural Park <http://www.parco-maremma.it/en_html>`_. You'll master the software, at the same time enjoying beautiful lanscapes, and birdwatching at will.
+An in-depth course on free and open source GIS, focused on the popular `QGIS <http://qgis.org>`_ software and its application in natural sciences (ornithology, mammalogy, ecology), in one of the most scenic environments in Italy, the `Maremma Natural Park <http://www.parco-maremma.it/en_html>`_. You'll master the software, at the same time enjoying beautiful landscapes, and birdwatching at will.
 
 Every day you'll enjoy an alternance of GIS training and excursions in the Park. Every moment will be good to discuss practical applications of GIS.
 
@@ -22,11 +22,11 @@ Course contents
 The program will be focused on practical applications of GIS for naturalists; you are encouraged to bring your own data to analyse real cases. Topics will include:
 
 * how to start: installation, configuration, customization
-* get the data: raster, vectors, web services, catalogs
+* get the data: handling the many formats; raster, vectors, web services, catalogs
 * dealing with projections: how to fit your data in
 * working in the field: the options
 * working with GPS
-* georeferencing and displaying photos
+* georeferencing and displaying images and photos
 * ecology and nature plugins: a wealth of resources
 * analysing data: raster, vector, tables
 * home ranges and movements
@@ -37,7 +37,7 @@ The program will be focused on practical applications of GIS for naturalists; yo
 * mass production of maps (e.g. for distribution areas)
 * show your data: simple webGIS.
 
-Total duration of the training: 24 h of lessons + practical examples througout the day.
+Total duration of the training: 24 h of lessons + practical examples throughout the day.
 
 * bring your laptop; all the necessary software will be installed during the course
 * participants will get a certificate of attendance.
