@@ -52,6 +52,8 @@ WebMapping con QGIS (IT)                 11-12 Giugno          15 Maggio        
 Creare plugin in Python per QGIS (IT)    1-3 Luglio            1 Giugno             Pontedera, IT  Italiano
 ======================================== ====================  ==================== ============== ===========
 
+**New course**: `Nature GIS <nat_course.html>`_ - a GIS course for naturalists, ornithologist, etc. in a splendid natural setting in Tuscany.
+
 Costi
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
