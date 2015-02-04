@@ -44,7 +44,6 @@ Calendario
 ======================================== ====================  ==================== ============== ===========
 Corso                                    Date e durata         Scadenza iscrizione  Dove           Lingua
 ======================================== ====================  ==================== ============== ===========
-Geodatabase: PostgreSQL e PostGIS (PT)   2-4 Febbraio          1 Febbraio           Lisbona, PT    Inglese
 Cartografia con QGIS (IT)                18-20 Marzo           15 Febbraio          Pontedera, IT  Italiano
 Analisi con QGIS (IT)                    15-17 Aprile          15 Marzo             Pontedera, IT  Italiano
 Geodatabase: PostgreSQL e PostGIS (IT)   6-8 Maggio            15 Aprile            Pontedera, IT  Italiano
