@@ -36,6 +36,11 @@ Perché scegliere i corsi di Faunalia?
 * Contribuiscono al miglioramento dei software utilizzati, destinando al loro sviluppo parte delle quote di iscrizione
 * Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS <http://www.aica.it/aica/ecdl-gis/area-esaminatori/esaminatori-1/c>`_.
 
+New course
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+`Nature GIS <nat_course.html>`_ - a GIS course for naturalists, ornithologist, botanists, etc. in a splendid natural setting in Tuscany.
+
 Calendario
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -51,8 +56,6 @@ Geodatabase: PostgreSQL e PostGIS (IT)   6-8 Maggio            15 Aprile        
 WebMapping con QGIS (IT)                 11-12 Giugno          15 Maggio            Pontedera, IT  Italiano
 Creare plugin in Python per QGIS (IT)    1-3 Luglio            1 Giugno             Pontedera, IT  Italiano
 ======================================== ====================  ==================== ============== ===========
-
-**New course**: `Nature GIS <nat_course.html>`_ - a GIS course for naturalists, ornithologist, etc. in a splendid natural setting in Tuscany.
 
 Costi
 +++++++++++++++++++++++++++++++++++++++++++++++++++
