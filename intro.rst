@@ -1,6 +1,6 @@
 .. meta::
    :description: Faunalia team
-   :keywords: Open Source, Free Software, Software libero, Software Livre, Software Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, Paolo Cavallini, Renzo Cavallini, Giovanni Manghi, Vania Neves
+   :keywords: Open Source, Free Software, Software libero, Software Livre, Software Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, Paolo Cavallini, Renzo Cavallini
 
 .. toctree::
     :hidden:
