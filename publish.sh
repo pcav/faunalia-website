@@ -23,6 +23,12 @@ pocount --incomplete --short-strings translated/*/*.po
 
 read -p "Are you sure you want to publish the website anyway? [y/n]" choice2
 case "$choice2" in 
-  y|Y ) echo "Publishing website";make html;;
+  y|Y ) echo "Publishing website";make html&&cp -R build/html/* test/;;
   * ) echo "Messages compiled, site not published";;
+esac
+
+read -p "Site published in http://test.faunalia.eu, please check. Should I publish it? [y/n]" choice2
+case "$choice2" in 
+  y|Y ) echo "Publishing website";cp -R build/html/* stable/;;
+  * ) echo "Test site published, stable not";;
 esac
