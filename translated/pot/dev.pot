@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 18:33+0100\n"
+"POT-Creation-Date: 2015-02-13 13:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,57 +17,57 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../dev.rst:15
-# cdb17184ec5a449bbd51df836b514f00
+# ac9b2671619b4be2a9b9c3f1149282a2
 msgid "Sviluppo"
 msgstr ""
 
 #: ../../dev.rst:17
-# eb70fcdaf2d44290a5db750577b8b7ba
+# 5cf2c5f4c57540acbb9a7dab418e10a1
 msgid "Faunalia fornisce:"
 msgstr ""
 
 #: ../../dev.rst:19
-# 0b55f4420288490c90c801fefd8712e3
+# b0f7d0a0ff4547a8aa73581a700eb961
 msgid "Sviluppo di plugin per QGIS_ (*core*: GDALTools, DB Manager; *custom*: `lista dei plugins sviluppati <http://plugins.qgis.org/search/?q=faunalia>`_)"
 msgstr ""
 
 #: ../../dev.rst:20
-# a17e0473c9774cb8b47a57152cacf6c2
+# 06b2487cb6564a83b9f50e22b78eb264
 msgid "Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
 
 #: ../../dev.rst:21
-# 236ddfeb6f27420eb6b6329b91317dd8
+# 52bb5a7b79fb4109ab4ffe552b95f66a
 msgid "Riparazione dei malfunzionamenti per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
 
 #: ../../dev.rst:22
-# cf279a977da243f89502d9270a3307f1
+# d619549dd9704d659e4fd5f0bb30117c
 msgid "Sviluppo di applicazioni webGIS ad hoc"
 msgstr ""
 
 #: ../../dev.rst:24
-# c31771b7f48647758ef5a22b2bb9568a
+# f06c3889490f41df9369622443d3b4e5
 msgid "Garantiamo che tutto il codice sviluppato:"
 msgstr ""
 
 #: ../../dev.rst:26
-# 564f773a3d1d4f1ba452323e48dbcde5
+# c6aa53b386814ed69602f5112d9e1b76
 msgid "è pubblicato con licenza libera ed open source"
 msgstr ""
 
 #: ../../dev.rst:27
-# 9d6e917f8fab42bba64fab88853cd004
+# 73dc792762ec467e904853c955348a99
 msgid "viene incluso nel codice sorgente ufficiale dei rispettivi progetti"
 msgstr ""
 
 #: ../../dev.rst:29
-# 25606de95b384b3c8c7a330d8206b28f
+# d9a69aec09054012bd92dcadb115cce5
 msgid "In questo modo sarete certi della sua fruibilità e facilità di manutenzione anche nel futuro."
 msgstr ""
 
 #: ../../dev.rst:31
-# e16ad7e93fd74e6489b7405e318b7814
+# 531639fc4d7444a8b243efbbfd230f51
 msgid "Faunalia ha sviluppato direttamente, già da molti anni, funzioni per tutti i software sopra elencati e fra i nostri collaboratori annoveriamo molti dei più importanti sviluppatori di questi progetti."
 msgstr ""
 

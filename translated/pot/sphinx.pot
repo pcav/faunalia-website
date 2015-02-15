@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-01 18:33+0100\n"
+"POT-Creation-Date: 2015-02-13 13:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,67 +17,67 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../_templates/layout.html:30
-# 71a5e439896c469bbf7d45c2185e240f
+# 41c9a632d95943149c1d19d1ce671add
 msgid "Corsi"
 msgstr ""
 
 #: ../../_templates/layout.html:31
-# 0c280552e9c849a788e0c15f3aee64a0
+# a1149b6ca5e14f01b8b0c76d814ff266
 msgid "Assistenza"
 msgstr ""
 
 #: ../../_templates/layout.html:32
-# 7898f1b143ea4130bed1722fc2ce5c52
+# 0696dd94d7044754acb18670611db996
 msgid "Sviluppo"
 msgstr ""
 
 #: ../../_templates/layout.html:33
-# 04ed072dfca941abb78a53523c22d069
+# 340715c0cda94f56bae4b4e5a4e99358
 msgid "Attivit&agrave;"
 msgstr ""
 
 #: ../../_templates/layout.html:34
-# 7ae677274c1946f795689b65ee37754e
+# 947e6614d293412e892ef3667105447f
 msgid "Chi siamo"
 msgstr ""
 
 #: ../../_templates/layout.html:74
-# fa6e2c506c54434ea90e5150aff23601
+# 18c14d4030d44a1999708acf11cbf770
 msgid "Italia"
 msgstr ""
 
 #: ../../_templates/layout.html:84
-# 3731723bce384ad381d60e28723ca6bb
+# 9f48be063bd34b408440f2c5ce70a924
 msgid "Portogallo"
 msgstr ""
 
 #: ../../_templates/layout.html:94
-# 3f210edce67141faa18600d0ac5a5b1f
+# 0c8ba3c520c6497f9f0ee70920a95b76
 msgid "Seguici"
 msgstr ""
 
 #: ../../_templates/layout.html:112
-# 367707ef9a6947d3a62fb06d77526556
+# 1431147a070d45ed8c24195340767a8a
 msgid "&copy; <a href=\"%(path)s\">Copyright</a> %(copyright)s."
 msgstr ""
 
 #: ../../_templates/layout.html:114
-# f2982d71ef6249e8bc7edc781051f715
+# b7cce1c0ba6a4438b98ee18dc6188a0a
 msgid "&copy; Copyright %(copyright)s."
 msgstr ""
 
 #: ../../_templates/layout.html:118
-# a49d871692514aa9b275e342cc1fddcb
+# 6b30148a828d4e928b8fc97d5a52fccd
 msgid "Last updated on %(last_updated)s."
 msgstr ""
 
 #: ../../_templates/layout.html:121
-# 087fcd303fbf47bfb8d14a464c324276
+# fc18f525e5fd498ba1e250971e199b6e
 msgid "Created using <a href=\"http://sphinx-doc.org/\">Sphinx</a> %(sphinx_version)s."
 msgstr ""
 
 #: ../../_templates/layout.html:126
-# a8738c64e7a145dbb1fc954e21a9979a
+# b8399ca4dd784db0b771467f12b46568
 msgid "Torna su"
 msgstr ""
 
