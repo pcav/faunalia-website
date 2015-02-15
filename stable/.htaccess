@@ -1,0 +1,17 @@
+#AuthType Basic
+#AuthName "Faunalia new site"
+#AuthUserFile /var/www/www.faunalia.eu/.htpasswd
+#Require user pippo
+#AddHandler application/x-httpd-php5 .html
+AddType application/x-httpd-php .html
+Options +Indexes
+#for compatibility with the old blog
+Redirect /content/comparison-som-classification-and-unsupervised-kmeans-image-classification-sextante http://faunaliagis.wordpress.com/2013/08/15/comparison-of-som-classification-and-unsupervised-kmeans-image-classification-in-sextante/
+Redirect /content/detecting-tree-canopies-unsupervised-classification-sextante http://faunaliagis.wordpress.com/2013/08/15/detecting-tree-canopies-with-unsupervised-classification-in-sextante/
+Redirect /content/adding-ecw-support-quantum-gis http://faunaliagis.wordpress.com/2013/08/15/adding-ecw-support-in-qgis/
+Redirect /content/creating-simple-habitat-selection-model-common-buzzard-using-data-sobibor-forest-district http://faunaliagis.wordpress.com/2013/08/15/creating-a-simple-habitat-selection-model-in-qgissextante/
+Redirect /content/simple-operations-sextante http://faunaliagis.wordpress.com/2013/08/15/simple-operations-with-sextante/
+Redirect /content/more-new-great-quantum-gis-features-new-rasters-color-ramps-wcs-client-and-raster-save http://faunaliagis.wordpress.com/2013/08/15/more-new-great-qgis-features-new-rasters-color-ramps-wcs-client-and-raster-save-as-option/
+Redirect /content/geoprocess-geometries-within-your-database-spatialite-example http://faunaliagis.wordpress.com/2013/08/15/geoprocess-geometries-within-your-database-the-spatialite-example/
+Redirect /content/bad-bad-polygon-fixing-it-quantum-gis-1 http://faunaliagis.wordpress.com/2013/08/14/bad-bad-polygon-fixing-invalid-geometries-with-quantum-gis/
+Redirect /content/transfer-3d-shapefiles-z-values-table-attributes http://faunaliagis.wordpress.com/2013/08/14/transfer-3d-shapefiles-z-values-to-the-table-of-attributes/
