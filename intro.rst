@@ -5,15 +5,9 @@
 .. toctree::
     :hidden:
 
-    cv_gm_en
-    cv_gm_it
-    cv_gm_pt
     cv_pc_en
     cv_pc_it
     cv_pc_pt
-    cv_vn_en
-    cv_vn_it
-    cv_vn_pt
 
 Chi siamo
 ------------------------------------------------------------
@@ -52,12 +46,9 @@ Infine teniamo corsi di formazione teorico-pratica, sia standard, sia personaliz
 
 Team
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-L'attività di Faunalia si basa su una fitta rete internazionale di collaboratori. Il *core team* è composto da:
+L'attività di Faunalia si basa su una fitta rete internazionale di collaboratori, coordinato da Paolo Cavallini. 
 
-.. |it| image:: images/italy.png
-.. |pt| image:: images/portugal.png
-
-Paolo Cavallini |it| |pt|
+Paolo Cavallini
 ...............................................................................
 
 .. image:: images/pc.jpg
@@ -83,7 +74,7 @@ Paolo Cavallini |it| |pt|
 
 	<a href="https://www.ohloh.net/accounts/20905?ref=Tiny"><img src="https://www.ohloh.net/accounts/20905/widgets/account_tiny.gif" border="0" alt="Ohloh" /></a>
 
-Renzo Cavallini |it|
+Renzo Cavallini
 ...............................................................................
 
 .. image:: images/rc.jpg
@@ -100,39 +91,3 @@ Renzo Cavallini |it|
   * installazione e messa a punto di apparecchiature di laboratorio e di sistemi di acquisizione automatica; calibrazione di trasduttori elettrici
 
 * *e-mail*: renzo.cavallini@faunalia.it
-
-Giovanni Manghi |pt|
-...............................................................................
-
-.. image:: images/gm.jpg
-   :align: left
-
-* Fondatore di Faunalia Portogallo
-* Biologo specializzato in Conservation Biology
-* Socio e *charter member* della fondazione internazionale `OSGeo - Open Source Geospatial Foundation <http://www.osgeo.org/>`_
-* Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and Open-Source Software Association <http://osgeopt.pt/>`_
-* Membro di `IUCN - The World Conservation Union - *IUCN Small Carnivore Specialist Group* <http://www.iucn.org/>`_
-* Oltre 7 anni di esperienza sui GIS liberi
-* `Curriculum Vitae (html) <cv_gm_it.html>`__
-* `Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`__ - `europeo (pdf) <pdf/Manghi_CV_eu.pdf>`__
-* *e-mail*: giovanni.manghi@faunalia.pt
-* *Tel/Viber/Line*: +351967058216
-* *Skype*: toirao
-* *Hangout*: giovanni.manghi@gmail.com
-
-Vânia Neves |pt|
-...............................................................................
-
-.. image:: images/vn.jpg
-   :align: left
-
-* Fondatrice di Faunalia Portogallo
-* Biologa specializzata in Conservation Biology
-* Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and Open-Source Software Association <http://osgeopt.pt/>`_
-* Oltre 7 anni di esperienza sui GIS liberi
-* `Curriculum Vitae (html) <cv_vn_it.html>`__
-* `Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`__ - `europeo (pdf) <pdf/Neves_CV_eu.pdf>`__
-* *e-mail*: vania.neves@faunalia.pt
-* *Tel/Viber/Line*: +351939320104
-* *Skype*: vaniavanilla
-* *Hangout*: vbneves@gmail.com
