@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-13 13:47+0100\n"
+"POT-Creation-Date: 2015-02-17 11:08+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../cv_pc_pt.rst:2
-# d6fef2bf7862455bb300df50a82d3235
+# ab98f136040d45db9c436a75e55e52d2
 msgid "Paolo Cavallini"
 msgstr ""
 
