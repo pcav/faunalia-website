@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-17 11:08+0100\n"
+"POT-Creation-Date: 2015-02-19 08:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,12 +27,12 @@ msgstr "L'entreprise"
 
 # 6fe80d00aacf473c8a223b255f816098
 #: ../../intro.rst:15
+#, fuzzy
 msgid ""
 "Faunalia è una società che opera da più di 10 anni nell’ambito dei GIS, i "
 "sistemi informativi territoriali, con software libero e open source. I "
 "nostri clienti sono pubbliche amministrazioni, aziende private, "
-"associazioni. Faunalia ha uffici in Italia, a Pontedera (Pisa), e in "
-"Portogallo, a Évora, e opera in tutto il mondo."
+"associazioni. Faunalia ha sede in Italia e opera in tutto il mondo."
 msgstr ""
 "Faunalia est une entreprise qui opère depuis plus de 10 ans dans le domaine "
 "des SIG, systèmes d'information géographique, avec logiciels libres et en "

@@ -12,7 +12,7 @@
 Chi siamo
 ------------------------------------------------------------
 
-Faunalia è una società che opera da più di 10 anni nell’ambito dei GIS, i sistemi informativi territoriali, con software libero e open source. I nostri clienti sono pubbliche amministrazioni, aziende private, associazioni. Faunalia ha uffici in Italia, a Pontedera (Pisa), e in Portogallo, a Évora, e opera in tutto il mondo.
+Faunalia è una società che opera da più di 10 anni nell’ambito dei GIS, i sistemi informativi territoriali, con software libero e open source. I nostri clienti sono pubbliche amministrazioni, aziende private, associazioni. Faunalia ha sede in Italia e opera in tutto il mondo.
 
 La nostra visione
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

@@ -92,7 +92,7 @@ Not included: lunches, drinks for the dinners, transportations to Grosseto Railw
 Trainer
 ++++++++++++
 
-**Paolo Cavallini**, PhD, zoologist, part of QGIS core team. He published several scientific papers on international journals, knows intimately the Maremma, and has the highest experience of QGIS teaching throughout the world (more than 130 courses and workshops). `See the details <intro.html#paolo-cavallini-it-pt>`_.
+**Paolo Cavallini**, PhD, zoologist, part of QGIS core team. He published several scientific papers on international journals, knows intimately the Maremma, and has the highest experience of QGIS teaching throughout the world (more than 130 courses and workshops). `See the details <intro.html#paolo-cavallini>`_.
 
 Subscription
 +++++++++++++++++
