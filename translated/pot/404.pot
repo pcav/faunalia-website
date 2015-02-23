@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-19 08:30+0100\n"
+"POT-Creation-Date: 2015-02-19 16:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,62 +17,77 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../404.rst:2
+# 6221a0f29681493482cf7492824732cc
 msgid "[EN] Page not found"
 msgstr ""
 
 #: ../../404.rst:4
+# abb536b0fbac473fbd201c597e4a5546
 msgid "The page you search was not found on this site."
 msgstr ""
 
 #: ../../404.rst:6
+# 76b43a0ec9884d30aa275dc56dd86baf
 msgid "We have rewritten our website, and most pages have changed name. Please search the information you need, using the menus above."
 msgstr ""
 
 #: ../../404.rst:10
+# c3760c7fec394211b72ece9e684cbd12
 msgid "[IT] Pagina non trovata"
 msgstr ""
 
 #: ../../404.rst:12
+# 6a860b28f3934b78bc5cfd335325b15c
 msgid "La pagina che cerchi non è presente su questo sito."
 msgstr ""
 
 #: ../../404.rst:14
+# 9fdcc76018064b2784854df4b24e543a
 msgid "Abbiamo ristrutturato il sito e molte pagine hanno cambiato nome. Riprova per cortesia utilizzando per la ricerca i menu della home page."
 msgstr ""
 
 #: ../../404.rst:18
+# 6bf74a5ea3504d27b27114f82c9bdb7b
 msgid "[PT] Página não encontrada"
 msgstr ""
 
 #: ../../404.rst:20
+# 3d148b8e18654f20a62bb4cfb3e4134a
 msgid "A página procurada não existe neste site."
 msgstr ""
 
 #: ../../404.rst:22
+# 2354ed9caedd4166954a26a06553c495
 msgid "O site foi restructurado e muitas páginas foram renomeadas. Por favor tente novamente utilizando o menus da home page e o pesquisador."
 msgstr ""
 
 #: ../../404.rst:25
+# d6c14ddc9bd842b6a572baf688400ed0
 msgid "[FR] Page non trouvée"
 msgstr ""
 
 #: ../../404.rst:27
+# 96157aa7de134e70a1d261eabd5c28dc
 msgid "La page que vous recherchez n'est pas présente sur ce site."
 msgstr ""
 
 #: ../../404.rst:29
+# ae054be245774aa9b6060ec452683168
 msgid "Nous avons réécrit notre site, et la plupart des pages ont changé de nom. S'il vous plaît recherchez les informations dont vous avez besoin, en utilisant les menus ci-dessus."
 msgstr ""
 
 #: ../../404.rst:33
+# dceee14f4e7d4c1ebbe0dbd4b506b15a
 msgid "[ES] Página no encontrada"
 msgstr ""
 
 #: ../../404.rst:34
+# 3ccdfa77f01444779b4bc129d714ffbb
 msgid "La página que busca no está presente en este site."
 msgstr ""
 
 #: ../../404.rst:36
+# 3ad1307b1c104a70ba6c7e6434b65634
 msgid "Hemos reconstruído la web y muchas páginas han cambiado de nombre. Pruebe de nuevo usando para la búsqueda el menu de la página principal."
 msgstr ""
 
