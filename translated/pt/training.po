@@ -345,10 +345,10 @@ msgstr ""
 "**Pagamentos**: o valor global do curso deverá ser pago até ao início do "
 "mesmo. Os pagamentos (pré-inscrição e restante valor) podem ser efectuados "
 "por cheque enviado para a sede da Faunalia ou transferência bancária para o "
-"NIB **0035 0114 00010687630 40 (CGD)** ou **0010 0000 50993460001 46 "
-"(BPI)**, indicando como descritivo o primeiro e último nome do formando, ou "
-"da entidade a quem emitir recibo. Solicita-se ainda o envio de confirmação "
-"para **info@faunalia.pt**"
+"NIB **0035 0114 00010687630 40 (CGD)** ou **0010 0000 50993460001 46 (BPI)"
+"**, indicando como descritivo o primeiro e último nome do formando, ou da "
+"entidade a quem emitir recibo. Solicita-se ainda o envio de confirmação para "
+"**info@faunalia.pt**"
 
 # ba650497b3c44258a03e96c3d9dbd556
 #: ../../training.rst:75

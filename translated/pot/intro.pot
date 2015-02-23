@@ -8,7 +8,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
+<<<<<<< HEAD
 "POT-Creation-Date: 2015-02-19 18:59+0100\n"
+=======
+"POT-Creation-Date: 2015-02-19 16:48+0100\n"
+>>>>>>> 25fc9699ad5f78087a514dda4766cd2d04581d31
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,178 +21,222 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../intro.rst:13
+# 71cee5d9e31b4c2ca7a8c389d2459704
 msgid "Chi siamo"
 msgstr ""
 
 #: ../../intro.rst:15
+# 0d07840aa3754089bf8068fbe0fc4a20
 msgid "Faunalia è una società che opera da più di 10 anni nell’ambito dei GIS, i sistemi informativi territoriali, con software libero e open source. I nostri clienti sono pubbliche amministrazioni, aziende private, associazioni. Faunalia ha sede in Italia e opera in tutto il mondo."
 msgstr ""
 
 #: ../../intro.rst:18
+# e9fd6d753a634c589fe3bd35c5cf780b
 msgid "La nostra visione"
 msgstr ""
 
 #: ../../intro.rst:20
+# 1fa066ae088f44e08b3ae9730a3bb317
 msgid "Le nostre attività si basano sulla convinzione che il software libero e open source sia la scelta migliore e più efficace, in particolare in relazione ai GIS. Utilizzare un GIS open source e libero offre numerosi vantaggi rispetto alle alternative proprietarie presenti sul mercato, sia per il cliente, sia per lo sviluppo sociale complessivo. Consente innanzitutto un controllo pieno e trasparente del software utilizzato e quindi una totale indipendenza del cliente rispetto ai fornitori. Da un punto di vista tecnico, i GIS open source consentono la massima flessibilità e personalizzazione delle soluzioni sviluppate e un costante aggiornamento del software, garantito dal lavoro di una rete di sviluppatori internazionale. Inoltre, rispetto ai sistemi proprietari, assicurano la massima persistenza dei dati geografici nel tempo e, grazie all’impiego di standard aperti, un’alta interoperabilità tra sistemi informativi."
 msgstr ""
 
 #: ../../intro.rst:24
+# 32948f4c6d8a4fc6b74a1d8f5798af9c
 msgid "I software GIS liberi hanno un costo complessivo più basso dei software proprietari e l’assenza di costi di licenza d’uso rimuove una barriera importante all’ingresso che favorisce una adozione maggiore, presso una più ampia varietà di utilizzatori e sempre legale. Utilizzare GIS open source significa incentivare il lavoro di sviluppatori locali, arricchendo il territorio, incrementando le competenze a livello nazionale, favorendo una maggiore competizione e quindi offrendo maggiori tutele per il cliente rispetto ad offerte di tipo monopolistico."
 msgstr ""
 
 #: ../../intro.rst:28
+# 06dc66db21294f7fa665735bf70a3b36
 msgid "I nostri valori"
 msgstr ""
 
 #: ../../intro.rst:29
+# 673e4c7d886348249325368d9ac24959
 msgid "Le attività di Faunalia si basano su valori per noi fondamentali:"
 msgstr ""
 
 #: ../../intro.rst:31
+# a6a81ad0bb20468f8f8fa87d42db0314
 msgid "**onestà**: è fondamentale nella relazione con il cliente per il rispetto dei reciproci ruoli e per la costruzione di un rapporto di fiducia e di reciproca soddisfazione"
 msgstr ""
 
 #: ../../intro.rst:32
+# d0361b8c4e0e4da8bc889507aa2c7e5c
 msgid "**centralità del cliente**: le esigenze del cliente sono il criterio guida delle nostre attività, non soltanto per perseguirne la completa soddisfazione, ma per renderlo pienamente in possesso delle soluzioni sviluppate e del know-how per il suo utilizzo, evitando di instaurare una dipendenza dal fornitore"
 msgstr ""
 
 #: ../../intro.rst:33
+# 5b7e0776432c44dbb4952a4436ac5f9b
 msgid "**qualità**: garantiamo standard di qualità alti, anche mediante il nostro continuo aggiornamento teorico e pratico sui GIS e la collaborazione con i migliori sviluppatori nazionali e internazionali."
 msgstr ""
 
 #: ../../intro.rst:35
+# 9f734321fe394c0bb0a40b25bd86d298
 msgid "Faunalia è inoltre particolarmente impegnata a diminuire il più possibile l'impatto delle proprie attività sull'ambiente, quindi: riduciamo i nostri spostamenti, privilegiando il lavoro da remoto; utilizziamo, in modo accorto, l’energia elettrica proveniente da fonti rinnovabili certificate; adottiamo cicli di utilizzo dell'hardware più lunghi di quelli standard, e favoriamo il riutilizzo delle singole componenti e il trashware."
 msgstr ""
 
 #: ../../intro.rst:38
+# b37f05b586cb4535b9d8584dd2b0632a
 msgid "I servizi"
 msgstr ""
 
 #: ../../intro.rst:39
+# 0a61e52700bc40e4af7fbef4d65f9416
 msgid "La nostra offerta di servizi è riassumibile in tre aree principali\\: :doc:`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione <training>`."
 msgstr ""
 
 #: ../../intro.rst:41
+# e6df1ae8e2aa4d0e9238860fade06b92
 msgid "Faunalia lavora direttamente allo sviluppo del software che utilizza e offre sul mercato, collaborando con i migliori sviluppatori GIS a livello internazionale. Negli anni, abbiamo contribuito allo sviluppo di vari strumenti, fra cui QGIS, GRASS, PostGIS, GDAL/OGR."
 msgstr ""
 
 #: ../../intro.rst:43
+# c463d3c3706c438da4583477521521bb
 msgid "Oltre allo sviluppo software, offriamo, a costi competitivi, attività di intervento rapido e di assistenza continuativa su tutte le problematiche relative ai GIS."
 msgstr ""
 
 #: ../../intro.rst:45
+# e866fbe0591f4de3a1113b6e71b046b6
 msgid "Infine teniamo corsi di formazione teorico-pratica, sia standard, sia personalizzati, presso le nostre sedi e presso i nostri clienti."
 msgstr ""
 
 #: ../../intro.rst:48
+# ad18400d907b4d19b0771bd428e5d9f9
 msgid "Team"
 msgstr ""
 
 #: ../../intro.rst:49
+# c63756e83e69465594b8d2b2724ff3d3
 msgid "L'attività di Faunalia si basa su una fitta rete internazionale di collaboratori, coordinato da Paolo Cavallini."
 msgstr ""
 
 #: ../../intro.rst:52
+# 701e8da0b57f454eb1de7c4a984eafa9
 msgid "Paolo Cavallini"
 msgstr ""
 
 #: ../../intro.rst:57
+# 0a49362e94ea49bda14d91818e5e2bc2
 msgid "Fondatore di Faunalia"
 msgstr ""
 
 #: ../../intro.rst:58
+# 73f60f89842148e3a23f420b050ca7cc
 msgid "Membro del *QGIS Project Steering Commitee* col ruolo di *Financial/Marketing Advisor*"
 msgstr ""
 
 #: ../../intro.rst:59
+# bec607af482947fcb19ad387c3ecba86
 msgid "Socio fondatore di ed ex presidente di `GFOSS.it - Italian Geographic Free and Open-Source Software Association <http://www.gfoss.it/drupal/>`_"
 msgstr ""
 
 #: ../../intro.rst:60
+# d9bf158c96c743b8ac9bc88f0b2eab75
 msgid "Socio e *charter member* della fondazione internazionale `OSGeo - Open Source Geospatial Foundation <http://www.osgeo.org/>`_"
 msgstr ""
 
 #: ../../intro.rst:61
+# dd6aed9e431943838ae4cb3652308955
 msgid "Socio fondatore di `ITPUG - ITalian PostgreSQL User Group <http://www.itpug.org>`_"
 msgstr ""
 
 #: ../../intro.rst:62
+# 37b8d16355ed43f7bad39d734ab1bd99
 msgid "Membro di `IUCN - The World Conservation Union - Species Survival Commission <http://www.iucn.org/>`_, ex Presidente dello *IUCN Small Carnivore Specialist Group* e membro dello *IUCN - European Sustainable Use Specialist Group*"
 msgstr ""
 
 #: ../../intro.rst:63
+# 3774e7eabd6f4efa8bcbe44be0d65d1f
 msgid "Oltre 10 anni di esperienza sui GIS liberi"
 msgstr ""
 
 #: ../../intro.rst:64
+# 37dbd6901f56497e8392e0bc691750d6
 msgid "Dottore di ricerca"
 msgstr ""
 
 #: ../../intro.rst:65
+# 47d5dcf1002c433db9bbe579bc4425a1
 msgid "`Curriculum Vitae (html) <cv_pc_it.html>`__"
 msgstr ""
 
 #: ../../intro.rst:66
+# ee3d76b0de1249309bfca6a3abb1e1b2
 msgid "`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) <pdf/Cavallini_CV_eu.pdf>`__"
 msgstr ""
 
 #: ../../intro.rst:67
+# d0d67c334b1549138ab42221155085a7
 msgid "`Alcune mie conferenze <https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-AC4ktZQ/>`_"
 msgstr ""
 
 #: ../../intro.rst:68
+# 414df72b056c47788ff9dee9233e19f8
 msgid "*e-mail*: cavallini@faunalia.it - *PEC*: paolo.cavallini@pec.it"
 msgstr ""
 
 #: ../../intro.rst:69
+# 8e3c268bccc8495caf9c3dc455e0d2ce
 msgid "*Tel/Viber/Line*: +39-348-3801953"
 msgstr ""
 
 #: ../../intro.rst:70
+# a2ec6322ed1748bbb3b120213f92a7a0
 msgid "*Skype*: paolo.gg.cavallini"
 msgstr ""
 
 #: ../../intro.rst:71
+# 83049389596b41e58568d5daffcab5ef
 msgid "*Hangout*: paolo.cavallini@gmail.com"
 msgstr ""
 
 #: ../../intro.rst:78
+# 574f5ccc73944c2aa2cbe97777d66102
 msgid "Renzo Cavallini"
 msgstr ""
 
 #: ../../intro.rst:83
+# 4ec71304ae2f44319cb75356c3beb3f1
 msgid "Geologo, specializzato in geofisica"
 msgstr ""
 
 #: ../../intro.rst:84
+# 291b0c9c14ad4fd6a22b6abdf97448f1
 msgid "Ha collaborato a livello scientifico e didattico con l'Università di Pisa"
 msgstr ""
 
 #: ../../intro.rst:85
+# 418f60c8ecea4d5eb4e68ca3c6886f29
 msgid "Ha pubblicato nel settore geofisico"
 msgstr ""
 
 #: ../../intro.rst:86
+# 7eed955b35b14b9c8a248c919d1b9b47
 msgid "Conduce attività di prospezione geotecnica, in laboratorio ed *in situ*"
 msgstr ""
 
 #: ../../intro.rst:88
+# 2a324c1b39d14ac291b0cd86a56e6f46
 msgid "esecuzione ed elaborazione di prove di laboratorio su terreni naturali: consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), compressione semplice, analisi granulometrica, limiti di consistenza (LL, LP, LR), peso specifico dei granuli, permeabilità in cella edometrica, triassiale e in permeametro (norme seguite: racc. AGI, CNR, ASTM)"
 msgstr ""
 
 #: ../../intro.rst:89
+# 2a34f0568a704384b9da847a5a9255e1
 msgid "esecuzione ed elaborazione di prove di laboratorio su materiali stradali e da costruzione: compattazione Proctor Standard e modificata, penetrazione CBR, miscelazione delle terre con calce (norme seguite: EN, CNR, ASTM)"
 msgstr ""
 
 #: ../../intro.rst:90
+# a563eb58111447fcb89cec2c5abc5074
 msgid "esecuzione ed elaborazione di prove in situ: penetrometriche statiche con punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o senza rivestimento, PLT, densità in situ"
 msgstr ""
 
 #: ../../intro.rst:91
+# ab99a0c1e05746d7b7ab321771b0156e
 msgid "installazione e messa a punto di apparecchiature di laboratorio e di sistemi di acquisizione automatica; calibrazione di trasduttori elettrici"
 msgstr ""
 
 #: ../../intro.rst:93
+# 73160835753b4e52aefdbd22555ca0d7
 msgid "*e-mail*: renzo.cavallini@faunalia.it"
 msgstr ""
 

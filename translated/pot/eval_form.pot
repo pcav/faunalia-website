@@ -8,7 +8,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
+<<<<<<< HEAD
 "POT-Creation-Date: 2015-02-19 18:59+0100\n"
+=======
+"POT-Creation-Date: 2015-02-19 16:48+0100\n"
+>>>>>>> 25fc9699ad5f78087a514dda4766cd2d04581d31
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,10 +21,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../eval_form.rst:2
+# f67f0e6e92704bc18aa0e5e2377c6036
 msgid "Questionario di valutazione corsi"
 msgstr ""
 
 #: ../../eval_form.rst:4
+# 56c66c1e81a3406198403dd24f3e59c6
 msgid "Minimo 0, Massimo 5"
 msgstr ""
 

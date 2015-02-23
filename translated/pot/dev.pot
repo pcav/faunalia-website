@@ -8,7 +8,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
+<<<<<<< HEAD
 "POT-Creation-Date: 2015-02-19 18:59+0100\n"
+=======
+"POT-Creation-Date: 2015-02-19 16:48+0100\n"
+>>>>>>> 25fc9699ad5f78087a514dda4766cd2d04581d31
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,46 +21,57 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../dev.rst:15
+# f271f699d4fd4970af2fe1e5bcdfbcaf
 msgid "Sviluppo"
 msgstr ""
 
 #: ../../dev.rst:17
+# 43f232b652674a209eb933b40e627e77
 msgid "Faunalia fornisce:"
 msgstr ""
 
 #: ../../dev.rst:19
+# 48e9180f65aa44f7967a154ba439b9c8
 msgid "Sviluppo di plugin per QGIS_ (*core*: GDALTools, DB Manager; *custom*: `lista dei plugins sviluppati <http://plugins.qgis.org/search/?q=faunalia>`_)"
 msgstr ""
 
 #: ../../dev.rst:20
+# eb816fdde903481896d3ae22c209f3dd
 msgid "Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
 
 #: ../../dev.rst:21
+# 9a6e0a51256d4593aa7d04c994154808
 msgid "Riparazione dei malfunzionamenti per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
 
 #: ../../dev.rst:22
+# 8207009608644d4399420a5e0a0794e6
 msgid "Sviluppo di applicazioni webGIS ad hoc"
 msgstr ""
 
 #: ../../dev.rst:24
+# f8161404ce2b4335b5016f9e1a82a0c4
 msgid "Garantiamo che tutto il codice sviluppato:"
 msgstr ""
 
 #: ../../dev.rst:26
+# 6518a104011643b1a0c16ba214031459
 msgid "è pubblicato con licenza libera ed open source"
 msgstr ""
 
 #: ../../dev.rst:27
+# 9b3e1d297fca4b498466ee2734b7cec6
 msgid "viene incluso nel codice sorgente ufficiale dei rispettivi progetti"
 msgstr ""
 
 #: ../../dev.rst:29
+# ef2efaad7cf04626979b1a8409847c29
 msgid "In questo modo sarete certi della sua fruibilità e facilità di manutenzione anche nel futuro."
 msgstr ""
 
 #: ../../dev.rst:31
+# fa2bfe2a8d4646528a8f48c9c3fe605e
 msgid "Faunalia ha sviluppato direttamente, già da molti anni, funzioni per tutti i software sopra elencati e fra i nostri collaboratori annoveriamo molti dei più importanti sviluppatori di questi progetti."
 msgstr ""
 
