@@ -8,11 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-<<<<<<< HEAD
 "POT-Creation-Date: 2015-02-19 18:57+0100\n"
-=======
-"POT-Creation-Date: 2015-02-19 16:48+0100\n"
->>>>>>> 25fc9699ad5f78087a514dda4766cd2d04581d31
 "PO-Revision-Date: 2013-08-17 16:58+0200\n"
 "Last-Translator: Paolo Cavallini <cavallini@faunalia.it>\n"
 "Language-Team: Italiano <>\n"
