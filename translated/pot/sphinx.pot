@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-19 18:59+0100\n"
+"POT-Creation-Date: 2015-02-23 17:21+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,62 +17,62 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../_templates/layout.html:30
-# 63b1e417d09444cc9f758bb4a7a7f0e7
+# f0c0da7166924e4d80a1e29d0533a9ba
 msgid "Corsi"
 msgstr ""
 
 #: ../../_templates/layout.html:31
-# a8a48fca88a14e8fab3c5747da628a64
+# 5b96b2d7658f495f954af37f932f915b
 msgid "Assistenza"
 msgstr ""
 
 #: ../../_templates/layout.html:32
-# fdd5b1288c9046be9997e10284f12256
+# ffbfab877e42446496f300b16618dd08
 msgid "Sviluppo"
 msgstr ""
 
 #: ../../_templates/layout.html:33
-# 583c07c697e2411ebdc6d1c21f9c0f9d
+# 9fec9e29c19d4f3f843ba126a61467e2
 msgid "Attivit&agrave;"
 msgstr ""
 
 #: ../../_templates/layout.html:34
-# 629c190b48d941a29fd9f0b821e60e1e
+# a79197f222204109b82ce67602b48d69
 msgid "Chi siamo"
 msgstr ""
 
 #: ../../_templates/layout.html:74
-# c9e05d15b7e14e1da37eefde9a95a77d
+# f23127c6255b4e479d6d9c85a5a85e02
 msgid "Italia"
 msgstr ""
 
 #: ../../_templates/layout.html:84
-# 1f70ad79fe9245978c4a31101d80956a
+# 6b26a74f3b234ed1bdcd01e8c35d4fbb
 msgid "Seguici"
 msgstr ""
 
 #: ../../_templates/layout.html:102
-# f8dc2ea26a0340468b5d1c8edfccaeb1
+# e093123ba2e24e07a8f441513dfa179a
 msgid "&copy; <a href=\"%(path)s\">Copyright</a> %(copyright)s."
 msgstr ""
 
 #: ../../_templates/layout.html:104
-# 66a209ff764243bda023403c5ca5f58c
+# 22e0cc6090a8428aab9ddc4e74917022
 msgid "&copy; Copyright %(copyright)s."
 msgstr ""
 
 #: ../../_templates/layout.html:108
-# c97a4951fa2649deb0465467758851d3
+# 1e0fc2c2cba84ff1b67b16fd227428b8
 msgid "Last updated on %(last_updated)s."
 msgstr ""
 
 #: ../../_templates/layout.html:111
-# a708a483d58743cc9ed033c2fb7dd9b9
+# e8e4c8a1adb047e29a5472d8a71de010
 msgid "Created using <a href=\"http://sphinx-doc.org/\">Sphinx</a> %(sphinx_version)s."
 msgstr ""
 
 #: ../../_templates/layout.html:116
-# 8d6f267659284314afe4f37857759924
+# 520d8045e5c04eb596950b0d2e8e288c
 msgid "Torna su"
 msgstr ""
 

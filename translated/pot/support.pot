@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-19 18:59+0100\n"
+"POT-Creation-Date: 2015-02-23 17:21+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,47 +17,47 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../support.rst:9
-# 641c49995318448d89451e63f4c8ccac
+# c8ccdad95e264a1980d0b2bc30a03857
 msgid "Assistenza"
 msgstr ""
 
 #: ../../support.rst:10
-# 4fcad9313ab7461a9760a61f13d3f7a3
+# 2bda427ec3044f119d6f84257b6fd30e
 msgid "Faunalia è la prima società in Italia a fornire assistenza tecnica per QGIS_. La nostra assistenza assicura, in caso di problemi, un intervento rapido e un supporto costante per l'immediato ripristino del normale flusso di lavoro. Inoltre, contribuendo attivamente allo sviluppo del software, Faunalia è in grado di assicurare, a costi competitivi, interventi di massima efficacia e la possibilità di personalizzazione delle soluzioni proposte sia per gli utenti singoli, sia per le organizzazioni pubbliche e private."
 msgstr ""
 
 #: ../../support.rst:12
-# 8630b0f390964b4e964774f916dd8a32
+# 7393286c84be4bf6a3a7aba47a42a56a
 msgid "In particolare, Faunalia garantisce `servizi professionali per QGIS <http://www.qgis.org/en/site/forusers/commercial_support.html>`_ (Desktop, Server e Web Client), GRASS_, PostgreSQL_ `e PostGIS <http://postgis.net/support/>`_:"
 msgstr ""
 
 #: ../../support.rst:14
-# cd39dac1502745e8b58ec587972bb484
+# da681004cd0e45c4be59991901bd70d9
 msgid "Installazione, configurazione e aggiornamento"
 msgstr ""
 
 #: ../../support.rst:15
-# 00eacfc2eb1d4216958d13625900a67e
+# 080751c0a6a946ae93e3b19bf2ea5ac6
 msgid "Migrazione da GIS proprietari (es. ArcGIS e Oracle Spatial) a GIS liberi (es. QGIS_ e PostGIS_)"
 msgstr ""
 
 #: ../../support.rst:16
-# 80ebde2548344883a013ccdc9fe13135
+# 72e4e1370ea44ed899e2fccfae207d1d
 msgid "Assistenza email e telefonica"
 msgstr ""
 
 #: ../../support.rst:17
-# d5bf2ba776d04bbdbb56625b5cefbb16
+# ce6a7c98d8b844f6985b29a048c191f8
 msgid "Assistenza on site"
 msgstr ""
 
 #: ../../support.rst:18
-# 39e6de02666d43adbc90c4762d913dce
+# 897d39d00c914446a66517374b6244bf
 msgid "Bug fixing su richiesta"
 msgstr ""
 
 #: ../../support.rst:19
-# 3c9a212c55e04611a4ad041a091419a5
+# 0175011def734c17ab667d8db5386301
 msgid "Abbonamento agli annunci sulle novità importanti sui software GIS open source e liberi"
 msgstr ""
 
