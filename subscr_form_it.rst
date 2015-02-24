@@ -141,6 +141,7 @@ Modulo di iscrizione
 		<option value="pyqgis" <?php if ($corso=="pyqgis") echo 'selected="selected"';?> >Python-QGIS</option>
 		<option value="postgis" <?php if ($corso=="postgis") echo 'selected="selected"';?> >Geodatabase</option>
 		<option value="webgis" <?php if ($corso=="webgis") echo 'selected="selected"';?> >WebMapping</option>
+                <option value="webgis_rm" <?php if ($corso=="webgis_rm") echo 'selected="selected"';?> >WebMapping Roma</option>
 	</select>
 	</div>
 	</div>

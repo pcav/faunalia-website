@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-23 17:21+0100\n"
+"POT-Creation-Date: 2015-02-23 17:56+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -216,7 +216,7 @@ msgstr ""
 
 #: ../../training.rst:59
 # e3a0f2588082448e99ce7df4b6f71830
-msgid "Corso di Roma (11-12 maggio) in collaborazione con **Tecnostudiambiente**. Informazioni logistiche presso: info@tecnostudiambiente.it, Piazza Manfredo Fanti 30, Roma. Tel. 3312850014 + 0644360696"
+msgid "Corso di Roma (11-12 maggio) in collaborazione con `Tecnostudi Ambiente Srl <http://www.tecnostudiambiente.it/>`_. Informazioni logistiche presso: info@tecnostudiambiente.it, Piazza Manfredo Fanti 30, Roma. Tel. 3312850014 + 0644360696. Sede del corso Presso ACQUARIO ROMANO in Piazza Manfredo Fanti, 47  Roma."
 msgstr ""
 
 #: ../../training.rst:62

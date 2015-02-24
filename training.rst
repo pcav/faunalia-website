@@ -56,7 +56,7 @@ WebMapping con QGIS (IT)                 11-12 Maggio          15 Aprile        
 WebMapping con QGIS (IT)                 11-12 Giugno          15 Maggio            Pontedera, IT  Italiano
 ======================================== ====================  ==================== ============== ===========
 
-* Corso di Roma (11-12 maggio) in collaborazione con **Tecnostudiambiente**. Informazioni logistiche presso: info@tecnostudiambiente.it, Piazza Manfredo Fanti 30, Roma. Tel. 3312850014 + 0644360696
+* Corso di Roma (11-12 maggio) in collaborazione con `Tecnostudi Ambiente Srl <http://www.tecnostudiambiente.it/>`_. Informazioni logistiche presso: info@tecnostudiambiente.it, Piazza Manfredo Fanti 30, Roma. Tel. 3312850014 + 0644360696. Sede del corso Presso ACQUARIO ROMANO in Piazza Manfredo Fanti, 47  Roma.
 
 Costi
 +++++++++++++++++++++++++++++++++++++++++++++++++++
