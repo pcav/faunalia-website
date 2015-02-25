@@ -377,7 +377,9 @@ msgstr ""
 # ba650497b3c44258a03e96c3d9dbd556
 #: ../../training.rst:78
 msgid "`Iscriviti qui <subscr_form_it.html>`_"
-msgstr "`Inscreva-se aqui <subscr_form_pt.html>`_"
+msgstr ""
+"Para subscrever um dos nossos cursos envie um email para o seguinte "
+"endereço: info@faunalia.pt"
 
 # 9da0e2efb514451bacaad5b961947b64
 #: ../../training.rst:81
