@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-24 12:41+0100\n"
+"POT-Creation-Date: 2015-02-25 11:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,62 +17,50 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../_templates/layout.html:30
-# c2d58f7b6a1c4a83bdc58a3f899c4e90
 msgid "Corsi"
 msgstr ""
 
 #: ../../_templates/layout.html:31
-# bb3482473a7245aa98c6bce5ab769f79
 msgid "Assistenza"
 msgstr ""
 
 #: ../../_templates/layout.html:32
-# b89d055972ed47b2b1296b87c1e2ba19
 msgid "Sviluppo"
 msgstr ""
 
 #: ../../_templates/layout.html:33
-# 142ff62c106b4bc6a840479587b2f8b8
 msgid "Attivit&agrave;"
 msgstr ""
 
 #: ../../_templates/layout.html:34
-# 6e61c0aa549441a491b126eddcad2d71
 msgid "Chi siamo"
 msgstr ""
 
 #: ../../_templates/layout.html:74
-# ac5fc21ce0734bfda41e62905350d6cf
 msgid "Italia"
 msgstr ""
 
 #: ../../_templates/layout.html:84
-# 651ecbc670074be7814dfa21de082a04
 msgid "Seguici"
 msgstr ""
 
 #: ../../_templates/layout.html:102
-# 7b9752f2b15d431499f1ed15ced3a79c
 msgid "&copy; <a href=\"%(path)s\">Copyright</a> %(copyright)s."
 msgstr ""
 
 #: ../../_templates/layout.html:104
-# cf3cbbeec5f6417c98bba01291fb3cb4
 msgid "&copy; Copyright %(copyright)s."
 msgstr ""
 
 #: ../../_templates/layout.html:108
-# 4fdeac7a6d9843e79042453c704863dd
 msgid "Last updated on %(last_updated)s."
 msgstr ""
 
 #: ../../_templates/layout.html:111
-# a6d1dc99045b4434a477b1f050fedb9c
 msgid "Created using <a href=\"http://sphinx-doc.org/\">Sphinx</a> %(sphinx_version)s."
 msgstr ""
 
 #: ../../_templates/layout.html:116
-# cfe902a65b644564bfc16aba28810c7e
 msgid "Torna su"
 msgstr ""
 

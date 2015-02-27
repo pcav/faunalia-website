@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-24 12:41+0100\n"
+"POT-Creation-Date: 2015-02-25 11:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,57 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../dev.rst:15
-# f87aa162edd94e5498966caf73fb5de9
 msgid "Sviluppo"
 msgstr ""
 
 #: ../../dev.rst:17
-# 5017e9379a964e069d16656acfb3fb04
 msgid "Faunalia fornisce:"
 msgstr ""
 
 #: ../../dev.rst:19
-# fed63c8f4d7749b8896ebb7c655cc95e
 msgid "Sviluppo di plugin per QGIS_ (*core*: GDALTools, DB Manager; *custom*: `lista dei plugins sviluppati <http://plugins.qgis.org/search/?q=faunalia>`_)"
 msgstr ""
 
 #: ../../dev.rst:20
-# 0581ab7e7e964b85ae926b64849b2559
 msgid "Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
 
 #: ../../dev.rst:21
-# 5471efbe67b249479465781eb0ea38c4
 msgid "Riparazione dei malfunzionamenti per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
 
 #: ../../dev.rst:22
-# 3dd28fa41a12424b9ac9db92e1083a1c
 msgid "Sviluppo di applicazioni webGIS ad hoc"
 msgstr ""
 
 #: ../../dev.rst:24
-# 45dd99121c3747c695f9713710862b9a
 msgid "Garantiamo che tutto il codice sviluppato:"
 msgstr ""
 
 #: ../../dev.rst:26
-# eb421ab98fd4467c98759a00817923a6
 msgid "è pubblicato con licenza libera ed open source"
 msgstr ""
 
 #: ../../dev.rst:27
-# c031a9918a0d47849875a3975553c6f7
 msgid "viene incluso nel codice sorgente ufficiale dei rispettivi progetti"
 msgstr ""
 
 #: ../../dev.rst:29
-# 66992de1e08d4d79971f54ce9015b761
 msgid "In questo modo sarete certi della sua fruibilità e facilità di manutenzione anche nel futuro."
 msgstr ""
 
 #: ../../dev.rst:31
-# 50f53ca751354b93b5716bd1dcdec56f
 msgid "Faunalia ha sviluppato direttamente, già da molti anni, funzioni per tutti i software sopra elencati e fra i nostri collaboratori annoveriamo molti dei più importanti sviluppatori di questi progetti."
 msgstr ""
 

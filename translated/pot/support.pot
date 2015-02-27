@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-24 12:41+0100\n"
+"POT-Creation-Date: 2015-02-25 11:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,47 +17,38 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../support.rst:9
-# c8ccdad95e264a1980d0b2bc30a03857
 msgid "Assistenza"
 msgstr ""
 
 #: ../../support.rst:10
-# 2bda427ec3044f119d6f84257b6fd30e
 msgid "Faunalia è la prima società in Italia a fornire assistenza tecnica per QGIS_. La nostra assistenza assicura, in caso di problemi, un intervento rapido e un supporto costante per l'immediato ripristino del normale flusso di lavoro. Inoltre, contribuendo attivamente allo sviluppo del software, Faunalia è in grado di assicurare, a costi competitivi, interventi di massima efficacia e la possibilità di personalizzazione delle soluzioni proposte sia per gli utenti singoli, sia per le organizzazioni pubbliche e private."
 msgstr ""
 
 #: ../../support.rst:12
-# 7393286c84be4bf6a3a7aba47a42a56a
 msgid "In particolare, Faunalia garantisce `servizi professionali per QGIS <http://www.qgis.org/en/site/forusers/commercial_support.html>`_ (Desktop, Server e Web Client), GRASS_, PostgreSQL_ `e PostGIS <http://postgis.net/support/>`_:"
 msgstr ""
 
 #: ../../support.rst:14
-# da681004cd0e45c4be59991901bd70d9
 msgid "Installazione, configurazione e aggiornamento"
 msgstr ""
 
 #: ../../support.rst:15
-# 080751c0a6a946ae93e3b19bf2ea5ac6
 msgid "Migrazione da GIS proprietari (es. ArcGIS e Oracle Spatial) a GIS liberi (es. QGIS_ e PostGIS_)"
 msgstr ""
 
 #: ../../support.rst:16
-# 72e4e1370ea44ed899e2fccfae207d1d
 msgid "Assistenza email e telefonica"
 msgstr ""
 
 #: ../../support.rst:17
-# ce6a7c98d8b844f6985b29a048c191f8
 msgid "Assistenza on site"
 msgstr ""
 
 #: ../../support.rst:18
-# 897d39d00c914446a66517374b6244bf
 msgid "Bug fixing su richiesta"
 msgstr ""
 
 #: ../../support.rst:19
-# 0175011def734c17ab667d8db5386301
 msgid "Abbonamento agli annunci sulle novità importanti sui software GIS open source e liberi"
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-24 12:41+0100\n"
+"POT-Creation-Date: 2015-02-25 11:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,88 +18,70 @@ msgstr ""
 
 #: ../../index.rst:25
 #: ../../index.rst:29
-# c8a57729e4964e99b74254c7fd434f47
-# a141fa4398544eef86607add0b507ad5
 msgid "Faunalia"
 msgstr ""
 
 #: ../../index.rst:31
-# b6e1dddd511a417fa7f3cf828ee9d2fe
 msgid "Sistemi informativi territoriali liberi ed open source"
 msgstr ""
 
 #: ../../index.rst:36
-# 1f08fb399fa34766ab1488e4e11d5856
 msgid "Specialisti di QGIS e Database Geografici PostGIS"
 msgstr ""
 
 #: ../../index.rst:38
-# afc7375d355a4ad48d918437deea9dda
 msgid "QGIS_ e PostGIS_ mettono a disposizione un grande numero di funzionalità per visualizzare, gestire, editare e analizzare dati geografici e per creare stampe con simbologia cartografica avanzata."
 msgstr ""
 
 #: ../../index.rst:40
-# da90e4271cea4019b18b7f0b1ba1432a
 msgid "QGIS_ e PostGIS_ forniscono un modo semplice ed economico per gestire grandi volumi di dati (ad es. Catasto Urbano, Catasto Rurale, etc.) e per pubblicare servizi standard OpenGeospatialConsortium_ (WMS, WFS, WCS), così come mappe on-line (WebGIS)."
 msgstr ""
 
 #: ../../index.rst:42
-# 7dae91d875924123bfe3b6aea0e3d4cd
 msgid "`Esempio di WebGIS di Faunalia <http://lizmap.faunalia.eu/index.php/view/map/?repository=faunalia&project=pontedera>`_"
 msgstr ""
 
 #: ../../index.rst:47
-# 3933fefe17b14b6fa3386ef4f23ca364
 msgid "Corsi"
 msgstr ""
 
 #: ../../index.rst:49
-# 2553d1c06cac4ba99315cfc8b2accfe9
 msgid "Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il tuo GIS?"
 msgstr ""
 
 #: ../../index.rst:51
-# 9bad9a8694a64af09e57203ce932fc71
 msgid ":doc:`More info <training>`"
 msgstr ""
 
 #: ../../index.rst:56
-# 024af5e9c2ab4682abda5b0b4627120f
 msgid "Assistenza"
 msgstr ""
 
 #: ../../index.rst:58
-# 23751f395da1416fbacda460f7faa33a
 msgid "Vuoi la certezza e la tranquillità di un supporto costante per la soluzione dei tuoi problemi?"
 msgstr ""
 
 #: ../../index.rst:60
-# 40a788bc3efc4fb88ec793e0db3d2c4e
 msgid ":doc:`More info <support>`"
 msgstr ""
 
 #: ../../index.rst:65
-# 07e5392118674a44b11d8c9e0a4696d8
 msgid "Sviluppo"
 msgstr ""
 
 #: ../../index.rst:67
-# d7ca953bd171470cb706f53468ca0d07
 msgid "Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro o di correggere un bug?"
 msgstr ""
 
 #: ../../index.rst:69
-# 6674eb44b9de4c339a8de843050a0298
 msgid ":doc:`More info <dev>`"
 msgstr ""
 
 #: ../../index.rst:74
-# 2d79ded6e5964f9e84777c0e9ef55bfc
 msgid "Twitter stream"
 msgstr ""
 
 #: ../../index.rst:83
-# 5683ba49b3e242f89c5f1e73404f2d62
 msgid "Facebook stream"
 msgstr ""
 
