@@ -179,7 +179,7 @@ Argomenti principali
 
 * Come creare plugin Python per QGIS
 
-  * la sintassi Python (indentazione, punto e virgola, ...)
+  * la sintassi Python
   * il mio primo plugin in Python: mostra un messaggio in un riquadro
   * creare interfacce utente con QtDesigner (.ui)
   * secondo plugin: aggiungere un layer all’area di mappa di QGIS
