@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-25 11:48+0100\n"
+"POT-Creation-Date: 2015-03-11 14:34+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -140,12 +140,11 @@ msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
 msgstr ""
 
 #: ../../training.rst:54
-msgid "6-8 Maggio"
+msgid "27-29 Maggio"
 msgstr ""
 
 #: ../../training.rst:54
-#: ../../training.rst:55
-msgid "15 Aprile"
+msgid "1 Maggio"
 msgstr ""
 
 #: ../../training.rst:55
@@ -155,6 +154,10 @@ msgstr ""
 
 #: ../../training.rst:55
 msgid "11-12 Maggio"
+msgstr ""
+
+#: ../../training.rst:55
+msgid "15 Aprile"
 msgstr ""
 
 #: ../../training.rst:55
@@ -469,7 +472,7 @@ msgid "Come creare plugin Python per QGIS"
 msgstr ""
 
 #: ../../training.rst:182
-msgid "la sintassi Python (indentazione, punto e virgola, ...)"
+msgid "la sintassi Python"
 msgstr ""
 
 #: ../../training.rst:183
