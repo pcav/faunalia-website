@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-11 14:34+0100\n"
+"POT-Creation-Date: 2015-03-18 19:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,13 +57,11 @@ msgstr ""
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:27
 msgid ""
-"Iscrivetevi alla `mailing list "
-"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
-"annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
+"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
 msgstr ""
-"Inscríbase en la `lista de correo "
-"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ para recibir "
-"anuncios de nuevos cursos."
+"Inscríbase en la `lista de correo <http://lists.faunalia.it/cgi-bin/mailman/"
+"listinfo/corsi>`_ para recibir anuncios de nuevos cursos."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:30
@@ -123,15 +121,14 @@ msgstr ""
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:37
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
-"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
-"ECDL-GIS "
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
+"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
 "<http://www.aica.it/aica/ecdl-gis/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
-"Permiten el accesso a los exámenes AICA para tener la `certificación "
-"ECDL-GIS <http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini es "
-"`exsaminador ECDL-GIS "
-"<http://www.aica.it/aica/ecdl-gis/area-esaminatori/esaminatori-1/c>`_."
+"Permiten el accesso a los exámenes AICA para tener la `certificación ECDL-"
+"GIS <http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini es "
+"`exsaminador ECDL-GIS <http://www.aica.it/aica/ecdl-gis/area-esaminatori/"
+"esaminatori-1/c>`_."
 
 # 548400d89cbb44ad9982eb35eb35b400
 #: ../../training.rst:40
@@ -162,10 +159,9 @@ msgstr "Curso"
 msgid "Date e durata"
 msgstr "Fechas y duración"
 
-# e11809ab1d4a491b988a741ed5e19169
 #: ../../training.rst:50
-msgid "Scadenza iscrizione"
-msgstr "Fecha límite de inscripción"
+msgid "Iscrizione consigliata entro il"
+msgstr ""
 
 # bb3f3fd4c0f540c9be634544c24ef06f
 #: ../../training.rst:50
@@ -388,26 +384,24 @@ msgstr "Logística"
 # e2c77797de9e472598dc6f4abdcf19db
 #: ../../training.rst:83
 msgid ""
-"**Sede**: Pontedera (PI), presso `Pont-Tech "
-"<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
-"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
-"facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli "
-"sulla città "
-"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo "
-"<http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere "
-"singole/doppie/triple."
+"**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
+"page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
+"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
+"pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune."
+"pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo <http://www."
+"ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/"
+"triple."
 msgstr ""
-"Cursos em **Italia**: **Sede** Pontedera (PI) en `Pont-Tech "
-"<http://www.pont-tech.it/?page_id=957>`_, o `Faunalia "
-"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, de "
-"fácil accesso con medios públicos (tren y avión). `Detalles sobre la ciudad. "
-"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluídos alojamientos). Convención con B&B `Il Piccolo "
-"<http://www.ilpiccolorooms.it/>`_, 45/60/80 € por habitación "
-"simple/doble/triple. Cursos em **Portugal**: Para obtener información sobre "
-"la logística del curso que usted está interesado, póngase en contacto con "
-"nosotros **(info@faunalia.pt)**."
+"Cursos em **Italia**: **Sede** Pontedera (PI) en `Pont-Tech <http://www.pont-"
+"tech.it/?page_id=957>`_, o `Faunalia <http://www.openstreetmap.org/?"
+"lat=43.66154&lon=10.63763&zoom=17>`_, de fácil accesso con medios públicos "
+"(tren y avión). `Detalles sobre la ciudad. <http://www.comune.pontedera.pi."
+"it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluídos "
+"alojamientos). Convención con B&B `Il Piccolo <http://www.ilpiccolorooms.it/"
+">`_, 45/60/80 € por habitación simple/doble/triple. Cursos em **Portugal**: "
+"Para obtener información sobre la logística del curso que usted está "
+"interesado, póngase en contacto con nosotros **(info@faunalia.pt)**."
 
 # 70445496ccfb4e5f905683df99c5a6c3
 #: ../../training.rst:86
@@ -1119,6 +1113,10 @@ msgstr "Criterios de optimización"
 msgid "Due giorni *full time*"
 msgstr "Dos días *full time*"
 
+# e11809ab1d4a491b988a741ed5e19169
+#~ msgid "Scadenza iscrizione"
+#~ msgstr "Fecha límite de inscripción"
+
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
 #~ msgid "6-8 Maggio"
 #~ msgstr "6-8 de mayo"
@@ -1361,13 +1359,12 @@ msgstr "Dos días *full time*"
 #~ msgstr "14 de abril"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
-#, qt-format
 #~ msgid ""
-#~ "`Scarica il calendario (ics) "
-#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
+#~ "`Scarica il calendario (ics) <https://www.google.com/calendar/ical/"
+#~ "faunaliagis%40gmail.com/public/basic.ics>`_"
 #~ msgstr ""
-#~ "Descargue el calendario (ics) "
-#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
+#~ "Descargue el calendario (ics) <https://www.google.com/calendar/ical/"
+#~ "faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 67da7a1be0814b30a5a20d7f14e2e4ba
 #~ msgid "2-4 Aprile"
