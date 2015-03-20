@@ -53,7 +53,6 @@ Cartografia con QGIS (IT)                18-20 Marzo           15 Febbraio      
 Analisi con QGIS (IT)                    15-17 Aprile          15 Marzo                         Pontedera, IT  Italiano
 Geodatabase: PostgreSQL e PostGIS (IT)   27-29 Maggio          1 Maggio                         Pontedera, IT  Italiano
 WebMapping con QGIS (IT)                 11-12 Maggio          15 Aprile                        Roma, IT       Italiano
-WebMapping con QGIS (IT)                 11-12 Giugno          15 Maggio                        Pontedera, IT  Italiano
 ======================================== ====================  ================================ ============== ===========
 
 * Corso di Roma (11-12 maggio) in collaborazione con `Tecnostudi Ambiente Srl <http://www.tecnostudiambiente.it/>`_. Informazioni logistiche presso: info@tecnostudiambiente.it, Piazza Manfredo Fanti 30, Roma. Tel. 3312850014 + 0644360696. Sede del corso Presso ACQUARIO ROMANO in Piazza Manfredo Fanti, 47  Roma.
