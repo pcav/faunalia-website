@@ -36,25 +36,21 @@ Perché scegliere i corsi di Faunalia?
 * Contribuiscono al miglioramento dei software utilizzati, destinando al loro sviluppo parte delle quote di iscrizione
 * Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS <http://www.aica.it/aica/ecdl-gis/area-esaminatori/esaminatori-1/c>`_.
 
-New course
-+++++++++++++++++++++++++++++++++++++++++++++++++++
-
-`Nature GIS <nat_course.html>`_ - a GIS course for naturalists, ornithologist, botanists, etc. in a splendid natural setting in Tuscany.
-
 Calendario
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. rst-class:: table  
 
-======================================== ====================  ================================ ============== ===========
-Corso                                    Date e durata         Iscrizione consigliata entro il  Dove           Lingua
-======================================== ====================  ================================ ============== ===========
-Cartografia con QGIS (IT)                18-20 Marzo           15 Febbraio                      Pontedera, IT  Italiano
-Analisi con QGIS (IT)                    15-17 Aprile          15 Marzo                         Pontedera, IT  Italiano
-Geodatabase: PostgreSQL e PostGIS (IT)   27-29 Maggio          1 Maggio                         Pontedera, IT  Italiano
-WebMapping con QGIS (IT)                 11-12 Maggio          15 Aprile                        Roma, IT       Italiano
-WebMapping con QGIS (IT)                 11-12 Giugno          15 Maggio                        Pontedera, IT  Italiano
-======================================== ====================  ================================ ============== ===========
+======================================== ====================  ===================== ============== ===========
+Corso                                    Date e durata         Iscrizione            Dove           Lingua
+                                                               consigliata entro il
+======================================== ====================  ===================== ============== ===========
+Cartografia con QGIS (IT)                18-20 Marzo           15 Febbraio           Pontedera, IT  Italiano
+Analisi con QGIS (IT)                    15-17 Aprile          15 Marzo              Pontedera, IT  Italiano
+Geodatabase: PostgreSQL e PostGIS (IT)   27-29 Maggio          1 Maggio              Pontedera, IT  Italiano
+WebMapping con QGIS (IT)                 11-12 Maggio          15 Aprile             Roma, IT       Italiano
+WebMapping con QGIS (IT)                 11-12 Giugno          15 Maggio             Pontedera, IT  Italiano
+======================================== ====================  ===================== ============== ===========
 
 * Corso di Roma (11-12 maggio) in collaborazione con `Tecnostudi Ambiente Srl <http://www.tecnostudiambiente.it/>`_. Informazioni logistiche presso: info@tecnostudiambiente.it, Piazza Manfredo Fanti 30, Roma. Tel. 3312850014 + 0644360696. Sede del corso Presso ACQUARIO ROMANO in Piazza Manfredo Fanti, 47  Roma.
 
