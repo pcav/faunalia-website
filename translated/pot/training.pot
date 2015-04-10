@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-08 11:43+0200\n"
+"POT-Creation-Date: 2015-04-10 16:44+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -140,7 +140,7 @@ msgid "11-12 Maggio"
 msgstr ""
 
 #: ../../training.rst:50
-msgid "15 Aprile"
+msgid "1 Maggio"
 msgstr ""
 
 #: ../../training.rst:50
@@ -152,11 +152,11 @@ msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
 msgstr ""
 
 #: ../../training.rst:51
-msgid "27-29 Maggio"
+msgid "10-12 Giugno"
 msgstr ""
 
 #: ../../training.rst:51
-msgid "1 Maggio"
+msgid "1 Giugno"
 msgstr ""
 
 #: ../../training.rst:52

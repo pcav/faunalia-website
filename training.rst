@@ -47,8 +47,8 @@ Corso                                    Date e durata         Iscrizione       
 ======================================== ====================  ===================== ============== ===========
 Cartografia con QGIS (IT)                18-20 Marzo           15 Febbraio           Pontedera, IT  Italiano
 Analisi con QGIS (IT)                    15-17 Aprile          15 Marzo              Pontedera, IT  Italiano
-WebMapping con QGIS (IT)                 11-12 Maggio          15 Aprile             Roma, IT       Italiano
-Geodatabase: PostgreSQL e PostGIS (IT)   27-29 Maggio          1 Maggio              Pontedera, IT  Italiano
+WebMapping con QGIS (IT)                 11-12 Maggio          1 Maggio              Roma, IT       Italiano
+Geodatabase: PostgreSQL e PostGIS (IT)   10-12 Giugno          1 Giugno              Pontedera, IT  Italiano
 Cartografia con QGIS (IT)                Settembre             --                    Pontedera, IT  Italiano
 Analisi con QGIS (IT)                    Ottobre               --                    Pontedera, IT  Italiano
 ======================================== ====================  ===================== ============== ===========

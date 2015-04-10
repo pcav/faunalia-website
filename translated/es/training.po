@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-08 11:43+0200\n"
+"POT-Creation-Date: 2015-04-10 16:44+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -221,10 +221,10 @@ msgstr "WebMapping con QGIS (IT)"
 msgid "11-12 Maggio"
 msgstr "11-12 de mayo"
 
-# 67da7a1be0814b30a5a20d7f14e2e4ba
+# 5b9b45b66a3e4c648de8b6c852acf4eb
 #: ../../training.rst:50
-msgid "15 Aprile"
-msgstr "15 de abril"
+msgid "1 Maggio"
+msgstr "1 de mayo"
 
 # 1dfe1c221258472a84af9a0608bbbf59
 #: ../../training.rst:50
@@ -238,13 +238,14 @@ msgstr "Geodatabase: PostgreSQL y PostGIS (IT)"
 
 # a1f5b6a26beb4ff7b01ce0822fe1d8ab
 #: ../../training.rst:51
-msgid "27-29 Maggio"
-msgstr "27-29 de mayo"
+#, fuzzy
+msgid "10-12 Giugno"
+msgstr "11-12 de junio"
 
-# 5b9b45b66a3e4c648de8b6c852acf4eb
+# 5f579eacdfe14ef58b3777e851296a6b
 #: ../../training.rst:51
-msgid "1 Maggio"
-msgstr "1 de mayo"
+msgid "1 Giugno"
+msgstr "1 de junio"
 
 # 1477ed8907e24345b0045abe4fb7372a
 #: ../../training.rst:52
@@ -1105,6 +1106,14 @@ msgstr "Criterios de optimización"
 msgid "Due giorni *full time*"
 msgstr "Dos días *full time*"
 
+# 67da7a1be0814b30a5a20d7f14e2e4ba
+#~ msgid "15 Aprile"
+#~ msgstr "15 de abril"
+
+# a1f5b6a26beb4ff7b01ce0822fe1d8ab
+#~ msgid "27-29 Maggio"
+#~ msgstr "27-29 de mayo"
+
 # 548400d89cbb44ad9982eb35eb35b400
 #~ msgid "New course"
 #~ msgstr "New course"
@@ -1116,10 +1125,6 @@ msgstr "Dos días *full time*"
 #~ msgstr ""
 #~ "`Nature GIS <nat_course.html>`_ - a GIS course for naturalists, "
 #~ "ornithologist, botanists, etc. in a splendid natural setting in Tuscany."
-
-# a1f5b6a26beb4ff7b01ce0822fe1d8ab
-#~ msgid "11-12 Giugno"
-#~ msgstr "11-12 de junio"
 
 # 5b9b45b66a3e4c648de8b6c852acf4eb
 #~ msgid "15 Maggio"
@@ -1144,10 +1149,6 @@ msgstr "Dos días *full time*"
 # b28a9fbcf9964ba28a693bb9feccab9b
 #~ msgid "1-3 Luglio"
 #~ msgstr "1-3 de julio"
-
-# 5f579eacdfe14ef58b3777e851296a6b
-#~ msgid "1 Giugno"
-#~ msgstr "1 de junio"
 
 # 7cabf0be650643f1b85997a1c5b71df0
 #~ msgid "Geodatabase: PostgreSQL e PostGIS (PT)"
