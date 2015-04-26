@@ -363,7 +363,7 @@ Min 0, Max 5
 	</div>
 
 	<div class="form-group">
-	<label for="edit-submitted-quale" class="col-sm-3 control-label">Please add details here. </label>
+	<label for="edit-submitted-quale" class="col-sm-3 control-label">Please add details here </label>
 	<div class="col-sm-9">
 	<input type="text" id="edit-submitted-quale" name="quale" value="<?=$quale ?>" size="60" maxlength="128" class="form-control" />
 	</div>
