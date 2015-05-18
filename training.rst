@@ -45,7 +45,7 @@ Calendario
 Corso                                    Date e durata         Iscrizione            Dove           Lingua
                                                                consigliata entro il
 ======================================== ====================  ===================== ============== ===========
-Geodatabase: PostgreSQL e PostGIS (IT)   10-12 Giugno          1 Giugno              Pontedera, IT  Italiano
+Geodatabase: PostgreSQL e PostGIS (IT)   8-10 Luglio           1 Luglio              Pontedera, IT  Italiano
 Cartografia con QGIS (IT)                Settembre             --                    Pontedera, IT  Italiano
 Analisi con QGIS (IT)                    Ottobre               --                    Pontedera, IT  Italiano
 Geodatabase: PostgreSQL e PostGIS (IT)   Novembre              --                    Pontedera, IT  Italiano

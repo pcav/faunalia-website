@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-14 19:38+0200\n"
+"POT-Creation-Date: 2015-05-18 17:30+0200\n"
 "PO-Revision-Date: 2013-08-17 16:58+0200\n"
 "Last-Translator: Paolo Cavallini <cavallini@faunalia.it>\n"
 "Language-Team: Italiano <>\n"
@@ -160,15 +160,17 @@ msgstr "Language"
 msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
 msgstr "Geographic databases: PostgreSQL and PostGIS (IT)"
 
-# a1f5b6a26beb4ff7b01ce0822fe1d8ab
+# b28a9fbcf9964ba28a693bb9feccab9b
 #: ../../training.rst:48
-msgid "10-12 Giugno"
-msgstr "10-12 June"
+#, fuzzy
+msgid "8-10 Luglio"
+msgstr "1-3 July"
 
-# 5f579eacdfe14ef58b3777e851296a6b
+# b28a9fbcf9964ba28a693bb9feccab9b
 #: ../../training.rst:48
-msgid "1 Giugno"
-msgstr "1 June"
+#, fuzzy
+msgid "1 Luglio"
+msgstr "1-3 July"
 
 # 768ef41660e8444b834e3d11d5ef4934
 # 69abb73e3dbe4ec59cc72dd9e0314203
@@ -1011,6 +1013,14 @@ msgstr "Data optimization"
 msgid "Due giorni *full time*"
 msgstr "Two days, full time"
 
+# a1f5b6a26beb4ff7b01ce0822fe1d8ab
+#~ msgid "10-12 Giugno"
+#~ msgstr "10-12 June"
+
+# 5f579eacdfe14ef58b3777e851296a6b
+#~ msgid "1 Giugno"
+#~ msgstr "1 June"
+
 # 53d00af130964089957a33ca9154d0b3
 #~ msgid "18-20 Marzo"
 #~ msgstr "18-20 March"
@@ -1078,10 +1088,6 @@ msgstr "Two days, full time"
 # 93622693fbc3409ea870fc8d6b853c71
 #~ msgid "Creare plugin in Python per QGIS (IT)"
 #~ msgstr "How to create python plugins for QGIS (IT)"
-
-# b28a9fbcf9964ba28a693bb9feccab9b
-#~ msgid "1-3 Luglio"
-#~ msgstr "1-3 July"
 
 # 7cabf0be650643f1b85997a1c5b71df0
 #~ msgid "Geodatabase: PostgreSQL e PostGIS (PT)"
