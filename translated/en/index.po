@@ -42,7 +42,7 @@ msgid ""
 "visualizzare, gestire, editare e analizzare dati geografici e per creare "
 "stampe con simbologia cartografica avanzata."
 msgstr ""
-"QGIS_ amd PostGIS_ allow you to easily visualize, manage, edit, and analyze "
+"QGIS_ and PostGIS_ allow you to easily visualize, manage, edit, and analyze "
 "geographic data, and to create sophisticated cartographic maps."
 
 # ad6688da853a4c0cba4fb82635bc7f5a
