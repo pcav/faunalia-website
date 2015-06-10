@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-09 19:27+0200\n"
+"POT-Creation-Date: 2015-06-10 13:21+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgid "Corsi"
 msgstr ""
 
 #: ../../training.rst:21
-msgid "Faunalia ha l'esperienza più vasta nel mondo nella formazione sui GIS liberi, avendo realizzato oltre 150 fra corsi, seminari e workshops, in italiano, inglese, portoghese e francese."
+msgid "Faunalia ha l'esperienza più vasta nel mondo nella formazione sui GIS liberi, avendo realizzato oltre 300 fra corsi, seminari e workshops, in italiano, inglese, portoghese e francese."
 msgstr ""
 
 #: ../../training.rst:23

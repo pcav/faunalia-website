@@ -18,7 +18,7 @@
 Corsi
 ---------------------------------------------------
 
-Faunalia ha l'esperienza più vasta nel mondo nella formazione sui GIS liberi, avendo realizzato oltre 150 fra corsi, seminari e workshops, in italiano, inglese, portoghese e francese.
+Faunalia ha l'esperienza più vasta nel mondo nella formazione sui GIS liberi, avendo realizzato oltre 300 fra corsi, seminari e workshops, in italiano, inglese, portoghese e francese.
 
 I corsi sono sempre aggiornati, utilizzando le ultime versioni disponibili di ciascun software.
 

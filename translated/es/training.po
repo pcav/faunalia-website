@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-09 19:27+0200\n"
+"POT-Creation-Date: 2015-06-10 13:21+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,11 +29,11 @@ msgstr "Cursos"
 #: ../../training.rst:21
 msgid ""
 "Faunalia ha l'esperienza più vasta nel mondo nella formazione sui GIS "
-"liberi, avendo realizzato oltre 150 fra corsi, seminari e workshops, in "
+"liberi, avendo realizzato oltre 300 fra corsi, seminari e workshops, in "
 "italiano, inglese, portoghese e francese."
 msgstr ""
 "Faunalia tiene la mayor experiencia en el mundo en formación en SIG libre, "
-"habiendo realizado más de 150 cursos, seminarios y talleres, en italiano, "
+"habiendo realizado más de 300 cursos, seminarios y talleres, en italiano, "
 "inglés, portugués y francés."
 
 # e109329698d54390a2cd6e6bf84ad8d2
@@ -57,11 +57,13 @@ msgstr ""
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:27
 msgid ""
-"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
+"annunci di nuovi corsi."
 msgstr ""
-"Inscríbase en la `lista de correo <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/corsi>`_ para recibir anuncios de nuevos cursos."
+"Inscríbase en la `lista de correo "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ para recibir "
+"anuncios de nuevos cursos."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:30
@@ -121,14 +123,15 @@ msgstr ""
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:37
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
-"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
+"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
+"ECDL-GIS "
 "<http://www.aica.it/aica/ecdl-gis/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
-"Permiten el accesso a los exámenes AICA para tener la `certificación ECDL-"
-"GIS <http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini es "
-"`exsaminador ECDL-GIS <http://www.aica.it/aica/ecdl-gis/area-esaminatori/"
-"esaminatori-1/c>`_."
+"Permiten el accesso a los exámenes AICA para tener la `certificación "
+"ECDL-GIS <http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini es "
+"`exsaminador ECDL-GIS "
+"<http://www.aica.it/aica/ecdl-gis/area-esaminatori/esaminatori-1/c>`_."
 
 # 60ceb7adc7744dfdba3c604cf37e7978
 #: ../../training.rst:40
@@ -167,15 +170,13 @@ msgstr "Cartografía con QGIS (IT)"
 
 # 1477ed8907e24345b0045abe4fb7372a
 #: ../../training.rst:48
-#, fuzzy
 msgid "23-25 Settembre"
-msgstr "15 de septiembre"
+msgstr "23-25 de septiembre"
 
 # 1477ed8907e24345b0045abe4fb7372a
 #: ../../training.rst:48
-#, fuzzy
 msgid "1 Settembre"
-msgstr "15 de septiembre"
+msgstr "1 de septiembre"
 
 # 768ef41660e8444b834e3d11d5ef4934
 # 69abb73e3dbe4ec59cc72dd9e0314203
@@ -205,15 +206,13 @@ msgstr "Análisis con QGIS (IT)"
 
 # ac7a57cb7dc44f15b51b36d55e91b27c
 #: ../../training.rst:49
-#, fuzzy
 msgid "21-23 Ottobre"
-msgstr "22-24 de octubre"
+msgstr "21-23 de octubre"
 
 # 01f98806e0874655a3cf578f9a0d6623
 #: ../../training.rst:49
-#, fuzzy
 msgid "1 Ottobre"
-msgstr "31 de octubre"
+msgstr "1 de octubre"
 
 # 7cabf0be650643f1b85997a1c5b71df0
 #: ../../training.rst:50
@@ -222,15 +221,13 @@ msgstr "Geodatabase: PostgreSQL y PostGIS (IT)"
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
 #: ../../training.rst:50
-#, fuzzy
 msgid "18-20 Novembre"
-msgstr "20 de Noviembre"
+msgstr "18-20 de Noviembre"
 
 # 98d67ad8d1324a71a5b91e8e65dc3716
 #: ../../training.rst:50
-#, fuzzy
 msgid "1 Novembre"
-msgstr "Noviembre"
+msgstr "1 Noviembre"
 
 # 660512ec03ae4bc59a877c8ec19a3162
 #: ../../training.rst:51
@@ -239,15 +236,13 @@ msgstr "WebMapping con QGIS (IT)"
 
 # f7db670e6b22473f88e2168c85cf783a
 #: ../../training.rst:51
-#, fuzzy
 msgid "10-11 Dicembre"
-msgstr "10-12 de diciembre"
+msgstr "10-11 de diciembre"
 
 # f7db670e6b22473f88e2168c85cf783a
 #: ../../training.rst:51
-#, fuzzy
 msgid "1 Dicembre"
-msgstr "01 de diciembre"
+msgstr "1 de diciembre"
 
 # 2b01fbfd1fbb417da072f5b12ca3fae2
 #: ../../training.rst:55
@@ -353,24 +348,26 @@ msgstr "Logística"
 # e2c77797de9e472598dc6f4abdcf19db
 #: ../../training.rst:76
 msgid ""
-"**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/?"
-"page_id=957>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
-"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
-"pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune."
-"pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo <http://www."
-"ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere singole/doppie/"
-"triple."
+"**Sede**: Pontedera (PI), presso `Pont-Tech "
+"<http://www.pont-tech.it/?page_id=957>`_, oppure `Faunalia "
+"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
+"facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli "
+"sulla città "
+"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive). Convenzione con B & B `Il Piccolo "
+"<http://www.ilpiccolorooms.it/>`_, adiacente: 45/60/80 € per camere "
+"singole/doppie/triple."
 msgstr ""
-"Cursos em **Italia**: **Sede** Pontedera (PI) en `Pont-Tech <http://www.pont-"
-"tech.it/?page_id=957>`_, o `Faunalia <http://www.openstreetmap.org/?"
-"lat=43.66154&lon=10.63763&zoom=17>`_, de fácil accesso con medios públicos "
-"(tren y avión). `Detalles sobre la ciudad. <http://www.comune.pontedera.pi."
-"it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluídos "
-"alojamientos). Convención con B&B `Il Piccolo <http://www.ilpiccolorooms.it/"
-">`_, 45/60/80 € por habitación simple/doble/triple. Cursos em **Portugal**: "
-"Para obtener información sobre la logística del curso que usted está "
-"interesado, póngase en contacto con nosotros **(info@faunalia.pt)**."
+"Cursos em **Italia**: **Sede** Pontedera (PI) en `Pont-Tech "
+"<http://www.pont-tech.it/?page_id=957>`_, o `Faunalia "
+"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, de "
+"fácil accesso con medios públicos (tren y avión). `Detalles sobre la ciudad. "
+"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluídos alojamientos). Convención con B&B `Il Piccolo "
+"<http://www.ilpiccolorooms.it/>`_, 45/60/80 € por habitación "
+"simple/doble/triple. Cursos em **Portugal**: Para obtener información sobre "
+"la logística del curso que usted está interesado, póngase en contacto con "
+"nosotros **(info@faunalia.pt)**."
 
 # 70445496ccfb4e5f905683df99c5a6c3
 #: ../../training.rst:79
@@ -1083,12 +1080,10 @@ msgid "Due giorni *full time*"
 msgstr "Dos días *full time*"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
-#, fuzzy
 #~ msgid "8-10 Luglio"
 #~ msgstr "1-3 de julio"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
-#, fuzzy
 #~ msgid "1 Luglio"
 #~ msgstr "1-3 de julio"
 
@@ -1365,12 +1360,13 @@ msgstr "Dos días *full time*"
 #~ msgstr "14 de abril"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
+#, qt-format
 #~ msgid ""
-#~ "`Scarica il calendario (ics) <https://www.google.com/calendar/ical/"
-#~ "faunaliagis%40gmail.com/public/basic.ics>`_"
+#~ "`Scarica il calendario (ics) "
+#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 #~ msgstr ""
-#~ "Descargue el calendario (ics) <https://www.google.com/calendar/ical/"
-#~ "faunaliagis%40gmail.com/public/basic.ics>`_"
+#~ "Descargue el calendario (ics) "
+#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 67da7a1be0814b30a5a20d7f14e2e4ba
 #~ msgid "2-4 Aprile"
