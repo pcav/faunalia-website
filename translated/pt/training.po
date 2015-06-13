@@ -98,7 +98,7 @@ msgid ""
 "GRASS, PostGIS, GDAL ecc."
 msgstr ""
 "Os professores contribuem desde muito tempo ao desenvolvimento do software "
-"usado nas formações. Paolo Cavallini é membro do  *Steering Committee* de "
+"usado nas formações. Paolo Cavallini é membro do *Steering Committee* de "
 "QGIS e Faunalia desenvolveu partes dos programas QGIS, GRASS, PostGIS, GDAL, "
 "etc."
 
@@ -258,22 +258,12 @@ msgid ""
 "€ + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare "
 "673,64 €). Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA "
 "per aziende/partite IVA (meno la ritenuta d'acconto, da versare 275,58 €)"
-msgstr ""
-"Cursos em **Portugal**, valores com IVA 23% incluído: Cartografia com QGIS: "
-"310€; Análise SIG com QGIS: 350€; Desenvolvimento de extensões Python para "
-"QGIS: 780€; Bases de Dados Geográficas: PostgreSQL e PostGIS: 350€; "
-"WebMapping com QGIS: 240€; Actualização conhecimentos QGIS 2.6: 60€"
+msgstr "Escreva-nos para obter detalhes sobre os custos: info@faunalia.eu"
 
 # c317ea377fba42d99ac33d7b4be557ba
 #: ../../training.rst:58
 msgid "**Sconti**: 5% per l'iscrizione simultanea a più corsi"
-msgstr ""
-"**Descontos**: desde Setembro de 2014 que a Faunalia instituiu uma politica "
-"de **descontos (25%) para estudantes ou desempregados comprovados**. Neste "
-"caso, o recibo será passado exclusivamente em nome do formando. O desconto é "
-"aplicado mediante a entrega de um comprovativo de estudante ou de inscrição "
-"no centro de emprego e não é acumulável. Os descontos não são aplicáveis nos "
-"workshops/cursos de um (1) dia"
+msgstr "**Descontos**: 5% para estudantes ou desempregados comprovados"
 
 # d46e64fc0c7e494b826fb2dc83e7df1d
 #: ../../training.rst:61
@@ -330,21 +320,14 @@ msgid ""
 "1310 0002 0048 369), indicando nella causale nome e cognome dell'iscritto e "
 "nome del corso; si raccomanda di inviare tutti i dati necessari per la "
 "fatturazione tramite il modulo qui di seguito"
-msgstr ""
-"**Pagamentos**: o valor global do curso deverá ser pago até ao início do "
-"mesmo. Os pagamentos (pré-inscrição e restante valor) podem ser efectuados "
-"por cheque enviado para a sede da Faunalia ou transferência bancária para o "
-"NIB **0035 0114 00010687630 40 (CGD)** ou **0010 0000 50993460001 46 "
-"(BPI)**, indicando como descritivo o primeiro e último nome do formando, ou "
-"da entidade a quem emitir recibo. Solicita-se ainda o envio de confirmação "
-"para **info@faunalia.pt**"
+msgstr "Escreva-nos para obter detalhes sobre os pagamentos: info@faunalia.eu"
 
 # ba650497b3c44258a03e96c3d9dbd556
 #: ../../training.rst:71
 msgid "`Iscriviti qui <subscr_form_it.html>`_"
 msgstr ""
 "Para subscrever um dos nossos cursos envie um email para o seguinte "
-"endereço: info@faunalia.pt"
+"endereço: info@faunalia.eu"
 
 # 9da0e2efb514451bacaad5b961947b64
 #: ../../training.rst:74
@@ -365,7 +348,7 @@ msgid ""
 "singole/doppie/triple."
 msgstr ""
 "Para obter informações sobre a logística do curso que lhe interessa, "
-"escreva-nos **(info@faunalia.pt)** ou ligue para o **939320104**."
+"escreva-nos **(info@faunalia.eu)**."
 
 # 70445496ccfb4e5f905683df99c5a6c3
 #: ../../training.rst:79
