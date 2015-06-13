@@ -325,9 +325,7 @@ msgstr "Escreva-nos para obter detalhes sobre os pagamentos: info@faunalia.eu"
 # ba650497b3c44258a03e96c3d9dbd556
 #: ../../training.rst:71
 msgid "`Iscriviti qui <subscr_form_it.html>`_"
-msgstr ""
-"Para subscrever um dos nossos cursos envie um email para o seguinte "
-"endereço: info@faunalia.eu"
+msgstr "`Para subscrever: info@faunalia.eu`"
 
 # 9da0e2efb514451bacaad5b961947b64
 #: ../../training.rst:74
@@ -348,7 +346,7 @@ msgid ""
 "singole/doppie/triple."
 msgstr ""
 "Para obter informações sobre a logística do curso que lhe interessa, "
-"escreva-nos **(info@faunalia.eu)**."
+"escreva-nos: info@faunalia.eu"
 
 # 70445496ccfb4e5f905683df99c5a6c3
 #: ../../training.rst:79
