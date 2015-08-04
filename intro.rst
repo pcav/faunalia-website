@@ -1,5 +1,5 @@
 .. meta::
-   :description: Faunalia team
+   :description: Faunalia vision, services, and team
    :keywords: Open Source, Free Software, Software libero, Software Livre, Software Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, Paolo Cavallini, Renzo Cavallini
 
 .. toctree::
@@ -46,7 +46,7 @@ Infine teniamo corsi di formazione teorico-pratica, sia standard, sia personaliz
 
 Team
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-L'attività di Faunalia si basa su una fitta rete internazionale di collaboratori, coordinato da Paolo Cavallini. 
+L'attività di Faunalia si basa su una fitta rete internazionale di collaboratori, coordinato da Paolo Cavallini.
 
 Paolo Cavallini
 ...............................................................................
