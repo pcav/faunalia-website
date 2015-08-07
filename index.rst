@@ -79,7 +79,7 @@ News
 New QGIS Long Term Release
 ++++++++++++++++++++++++++++++++
 
-* `QGIS 2.8.3 'Wien' new bugfix release is out <http://qgis.org/en/site/forusers/download.html>`_. Hundreds of bugfixes `(see the list <https://github.com/qgis/QGIS/compare/final-2_8_2...final-2_8_3>`_) - upgrade now! More details: http://blog.qgis.org/2015/08/06/point-release-qgis-2-8-3-wien-is-ready/
+* `QGIS 2.8.3 'Wien' new bugfix release is out <http://qgis.org/en/site/forusers/download.html>`_. Hundreds of bugfixes `(see the list <https://github.com/qgis/QGIS/compare/final-2_8_2...final-2_8_3>`_) - upgrade now! `More details on the QGIS blog <http://blog.qgis.org/2015/08/06/point-release-qgis-2-8-3-wien-is-ready/>`_
 
 A new QGIS plugin: Natural earth data
 +++++++++++++++++++++++++++++++++++++++
