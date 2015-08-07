@@ -81,13 +81,13 @@ New QGIS Long Term Release
 
 * `QGIS 2.8.3 'Wien' new bugfix release is out <http://qgis.org/en/site/forusers/download.html>`_. Hundreds of bugfixes `(see the list <https://github.com/qgis/QGIS/compare/final-2_8_2...final-2_8_3>`_) - upgrade now! More details: http://blog.qgis.org/2015/08/06/point-release-qgis-2-8-3-wien-is-ready/
 
-A new plugin: Natural earth data
-++++++++++++++++++++++++++++++++++++
+A new QGIS plugin: Natural earth data
++++++++++++++++++++++++++++++++++++++++
 
 * Just published: `a new plugin <https://plugins.qgis.org/plugins/natural_earth_raster/>`_ to automatically download Natural Earth data. Enjoy, and `report any issue <https://github.com/informeren/qgis-natural-earth-raster/issues>`_
 
-Yet another interesting plugin: Cartograms
-+++++++++++++++++++++++++++++++++++++++++++++
+Yet another interesting QGIS plugin: Cartograms
++++++++++++++++++++++++++++++++++++++++++++++++++
 
 * `Create distorted maps <http://plugins.qgis.org/plugins/cartogram/>`_, where areas of each polygon represents a variable in your data. An example:
 .. figure:: https://raw.githubusercontent.com/informeren/qgis-cartogram/develop/assets/cartogram.png
