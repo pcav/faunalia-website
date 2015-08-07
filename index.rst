@@ -86,6 +86,13 @@ A new plugin: Natural earth data
 
 * Just published: `a new plugin <https://plugins.qgis.org/plugins/natural_earth_raster/>`_ to automatically download Natural Earth data. Enjoy, and `report any issue <https://github.com/informeren/qgis-natural-earth-raster/issues>`_
 
+Yet another interesting plugin: Cartograms
++++++++++++++++++++++++++++++++++++++++++++++
+
+* `Create distorted maps <http://plugins.qgis.org/plugins/cartogram/>`_, where areas of each polygon represents a variable in your data. An example:
+.. figure:: https://raw.githubusercontent.com/informeren/qgis-cartogram/develop/assets/cartogram.png
+   :width: 400px
+
 .. _QGIS: http://www.qgis.org/
 .. _PostGIS: http://postgis.net/
 .. _OpenGeospatialConsortium: http://www.opengeospatial.org/
