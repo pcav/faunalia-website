@@ -68,23 +68,23 @@ Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro o di
 
 :doc:`More info <dev>`
 
-.. cssclass :: socialstream
+.. cssclass :: topcont
 
-Twitter stream
-============================================================================
+Faunalia
+==========================================================================
 
-.. raw:: html
+News
+--------------------------------------------------------------------------
 
-     <a class="twitter-timeline" height="395" href="https://twitter.com/FaunaliaGIS" data-widget-id="367686737524301824">Tweets by @FaunaliaGIS</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+New QGIS Long Term Release
+++++++++++++++++++++++++++++++++
 
-.. cssclass :: socialstream
+* `QGIS 2.8.3 'Wien' new bugfix release is out <http://qgis.org/en/site/forusers/download.html>`_. Hundreds of bugfixes `(see the list <https://github.com/qgis/QGIS/compare/final-2_8_2...final-2_8_3>`_) - upgrade now!
 
-Facebook stream
-============================================================================
+A new plugin: Natural earth data
+++++++++++++++++++++++++++++++++++++
 
-.. raw:: html
-
-        <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FFaunaliagis&amp;width=500&amp;height=395&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:500px; height:395px;" allowTransparency="true"></iframe>
+* Just published: `a new plugin <https://plugins.qgis.org/plugins/natural_earth_raster/>`_ to automatically download Natural Earth data. Enjoy, and `report any issue <https://github.com/informeren/qgis-natural-earth-raster/issues>`_
 
 .. _QGIS: http://www.qgis.org/
 .. _PostGIS: http://postgis.net/
