@@ -16,7 +16,7 @@ We believe the problem could be solved by the use of several free and open sourc
 
 All resulting software is and will be freely available (under GPL or similar licences).
 
-One of the approaches used involves the use of the statistical package R_ and its extension `AdeHabitat <http://cran.r-project.org/web/packages/adehabitat/index.html>`_ by Clément Calenge.
+One of the approaches used involves the use of the statistical package R_ and its extension `AdeHabitat <https://cran.r-project.org/web/packages/adehabitat/index.html>`_ by Clément Calenge.
 
 Another approach is to use plain QGIS_ to run many useful analyses (e.g. basic statistics, Minimum Convex Polygon). Fom more advanced analyses, we have developed some *ad hoc* plugins.
 
@@ -70,9 +70,8 @@ Join the group!
 
 AniMove lives thanks to the efforts of many people, which contributed through time. Your help would therefore be much appreciated. This could be a suitable project for a MSc thesis. You can collaborate by testing the software, writing manuals and other. Please subscribe to the `mailing list <http://lists.faunalia.it/cgi-bin/mailman/listinfo/animov>`_ or write us (info@faunalia.eu) if you are interested.
 
-
 **Faunalia provides ongoing support to the project**
 
 .. _QGIS: http://www.qgis.org/
-.. _Python: http://www.python.org/
-.. _R: http://www.r-project.org/
+.. _Python: https://www.python.org/
+.. _R: https://www.r-project.org/
