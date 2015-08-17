@@ -76,6 +76,18 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Opinions on QGIS: today and the future
+++++++++++++++++++++++++++++++++++++++++
+
+* An `interview <http://exporttocanoma.blogspot.it/2015/08/intervista-paolo-cavallini.html>`_ with Paolo Cavallini about QGIS and more. In Italian, sorry, non-latins! :)
+
+Customize your QGIS menus
+++++++++++++++++++++++++++++
+
+* The flux of plugins keeps on steady - just published: **Menu builder**: Create your own menus with your favorite layers. Easy configuration is done with drag & drop from the qgis browser. More are in the queue, stay tuned.
+.. figure:: https://github.com/Oslandia/qgis-menu-builder/raw/master/preview.png
+   :width: 300px
+
 New QGIS Long Term Release
 ++++++++++++++++++++++++++++++++
 
