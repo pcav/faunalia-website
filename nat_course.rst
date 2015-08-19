@@ -10,7 +10,7 @@
 New course: QGIS for naturalists
 -----------------------------------
 
-An in-depth course on free and open source GIS, focused on the popular `QGIS <http://qgis.org>`_ software and its application in natural sciences (ornithology, mammalogy, ecology), in one of the most scenic environments in Italy, the `Maremma Natural Park <http://www.parco-maremma.it/en_html>`_. You'll master the software, at the same time enjoying beautiful landscapes, and birdwatching at will.
+An in-depth course on free and open source GIS, focused on the popular `QGIS <http://qgis.org>`_ software and its application in natural sciences (ornithology, mammalogy, ecology), in one of the most scenic environments in Italy, the `Maremma Natural Park <http://www.parco-maremma.it/en.html>`_. You'll master the software, at the same time enjoying beautiful landscapes, and birdwatching at will.
 
 Every day you'll enjoy an alternance of GIS training and excursions in the Park. Every moment will be good to discuss practical applications of GIS.
 
