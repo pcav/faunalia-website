@@ -2,7 +2,7 @@
 
 .. meta::
    :description: Training on Free and Open Source GIS: QGIS, PostGIS, GDAL, MapServer, GRASS
-   :keywords: Open Source, Free Software, Software libero, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, Webmapping, Webgis, Websig, Mapserver, QGIS Server, Lizmap, QGIS Web Client, corsi, formazione, training courses, Database geografico, formation
+   :keywords: Open Source, Free Software, Software libero, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, Webmapping, Webgis, Mapserver, QGIS Server, Lizmap, QGIS Web Client, corsi, corso, formazione, training courses, Database geografico, formation
 
 .. |it| image:: images/italy.png
 .. |pt| image:: images/portugal.png
