@@ -85,6 +85,7 @@ Customize your QGIS menus
 ++++++++++++++++++++++++++++
 
 * The flux of plugins keeps on steady - just published: **Menu builder**: Create your own menus with your favorite layers. Easy configuration is done with drag & drop from the qgis browser. More are in the queue, stay tuned.
+
 .. figure:: https://github.com/Oslandia/qgis-menu-builder/raw/master/preview.png
    :width: 300px
 
@@ -102,6 +103,7 @@ Yet another interesting QGIS plugin: Cartograms
 +++++++++++++++++++++++++++++++++++++++++++++++++
 
 * `Create distorted maps <http://plugins.qgis.org/plugins/cartogram/>`_, where areas of each polygon represents a variable in your data. An example:
+
 .. figure:: https://raw.githubusercontent.com/informeren/qgis-cartogram/develop/assets/cartogram.png
    :width: 400px
 
