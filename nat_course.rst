@@ -47,9 +47,9 @@ Birdwatching and more
 
 During the week, we will:
 
-* walk up to the `San Rabano Abbey <http://www.parco-maremma.it/en/trekking-tours/a1-san-rabano.html>`_, deep into the Mediterranean maquis, in the hearth of the Park
-* bike into the `most scenic areas <http://www.parco-maremma.it/en/trekking-tours/a2-le-torri.html>`_ of the Park
-* walk `across the park down to the seaside <http://www.parco-maremma.it/en/trekking-tours/a4-cala-di-forno.html>`_
+* walk up to the `San Rabano Abbey <http://www.parco-maremma.it/en/a1-san-rabano.html>`_, deep into the Mediterranean maquis, in the hearth of the Park
+* bike into the `most scenic areas <http://www.parco-maremma.it/en/a2-le-torri.html>`_ of the Park
+* walk `across the park down to the seaside <http://www.parco-maremma.it/en/a4-cala-di-forno.html>`_
 * do a `canoe trip <http://www.silvacoop.com/>`_ along the Ombrone river.
 
 Don't forget your binoculars and field equipment.
