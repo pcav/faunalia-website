@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-17 13:41+0200\n"
+"POT-Creation-Date: 2015-08-31 08:45+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -126,32 +126,44 @@ msgid "News"
 msgstr ""
 
 #: ../../index.rst:80
-msgid "Opinions on QGIS: today and the future"
+msgid "Change the interface of your QGIS"
 msgstr ""
 
 #: ../../index.rst:82
+msgid ""
+"It is now possible, in the development version of QGIS, to `choose and "
+"create your theme <http://nathanw.net/2015/08/29/ui-theme-support-now-core-"
+"in-qgis/>`_. If you create something interesting, why not sharing it, so it "
+"may go in the next version, due in October?"
+msgstr ""
+
+#: ../../index.rst:88
+msgid "Opinions on QGIS: today and the future"
+msgstr ""
+
+#: ../../index.rst:90
 msgid ""
 "An `interview <http://exporttocanoma.blogspot.it/2015/08/intervista-paolo-"
 "cavallini.html>`_ with Paolo Cavallini about QGIS and more. In Italian, "
 "sorry, non-latins! :)"
 msgstr ""
 
-#: ../../index.rst:85
+#: ../../index.rst:93
 msgid "Customize your QGIS menus"
 msgstr ""
 
-#: ../../index.rst:87
+#: ../../index.rst:95
 msgid ""
 "The flux of plugins keeps on steady - just published: **Menu builder**: "
 "Create your own menus with your favorite layers. Easy configuration is done "
 "with drag & drop from the qgis browser. More are in the queue, stay tuned."
 msgstr ""
 
-#: ../../index.rst:92
+#: ../../index.rst:101
 msgid "New QGIS Long Term Release"
 msgstr ""
 
-#: ../../index.rst:94
+#: ../../index.rst:103
 msgid ""
 "`QGIS 2.8.3 'Wien' new bugfix release is out <http://qgis.org/en/site/"
 "forusers/download.html>`_. Hundreds of bugfixes `(see the list <https://"
@@ -160,11 +172,11 @@ msgid ""
 "release-qgis-2-8-3-wien-is-ready/>`_"
 msgstr ""
 
-#: ../../index.rst:97
+#: ../../index.rst:106
 msgid "A new QGIS plugin: Natural earth data"
 msgstr ""
 
-#: ../../index.rst:99
+#: ../../index.rst:108
 msgid ""
 "Just published: `a new plugin <https://plugins.qgis.org/plugins/"
 "natural_earth_raster/>`_ to automatically download Natural Earth data. "
@@ -172,11 +184,11 @@ msgid ""
 "earth-raster/issues>`_"
 msgstr ""
 
-#: ../../index.rst:102
+#: ../../index.rst:111
 msgid "Yet another interesting QGIS plugin: Cartograms"
 msgstr ""
 
-#: ../../index.rst:104
+#: ../../index.rst:113
 msgid ""
 "`Create distorted maps <http://plugins.qgis.org/plugins/cartogram/>`_, where "
 "areas of each polygon represents a variable in your data. An example:"

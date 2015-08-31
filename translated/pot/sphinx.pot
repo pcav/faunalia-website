@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-17 13:41+0200\n"
+"POT-Creation-Date: 2015-08-31 08:45+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,23 +44,23 @@ msgstr ""
 msgid "Seguici"
 msgstr ""
 
-#: ../../_templates/layout.html:102
+#: ../../_templates/layout.html:101
 msgid "&copy; <a href=\"%(path)s\">Copyright</a> %(copyright)s."
 msgstr ""
 
-#: ../../_templates/layout.html:104
+#: ../../_templates/layout.html:103
 msgid "&copy; Copyright %(copyright)s."
 msgstr ""
 
-#: ../../_templates/layout.html:108
+#: ../../_templates/layout.html:107
 msgid "Last updated on %(last_updated)s."
 msgstr ""
 
-#: ../../_templates/layout.html:111
+#: ../../_templates/layout.html:110
 msgid "Created using <a href=\"http://sphinx-doc.org/\">Sphinx</a> %(sphinx_version)s."
 msgstr ""
 
-#: ../../_templates/layout.html:116
+#: ../../_templates/layout.html:115
 msgid "Torna su"
 msgstr ""
 
