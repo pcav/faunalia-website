@@ -76,6 +76,14 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Change the interface of your QGIS
+++++++++++++++++++++++++++++++++++++++++
+
+* It is now possible, in the development version of QGIS, to `choose and create your theme <http://nathanw.net/2015/08/29/ui-theme-support-now-core-in-qgis/>`_. If you create something interesting, why not sharing it, so it may go in the next version, due in October?
+
+.. figure:: https://woostuff.files.wordpress.com/2015/08/qgis-b789fab_029.png?w=730
+   :width: 300px
+
 Opinions on QGIS: today and the future
 ++++++++++++++++++++++++++++++++++++++++
 
