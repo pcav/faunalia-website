@@ -81,6 +81,9 @@ Paolo Cavallini @ ASITA
 
 * Nella prossima `conferenza ASITA <http://www.asita.it/>`_ (Federazione delle Associazioni Scientifiche per le Informazioni Territoriali e Ambientali) terremo un intervento nella sessione `Il software geografico libero: una reale opportunità di sviluppo? <http://www.asita.it/blog/il-software-geografico-libero-una-reale-opportunita-di-sviluppo/>`_. Siete i benvenuti, passate ed intervenite.
 
+.. figure:: http://www.asita.it/static/media/uploads/blog/lecco.jpg
+   :width: 300px
+
 Change the interface of your QGIS
 ++++++++++++++++++++++++++++++++++++++++
 
