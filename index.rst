@@ -76,18 +76,18 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
-More backround maps in QGIS
+More background maps in QGIS
 +++++++++++++++++++++++++++++++
 
-* One hidden gem in QGIS: `QuickMapServices Plugin <http://plugins.qgis.org/plugins/quick_map_services/>`_; it allows you to add 47 backround layers from the web, including the well known Google services as well as unknown, interesting stuff - and you are encouraged to add your own!
+* One hidden gem in QGIS: `QuickMapServices Plugin <http://plugins.qgis.org/plugins/quick_map_services/>`_; it allows you to add 47 background layers from the web, including the well known Google services as well as less known, interesting stuff - and you are encouraged to add your own!
 
-.. image :: images/logo_faunalia_notext.png
+.. image :: images/quickmapservices.png
    :width: 300px
 
 Paolo Cavallini @ ASITA
 +++++++++++++++++++++++++++
 
-* Nella prossima `conferenza ASITA <http://www.asita.it/>`_ (Federazione delle Associazioni Scientifiche per le Informazioni Territoriali e Ambientali) terremo un intervento nella sessione `Il software geografico libero: una reale opportunità di sviluppo? <http://www.asita.it/blog/il-software-geografico-libero-una-reale-opportunita-di-sviluppo/>`_. Siete i benvenuti, passate ed intervenite.
+* Nella prossima `conferenza ASITA <http://www.asita.it/>`_ (Federazione delle Associazioni Scientifiche per le Informazioni Territoriali e Ambientali) terremo un intervento nella sessione `Il software geografico libero: una reale opportunità di sviluppo? <http://www.asita.it/blog/il-software-geografico-libero-una-reale-opportunita-di-sviluppo/>`_ Siete i benvenuti, passate ed intervenite.
 
 .. figure:: http://www.asita.it/static/media/uploads/blog/lecco.jpg
    :width: 300px
