@@ -76,6 +76,14 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+More backround maps in QGIS
++++++++++++++++++++++++++++++++
+
+* One hidden gem in QGIS: `QuickMapServices Plugin <http://plugins.qgis.org/plugins/quick_map_services/>`_; it allows you to add 47 backround layers from the web, including the well known Google services as well as unknown, interesting stuff - and you are encouraged to add your own!
+
+.. image :: images/logo_faunalia_notext.png
+   :width: 300px
+
 Paolo Cavallini @ ASITA
 +++++++++++++++++++++++++++
 
