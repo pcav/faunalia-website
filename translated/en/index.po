@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-07 08:16+0200\n"
+"POT-Creation-Date: 2015-09-07 15:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -126,10 +126,30 @@ msgid "News"
 msgstr ""
 
 #: ../../index.rst:80
-msgid "More background maps in QGIS"
+msgid "A WPS inside QGIS?"
 msgstr ""
 
 #: ../../index.rst:82
+msgid ""
+"Thanks to friends from `3Liz <http://www.3liz.com/>`_, you can now have `Web "
+"Processing <https://github.com/3liz/qgis-wps4server>`_ within your QGIS "
+"server, in addition to the existing WMS and WFS. **wps4server** is a QGIS "
+"Server Plugin that provides `OGC Web Processing <http://www.opengeospatial."
+"org/standards/wps>`_ capabilities, based on `PyWPS <http://pywps.wald."
+"intevation.org/>`_ and QGIS Processing. With wps4server you can publish all "
+"the QGIS Processing algorithms through Web Processing. This means you can "
+"create a Web Processing Service that provides QGIS, GRASS7, GDAL/OGR, Orfeo "
+"Toolbox, SAGA algorithms, and also your R and Python scripts algorithms, and "
+"your Processing models. With a configuration file, you can restrict the "
+"algorithms number. `Source code and an installation guide <//github.com/3liz/"
+"qgis-wps4server>`_ available. *Test and feedback are welcome!*"
+msgstr ""
+
+#: ../../index.rst:85
+msgid "More background maps in QGIS"
+msgstr ""
+
+#: ../../index.rst:87
 msgid ""
 "One hidden gem in QGIS: `QuickMapServices Plugin <http://plugins.qgis.org/"
 "plugins/quick_map_services/>`_; it allows you to add 47 background layers "
@@ -137,11 +157,11 @@ msgid ""
 "known, interesting stuff - and you are encouraged to add your own!"
 msgstr ""
 
-#: ../../index.rst:88
+#: ../../index.rst:93
 msgid "Paolo Cavallini @ ASITA"
 msgstr ""
 
-#: ../../index.rst:90
+#: ../../index.rst:95
 msgid ""
 "Nella prossima `conferenza ASITA <http://www.asita.it/>`_ (Federazione delle "
 "Associazioni Scientifiche per le Informazioni Territoriali e Ambientali) "
@@ -151,11 +171,11 @@ msgid ""
 "passate ed intervenite."
 msgstr ""
 
-#: ../../index.rst:96
+#: ../../index.rst:101
 msgid "Change the interface of your QGIS"
 msgstr ""
 
-#: ../../index.rst:98
+#: ../../index.rst:103
 msgid ""
 "It is now possible, in the development version of QGIS, to `choose and "
 "create your theme <http://nathanw.net/2015/08/29/ui-theme-support-now-core-"
@@ -163,33 +183,33 @@ msgid ""
 "may go in the next version, due in October?"
 msgstr ""
 
-#: ../../index.rst:104
+#: ../../index.rst:109
 msgid "Opinions on QGIS: today and the future"
 msgstr ""
 
-#: ../../index.rst:106
+#: ../../index.rst:111
 msgid ""
 "An `interview <http://exporttocanoma.blogspot.it/2015/08/intervista-paolo-"
 "cavallini.html>`_ with Paolo Cavallini about QGIS and more. In Italian, "
 "sorry, non-latins! :)"
 msgstr ""
 
-#: ../../index.rst:109
+#: ../../index.rst:114
 msgid "Customize your QGIS menus"
 msgstr ""
 
-#: ../../index.rst:111
+#: ../../index.rst:116
 msgid ""
 "The flux of plugins keeps on steady - just published: **Menu builder**: "
 "Create your own menus with your favorite layers. Easy configuration is done "
 "with drag & drop from the qgis browser. More are in the queue, stay tuned."
 msgstr ""
 
-#: ../../index.rst:117
+#: ../../index.rst:122
 msgid "New QGIS Long Term Release"
 msgstr ""
 
-#: ../../index.rst:119
+#: ../../index.rst:124
 msgid ""
 "`QGIS 2.8.3 'Wien' new bugfix release is out <http://qgis.org/en/site/"
 "forusers/download.html>`_. Hundreds of bugfixes `(see the list <https://"
@@ -198,11 +218,11 @@ msgid ""
 "release-qgis-2-8-3-wien-is-ready/>`_"
 msgstr ""
 
-#: ../../index.rst:122
+#: ../../index.rst:127
 msgid "A new QGIS plugin: Natural earth data"
 msgstr ""
 
-#: ../../index.rst:124
+#: ../../index.rst:129
 msgid ""
 "Just published: `a new plugin <https://plugins.qgis.org/plugins/"
 "natural_earth_raster/>`_ to automatically download Natural Earth data. "
@@ -210,11 +230,11 @@ msgid ""
 "earth-raster/issues>`_"
 msgstr ""
 
-#: ../../index.rst:127
+#: ../../index.rst:132
 msgid "Yet another interesting QGIS plugin: Cartograms"
 msgstr ""
 
-#: ../../index.rst:129
+#: ../../index.rst:134
 msgid ""
 "`Create distorted maps <http://plugins.qgis.org/plugins/cartogram/>`_, where "
 "areas of each polygon represents a variable in your data. An example:"

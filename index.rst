@@ -79,33 +79,7 @@ News
 A WPS inside QGIS?
 ++++++++++++++++++++
 
-Thanks to friends from `3Liz <http://www.3liz.com/>`_, you can now have `Web Processing <https://github.com/3liz/qgis-wps4server>`_ within your QGIS server, in addition to the existing WMS and WFS.
-
-**wps4server** is a QGIS Server Plugin that provides `OGC Web Processing <http://www.opengeospatial.org/standards/wps>`_ capabilities, based on `PyWPS <http://pywps.wald.intevation.org/>`_and QGIS Processing.
-
-With wps4server you can publish all the QGIS Processing algorithms through Web Processing. This means you can create a Web Processing Service that provides:
-
-* QGIS algorithms
-* GRASS7 algorithms
-* GDAL/OGR algorithms
-* Orfeo Toolbox algorithms
-* SAGA algorithms
-
-But also your:
-
-* R scripts algorithms
-* Python scripts algorithms
-* Models algorithms
-
-With a configuration file, you can restrict the algorithms number based on:
-
-* a provider list
-* name and title filter
-* an algorithm list
-
-You can find the source code and an installation guide here : https://github.com/3liz/qgis-wps4server
-
-Test and feedback are welcome!
+* Thanks to friends from `3Liz <http://www.3liz.com/>`_, you can now have `Web Processing <https://github.com/3liz/qgis-wps4server>`_ within your QGIS server, in addition to the existing WMS and WFS. **wps4server** is a QGIS Server Plugin that provides `OGC Web Processing <http://www.opengeospatial.org/standards/wps>`_ capabilities, based on `PyWPS <http://pywps.wald.intevation.org/>`_ and QGIS Processing. With wps4server you can publish all the QGIS Processing algorithms through Web Processing. This means you can create a Web Processing Service that provides QGIS, GRASS7, GDAL/OGR, Orfeo Toolbox, SAGA algorithms, and also your R and Python scripts algorithms, and your Processing models. With a configuration file, you can restrict the algorithms number. `Source code and an installation guide <//github.com/3liz/qgis-wps4server>`_ available. *Test and feedback are welcome!*
 
 More background maps in QGIS
 +++++++++++++++++++++++++++++++
