@@ -66,14 +66,15 @@ Paolo Cavallini
 * `Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) <pdf/Cavallini_CV_eu.pdf>`__
 * `Alcune mie conferenze <https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-AC4ktZQ/>`_
 * `My recent contributions to free software <https://github.com/pcav>`_
-* *e-mail*: cavallini@faunalia.it - *PEC*: paolo.cavallini@pec.it
-* *Tel/Viber/Line*: +39-348-3801953
-* *Skype*: paolo.gg.cavallini
-* *Hangout*: paolo.cavallini@gmail.com
 
 .. raw:: html
 
 	<a href="https://www.ohloh.net/accounts/20905?ref=Tiny"><img src="https://www.ohloh.net/accounts/20905/widgets/account_tiny.gif" border="0" alt="Ohloh" /></a>
+
+* *e-mail*: cavallini@faunalia.it - *PEC*: paolo.cavallini@pec.it
+* *Tel/Viber/Line*: +39-348-3801953
+* *Skype*: paolo.gg.cavallini
+* *Hangout*: paolo.cavallini@gmail.com
 
 Renzo Cavallini
 ...............................................................................
