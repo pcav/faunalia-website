@@ -65,6 +65,7 @@ Paolo Cavallini
 * `Curriculum Vitae (html) <cv_pc_it.html>`__
 * `Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) <pdf/Cavallini_CV_eu.pdf>`__
 * `Alcune mie conferenze <https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-AC4ktZQ/>`_
+* `My recent contributions to free software <https://github.com/pcav>`_
 * *e-mail*: cavallini@faunalia.it - *PEC*: paolo.cavallini@pec.it
 * *Tel/Viber/Line*: +39-348-3801953
 * *Skype*: paolo.gg.cavallini
