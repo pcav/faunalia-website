@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-07 15:31+0200\n"
+"POT-Creation-Date: 2015-09-09 08:04+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -137,58 +137,62 @@ msgid "`Alcune mie conferenze <https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-
 msgstr ""
 
 #: ../../intro.rst:68
+msgid "`My recent contributions to free software <https://github.com/pcav>`_"
+msgstr ""
+
+#: ../../intro.rst:74
 msgid "*e-mail*: cavallini@faunalia.it - *PEC*: paolo.cavallini@pec.it"
 msgstr ""
 
-#: ../../intro.rst:69
+#: ../../intro.rst:75
 msgid "*Tel/Viber/Line*: +39-348-3801953"
 msgstr ""
 
-#: ../../intro.rst:70
+#: ../../intro.rst:76
 msgid "*Skype*: paolo.gg.cavallini"
 msgstr ""
 
-#: ../../intro.rst:71
+#: ../../intro.rst:77
 msgid "*Hangout*: paolo.cavallini@gmail.com"
 msgstr ""
 
-#: ../../intro.rst:78
+#: ../../intro.rst:80
 msgid "Renzo Cavallini"
 msgstr ""
 
-#: ../../intro.rst:83
+#: ../../intro.rst:85
 msgid "Geologo, specializzato in geofisica"
 msgstr ""
 
-#: ../../intro.rst:84
+#: ../../intro.rst:86
 msgid "Ha collaborato a livello scientifico e didattico con l'Università di Pisa"
 msgstr ""
 
-#: ../../intro.rst:85
+#: ../../intro.rst:87
 msgid "Ha pubblicato nel settore geofisico"
 msgstr ""
 
-#: ../../intro.rst:86
+#: ../../intro.rst:88
 msgid "Conduce attività di prospezione geotecnica, in laboratorio ed *in situ*"
 msgstr ""
 
-#: ../../intro.rst:88
+#: ../../intro.rst:90
 msgid "esecuzione ed elaborazione di prove di laboratorio su terreni naturali: consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), compressione semplice, analisi granulometrica, limiti di consistenza (LL, LP, LR), peso specifico dei granuli, permeabilità in cella edometrica, triassiale e in permeametro (norme seguite: racc. AGI, CNR, ASTM)"
 msgstr ""
 
-#: ../../intro.rst:89
+#: ../../intro.rst:91
 msgid "esecuzione ed elaborazione di prove di laboratorio su materiali stradali e da costruzione: compattazione Proctor Standard e modificata, penetrazione CBR, miscelazione delle terre con calce (norme seguite: EN, CNR, ASTM)"
 msgstr ""
 
-#: ../../intro.rst:90
+#: ../../intro.rst:92
 msgid "esecuzione ed elaborazione di prove in situ: penetrometriche statiche con punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o senza rivestimento, PLT, densità in situ"
 msgstr ""
 
-#: ../../intro.rst:91
+#: ../../intro.rst:93
 msgid "installazione e messa a punto di apparecchiature di laboratorio e di sistemi di acquisizione automatica; calibrazione di trasduttori elettrici"
 msgstr ""
 
-#: ../../intro.rst:93
+#: ../../intro.rst:95
 msgid "*e-mail*: renzo.cavallini@faunalia.it"
 msgstr ""
 
