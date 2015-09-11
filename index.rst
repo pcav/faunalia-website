@@ -76,6 +76,11 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Full GRASS 7 support in QGIS
++++++++++++++++++++++++++++++++
+
+* Thanks to the patient work of Radim Blazek, and to the many donors, the work on a full, and much improved, support for GRASS in QGIS is almost completed. See the detail at the `crowdfunding page <http://www.gissula.eu/qgis-grass-plugin-crowdfunding/progress.html>`_. Expected delivery in 1.5 months, with QGIS 2.12.
+
 A WPS inside QGIS?
 ++++++++++++++++++++
 
