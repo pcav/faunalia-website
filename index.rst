@@ -76,6 +76,14 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Really Fast Fourier filter for rasters in QGIS
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+* I just approved for publication an interesting plugin: `FFT Convolution Filters <http://plugins.qgis.org/plugins/fft-convolution-filter-master/>`_; it allows both to detect edges and smooth an existing raster - and it's impressively fast! *Beware*: you need NumPy, SciPy and Rasterio python modules installed in your system. Have fun
+
+.. image :: images/ff_convolution.png
+   :width: 300px
+
 Full GRASS 7 support in QGIS
 +++++++++++++++++++++++++++++++
 
