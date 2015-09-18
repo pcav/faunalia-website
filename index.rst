@@ -79,7 +79,7 @@ News
 QGIS keeps on growing in popularity, ArcGIS starts declining?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-* `Long term trends in internet searches https://www.google.com/trends/explore#q=qgis%2C%20arcgis%2C%20gvsig%2C%20mapinfo&cmpt=q&tz=Etc%2FGMT-2>`_ seem to show the continuous increase in QGIS popularity; whet is new is that the proprietary market leader started loosing ground  - future is bright for free GIS.
+* `Long term trends in internet searches <https://www.google.com/trends/explore#q=qgis%2C%20arcgis%2C%20gvsig%2C%20mapinfo&cmpt=q&tz=Etc%2FGMT-2>`_ seem to show a continuous increase in QGIS popularity; what is new is that the proprietary market leader started loosing ground, for the first time ever - future is bright for free GIS.
 
 .. image :: images/trends0.png
    :width: 300px
