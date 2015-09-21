@@ -76,6 +76,11 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+GFOSS Day Italia 2015: Faunalia c'è
++++++++++++++++++++++++++++++++++++++
+
+* Faunalia sarà presente al `GFOSS Day 2015 <http://gfossday2015.associazionegfoss.it/index.html>`_, la settima conferenza italiana sul software geografico libero ed open source, a Lecco il 28 e 29 settembre, con: (1) un workshop su QGIS_; (2) una conferenza sullo stato di sviluppo del progetto QGIS_; (3) un intervento, già annunciato, nell'ambito della `conferenza ASITA <http://www.asita.it/>`_. Per iscrivervi al workshop, usate la `pagina di registrazione <http://gfossday2015.associazionegfoss.it/registrazione.html>`_. L'iscrizione è gratuita per i soci GFOSS.it, richiede una donazione per i non soci. **A presto!**
+
 QGIS keeps on growing in popularity, ArcGIS starts declining?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
