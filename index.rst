@@ -76,6 +76,11 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+New PostGIS version
++++++++++++++++++++++
+
+* Just released **PostGIS 2.2.0**: lots of `improvements and new commands <http://svn.osgeo.org/postgis/tags/2.2.0/NEWS>`_. My favourite of the day: `ST_ClusterWithin <http://postgis.net/docs/manual-2.2/ST_ClusterWithin.html`_, which aggregates all geometries within a set distance from the others.
+
 GFOSS Day Italia 2015: Faunalia c'è
 +++++++++++++++++++++++++++++++++++++
 
