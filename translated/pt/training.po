@@ -347,7 +347,7 @@ msgid ""
 "singole/doppie/triple."
 msgstr ""
 "Para obter informações sobre a logística do curso que lhe interessa, "
-"escreva-nos: info@faunalia.eu"
+"escreva-nos: info@faunalia.eu."
 
 # 70445496ccfb4e5f905683df99c5a6c3
 #: ../../training.rst:79
