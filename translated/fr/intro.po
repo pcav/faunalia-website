@@ -154,8 +154,8 @@ msgid ""
 "favoriamo il riutilizzo delle singole componenti e il trashware."
 msgstr ""
 "Faunalia est particulièrement engagée dans la réduction de l'impact de ses "
-"activités sur l'environnement: nous réduisons nos mouvements en privilegiant ​​"
-"le travail à distance, nous utilisons des sources renouvelables certifiées "
+"activités sur l'environnement: nous réduisons nos mouvements en privilegiant "
+"​​le travail à distance, nous utilisons des sources renouvelables certifiées "
 "en matière délectricité', nous adoptons des cycles d'utilisation du matériel "
 "plus longs que la norme, et nous privilégions la réutilisation de composants "
 "et le *trashware*."
@@ -168,11 +168,12 @@ msgstr "Services"
 # b8a0e5217dba40d69e56e9e492c4103b
 #: ../../intro.rst:39
 msgid ""
-"La nostra offerta di servizi è riassumibile in tre aree principali\\: :doc:"
-"`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione <training>`."
+"La nostra offerta di servizi è riassumibile in tre aree principali\\: "
+":doc:`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione "
+"<training>`."
 msgstr ""
-"Notre gamme de services renvoie à trois domaines principaux\\: :doc:"
-"`développement <dev>`, :doc:`assistance <support>` et :doc:`formation "
+"Notre gamme de services renvoie à trois domaines principaux\\: "
+":doc:`développement <dev>`, :doc:`assistance <support>` et :doc:`formation "
 "<training>`."
 
 # 0d9537fc94a942f2ab5df24400d3f760
@@ -186,8 +187,8 @@ msgstr ""
 "Faunalia contribue directement au développement des logiciels qu'elle "
 "utilise et propose sur le marché, en collaborant avec les meilleurs "
 "développeurs de SIG dans le monde entier. Au fil des ans, nous avons "
-"contribué à l'élaboration de divers outils, dont QGIS, GRASS, PostGIS, GDAL/"
-"OGR."
+"contribué à l'élaboration de divers outils, dont QGIS, GRASS, PostGIS, "
+"GDAL/OGR."
 
 # 49bc3928cb4d4ba89abae2723e193b1f
 #: ../../intro.rst:43
@@ -236,8 +237,8 @@ msgstr "Fondateur de Faunalia "
 # 89e9e1fc097a4254b73ea7b4f6d50b20
 #: ../../intro.rst:58
 msgid ""
-"Membro del *QGIS Project Steering Commitee* col ruolo di *Financial/"
-"Marketing Advisor*"
+"Membro del *QGIS Project Steering Commitee* col ruolo di "
+"*Financial/Marketing Advisor*"
 msgstr ""
 "Membre du *QGIS Project Steering Commitee* en tant que *Financial/Marketing "
 "Advisor*"
@@ -263,11 +264,11 @@ msgstr ""
 # fdd0adf5373648759b7d691e40e92d7e
 #: ../../intro.rst:61
 msgid ""
-"Socio fondatore di `ITPUG - ITalian PostgreSQL User Group <http://www.itpug."
-"org>`_"
+"Socio fondatore di `ITPUG - ITalian PostgreSQL User Group "
+"<http://www.itpug.org>`_"
 msgstr ""
-"Co-Fondateur de `ITPUG - ITalian PostgreSQL User Group <http://www.itpug."
-"org>`_"
+"Co-Fondateur de `ITPUG - ITalian PostgreSQL User Group "
+"<http://www.itpug.org>`_"
 
 # 6f1bd28a37b245f286bf2b35665bd9fa
 #: ../../intro.rst:62
@@ -300,22 +301,23 @@ msgstr "`Curriculum Vitae (html-en) <cv_pc_en.html>`__"
 # 0a87c16587584301b1d912bdf90752f8
 #: ../../intro.rst:66
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) <pdf/"
-"Cavallini_CV_eu.pdf>`__"
+"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) "
+"<pdf/Cavallini_CV_eu.pdf>`__"
 msgstr "`Curriculum Vitae (pdf-en) <pdf/Cavallini_CV_en.pdf>`__"
 
 # 556122cf766c45969fe434d2a09b2cfd
 #: ../../intro.rst:67
 msgid ""
-"`Alcune mie conferenze <https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-"
-"AC4ktZQ/>`_"
+"`Alcune mie conferenze "
+"<https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-AC4ktZQ/>`_"
 msgstr ""
-"`Certains de mes conférences <https://www.youtube.com/channel/"
-"UCgfHOBPf0zh_FiQ-AC4ktZQ/>`_"
+"`Certains de mes conférences "
+"<https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-AC4ktZQ/>`_"
 
 #: ../../intro.rst:68
 msgid "`My recent contributions to free software <https://github.com/pcav>`_"
 msgstr ""
+"`Mes contributions récentes au logiciel libre <https://github.com/pcav>`_"
 
 # b956ac317a9e43e3b3eba330e2a527c9
 #: ../../intro.rst:74
@@ -433,11 +435,11 @@ msgstr "*e-mail*: renzo.cavallini@faunalia.it"
 
 # 92e5e56111ae4a58af219d06bb84952b
 #~ msgid ""
-#~ "Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and Open-"
-#~ "Source Software Association <http://osgeopt.pt/>`_"
+#~ "Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and "
+#~ "Open-Source Software Association <http://osgeopt.pt/>`_"
 #~ msgstr ""
-#~ "Co-Fondateur de `OSGeo Portugal - Portuguese Geographic Free and Open-"
-#~ "Source Software Association <http://osgeopt.pt/>`_"
+#~ "Co-Fondateur de `OSGeo Portugal - Portuguese Geographic Free and "
+#~ "Open-Source Software Association <http://osgeopt.pt/>`_"
 
 # 162c6121a6004904abfddd9243d4e8df
 #~ msgid ""
@@ -458,8 +460,8 @@ msgstr "*e-mail*: renzo.cavallini@faunalia.it"
 
 # 5b545c847c054fcd85c5ede7db0d9953
 #~ msgid ""
-#~ "`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`__ - `europeo (pdf) <pdf/"
-#~ "Manghi_CV_eu.pdf>`__"
+#~ "`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`__ - `europeo (pdf) "
+#~ "<pdf/Manghi_CV_eu.pdf>`__"
 #~ msgstr "`Curriculum Vitae (pdf-en) <pdf/Manghi_CV_en.pdf>`__"
 
 # 3472687752ef4624a6d1046f9ab20882
@@ -492,11 +494,11 @@ msgstr "*e-mail*: renzo.cavallini@faunalia.it"
 
 # 92e5e56111ae4a58af219d06bb84952b
 #~ msgid ""
-#~ "Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and Open-"
-#~ "Source Software Association <http://osgeopt.pt/>`_"
+#~ "Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and "
+#~ "Open-Source Software Association <http://osgeopt.pt/>`_"
 #~ msgstr ""
-#~ "Co-Fondatrice de `OSGeo Portugal - Portuguese Geographic Free and Open-"
-#~ "Source Software Association <http://osgeopt.pt/>`_"
+#~ "Co-Fondatrice de `OSGeo Portugal - Portuguese Geographic Free and "
+#~ "Open-Source Software Association <http://osgeopt.pt/>`_"
 
 # f2e2c08f2fe54447b9ddb4ca52b3af41
 #~ msgid "`Curriculum Vitae (html) <cv_vn_it.html>`__"
@@ -504,8 +506,8 @@ msgstr "*e-mail*: renzo.cavallini@faunalia.it"
 
 # b4774407f5f4434e85b360162f644107
 #~ msgid ""
-#~ "`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`__ - `europeo (pdf) <pdf/"
-#~ "Neves_CV_eu.pdf>`__"
+#~ "`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`__ - `europeo (pdf) "
+#~ "<pdf/Neves_CV_eu.pdf>`__"
 #~ msgstr "`Curriculum Vitae (pdf-en) <pdf/Neves_CV_en.pdf>`__"
 
 # 12db5196f90647d8b593e6b4c685d9d4

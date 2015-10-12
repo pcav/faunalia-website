@@ -237,7 +237,7 @@ Argomenti principali
 
   * importazione ed esportazione shapefile ed altri formati
   * digitalizzazione
-  * query, *plugins* avanzati, storicizzazione, ecc.)
+  * query, *plugins* avanzati, storicizzazione, ecc.
 
 * Analisi spaziali in SQL: esercizi pratici, di base ed avanzati
 * Indici spaziali
@@ -278,7 +278,7 @@ Argomenti principali
 * Sicurezza del server
 * Installazione e configurazione di QGIS server
 * Pubblicare servizi WMS e WFS
-* WbGIS ricchi di funzioni: `QGIS web client <https://github.com/qgis/QGIS-Web-Client/>`_ (`demo <http://gis.uster.ch/>`_) e `LizMap <http://www.3liz.com/lizmap.html/>`_
+* WebGIS ricchi di funzioni: `QGIS web client <https://github.com/qgis/QGIS-Web-Client/>`_ (`demo <http://gis.uster.ch/>`_) e `LizMap <http://www.3liz.com/lizmap.html/>`_
 * Approfondimento su `LizMap <http://www.3liz.com/lizmap.html/>`_
 
   * funzionalità di base

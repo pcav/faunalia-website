@@ -163,8 +163,9 @@ msgstr "Services"
 # b8a0e5217dba40d69e56e9e492c4103b
 #: ../../intro.rst:39
 msgid ""
-"La nostra offerta di servizi è riassumibile in tre aree principali\\: :doc:"
-"`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione <training>`."
+"La nostra offerta di servizi è riassumibile in tre aree principali\\: "
+":doc:`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione "
+"<training>`."
 msgstr ""
 "Our commercial offer focuses on three main areas\\: :doc:`development "
 "<dev>`, :doc:`assistance <support>` and :doc:`training <training>`."
@@ -227,11 +228,11 @@ msgstr "Founder of Faunalia"
 # 89e9e1fc097a4254b73ea7b4f6d50b20
 #: ../../intro.rst:58
 msgid ""
-"Membro del *QGIS Project Steering Commitee* col ruolo di *Financial/"
-"Marketing Advisor*"
+"Membro del *QGIS Project Steering Commitee* col ruolo di "
+"*Financial/Marketing Advisor*"
 msgstr ""
-"Member of *QGIS Project Steering Commitee* with the role of *Financial/"
-"Marketing Advisor*"
+"Member of *QGIS Project Steering Commitee* with the role of "
+"*Financial/Marketing Advisor*"
 
 # 92e5e56111ae4a58af219d06bb84952b
 #: ../../intro.rst:59
@@ -248,14 +249,14 @@ msgid ""
 "Socio e *charter member* della fondazione internazionale `OSGeo - Open "
 "Source Geospatial Foundation <http://www.osgeo.org/>`_"
 msgstr ""
-"Charter member of `OSGeo - Open Source Geospatial Foundation <http://www."
-"osgeo.org/>`_ * international foundation"
+"Charter member of `OSGeo - Open Source Geospatial Foundation "
+"<http://www.osgeo.org/>`_ * international foundation"
 
 # fdd0adf5373648759b7d691e40e92d7e
 #: ../../intro.rst:61
 msgid ""
-"Socio fondatore di `ITPUG - ITalian PostgreSQL User Group <http://www.itpug."
-"org>`_"
+"Socio fondatore di `ITPUG - ITalian PostgreSQL User Group "
+"<http://www.itpug.org>`_"
 msgstr ""
 "Co-founder of `ITPUG - ITalian PostgreSQL User Group <http://www.itpug.org>`_"
 
@@ -289,22 +290,22 @@ msgstr "`Curriculum Vitae (html) <cv_pc_en.html>`__"
 # 70801919d32d45a49f60c7c3c9ff8b2e
 #: ../../intro.rst:66
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) <pdf/"
-"Cavallini_CV_eu.pdf>`__"
+"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) "
+"<pdf/Cavallini_CV_eu.pdf>`__"
 msgstr "`Curriculum Vitae (pdf) <pdf/Cavallini_CV_en.pdf>`__"
 
 # 556122cf766c45969fe434d2a09b2cfd
 #: ../../intro.rst:67
 msgid ""
-"`Alcune mie conferenze <https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-"
-"AC4ktZQ/>`_"
+"`Alcune mie conferenze "
+"<https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-AC4ktZQ/>`_"
 msgstr ""
-"`Some of my talks <https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-AC4ktZQ/"
-">`_"
+"`Some of my talks "
+"<https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-AC4ktZQ/>`_"
 
 #: ../../intro.rst:68
 msgid "`My recent contributions to free software <https://github.com/pcav>`_"
-msgstr ""
+msgstr "`My recent contributions to free software <https://github.com/pcav>`_"
 
 # a1c10919702c4131a1d76e6220ca4264
 #: ../../intro.rst:74
@@ -419,11 +420,11 @@ msgstr "*e-mail*: renzo.cavallini@faunalia.it"
 
 # 92e5e56111ae4a58af219d06bb84952b
 #~ msgid ""
-#~ "Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and Open-"
-#~ "Source Software Association <http://osgeopt.pt/>`_"
+#~ "Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and "
+#~ "Open-Source Software Association <http://osgeopt.pt/>`_"
 #~ msgstr ""
-#~ "Co-founder of `OSGeo Portugal - Portuguese Geographic Free and Open-"
-#~ "Source Software Association <http://osgeopt.pt/>`_"
+#~ "Co-founder of `OSGeo Portugal - Portuguese Geographic Free and "
+#~ "Open-Source Software Association <http://osgeopt.pt/>`_"
 
 # 162c6121a6004904abfddd9243d4e8df
 #~ msgid ""
@@ -444,8 +445,8 @@ msgstr "*e-mail*: renzo.cavallini@faunalia.it"
 
 # fb9167a7fa5b4395a8d03095f9ae74cd
 #~ msgid ""
-#~ "`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`__ - `europeo (pdf) <pdf/"
-#~ "Manghi_CV_eu.pdf>`__"
+#~ "`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`__ - `europeo (pdf) "
+#~ "<pdf/Manghi_CV_eu.pdf>`__"
 #~ msgstr "`Curriculum Vitae (pdf) <pdf/Manghi_CV_en.pdf>`__"
 
 # 3472687752ef4624a6d1046f9ab20882
@@ -478,11 +479,11 @@ msgstr "*e-mail*: renzo.cavallini@faunalia.it"
 
 # 92e5e56111ae4a58af219d06bb84952b
 #~ msgid ""
-#~ "Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and Open-"
-#~ "Source Software Association <http://osgeopt.pt/>`_"
+#~ "Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and "
+#~ "Open-Source Software Association <http://osgeopt.pt/>`_"
 #~ msgstr ""
-#~ "Co-founder of `OSGeo Portugal - Portuguese Geographic Free and Open-"
-#~ "Source Software Association <http://osgeopt.pt/>`_"
+#~ "Co-founder of `OSGeo Portugal - Portuguese Geographic Free and "
+#~ "Open-Source Software Association <http://osgeopt.pt/>`_"
 
 # f2e2c08f2fe54447b9ddb4ca52b3af41
 #~ msgid "`Curriculum Vitae (html) <cv_vn_it.html>`__"
@@ -490,8 +491,8 @@ msgstr "*e-mail*: renzo.cavallini@faunalia.it"
 
 # 8630faa3be4b4cda952d6b505825b794
 #~ msgid ""
-#~ "`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`__ - `europeo (pdf) <pdf/"
-#~ "Neves_CV_eu.pdf>`__"
+#~ "`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`__ - `europeo (pdf) "
+#~ "<pdf/Neves_CV_eu.pdf>`__"
 #~ msgstr "`Curriculum Vitae (pdf) <pdf/Neves_CV_en.pdf>`__"
 
 # 12db5196f90647d8b593e6b4c685d9d4
