@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-12 19:17+0200\n"
+"POT-Creation-Date: 2015-10-12 19:27+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -547,7 +547,7 @@ msgid "Vantaggi dell'uso di un database nel GIS"
 msgstr ""
 
 #: ../../training.rst:226
-msgid "Introduzione a `PostgreSQL <http://www.postgresql.org/`>_"
+msgid "Introduzione a `PostgreSQL <http://www.postgresql.org/>`_"
 msgstr ""
 
 #: ../../training.rst:227
@@ -559,7 +559,7 @@ msgid "Ottimizzazione di PostgreSQL"
 msgstr ""
 
 #: ../../training.rst:229
-msgid "Introduzione a `PostGIS <http://postgis.net/>`_ (standard `Open Geospatial Consortium <http://www.opengeospatial.org/>'_)"
+msgid "Introduzione a `PostGIS <http://postgis.net/>`_ (standard `Open Geospatial Consortium <http://www.opengeospatial.org/>`_)"
 msgstr ""
 
 #: ../../training.rst:230
@@ -659,7 +659,7 @@ msgid "Come scegliere il WebGIS che fa per te"
 msgstr ""
 
 #: ../../training.rst:270
-msgid "La pubblicazione semplicissima: generazioni di semplici applicazioni `Leaflet <http://leafletjs.com/>`_ e `OpenLayers <http://openlayers.org//>`_ a partire da progetti QGIS, con pochi click"
+msgid "La pubblicazione semplicissima: generazioni di semplici applicazioni `Leaflet <http://leafletjs.com/>`_ e `OpenLayers <http://openlayers.org/>`_ a partire da progetti QGIS, con pochi click"
 msgstr ""
 
 #: ../../training.rst:271

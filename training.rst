@@ -223,10 +223,10 @@ Argomenti principali
 
 * Breve introduzione ai Sistemi Informativi Territoriali *open source*
 * Vantaggi dell'uso di un database nel GIS
-* Introduzione a `PostgreSQL <http://www.postgresql.org/`>_
+* Introduzione a `PostgreSQL <http://www.postgresql.org/>`_
 * Prima configurazione del database: i files di configurazione, gestione del server
 * Ottimizzazione di PostgreSQL
-* Introduzione a `PostGIS <http://postgis.net/>`_ (standard `Open Geospatial Consortium <http://www.opengeospatial.org/>'_)
+* Introduzione a `PostGIS <http://postgis.net/>`_ (standard `Open Geospatial Consortium <http://www.opengeospatial.org/>`_)
 * Geodatabase: struttura e formato dati
 * Amministrazione da riga di comando: psql
 * Amministrazione da interfaccia grafica: QGIS, PhpPgAdmin, PgAdmin 3, OpenOffice, ecc.
@@ -267,7 +267,7 @@ Argomenti principali
 ...................................................................................................
 
 * Come scegliere il WebGIS che fa per te
-* La pubblicazione semplicissima: generazioni di semplici applicazioni `Leaflet <http://leafletjs.com/>`_ e `OpenLayers <http://openlayers.org//>`_ a partire da progetti QGIS, con pochi click
+* La pubblicazione semplicissima: generazioni di semplici applicazioni `Leaflet <http://leafletjs.com/>`_ e `OpenLayers <http://openlayers.org/>`_ a partire da progetti QGIS, con pochi click
 * Creazione di semplici applicazioni web 3D navigabili
 * Gli standard *Open Geospatial Consortium* per la pubblicazione WebGIS
 
