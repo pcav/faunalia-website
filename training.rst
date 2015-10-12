@@ -88,11 +88,12 @@ Adatto anche a chi ha poca esperienza sui GIS e sulla cartografia. È necessario
 Argomenti principali
 ...................................................................................................
 
-* Breve introduzione ai Sistemi Informativi Geografici opensource
+* Breve introduzione ai Sistemi Informativi Geografici *open source*
 * Introduzione a QGIS
 * Installazione di QGIS nei vari sistemi operativi
 * Interfaccia utente e criteri di utilizzo
 * Configurazione dell'ambiente di lavoro
+* Gestione delle proiezioni
 * Progetti
 * Gestione dei plugins
 * I dati geografici vettoriali
@@ -101,7 +102,6 @@ Argomenti principali
   * tematizzazione vettoriale ed etichettatura avanzata
   * tabelle dati, attributi ed azioni; importazione di dati tabellari
 
-* Gestione delle proiezioni
 * Interfacciamento con GPS
 * Digitalizzazione dei vettori, vettorializzazione avanzata di tipo "CAD"
 * I geodatabase e QGIS: PostGIS e SpatiaLite
@@ -114,7 +114,8 @@ Argomenti principali
   * gestione dei sistemi di riferimento, mosaici
   * georeferenziazione
 
-* Stampa avanzata
+* Visualizzazione 3D
+* Stampa avanzata, stampa seriale
 
 Durata 
 ...................................................................................................
@@ -123,7 +124,7 @@ Tre giorni *full time*
 Analisi con QGIS
 ===================================================
 
-Per imparare a realizzare analisi raster e vettoriali, e modellistica spaziale, unendo la potenza di elaborazione GIS di GRASS, SAGA, Orfeo ToolBox con la semplicità d'uso di QGIS. Al termine del corso, l'utente avrà appreso a gestire con facilità l'ambiente di lavoro di QGIS, e ad effettuare analisi anche complesse in modo semplice ed intuitivo. 
+Per imparare a realizzare analisi raster e vettoriali, e modellistica spaziale, unendo la potenza di elaborazione GIS di `GRASS <https://grass.osgeo.org/>`_, `SAGA <http://www.saga-gis.org/>`_, `Orfeo ToolBox <https://www.orfeo-toolbox.org/>`_, ecc., con la semplicità d'uso di QGIS. Al termine del corso, l'utente avrà appreso a gestire con facilità l'ambiente di lavoro di QGIS, e ad effettuare analisi anche complesse in modo semplice ed intuitivo. 
 
 Adatto a chi desidera approfondire l'uso analitico e predittivo dei GIS, avendo già delle nozioni di base.
 
@@ -131,29 +132,32 @@ Adatto a chi desidera approfondire l'uso analitico e predittivo dei GIS, avendo 
 
 Argomenti principali
 ...................................................................................................
-* Introduzione ai vari software
 
-  * QGIS e i suoi plugins
-  * Plugins addizionali
-  * processing
-  * GRASS
-  * SAGA
-  * Orfeo ToolBox (OTB)
+* Le alternative disponibili entro QGIS: quale la più adatta per ogni scopo
+* Analisi vettoriali di base
 
-* Analisi vettoriali di base: dissolve, merge, overlay, gestione delle tabelle di attributi, ecc.
+  * dissolve, merge, overlay, buffer, gestione delle tabelle di attributi, ecc.
+
 * Correzione di errori topologici e semplificazione dei vettori
-* Analisi geomorfologica: creazione di modelli digitali del terreno, curve di livello, mappe di pendenza, esposizione, ombreggiatura
-* Interpolazioni
-* Buffer raster e vettoriali, analisi di distanza, percorsi di minimo costo
-* Riclassificazione dei raster, algebra delle mappe
-* Statistiche zonali
-* Analisi di intervisibilità
-* Analisi idrologiche: calcolo dei bacini
-* Visualizzazioni tridimensionali
-* Analisi multicriterio: mappe di priorità, mappe di rischio
-* Classificazione automatica dell'uso del suolo, estrazione di elementi
-* Analisi dei cambiamenti (land use change)
-* Creazione di modelli, tramite interfaccia grafica o testuale; script per l'automazione di processo
+* Analisi raster
+
+  * analisi geomorfologica: creazione di modelli digitali del terreno, curve di livello, mappe di pendenza, esposizione, ombreggiatura
+  * interpolazioni
+  * analisi di distanza
+  * riclassificazione dei raster, algebra delle mappe
+  * statistiche zonali
+  * esempi: analisi di intervisibilità, idrologiche, multi criterio: mappe di priorità, mappe di rischio
+
+* Analisi d'immagine
+
+  * classificazione automatica dell'uso del suolo
+  * estrazione di elementi
+
+* Gestione delle proiezioni
+* Calcolatore raster e vettoriale
+* Creazione di modelli tramite interfaccia grafica
+* Automazione di analisi ricorsive ed in serie tramite interfaccia grafica
+* Script per l'automazione di processo
 
 Durata 
 ...................................................................................................
@@ -210,25 +214,36 @@ Geodatabase: PostgreSQL e PostGIS
 
 Per apprendere a creare e gestire banche dati geografiche complesse, e realizzare analisi approfondite con visualizzazione in tempo reale delle analisi fatte. Il corso permette di familiarizzare con la gestione dei dati vettoriali tramite SQL, con l'importazione dei dati geografici e l'interrogazione di dati sia geografici che alfanumerici tramite numerose applicazioni.
 
-Preferibile conoscenza del linguaggio SQL. È necessario avere dimestichezza con l'uso del PC.
+Al termine del corso, i discenti avranno a loro disposizione una **server WebGIS virtualizzato**, completamente **funzionante ed efficiente**, pronto per essere utilizzato in un qualsiasi provider.
+
+Preferibile, ma non indispensabile, una conoscenza anche rudimentale del linguaggio SQL. È necessario avere piena dimestichezza con l'uso del PC.
 
 Argomenti principali
 ...................................................................................................
 
-* Introduzione ai sistemi informativi territoriali opensource
+* Breve introduzione ai Sistemi Informativi Territoriali *open source*
 * Vantaggi dell'uso di un database nel GIS
-* Introduzione al RDBMS Open Source PostgreSQL
-* Schemi, tabelle, viste, funzioni
-* Prima configurazione del database
-* Utenti, permessi, accessi
-* Introduzione a PostGIS (standard Open Geospatial Consortium)
+* Introduzione a `PostgreSQL <http://www.postgresql.org/`>_
+* Prima configurazione del database: i files di configurazione, gestione del server
+* Ottimizzazione di PostgreSQL
+* Introduzione a `PostGIS <http://postgis.net/>`_ (standard `Open Geospatial Consortium <http://www.opengeospatial.org/>'_)
 * Geodatabase: struttura e formato dati
-* Creazione di un database geografico
-* Amministrazione del database e accesso ai dati
 * Amministrazione da riga di comando: psql
-* I front-ends grafici: QGIS, PhpPgAdmin, PgAdmin 3, OpenOffice, ecc.
-* PostGIS e QGIS: Importazione shapefile, Digitalizzazione, Query, Plugins avanzati per queries
-* Funzioni avanzate di geodatabase: Funzioni standard OGC, Estensioni di PostGIS, Conversione tra sistemi di coordinate
+* Amministrazione da interfaccia grafica: QGIS, PhpPgAdmin, PgAdmin 3, OpenOffice, ecc.
+* Amministrazione del database e accesso ai dati: ruoli, utenti, gruppi, permessi, accessi
+* Schemi, tabelle, viste, funzioni
+* Creazione di un database geografico
+* PostGIS e QGIS
+
+  * importazione ed esportazione shapefile ed altri formati
+  * digitalizzazione
+  * query, *plugins* avanzati, storicizzazione, ecc.)
+
+* Analisi spaziali in SQL: esercizi pratici, di base ed avanzati
+* Indici spaziali
+* Benchmarking
+* Funzioni avanzate di geodatabase
+* Sistemi di riferimento spaziale, conversione tra sistemi di coordinate
 * I raster in PostGIS
 * Cenni sulla topologia
 * Copia e salvataggio
@@ -239,25 +254,40 @@ Tre giorni *full time*
 
 WebMapping con QGIS
 ===================================================
+
 Per apprendere in breve tempo il più innovativo e semplice ambiente di sviluppo per WebGIS e WebMapping, basato su QGIS.
 
 Consente di pubblicare sul web le mappe sviluppate e configurate tramite QGIS Desktop, senza necessità di complesse operazioni di configurazione del loro aspetto grafico.
+
+Al termine del corso, i discenti avranno a loro disposizione una **server PostGIS virtualizzato**, completamente **funzionante ed efficiente**, pronto per essere utilizzato in un qualsiasi provider.
 
 Sono necessarie nozioni di base sui GIS, sulla cartografia e sul web. È consigliabile una conoscenza di base di QGIS. È necessario avere piena dimestichezza con l'uso del PC.
 
 Argomenti principali
 ...................................................................................................
 
-* Gli standard *Open Geospatial Consortium* per la pubblicazione webGIS
+* Come scegliere il WebGIS che fa per te
+* La pubblicazione semplicissima: generazioni di semplici applicazioni `Leaflet <http://leafletjs.com/>`_ e `OpenLayers <http://openlayers.org//>`_ a partire da progetti QGIS, con pochi click
+* Creazione di semplici applicazioni web 3D navigabili
+* Gli standard *Open Geospatial Consortium* per la pubblicazione WebGIS
 
   * WMS, WFS, WFS-T, WCS, WPS
 
+* Crea il tuo server
+* Ottimizzazione del server
+* Sicurezza del server
 * Installazione e configurazione di QGIS server
-* Pubblicare WMS e WFS
-* Editing online: WFS-T
-* Installazione e configurazione di QGIS web client
-* Installazione e configurazione di LizMap
-* Criteri di ottimizzazione
+* Pubblicare servizi WMS e WFS
+* WbGIS ricchi di funzioni: `QGIS web client <https://github.com/qgis/QGIS-Web-Client/>`_ (`demo <http://gis.uster.ch/>`_) e `LizMap <http://www.3liz.com/lizmap.html/>`_
+* Approfondimento su `LizMap <http://www.3liz.com/lizmap.html/>`_
+
+  * funzionalità di base
+  * guida per l'utente
+  * guida per l'amministratore: installazione e configurazione
+  * gestione di utenti e gruppi
+  * guida per chi pubblica le mappe: visualizzazione dei dati, foto, files
+  * come rendere veloce il tuo WebGIS: criteri di ottimizzazione
+  * editing online: WFS-T
 
 Durata 
 ...................................................................................................
