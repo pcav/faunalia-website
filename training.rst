@@ -49,6 +49,7 @@ Analisi con QGIS (IT)                    21-23 Ottobre         1 Ottobre        
 Geodatabase: PostgreSQL e PostGIS (IT)   18-20 Novembre        1 Novembre            Pontedera, IT  Italiano
 WebMapping con QGIS (IT)                 10-11 Dicembre        1 Dicembre            Pontedera, IT  Italiano
 Cartografia con QGIS (IT)                Gennaio 2016          3 Gennaio             Pontedera, IT  Italiano
+Analisi con QGIS (IT)                    Febbraio 2016         1 Febbraio            Pontedera, IT  Italiano
 ======================================== ====================  ===================== ============== ===========
 
 Costi
@@ -164,51 +165,6 @@ Durata
 
 Tre giorni *full time*
 
-Creare plugin in Python per QGIS
-===================================================
-
-Per sviluppare plugins (estensioni) per QGIS, utilizzando il linguaggio di programmazione Python. La finalità principale è fornire i concetti fondamentali e l'esperienza pratica per lo sviluppo di plugins. Dopo una breve introduzione a questo linguaggio, i partecipanti saranno guidati passo a passo nella creazione di un plugin.
-
-È preferibile, ma non obbligatoria, una conoscenza di base di Phyton. È necessaria una conoscenza di base dei principi di programmazione.
-
-Argomenti principali
-...................................................................................................
-
-* Come creare plugin Python per QGIS
-
-  * la sintassi Python
-  * il mio primo plugin in Python: mostra un messaggio in un riquadro
-  * creare interfacce utente con QtDesigner (.ui)
-  * secondo plugin: aggiungere un layer all’area di mappa di QGIS
-  * creare un file di risorse (.qrc)
-
-* Le classi principali delle API Qt
-
-  * il modulo QTCore (QObject, QString, QAction, QFile, ...)
-  * il modulo QTGui (QWidget, QDialog, QMessageBox, QFileDialog, ...)
-  * accedere alla API QT tramite Python: PyQT (tipi QT mappati da tipi nativi Python, parametro di uscita)
-
-* Le principali classi API QGIS e le loro relazioni
-
-  * costanti e impostazioni: classi QGis e QgsApplication
-  * l’interfaccia del plugin: QgisInterface e metodi comuni usati nei plugins
-  * area mappa, strati e legenda: QgsMapCanvas, QgsMapLayer, QgsLegendInterface, QgsMapLayerRegistry
-  * strati vettoriali: QgsVectorLayer, QgsVectorDataProvider, QgsField, QgsFeature, QgsGeometry
-  * strati raster: QgsRasterLayer, QgsRasterDataProvider
-  * strumenti di mappa e banda elastica: QgsMapTool, QgsMapToolEmitPoint, QgsRubberBand
-  * elementi della mappa e snap: QgsMapCanvasItem, QgsVertexMarker, QgsSnapper
-  * classi dei sistemi di riferimento: QgsCoordinateReferenceSystem, QgsCoordinateTransform
-  * classi di utilità: QgsDataSourceURI
-
-* Usiamo pyQGIS
-
-  * esempi di codice
-
-Durata 
-...................................................................................................
-
-Tre giorni *full time*
-
 Geodatabase: PostgreSQL e PostGIS
 ===================================================
 
@@ -293,3 +249,48 @@ Durata
 ...................................................................................................
 
 Due giorni *full time*
+
+Creare plugin in Python per QGIS
+===================================================
+
+Per sviluppare plugins (estensioni) per QGIS, utilizzando il linguaggio di programmazione Python. La finalità principale è fornire i concetti fondamentali e l'esperienza pratica per lo sviluppo di plugins. Dopo una breve introduzione a questo linguaggio, i partecipanti saranno guidati passo a passo nella creazione di un plugin.
+
+È preferibile, ma non obbligatoria, una conoscenza di base di Phyton. È necessaria una conoscenza di base dei principi di programmazione.
+
+Argomenti principali
+...................................................................................................
+
+* Come creare plugin Python per QGIS
+
+  * la sintassi Python
+  * il mio primo plugin in Python: mostra un messaggio in un riquadro
+  * creare interfacce utente con QtDesigner (.ui)
+  * secondo plugin: aggiungere un layer all’area di mappa di QGIS
+  * creare un file di risorse (.qrc)
+
+* Le classi principali delle API Qt
+
+  * il modulo QTCore (QObject, QString, QAction, QFile, ...)
+  * il modulo QTGui (QWidget, QDialog, QMessageBox, QFileDialog, ...)
+  * accedere alla API QT tramite Python: PyQT (tipi QT mappati da tipi nativi Python, parametro di uscita)
+
+* Le principali classi API QGIS e le loro relazioni
+
+  * costanti e impostazioni: classi QGis e QgsApplication
+  * l’interfaccia del plugin: QgisInterface e metodi comuni usati nei plugins
+  * area mappa, strati e legenda: QgsMapCanvas, QgsMapLayer, QgsLegendInterface, QgsMapLayerRegistry
+  * strati vettoriali: QgsVectorLayer, QgsVectorDataProvider, QgsField, QgsFeature, QgsGeometry
+  * strati raster: QgsRasterLayer, QgsRasterDataProvider
+  * strumenti di mappa e banda elastica: QgsMapTool, QgsMapToolEmitPoint, QgsRubberBand
+  * elementi della mappa e snap: QgsMapCanvasItem, QgsVertexMarker, QgsSnapper
+  * classi dei sistemi di riferimento: QgsCoordinateReferenceSystem, QgsCoordinateTransform
+  * classi di utilità: QgsDataSourceURI
+
+* Usiamo pyQGIS
+
+  * esempi di codice
+
+Durata 
+...................................................................................................
+
+Tre giorni *full time*
