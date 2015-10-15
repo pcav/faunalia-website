@@ -270,8 +270,8 @@ msgstr "Write us for details about costs: info@faunalia.eu"
 #: ../../training.rst:59
 msgid "**Sconti**: 5% per l'iscrizione simultanea a più corsi"
 msgstr ""
-"Discounts for simultaneous subscription to more than one course or if you "
-"are a student or unemployed, write us for details: info@faunalia.eu"
+"Discounts for simultaneous subscription to more than one course, write us "
+"for details: info@faunalia.eu"
 
 # d46e64fc0c7e494b826fb2dc83e7df1d
 #: ../../training.rst:62
