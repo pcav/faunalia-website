@@ -76,6 +76,11 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Let us hear your voice: a survey on QGIS usage
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* We would like to better understand how you are using QGIS so that we can improve the way that we manage the project. We have compiled this short survey, and would be most appreciative if you could take a few minutes to complete it for us. All responses are anonymous and we will share the results with the community so that we can all benefit from the insights gained. You can find the survey here: http://blog.qgis.org/2015/10/15/take-the-qgis-user-survey/
+
 New PostGIS version
 +++++++++++++++++++++
 
