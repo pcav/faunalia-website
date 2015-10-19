@@ -76,6 +76,14 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Faunalia al Linux Day
++++++++++++++++++++++++
+
+* Paolo Cavallini parlerà di geografia libera (QGIS e dati geografici) al `Linux Day di Livorno <http://linux.livorno.it/sito/1080/linux-day-2015/>`_: una chiacchierata informale, venite e chiedete.
+
+.. image :: images/ld_li_2015.png
+   :width: 300px
+
 Let us hear your voice: a survey on QGIS usage
 +++++++++++++++++++++++++++++++++++++++++++++++++
 
