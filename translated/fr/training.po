@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-13 08:53+0200\n"
+"POT-Creation-Date: 2015-10-24 11:03+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,13 +58,12 @@ msgstr ""
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:27
 msgid ""
-"Iscrivetevi alla `mailing list "
-"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
-"annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
+"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
 msgstr ""
-"Abonnez vous à la `liste de diffusion "
-"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/formation>`_ pour "
-"recevoir les annonces des nouvelles formations."
+"Abonnez vous à la `liste de diffusion <http://lists.faunalia.it/cgi-bin/"
+"mailman/listinfo/formation>`_ pour recevoir les annonces des nouvelles "
+"formations."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:30
@@ -125,9 +124,8 @@ msgstr ""
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:37
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
-"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
-"ECDL-GIS "
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
+"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
 "<http://www.aica.it/aica/ecdl-gis/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
 "Ils permettent l'accès aux examens *European Computer Driving Licence - GIS*."
@@ -219,13 +217,15 @@ msgstr "WebMapping avec QGIS (IT)"
 
 # f7db670e6b22473f88e2168c85cf783a
 #: ../../training.rst:50
-msgid "10-11 Dicembre"
-msgstr "10-11 Décembre"
+#, fuzzy
+msgid "3-4 Dicembre"
+msgstr "03-05 Décembre"
 
-# f7db670e6b22473f88e2168c85cf783a
+# bdc24911e5b54efc9a5a5d9ce5940acc
 #: ../../training.rst:50
-msgid "1 Dicembre"
-msgstr "1 Décembre"
+#, fuzzy
+msgid "15 Novembre"
+msgstr "1 Novembre"
 
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
@@ -341,15 +341,14 @@ msgstr "Logistique"
 # e2c77797de9e472598dc6f4abdcf19db
 #: ../../training.rst:77
 msgid ""
-"**Sede**: Pontedera (PI), presso `Pont-Tech "
-"<http://www.pont-tech.it/contatti/>`_, oppure `Faunalia "
-"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
-"facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli "
-"sulla città "
-"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluse strutture ricettive). Convenzione con `Il Piccolo "
-"<http://www.ilpiccolorooms.it/>`_, per il pernottamento: 45/60/80 € per "
-"camere singole/doppie/triple."
+"**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/"
+"contatti/>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
+"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
+"pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune."
+"pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive). Convenzione con `Il Piccolo <http://www."
+"ilpiccolorooms.it/>`_, per il pernottamento: 45/60/80 € per camere singole/"
+"doppie/triple."
 msgstr ""
 "Pour les détails sur les sièges des courses, écrivez nous: info@faunalia.eu ."
 
@@ -548,12 +547,12 @@ msgstr "Analyse avec QGIS"
 #: ../../training.rst:128
 msgid ""
 "Per imparare a realizzare analisi raster e vettoriali, e modellistica "
-"spaziale, unendo la potenza di elaborazione GIS di `GRASS "
-"<https://grass.osgeo.org/>`_, `SAGA <http://www.saga-gis.org/>`_, `Orfeo "
-"ToolBox <https://www.orfeo-toolbox.org/>`_, ecc., con la semplicità d'uso di "
-"QGIS. Al termine del corso, l'utente avrà appreso a gestire con facilità "
-"l'ambiente di lavoro di QGIS, e ad effettuare analisi anche complesse in "
-"modo semplice ed intuitivo."
+"spaziale, unendo la potenza di elaborazione GIS di `GRASS <https://grass."
+"osgeo.org/>`_, `SAGA <http://www.saga-gis.org/>`_, `Orfeo ToolBox <https://"
+"www.orfeo-toolbox.org/>`_, ecc., con la semplicità d'uso di QGIS. Al termine "
+"del corso, l'utente avrà appreso a gestire con facilità l'ambiente di lavoro "
+"di QGIS, e ad effettuare analisi anche complesse in modo semplice ed "
+"intuitivo."
 msgstr ""
 "Apprendre à créer des analyses raster et vectorielles et la modélisation "
 "spatiale, en combinant la puissance de traitement d'outils comme `GRASS "
@@ -897,9 +896,9 @@ msgid ""
 "`Leaflet <http://leafletjs.com/>`_ e `OpenLayers <http://openlayers.org/>`_ "
 "a partire da progetti QGIS, con pochi click"
 msgstr ""
-"Le WebGIS facile: comment céer une application `Leaflet "
-"<http://leafletjs.com/>`_ ou `OpenLayers <http://openlayers.org/>`_ à partir "
-"d'un projet QGIS, avec quelques clicks seulement"
+"Le WebGIS facile: comment céer une application `Leaflet <http://leafletjs."
+"com/>`_ ou `OpenLayers <http://openlayers.org/>`_ à partir d'un projet QGIS, "
+"avec quelques clicks seulement"
 
 #: ../../training.rst:227
 msgid "Creazione di semplici applicazioni web 3D navigabili"
@@ -940,13 +939,13 @@ msgstr "Publier WMS et WFS"
 
 #: ../../training.rst:237
 msgid ""
-"WebGIS ricchi di funzioni: `QGIS web client "
-"<https://github.com/qgis/QGIS-Web-Client/>`_ (`demo "
-"<http://gis.uster.ch/>`_) e `LizMap <http://www.3liz.com/lizmap.html/>`_"
+"WebGIS ricchi di funzioni: `QGIS web client <https://github.com/qgis/QGIS-"
+"Web-Client/>`_ (`demo <http://gis.uster.ch/>`_) e `LizMap <http://www.3liz."
+"com/lizmap.html/>`_"
 msgstr ""
-"WebGIS riches en fonctionnalités: `QGIS web client "
-"<https://github.com/qgis/QGIS-Web-Client/>`_ (`demo "
-"<http://gis.uster.ch/>`_) et `LizMap <http://www.3liz.com/lizmap.html/>`_"
+"WebGIS riches en fonctionnalités: `QGIS web client <https://github.com/qgis/"
+"QGIS-Web-Client/>`_ (`demo <http://gis.uster.ch/>`_) et `LizMap <http://"
+"www.3liz.com/lizmap.html/>`_"
 
 #: ../../training.rst:238
 msgid "Approfondimento su `LizMap <http://www.3liz.com/lizmap.html/>`_"
@@ -1149,6 +1148,14 @@ msgstr "Utilisons PyQGIS"
 #: ../../training.rst:291
 msgid "esempi di codice"
 msgstr "exemples de code"
+
+# f7db670e6b22473f88e2168c85cf783a
+#~ msgid "10-11 Dicembre"
+#~ msgstr "10-11 Décembre"
+
+# f7db670e6b22473f88e2168c85cf783a
+#~ msgid "1 Dicembre"
+#~ msgstr "1 Décembre"
 
 # 77344998c5a048b48338dc79c5c15ac7
 #~ msgid "Introduzione ai vari software"
@@ -1412,10 +1419,6 @@ msgstr "exemples de code"
 #~ msgid "01-02 Dicembre"
 #~ msgstr "01-02 Décembre"
 
-# f7db670e6b22473f88e2168c85cf783a
-#~ msgid "03-05 Dicembre"
-#~ msgstr "03-05 Décembre"
-
 # 5f579eacdfe14ef58b3777e851296a6b
 #~ msgid "02-04 Febbraio 2015"
 #~ msgstr "02-04 Février 2015"
@@ -1529,13 +1532,12 @@ msgstr "exemples de code"
 #~ msgstr "14 Avril"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
-#, qt-format
 #~ msgid ""
-#~ "`Scarica il calendario (ics) "
-#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
+#~ "`Scarica il calendario (ics) <https://www.google.com/calendar/ical/"
+#~ "faunaliagis%40gmail.com/public/basic.ics>`_"
 #~ msgstr ""
-#~ "`Téléchargez le calendrier (ics) "
-#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
+#~ "`Téléchargez le calendrier (ics) <https://www.google.com/calendar/ical/"
+#~ "faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 67da7a1be0814b30a5a20d7f14e2e4ba
 #~ msgid "2-4 Aprile"
