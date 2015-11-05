@@ -76,6 +76,19 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Paolo Cavallini appointed as QGIS co-chair
+++++++++++++++++++++++++++++++++++++++++++++
+
+* **QGIS.org is becoming a formal association. In this process, Tim Sutton has been elected as Chair of the project, and Paolo Cavallini as co-chair - a great honour and responsibility. See: http://blog.qgis.org/2015/11/03/introducing-the-qgis-board/
+
+Yet another country: Faunalia training in Saudi Arabia
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* Renzo Cavallini has recently done a successful course at the College of Technology in Riyadh (Saudi Arabia) about geotechnical testing.
+
+.. image :: images/arabia1.jpg
+   :width: 300px
+
 Faunalia al Linux Day
 +++++++++++++++++++++++
 
