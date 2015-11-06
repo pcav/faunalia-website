@@ -76,6 +76,14 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Nasce il gruppo italiano degli utenti di QGIS_
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* Siamo finalmente pronti: da oggi chi è interessato al futuro di QGIS potrà partecipare attivamente. Trovate le semplicissime istruzioni sul sito `QGIS.it <http://qgis.it/>`_ . In pratica, ci mettiamo insieme, tutti quelli che donano (codice o euro) al progetto decidono poi insieme come investire quanto raccolto. Per qualunque chiarimento, non esitate a chiedere.
+
+.. image :: images/qgis-icon.png
+   :width: 300px
+
 Paolo Cavallini appointed as QGIS co-chair
 ++++++++++++++++++++++++++++++++++++++++++++
 
