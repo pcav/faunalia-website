@@ -74,7 +74,7 @@ Paolo Cavallini
 * *e-mail*: cavallini@faunalia.it - *PEC*: paolo.cavallini@pec.it
 * *Tel/Viber/Line*: +39-348-3801953
 * *Skype*: paolo.gg.cavallini
-* *Hangout*: paolo.cavallini@gmail.com
+* *Hangout*: paolo.cavallini
 
 Renzo Cavallini
 ...............................................................................
