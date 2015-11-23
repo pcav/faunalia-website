@@ -58,11 +58,13 @@ msgstr ""
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:27
 msgid ""
-"Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi."
+"Iscrivetevi alla `mailing list "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli "
+"annunci di nuovi corsi."
 msgstr ""
-"Subscribe to the `mailing list <http://lists.faunalia.it/cgi-bin/mailman/"
-"listinfo/training>`_ to receive the updates for new training activities."
+"Subscribe to the `mailing list "
+"<http://lists.faunalia.it/cgi-bin/mailman/listinfo/training>`_ to receive "
+"the updates for new training activities."
 
 # 70a1d8bd2ac248eea1ff2124ab535775
 #: ../../training.rst:30
@@ -121,8 +123,9 @@ msgstr ""
 # 229037677ceb4f4195b050caaf7623cf
 #: ../../training.rst:37
 msgid ""
-"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://"
-"www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS "
+"Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS "
+"<http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore "
+"ECDL-GIS "
 "<http://www.aica.it/aica/ecdl-gis/area-esaminatori/esaminatori-1/c>`_."
 msgstr ""
 "Allow the access to the European Computer Driving Licence - GIS (ECDL-GIS)."
@@ -199,9 +202,8 @@ msgstr "Cartography with QGIS (IT)"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
 #: ../../training.rst:49
-#, fuzzy
 msgid "20-22 Gennaio 2016"
-msgstr "January 2014"
+msgstr "20-22 January 2014"
 
 # 2837589f472d43e6b2fcc68aa9118522
 #: ../../training.rst:49
@@ -216,9 +218,8 @@ msgstr "GIS analysis with QGIS (IT)"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
 #: ../../training.rst:50
-#, fuzzy
 msgid "17-19 Febbraio 2016"
-msgstr "February 2016"
+msgstr "17-19 February 2016"
 
 # 5f579eacdfe14ef58b3777e851296a6b
 #: ../../training.rst:50
@@ -232,27 +233,23 @@ msgstr "Geographic databases: PostgreSQL and PostGIS (IT)"
 
 # 53d00af130964089957a33ca9154d0b3
 #: ../../training.rst:51
-#, fuzzy
 msgid "16-18 Marzo 2016"
-msgstr "26-28 March 2014"
+msgstr "16-18 March 2014"
 
 # 5b9b45b66a3e4c648de8b6c852acf4eb
 #: ../../training.rst:51
-#, fuzzy
 msgid "1 Marzo"
-msgstr "15 March"
+msgstr "1 March"
 
 # eafdbe68fb894344a151fb2d4142818d
 #: ../../training.rst:52
-#, fuzzy
 msgid "14-15 Aprile 2016"
-msgstr "2-4 April 2014"
+msgstr "14-15 April 2014"
 
 # 67da7a1be0814b30a5a20d7f14e2e4ba
 #: ../../training.rst:52
-#, fuzzy
 msgid "1 Aprile"
-msgstr "15 April"
+msgstr "1 April"
 
 # 2b01fbfd1fbb417da072f5b12ca3fae2
 #: ../../training.rst:56
@@ -340,14 +337,15 @@ msgstr "Logistic"
 # e2c77797de9e472598dc6f4abdcf19db
 #: ../../training.rst:77
 msgid ""
-"**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/"
-"contatti/>`_, oppure `Faunalia <http://www.openstreetmap.org/?"
-"lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi "
-"pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune."
-"pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
-"(incluse strutture ricettive). Convenzione con `Il Piccolo <http://www."
-"ilpiccolorooms.it/>`_, per il pernottamento: 45/60/80 € per camere singole/"
-"doppie/triple."
+"**Sede**: Pontedera (PI), presso `Pont-Tech "
+"<http://www.pont-tech.it/contatti/>`_, oppure `Faunalia "
+"<http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, "
+"facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli "
+"sulla città "
+"<http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ "
+"(incluse strutture ricettive). Convenzione con `Il Piccolo "
+"<http://www.ilpiccolorooms.it/>`_, per il pernottamento: 45/60/80 € per "
+"camere singole/doppie/triple."
 msgstr ""
 "Write us (info@faunalia.eu) for details about the course venue, details "
 "about boarding, etc."
@@ -546,17 +544,17 @@ msgstr "GIS analysis with QGIS"
 #: ../../training.rst:128
 msgid ""
 "Per imparare a realizzare analisi raster e vettoriali, e modellistica "
-"spaziale, unendo la potenza di elaborazione GIS di `GRASS <https://grass."
-"osgeo.org/>`_, `SAGA <http://www.saga-gis.org/>`_, `Orfeo ToolBox <https://"
-"www.orfeo-toolbox.org/>`_, ecc., con la semplicità d'uso di QGIS. Al termine "
-"del corso, l'utente avrà appreso a gestire con facilità l'ambiente di lavoro "
-"di QGIS, e ad effettuare analisi anche complesse in modo semplice ed "
-"intuitivo."
+"spaziale, unendo la potenza di elaborazione GIS di `GRASS "
+"<https://grass.osgeo.org/>`_, `SAGA <http://www.saga-gis.org/>`_, `Orfeo "
+"ToolBox <https://www.orfeo-toolbox.org/>`_, ecc., con la semplicità d'uso di "
+"QGIS. Al termine del corso, l'utente avrà appreso a gestire con facilità "
+"l'ambiente di lavoro di QGIS, e ad effettuare analisi anche complesse in "
+"modo semplice ed intuitivo."
 msgstr ""
 "To learn how to do raster and vector GIS analysis, joining the power of "
-"tools like `GRASS <https://grass.osgeo.org/>`_, `SAGA <http://www.saga-gis."
-"org/>`_, `Orfeo ToolBox <https://www.orfeo-toolbox.org/>`_, etc. with the "
-"ease of use of QGIS."
+"tools like `GRASS <https://grass.osgeo.org/>`_, `SAGA "
+"<http://www.saga-gis.org/>`_, `Orfeo ToolBox "
+"<https://www.orfeo-toolbox.org/>`_, etc. with the ease of use of QGIS."
 
 # 0aae20c6352c4b4e850dbfbcfd804e5c
 #: ../../training.rst:130
@@ -920,13 +918,13 @@ msgstr "Publish WMS and WFS services"
 
 #: ../../training.rst:237
 msgid ""
-"WebGIS ricchi di funzioni: `QGIS web client <https://github.com/qgis/QGIS-"
-"Web-Client/>`_ (`demo <http://gis.uster.ch/>`_) e `LizMap <http://www.3liz."
-"com/lizmap.html>`_"
+"WebGIS ricchi di funzioni: `QGIS web client "
+"<https://github.com/qgis/QGIS-Web-Client/>`_ (`demo "
+"<http://gis.uster.ch/>`_) e `LizMap <http://www.3liz.com/lizmap.html>`_"
 msgstr ""
-"WebGIS rich clients: `QGIS web client <https://github.com/qgis/QGIS-Web-"
-"Client/>`_ (`demo <http://gis.uster.ch/>`_) and `LizMap <http://www.3liz.com/"
-"lizmap.html>`_"
+"WebGIS rich clients: `QGIS web client "
+"<https://github.com/qgis/QGIS-Web-Client/>`_ (`demo "
+"<http://gis.uster.ch/>`_) and `LizMap <http://www.3liz.com/lizmap.html>`_"
 
 #: ../../training.rst:238
 msgid "Approfondimento su `LizMap <http://www.3liz.com/lizmap.html>`_"
@@ -1508,12 +1506,13 @@ msgstr "code examples"
 #~ msgstr "14 April"
 
 # cb5c68a9adc449d8a912f7006c1d1d6c
+#, qt-format
 #~ msgid ""
-#~ "`Scarica il calendario (ics) <https://www.google.com/calendar/ical/"
-#~ "faunaliagis%40gmail.com/public/basic.ics>`_"
+#~ "`Scarica il calendario (ics) "
+#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 #~ msgstr ""
-#~ "`Download the calendar <https://www.google.com/calendar/ical/faunaliagis"
-#~ "%40gmail.com/public/basic.ics>`_"
+#~ "`Download the calendar "
+#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 67da7a1be0814b30a5a20d7f14e2e4ba
 #~ msgid "2-4 Aprile"
@@ -1617,12 +1616,13 @@ msgstr "code examples"
 #~ msgstr "Subcription form"
 
 # 52fcfe35655c40ea911c20211b41f093
+#, qt-format
 #~ msgid ""
-#~ "`Download the calendar <https://www.google.com/calendar/ical/faunaliagis"
-#~ "%40gmail.com/public/basic.ics>`_"
+#~ "`Download the calendar "
+#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 #~ msgstr ""
-#~ "`Download the calendar <https://www.google.com/calendar/ical/faunaliagis"
-#~ "%40gmail.com/public/basic.ics>`_"
+#~ "`Download the calendar "
+#~ "<https://www.google.com/calendar/ical/faunaliagis%40gmail.com/public/basic.ics>`_"
 
 # 4868573d5e6e42e294a4f6e77e566933
 #~ msgid ""
