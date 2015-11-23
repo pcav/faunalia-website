@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-23 08:20+0100\n"
+"POT-Creation-Date: 2015-11-23 11:57+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -87,7 +87,7 @@ msgid "An easier and safer life for QGIS plugin writer"
 msgstr ""
 
 #: ../../index.rst:82
-msgid "Now, thanks to Martin Dobias, plugin writer can relax a bit more: with the plugin `First <Aid http://plugins.qgis.org/plugins/firstaid/>`_ finding errors and debugging your plugin will be far easier. This will also help you to get ready for the upcoming Python 3 and Qt 5 transition, a major breakthrough."
+msgid "Now, thanks to Martin Dobias, plugin writer can relax a bit more: with the plugin `First Aid <http://plugins.qgis.org/plugins/firstaid/>`_ finding errors and debugging your plugin will be far easier. This will also help you to get ready for the upcoming Python 3 and Qt 5 transition, a major breakthrough."
 msgstr ""
 
 #: ../../index.rst:88

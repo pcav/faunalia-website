@@ -79,7 +79,7 @@ News
 An easier and safer life for QGIS plugin writer
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
-Now, thanks to Martin Dobias, plugin writer can relax a bit more: with the plugin `First <Aid http://plugins.qgis.org/plugins/firstaid/>`_ finding errors and debugging your plugin will be far easier. This will also help you to get ready for the upcoming Python 3 and Qt 5 transition, a major breakthrough.
+* Now, thanks to Martin Dobias, plugin writer can relax a bit more: with the plugin `First Aid <http://plugins.qgis.org/plugins/firstaid/>`_ finding errors and debugging your plugin will be far easier. This will also help you to get ready for the upcoming Python 3 and Qt 5 transition, a major breakthrough.
 
 .. image :: images/firstaidplugin.png
    :width: 48px
