@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-23 08:14+0100\n"
+"POT-Creation-Date: 2015-11-23 08:20+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -606,11 +606,11 @@ msgid "Pubblicare servizi WMS e WFS"
 msgstr ""
 
 #: ../../training.rst:237
-msgid "WebGIS ricchi di funzioni: `QGIS web client <https://github.com/qgis/QGIS-Web-Client/>`_ (`demo <http://gis.uster.ch/>`_) e `LizMap <http://www.3liz.com/lizmap.html/>`_"
+msgid "WebGIS ricchi di funzioni: `QGIS web client <https://github.com/qgis/QGIS-Web-Client/>`_ (`demo <http://gis.uster.ch/>`_) e `LizMap <http://www.3liz.com/lizmap.html>`_"
 msgstr ""
 
 #: ../../training.rst:238
-msgid "Approfondimento su `LizMap <http://www.3liz.com/lizmap.html/>`_"
+msgid "Approfondimento su `LizMap <http://www.3liz.com/lizmap.html>`_"
 msgstr ""
 
 #: ../../training.rst:240
