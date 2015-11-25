@@ -138,10 +138,9 @@ Modulo di iscrizione
 	<select id="edit-submitted-corso" name="corso" class="form-control">
 		<option value="qgis_cartografia" <?php if ($corso=="qgis_cartografia") echo 'selected="selected"';?> >QGIS cartografia</option>
 		<option value="qgis_analisi" <?php if ($corso=="qgis_analisi") echo 'selected="selected"';?> >QGIS analisi</option>
-		<option value="pyqgis" <?php if ($corso=="pyqgis") echo 'selected="selected"';?> >Python-QGIS</option>
 		<option value="postgis" <?php if ($corso=="postgis") echo 'selected="selected"';?> >Geodatabase</option>
 		<option value="webgis" <?php if ($corso=="webgis") echo 'selected="selected"';?> >WebMapping</option>
-                <option value="webgis_rm" <?php if ($corso=="webgis_rm") echo 'selected="selected"';?> >WebMapping Roma</option>
+		<option value="pyqgis" <?php if ($corso=="pyqgis") echo 'selected="selected"';?> >Python-QGIS</option>
 	</select>
 	</div>
 	</div>
