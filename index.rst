@@ -95,7 +95,7 @@ Nasce il gruppo italiano degli utenti di QGIS_
 Paolo Cavallini appointed as QGIS co-chair
 ++++++++++++++++++++++++++++++++++++++++++++
 
-* **QGIS.org** is becoming a formal association. In this process, Tim Sutton has been elected as Chair of the project, and Paolo Cavallini as co-chair - a great honour and responsibility. See: http://blog.qgis.org/2015/11/03/introducing-the-qgis-board/
+* **QGIS.org** is becoming a formal association. In this process, Tim Sutton has been elected as Chair of the project, and Paolo Cavallini as co-chair - a great honour and responsibility. See the `blog post <http://blog.qgis.org/2015/11/03/introducing-the-qgis-board/>`_.
 
 Yet another country: Faunalia training in Saudi Arabia
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -116,7 +116,7 @@ Faunalia al Linux Day
 Let us hear your voice: a survey on QGIS usage
 +++++++++++++++++++++++++++++++++++++++++++++++++
 
-* We would like to better understand how you are using QGIS so that we can improve the way that we manage the project. We have compiled this short survey, and would be most appreciative if you could take a few minutes to complete it for us. All responses are anonymous and we will share the results with the community so that we can all benefit from the insights gained. You can find the survey here: http://blog.qgis.org/2015/10/15/take-the-qgis-user-survey/
+* We would like to better understand how you are using QGIS so that we can improve the way that we manage the project. We have compiled this short survey, and would be most appreciative if you could take a few minutes to complete it for us. All responses are anonymous and we will share the results with the community so that we can all benefit from the insights gained. You can find the `survey here <http://blog.qgis.org/2015/10/15/take-the-qgis-user-survey/>`_
 
 New PostGIS version
 +++++++++++++++++++++
