@@ -76,6 +76,17 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Novità in QGIS_
++++++++++++++++++++
+
+* Nuova versione di QGIS "stabile" (*Long Term Release*, LTR): 2.8.4, che sistema oltre 80 malfunzionamenti, inclusi alcuni importanti
+* Nuova versione di QGIS "Lyon" (2.12.1), che sistema quasi 70 malfunzionamenti
+* Nuova versione di QField, che **finalmente* gira anche su Android 5! La trovate in Google Play
+
+.. image :: images/qfield1.png
+   :width: 300px
+
+
 An easier and safer life for QGIS plugin writer
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
