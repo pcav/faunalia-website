@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-04 11:37+0100\n"
+"POT-Creation-Date: 2016-01-07 16:33+0100\n"
 "PO-Revision-Date: 2013-08-17 16:58+0200\n"
 "Last-Translator: Paolo Cavallini <cavallini@faunalia.it>\n"
 "Language-Team: Italiano <>\n"
@@ -46,14 +46,16 @@ msgstr ""
 "Our training curses are always up to date with the latest versions of the "
 "software we teach."
 
-# 3e08c83a12ac470fbc3908497d3513b6
 #: ../../training.rst:25
 msgid ""
 "Possiamo realizzare sia corsi standard che personalizzati, sia presso la "
-"nostra sede che nella vostra."
+"nostra sede che nella vostra. I corsi di Faunalia sono presenti nel "
+"`catalogo del Mercato Elettronico della Pubblica Amministrazione <https://"
+"www.acquistinretepa.it/catricerche/manageViewRic.do?"
+"adfgenDispatchAction=searchMeta&metaprodotto=104567&strumento=mepa&textSearch=faunalia>`_. "
+"È quindi facilissimo per le Pubbliche Amministrazioni aderire, ed "
+"organizzarne in proprio."
 msgstr ""
-"The programs can be customized and we are available to give the classes at "
-"our facilities or at yours."
 
 # 05a63628bdda42339ddd7a918efa32c8
 #: ../../training.rst:27
@@ -1104,6 +1106,14 @@ msgstr "Let's use pyQGIS"
 #: ../../training.rst:290
 msgid "esempi di codice"
 msgstr "code examples"
+
+# 3e08c83a12ac470fbc3908497d3513b6
+#~ msgid ""
+#~ "Possiamo realizzare sia corsi standard che personalizzati, sia presso la "
+#~ "nostra sede che nella vostra."
+#~ msgstr ""
+#~ "The programs can be customized and we are available to give the classes "
+#~ "at our facilities or at yours."
 
 # f7db670e6b22473f88e2168c85cf783a
 #~ msgid "3-4 Dicembre"
