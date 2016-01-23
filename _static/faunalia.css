@@ -369,3 +369,7 @@ text-shadow:none !important;
 .nav-list > li > ul > li > a {
 margin-left:10px !important;
 }
+
+.languageswitch-phone {
+  padding-left: 25%;
+}
