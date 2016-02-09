@@ -78,6 +78,11 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Workshop su QGIS_
+++++++++++++++++++++
+
+* Al `GRASS Meeting 2016 <http://meetingrass2016.unipr.it/>`_, presso l'Università di Parma, Paolo Cavallini terrà un workshop sulle ultime novità di QGIS, fino alla versione 2.14, di imminente pubblicazione. Ci vediamo lì!
+
 Novità in QGIS_
 +++++++++++++++++++
 
