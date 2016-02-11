@@ -22,7 +22,7 @@ Faunalia ha l'esperienza più vasta nel mondo nella formazione sui GIS liberi, a
 
 I corsi sono sempre aggiornati, utilizzando le ultime versioni disponibili di ciascun software.
 
-Possiamo realizzare sia corsi standard che personalizzati, sia presso la nostra sede che nella vostra. I corsi di Faunalia sono presenti nel `catalogo del Mercato Elettronico della Pubblica Amministrazione <https://www.acquistinretepa.it/catricerche/manageViewRic.do?adfgenDispatchAction=searchMeta&metaprodotto=104567&strumento=mepa&textSearch=faunalia>`_. È quindi facilissimo per le Pubbliche Amministrazioni aderire, ed organizzarne in proprio.
+Possiamo realizzare sia corsi standard che personalizzati, sia presso la nostra sede che nella vostra. I corsi di Faunalia sono presenti nel `catalogo del Mercato Elettronico della Pubblica Amministrazione <https://www.acquistinretepa.it/catricerche/manageViewRic.do?adfgenDispatchAction=searchMeta&metaprodotto=104567&strumento=mepa&textSearch=faunalia>`_ (**NB**: è necessario autenticarsi sul sistema). È quindi facilissimo per le Pubbliche Amministrazioni aderire, ed organizzarne in proprio.
 
 Iscrivetevi alla `mailing list <http://lists.faunalia.it/cgi-bin/mailman/listinfo/corsi>`_ per ricevere gli annunci di nuovi corsi.
 
