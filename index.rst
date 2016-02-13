@@ -78,6 +78,14 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Another nice plugin: Historical maps
++++++++++++++++++++++++++++++++++++++
+
+* A very simple to use, yet powerful plugin (`Historical Map <http://plugins.qgis.org/plugins/HistoricalMap/>`_) for doing supervised classification of land use. It is especially designed for finding woodlands in historical maps, but I tested with normal ortophoto, with good results.
+
+.. image :: images/hist_map.png
+   :width: 300px
+
 Big plans for nex QGIS_
 ++++++++++++++++++++++++++
 
