@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-13 16:46+0100\n"
+"POT-Creation-Date: 2016-02-19 20:54+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -240,7 +240,7 @@ msgid "Cartografia con QGIS"
 msgstr ""
 
 #: ../../training.rst:87
-msgid "Per imparare ad installare ed utilizzare QGIS, ad accedere ai dati, tematizzarli e produrre mappe di alta qualità grafica ed informativa, ad elevato contenuto informativo e ad alta qualità grafica."
+msgid "Per imparare ad installare ed utilizzare QGIS, ad accedere ai dati, tematizzarli in modo sofisticato e produrre mappe di alta qualità grafica ed informativa, ad elevato contenuto informativo e ad alta qualità grafica."
 msgstr ""
 
 #: ../../training.rst:89
@@ -256,92 +256,92 @@ msgid "Argomenti principali"
 msgstr ""
 
 #: ../../training.rst:94
-msgid "Breve introduzione ai Sistemi Informativi Geografici *open source*"
+msgid "Breve introduzione a QGIS e ai Sistemi Informativi Geografici *open source*"
 msgstr ""
 
 #: ../../training.rst:95
-msgid "Introduzione a QGIS"
-msgstr ""
-
-#: ../../training.rst:96
 msgid "Installazione di QGIS nei vari sistemi operativi"
 msgstr ""
 
-#: ../../training.rst:97
+#: ../../training.rst:96
 msgid "Interfaccia utente e criteri di utilizzo"
 msgstr ""
 
-#: ../../training.rst:98
+#: ../../training.rst:97
 msgid "Configurazione dell'ambiente di lavoro"
 msgstr ""
 
-#: ../../training.rst:99
+#: ../../training.rst:98
 #: ../../training.rst:159
 msgid "Gestione delle proiezioni"
 msgstr ""
 
-#: ../../training.rst:100
+#: ../../training.rst:99
 msgid "Progetti"
 msgstr ""
 
-#: ../../training.rst:101
+#: ../../training.rst:100
 msgid "Gestione dei plugins"
 msgstr ""
 
-#: ../../training.rst:102
+#: ../../training.rst:101
 msgid "I dati geografici vettoriali"
 msgstr ""
 
-#: ../../training.rst:104
+#: ../../training.rst:103
 msgid "proprietà, importazione ed esportazione, conversione fra formati"
 msgstr ""
 
-#: ../../training.rst:105
+#: ../../training.rst:104
 msgid "tematizzazione vettoriale ed etichettatura avanzata"
 msgstr ""
 
-#: ../../training.rst:106
+#: ../../training.rst:105
 msgid "tabelle dati, attributi ed azioni; importazione di dati tabellari"
 msgstr ""
 
-#: ../../training.rst:108
+#: ../../training.rst:107
 msgid "Interfacciamento con GPS"
 msgstr ""
 
-#: ../../training.rst:109
+#: ../../training.rst:108
 msgid "Digitalizzazione dei vettori, vettorializzazione avanzata di tipo \"CAD\""
 msgstr ""
 
-#: ../../training.rst:110
+#: ../../training.rst:109
 msgid "I geodatabase e QGIS: PostGIS e SpatiaLite"
 msgstr ""
 
-#: ../../training.rst:111
+#: ../../training.rst:110
 msgid "Caricare dati dal web: soluzioni proprietarie, libere e standard (Google Maps, OpenLayers, WMS, WFS, WFS-T, CSW, WPS)"
 msgstr ""
 
-#: ../../training.rst:112
+#: ../../training.rst:111
 msgid "Gestione di fotografie georeferenziate"
 msgstr ""
 
-#: ../../training.rst:113
+#: ../../training.rst:112
 msgid "Esportazione dati per Google Earth"
 msgstr ""
 
-#: ../../training.rst:114
+#: ../../training.rst:113
 msgid "I dati geografici raster"
 msgstr ""
 
-#: ../../training.rst:116
+#: ../../training.rst:115
 msgid "caratteristiche e proprietà, tematizzazione"
 msgstr ""
 
-#: ../../training.rst:117
+#: ../../training.rst:116
 msgid "gestione dei sistemi di riferimento, mosaici"
 msgstr ""
 
-#: ../../training.rst:118
+#: ../../training.rst:117
 msgid "georeferenziazione"
+msgstr ""
+
+#: ../../training.rst:119
+msgid "Creazione di animazioni"
 msgstr ""
 
 #: ../../training.rst:120
@@ -464,7 +464,7 @@ msgid "Per apprendere a creare e gestire banche dati geografiche complesse, e re
 msgstr ""
 
 #: ../../training.rst:175
-msgid "Al termine del corso, i discenti avranno a loro disposizione una **server WebGIS virtualizzato**, completamente **funzionante ed efficiente**, pronto per essere utilizzato in un qualsiasi provider."
+msgid "Al termine del corso, i discenti avranno a loro disposizione una **server PostGIS virtualizzato**, completamente **funzionante ed efficiente**, pronto per essere utilizzato in un qualsiasi provider."
 msgstr ""
 
 #: ../../training.rst:177
@@ -580,7 +580,7 @@ msgid "Consente di pubblicare sul web le mappe sviluppate e configurate tramite 
 msgstr ""
 
 #: ../../training.rst:220
-msgid "Al termine del corso, i discenti avranno a loro disposizione una **server PostGIS virtualizzato**, completamente **funzionante ed efficiente**, pronto per essere utilizzato in un qualsiasi provider."
+msgid "Al termine del corso, i discenti avranno a loro disposizione una **server WebGIS virtualizzato**, completamente **funzionante ed efficiente**, pronto per essere utilizzato in un qualsiasi provider."
 msgstr ""
 
 #: ../../training.rst:222

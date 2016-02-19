@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-11 10:42+0100\n"
+"POT-Creation-Date: 2016-02-19 20:54+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -395,8 +395,8 @@ msgstr "Cartographie avec QGIS"
 #: ../../training.rst:87
 msgid ""
 "Per imparare ad installare ed utilizzare QGIS, ad accedere ai dati, "
-"tematizzarli e produrre mappe di alta qualità grafica ed informativa, ad "
-"elevato contenuto informativo e ad alta qualità grafica."
+"tematizzarli in modo sofisticato e produrre mappe di alta qualità grafica ed "
+"informativa, ad elevato contenuto informativo e ad alta qualità grafica."
 msgstr ""
 "Apprendre à installer et utiliser QGIS, accéder aux données et produire des "
 "cartes thématiques de haute qualité informative et graphique."
@@ -422,83 +422,79 @@ msgstr "Thématiqes abordées"
 
 # 3abc1e0cc88548a7b85dc43e7151f618
 #: ../../training.rst:94
-msgid "Breve introduzione ai Sistemi Informativi Geografici *open source*"
+msgid ""
+"Breve introduzione a QGIS e ai Sistemi Informativi Geografici *open source*"
 msgstr "Brève introduction aux systèmes d'information géographique libres"
 
-# 8ca44401dfb44b978be9a75a3bec63b6
-#: ../../training.rst:95
-msgid "Introduzione a QGIS"
-msgstr "Introduction à QGIS"
-
 # 9eff9b5bca0f47dbbeec17c76d9edf6a
-#: ../../training.rst:96
+#: ../../training.rst:95
 msgid "Installazione di QGIS nei vari sistemi operativi"
 msgstr "Installation de QGIS sur différents systèmes d'exploitation"
 
 # f101d41dea3042dfb205c3a6c02f7c28
-#: ../../training.rst:97
+#: ../../training.rst:96
 msgid "Interfaccia utente e criteri di utilizzo"
 msgstr "Interface utilisateur et politiques d'utilisation"
 
 # eb3c4d24ff65497ca12babd6d3f4329e
-#: ../../training.rst:98
+#: ../../training.rst:97
 msgid "Configurazione dell'ambiente di lavoro"
 msgstr "Configuration de l'environnement de travail"
 
 # fdc1cc2379d14ad9b5eb4af8fa1421e0
-#: ../../training.rst:99 ../../training.rst:159
+#: ../../training.rst:98 ../../training.rst:159
 msgid "Gestione delle proiezioni"
 msgstr "Gestion des projections"
 
 # 70445496ccfb4e5f905683df99c5a6c3
-#: ../../training.rst:100
+#: ../../training.rst:99
 msgid "Progetti"
 msgstr "Projets"
 
 # e71b37c25fba4b7b94e95bc339cb3a80
-#: ../../training.rst:101
+#: ../../training.rst:100
 msgid "Gestione dei plugins"
 msgstr "Gestion des plugins"
 
 # a309abb66f014b5fa7b3259ea0d3b7ca
-#: ../../training.rst:102
+#: ../../training.rst:101
 msgid "I dati geografici vettoriali"
 msgstr "Les données géographiques vectorielles"
 
 # 98259c90cff94be5bbfdfd41d5dad4ae
-#: ../../training.rst:104
+#: ../../training.rst:103
 msgid "proprietà, importazione ed esportazione, conversione fra formati"
 msgstr "options, importation et exportation, conversion entre formats"
 
 # 43eba1253b6142ada894f843c1858316
-#: ../../training.rst:105
+#: ../../training.rst:104
 msgid "tematizzazione vettoriale ed etichettatura avanzata"
 msgstr "thématisation vecteur avancé et étiquetage"
 
 # 10b2614d697545c28d913c54d80eba01
-#: ../../training.rst:106
+#: ../../training.rst:105
 msgid "tabelle dati, attributi ed azioni; importazione di dati tabellari"
 msgstr ""
 "tableaux de données, attributs et actions, importation des données tabulaires"
 
 # 1270705ea2b54985943fc95f1fa8deb5
-#: ../../training.rst:108
+#: ../../training.rst:107
 msgid "Interfacciamento con GPS"
 msgstr "Interface avec GPS"
 
 # 9ccaf9f688d14bb181e6be211ed5d22a
-#: ../../training.rst:109
+#: ../../training.rst:108
 msgid ""
 "Digitalizzazione dei vettori, vettorializzazione avanzata di tipo \"CAD\""
 msgstr "Numérisation des vecteurs, vectorisation avancé de type \"CAD\""
 
 # b4215fd5427749de97e29c69bc7f2f24
-#: ../../training.rst:110
+#: ../../training.rst:109
 msgid "I geodatabase e QGIS: PostGIS e SpatiaLite"
 msgstr "Les geodatabase et QGIS: PostGIS et SpatiaLite"
 
 # 57be23b9716a4315af5022103c4905aa
-#: ../../training.rst:111
+#: ../../training.rst:110
 msgid ""
 "Caricare dati dal web: soluzioni proprietarie, libere e standard (Google "
 "Maps, OpenLayers, WMS, WFS, WFS-T, CSW, WPS)"
@@ -507,34 +503,39 @@ msgstr ""
 "(Google Maps, OpenLayers, WMS, WFS, WFS-T, CSW, WPS)"
 
 # de35eec3a95541a9845a13ca2ca68450
-#: ../../training.rst:112
+#: ../../training.rst:111
 msgid "Gestione di fotografie georeferenziate"
 msgstr "Gestion des photos géo-référencées"
 
 # 0226a9e09cf54582af37c17b409aa67f
-#: ../../training.rst:113
+#: ../../training.rst:112
 msgid "Esportazione dati per Google Earth"
 msgstr "Exportation des données sur Google Earth"
 
 # 0807886f9a694b64937b33d9b387c8b0
-#: ../../training.rst:114
+#: ../../training.rst:113
 msgid "I dati geografici raster"
 msgstr "Les données géographiques raster"
 
 # ce22142b312540b4ad77215f85cd10d5
-#: ../../training.rst:116
+#: ../../training.rst:115
 msgid "caratteristiche e proprietà, tematizzazione"
 msgstr "caractéristiques et propriétés, thématisation"
 
 # de35eec3a95541a9845a13ca2ca68450
-#: ../../training.rst:117
+#: ../../training.rst:116
 msgid "gestione dei sistemi di riferimento, mosaici"
 msgstr "gestion des systèmes de référence, mosaïques"
 
 # b45b00d96b2744789df0ee13c0f63055
-#: ../../training.rst:118
+#: ../../training.rst:117
 msgid "georeferenziazione"
 msgstr "géo-référencement"
+
+# f55360fa238e46dfa8d4d7e7520aa6d4
+#: ../../training.rst:119
+msgid "Creazione di animazioni"
+msgstr "Critères d'animations"
 
 # 905adef9ea0541b8a24ef3716c0843bc
 #: ../../training.rst:120
@@ -730,10 +731,10 @@ msgstr ""
 #: ../../training.rst:175
 msgid ""
 "Al termine del corso, i discenti avranno a loro disposizione una **server "
-"WebGIS virtualizzato**, completamente **funzionante ed efficiente**, pronto "
+"PostGIS virtualizzato**, completamente **funzionante ed efficiente**, pronto "
 "per essere utilizzato in un qualsiasi provider."
 msgstr ""
-"A la fin du course, les stagiaires disposeront d'un **serveur WebGIS "
+"A la fin du course, les stagiaires disposeront d'un **serveur PostGIS "
 "virtuel** pleinement **opérationnel et efficace**, prêt à être téléchargé à "
 "tout fournisseur de services de virtualisation."
 
@@ -896,10 +897,10 @@ msgstr ""
 #: ../../training.rst:220
 msgid ""
 "Al termine del corso, i discenti avranno a loro disposizione una **server "
-"PostGIS virtualizzato**, completamente **funzionante ed efficiente**, pronto "
+"WebGIS virtualizzato**, completamente **funzionante ed efficiente**, pronto "
 "per essere utilizzato in un qualsiasi provider."
 msgstr ""
-"A la fin du course, les stagiaires disposeront d'un **serveur PostGIS "
+"A la fin du course, les stagiaires disposeront d'un **serveur WebGIS "
 "virtuel** pleinement **opérationnel et efficace**, prêt à être téléchargé à "
 "tout fournisseur de services de virtualisation."
 
@@ -1177,6 +1178,10 @@ msgstr "Utilisons PyQGIS"
 msgid "esempi di codice"
 msgstr "exemples de code"
 
+# 8ca44401dfb44b978be9a75a3bec63b6
+#~ msgid "Introduzione a QGIS"
+#~ msgstr "Introduction à QGIS"
+
 # b28a9fbcf9964ba28a693bb9feccab9b
 #~ msgid "20-22 Gennaio 2016"
 #~ msgstr "20-22 Janvier 2014"
@@ -1298,10 +1303,6 @@ msgstr "exemples de code"
 # 82e3bb5c83314d8da6314e6b9222d4c9
 #~ msgid "Installazione e configurazione di LizMap"
 #~ msgstr "Installation et configuration de LizMap"
-
-# f55360fa238e46dfa8d4d7e7520aa6d4
-#~ msgid "Criteri di ottimizzazione"
-#~ msgstr "Critères d'optimisation"
 
 # 1477ed8907e24345b0045abe4fb7372a
 #~ msgid "23-25 Settembre"
