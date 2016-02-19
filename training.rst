@@ -84,15 +84,14 @@ Programmi
 Cartografia con QGIS
 ===================================================
 
-Per imparare ad installare ed utilizzare QGIS, ad accedere ai dati, tematizzarli e produrre mappe di alta qualità grafica ed informativa, ad elevato contenuto informativo e ad alta qualità grafica.
+Per imparare ad installare ed utilizzare QGIS, ad accedere ai dati, tematizzarli in modo sofisticato e produrre mappe di alta qualità grafica ed informativa, ad elevato contenuto informativo e ad alta qualità grafica.
 
 Adatto anche a chi ha poca esperienza sui GIS e sulla cartografia. È necessario avere dimestichezza con l'uso del PC.
 
 Argomenti principali
 ...................................................................................................
 
-* Breve introduzione ai Sistemi Informativi Geografici *open source*
-* Introduzione a QGIS
+* Breve introduzione a QGIS e ai Sistemi Informativi Geografici *open source*
 * Installazione di QGIS nei vari sistemi operativi
 * Interfaccia utente e criteri di utilizzo
 * Configurazione dell'ambiente di lavoro
@@ -117,6 +116,7 @@ Argomenti principali
   * gestione dei sistemi di riferimento, mosaici
   * georeferenziazione
 
+* Creazione di animazioni
 * Visualizzazione 3D
 * Stampa avanzata, stampa seriale
 
@@ -172,7 +172,7 @@ Geodatabase: PostgreSQL e PostGIS
 
 Per apprendere a creare e gestire banche dati geografiche complesse, e realizzare analisi approfondite con visualizzazione in tempo reale delle analisi fatte. Il corso permette di familiarizzare con la gestione dei dati vettoriali tramite SQL, con l'importazione dei dati geografici e l'interrogazione di dati sia geografici che alfanumerici tramite numerose applicazioni.
 
-Al termine del corso, i discenti avranno a loro disposizione una **server WebGIS virtualizzato**, completamente **funzionante ed efficiente**, pronto per essere utilizzato in un qualsiasi provider.
+Al termine del corso, i discenti avranno a loro disposizione una **server PostGIS virtualizzato**, completamente **funzionante ed efficiente**, pronto per essere utilizzato in un qualsiasi provider.
 
 Preferibile, ma non indispensabile, una conoscenza anche rudimentale del linguaggio SQL. È necessario avere piena dimestichezza con l'uso del PC.
 
@@ -217,7 +217,7 @@ Per apprendere in breve tempo il più innovativo e semplice ambiente di sviluppo
 
 Consente di pubblicare sul web le mappe sviluppate e configurate tramite QGIS Desktop, senza necessità di complesse operazioni di configurazione del loro aspetto grafico.
 
-Al termine del corso, i discenti avranno a loro disposizione una **server PostGIS virtualizzato**, completamente **funzionante ed efficiente**, pronto per essere utilizzato in un qualsiasi provider.
+Al termine del corso, i discenti avranno a loro disposizione una **server WebGIS virtualizzato**, completamente **funzionante ed efficiente**, pronto per essere utilizzato in un qualsiasi provider.
 
 Sono necessarie nozioni di base sui GIS, sulla cartografia e sul web. È consigliabile una conoscenza di base di QGIS. È necessario avere piena dimestichezza con l'uso del PC.
 
