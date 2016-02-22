@@ -40,7 +40,7 @@ Perché scegliere i corsi di Faunalia?
 * Sono tenuti da docenti che contribuiscono attivamente, da anni, allo sviluppo dei software oggetto dei corsi. In particolare, Paolo Cavallini è *Co-chair* dell'Associazione internazionale **QGIS.org** e membro dello *Steering Committee* di QGIS, e Faunalia ha sviluppato parti significative di GRASS, PostGIS, GDAL ecc.
 * Hanno un costo sensibilmente inferiore alle alternative proprietarie presenti sul mercato
 * Contribuiscono al miglioramento dei software utilizzati, destinando al loro sviluppo parte delle quote di iscrizione
-* Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://www.aicanet.it/aica/ecdl-gis/>`_. Paolo Cavallini è `esaminatore ECDL-GIS <http://www.aica.it/aica/ecdl-gis/area-esaminatori/esaminatori-1/c>`_.
+* Consentono l'accesso agli esami AICA per la `certificazione ECDL-GIS <http://www.aicanet.it/ecdl-gis/>`_. Paolo Cavallini è esaminatore ECDL-GIS.
 
 Calendario
 +++++++++++++++++++++++++++++++++++++++++++++++++++
