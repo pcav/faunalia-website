@@ -26,6 +26,8 @@ Clicca sull'immagine per un esempio:
    :alt: Naviga la tua mappa in 3d, anche sul web.
    :target: http://www.faunalia.eu/3d/20160219172243.html
 
+   Con QGIS puoi creare rappresentazioni 3D, navigabili anche sul web.
+
 I corsi sono sempre aggiornati, utilizzando le ultime versioni disponibili di ciascun software.
 
 Possiamo realizzare sia corsi standard che personalizzati, sia presso la nostra sede che nella vostra. I corsi di Faunalia sono presenti nel `catalogo del Mercato Elettronico della Pubblica Amministrazione <https://www.acquistinretepa.it/catricerche/manageViewRic.do?adfgenDispatchAction=searchMeta&metaprodotto=104567&strumento=mepa&textSearch=faunalia>`_ (**NB**: è necessario autenticarsi sul sistema). È quindi facilissimo per le Pubbliche Amministrazioni aderire, ed organizzarne in proprio.
@@ -93,6 +95,8 @@ Per imparare ad installare ed utilizzare QGIS, ad accedere ai dati, tematizzarli
 
 .. figure:: images/animation.gif
    :alt: Con QGIS puoi produrre anche animazioni!
+
+   Movimenti di renne in Norvegia.
 
 Adatto a tutti, sia esperti del GIS che principianti. È necessario avere dimestichezza con l'uso del PC.
 
