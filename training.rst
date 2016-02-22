@@ -20,6 +20,13 @@ Corsi
 
 Faunalia ha l'esperienza più vasta nel mondo nella formazione sui GIS liberi, avendo realizzato oltre 300 fra corsi, seminari e workshops, in italiano, inglese, portoghese e francese.
 
+Clicca sull'immagine per un esempio:
+
+.. figure:: images/3d.png
+   :scale: 50%
+   :alt: Naviga la tua mappa in 3d, anche sul web.
+   :target: http://www.faunalia.eu/3d/20160219172243.html
+
 I corsi sono sempre aggiornati, utilizzando le ultime versioni disponibili di ciascun software.
 
 Possiamo realizzare sia corsi standard che personalizzati, sia presso la nostra sede che nella vostra. I corsi di Faunalia sono presenti nel `catalogo del Mercato Elettronico della Pubblica Amministrazione <https://www.acquistinretepa.it/catricerche/manageViewRic.do?adfgenDispatchAction=searchMeta&metaprodotto=104567&strumento=mepa&textSearch=faunalia>`_ (**NB**: è necessario autenticarsi sul sistema). È quindi facilissimo per le Pubbliche Amministrazioni aderire, ed organizzarne in proprio.
@@ -45,7 +52,6 @@ Calendario
 Corso                                    Date e durata         Iscrizione            Dove           Lingua
                                                                consigliata entro il
 ======================================== ====================  ===================== ============== ===========
-Analisi con QGIS (IT)                    17-19 Febbraio 2016   1 Febbraio            Pontedera, IT  Italiano
 Geodatabase: PostgreSQL e PostGIS (IT)   16-18 Marzo 2016      1 Marzo               Pontedera, IT  Italiano
 WebMapping con QGIS (IT)                 14-15 Aprile 2016     1 Aprile              Pontedera, IT  Italiano
 Cartografia con QGIS (IT)                Settembre 2016        1 Settembre           Pontedera, IT  Italiano
@@ -84,9 +90,12 @@ Programmi
 Cartografia con QGIS
 ===================================================
 
-Per imparare ad installare ed utilizzare QGIS, ad accedere ai dati, tematizzarli in modo sofisticato e produrre mappe di alta qualità grafica ed informativa, ad elevato contenuto informativo e ad alta qualità grafica.
+Per imparare ad installare ed utilizzare QGIS, ad accedere ai dati, tematizzarli in modo sofisticato e produrre mappe di alta qualità grafica ed informativa, ad elevato contenuto informativo e ad alta qualità grafica. Vedi `alcuni esempi <https://www.flickr.com/groups/qgis/>`_ di cosa sarà possibile realizzare. Con QGIS puoi produrre anche animazioni:
 
-Adatto anche a chi ha poca esperienza sui GIS e sulla cartografia. È necessario avere dimestichezza con l'uso del PC.
+.. figure:: images/animation.gif
+   :alt: Con QGIS puoi produrre anche animazioni!
+
+Adatto a tutti, sia esperti del GIS che principianti. È necessario avere dimestichezza con l'uso del PC.
 
 Argomenti principali
 ...................................................................................................
@@ -127,7 +136,7 @@ Tre giorni *full time*
 Analisi con QGIS
 ===================================================
 
-Per imparare a realizzare analisi raster e vettoriali, e modellistica spaziale, unendo la potenza di elaborazione GIS di `GRASS <https://grass.osgeo.org/>`_, `SAGA <http://www.saga-gis.org/>`_, `Orfeo ToolBox <https://www.orfeo-toolbox.org/>`_, ecc., con la semplicità d'uso di QGIS. Al termine del corso, l'utente avrà appreso a gestire con facilità l'ambiente di lavoro di QGIS, e ad effettuare analisi anche complesse in modo semplice ed intuitivo. 
+Per imparare a realizzare analisi raster e vettoriali, e modellistica spaziale, unendo la potenza di elaborazione GIS di `GRASS <https://grass.osgeo.org/>`_, `SAGA <http://www.saga-gis.org/>`_, `Orfeo ToolBox <https://www.orfeo-toolbox.org/>`_, ecc., con la semplicità d'uso di QGIS. Al termine del corso, l'utente avrà appreso a gestire con facilità l'ambiente di lavoro di QGIS, e ad effettuare analisi anche molto complesse in modo semplice ed intuitivo. 
 
 Adatto a chi desidera approfondire l'uso analitico e predittivo dei GIS, avendo già delle nozioni di base.
 
