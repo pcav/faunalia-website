@@ -10,7 +10,7 @@
 New course: QGIS for naturalists
 -----------------------------------
 
-An in-depth course on free and open source GIS, focused on the popular `QGIS <http://qgis.org>`_ software and its application in natural sciences (ornithology, mammalogy, ecology), in one of the most scenic environments in Italy, the `Maremma Natural Park <http://www.parco-maremma.it/en.html>`_. You'll master the software, at the same time enjoying beautiful landscapes, and birdwatching at will.
+An in-depth course on free and open source GIS, focused on the popular `QGIS <http://qgis.org>`_ software and its application in natural sciences (ornithology, mammalogy, ecology), in one of the most scenic environments in Italy, the `Maremma Natural Park <http://www.parco-maremma.it/en/>`_. You'll master the software, at the same time enjoying beautiful landscapes, and birdwatching at will.
 
 Every day you'll enjoy an alternance of GIS training and excursions in the Park. Every moment will be good to discuss practical applications of GIS.
 
@@ -47,9 +47,9 @@ Birdwatching and more
 
 During the week, we will:
 
-* walk up to the `San Rabano Abbey <http://www.parco-maremma.it/en/a1-san-rabano.html>`_, deep into the Mediterranean maquis, in the hearth of the Park
-* bike into the `most scenic areas <http://www.parco-maremma.it/en/a2-le-torri.html>`_ of the Park
-* walk `across the park down to the seaside <http://www.parco-maremma.it/en/a4-cala-di-forno.html>`_
+* walk up to the San Rabano Abbey, deep into the Mediterranean maquis, in the hearth of the Park
+* bike into the most scenic areas of the Park
+* walk `across the park down to the seaside
 * do a `canoe trip <http://www.silvacoop.com/>`_ along the Ombrone river.
 
 Don't forget your binoculars and field equipment.

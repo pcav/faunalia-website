@@ -83,7 +83,7 @@ Iscrizione
 Logistica
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/contatti/>`_, oppure `Faunalia <http://www.openstreetmap.org/?lat=43.66154&lon=10.63763&zoom=17>`_, facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluse strutture ricettive). Convenzione con `Il Piccolo <http://www.ilpiccolorooms.it/>`_, per il pernottamento: 45/60/80 € per camere singole/doppie/triple.
+**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/contatti/>`_, oppure `Faunalia <http://www.openstreetmap.org/#map=19/43.66184/10.63806>`_, facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluse strutture ricettive). Convenzione con `Il Piccolo <http://www.ilpiccolorooms.it/>`_, per il pernottamento: 45/60/80 € per camere singole/doppie/triple.
 
 Programmi
 +++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -248,7 +248,7 @@ Argomenti principali
 * Sicurezza del server
 * Installazione e configurazione di QGIS server
 * Pubblicare servizi WMS e WFS
-* WebGIS ricchi di funzioni: `QGIS web client <https://github.com/qgis/QGIS-Web-Client/>`_ (`demo <http://gis.uster.ch/>`_) e `LizMap <http://www.3liz.com/lizmap.html>`_
+* WebGIS ricchi di funzioni: `QGIS web client <https://github.com/qgis/QGIS-Web-Client/>`_ (`demo <https://gis.uster.ch/>`_) e `LizMap <http://www.3liz.com/lizmap.html>`_
 * Approfondimento su `LizMap <http://www.3liz.com/lizmap.html>`_
 
   * funzionalità di base

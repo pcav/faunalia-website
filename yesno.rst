@@ -13,5 +13,5 @@ Yes                             No
 =============================== ===========================================
                                 Gold car rental https://www.goldcar.es
 Ryanair http://www.ryanair.com  Iberia, Vueling
-Hetzner https://www.hetzner.de/  OVH http://www.ovh.it/
+Hetzner https://www.hetzner.de/  OVH https://www.ovh.it/
 =============================== ===========================================
