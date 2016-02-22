@@ -334,7 +334,6 @@ msgstr "Logistica"
 
 # c6486a10e57d437c9f251d7264fee4d8
 #: ../../training.rst:76
-#, fuzzy
 msgid ""
 "**Sede**: Pontedera (PI), presso `Pont-Tech "
 "<http://www.pont-tech.it/contatti/>`_, oppure `Faunalia "

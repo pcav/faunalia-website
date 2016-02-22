@@ -23,7 +23,6 @@ Faunalia ha l'esperienza più vasta nel mondo nella formazione sui GIS liberi, a
 Clicca sull'immagine per un esempio:
 
 .. figure:: images/3d.png
-   :scale: 50%
    :alt: Naviga la tua mappa in 3d, anche sul web.
    :target: http://www.faunalia.eu/3d/20160219172243.html
 
