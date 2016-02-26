@@ -24,7 +24,7 @@ Clicca sull'immagine per un esempio:
 
 .. figure:: images/3d.png
    :alt: Naviga la tua mappa in 3d, anche sul web.
-   :target: http://www.faunalia.eu/3d/20160219172243.html
+   :target: 3d/20160219172243.html
 
    Con QGIS puoi creare rappresentazioni 3D, navigabili anche sul web.
 
