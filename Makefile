@@ -83,6 +83,7 @@ html:
 		$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(SOURCE) $(BUILDDIR)/html/$(SOURCE)/$$lang;\
 #		ln -s /home/www/pdf $(BUILDDIR)/html/pdf;\
 		test -e $(BUILDDIR)/html/$$lang/pdf || ln -s /usr/local/src/faunalia-website/pdf $(BUILDDIR)/html/$$lang/;\
+		cp -r 3d $(BUILDDIR)/html/;\
 		cp .ht* $(BUILDDIR)/html/;\
                 cp robots.txt $(BUILDDIR)/html/;\
 	done
