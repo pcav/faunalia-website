@@ -41,7 +41,14 @@ QGIS_ e PostGIS_ forniscono un modo semplice ed economico per gestire grandi vol
 
 I servizi di Faunalia sono presenti nel `catalogo del Mercato Elettronico della Pubblica Amministrazione <https://www.acquistinretepa.it/catricerche/ricercaSemplice.do?cerca=faunalia>`_. È quindi ora ancora più facile per le Pubbliche Amministrazioni aderire.
 
-`Esempio di WebGIS di Faunalia <http://lizmap.faunalia.eu/index.php/view/map/?repository=faunalia&project=pontedera>`_
+
+`Un esempio di WebGIS di Faunalia: <http://lizmap.faunalia.eu/index.php/view/map/?repository=faunalia&project=pontedera>`_
+
+.. image:: images/wg_pontedera.png
+   :alt: Demo webGIS Pontedera
+   :target: http://lizmap.faunalia.eu/index.php/view/map/?repository=faunalia&project=pontedera
+   :width: 85 %
+   :align: center
 
 .. cssclass :: col-md-4  cor
 

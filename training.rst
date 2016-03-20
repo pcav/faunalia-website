@@ -20,13 +20,15 @@ Corsi
 
 Faunalia ha l'esperienza più vasta nel mondo nella formazione sui GIS liberi, avendo realizzato oltre 300 fra corsi, seminari e workshops, in italiano, inglese, portoghese e francese.
 
-Clicca sull'immagine per un esempio:
+Con QGIS puoi creare rappresentazioni 3D, navigabili anche sul web. Clicca sulle immagini per attivarle:
 
 .. figure:: images/3d.png
    :alt: Naviga la tua mappa in 3d, anche sul web.
    :target: 3d/20160219172243.html
 
-   Con QGIS puoi creare rappresentazioni 3D, navigabili anche sul web.
+.. figure:: images/3d_orto.png
+   :alt: Naviga la tua mappa in 3d, anche sul web.
+   :target: 3d/20160316105926.html
 
 I corsi sono sempre aggiornati, utilizzando le ultime versioni disponibili di ciascun software.
 
