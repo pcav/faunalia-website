@@ -85,6 +85,14 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Layer board: configure your big QGIS projects, easily
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* Configuring large projects, with tens of layers, can be painful if you have to set up min and max scale, CRS, style, title, extent, etc. one by one. `Layer board <https://plugins.qgis.org/plugins/LayerBoard/>`_ plugin makes all this a breeze: you have a spreadsheet where you can enter directly the values for all layer parameters. Moreover, you can clean up your projects by automagically removing ghost layers that sometimes accumulate. Kudos to *Michaël Douchin* from 3liz!
+
+.. image :: images/layer_board.png
+   :width: 300px
+
 Another nice plugin: Historical maps
 +++++++++++++++++++++++++++++++++++++
 
