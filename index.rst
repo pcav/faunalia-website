@@ -101,7 +101,7 @@ Another nice plugin: Historical maps
 .. image :: images/hist_map.png
    :width: 300px
 
-Big plans for nex QGIS_
+Big plans for next QGIS_
 ++++++++++++++++++++++++++
 
 * Major transitions in large software projects are always a big challenge, and involve considerable risks. After a long gestation, now we have a definite plan towards QGIS 3.0, andt we believe this is the best way forward. `Read about it <http://blog.qgis.org/2016/02/10/qgis-3-0-plans/>`_, straight from the project leader, and join us for the next leap forward.
