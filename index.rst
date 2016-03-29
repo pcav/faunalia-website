@@ -85,6 +85,14 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Need 3D in QGIS? A glimpse of the future
++++++++++++++++++++++++++++++++++++++++++++
+
+* You can use `Qgis2threejs <https://plugins.qgis.org/plugins/Qgis2threejs/>`_ plugin to easily create `dynamic 3D visualization of your map <http://www.faunalia.eu/it/3d/20160316105926.html>`_, and that's fun enough. Look at what you'll be able to do, even more easily, in the near future, once QGIS has moved to Qt5 - work underway. `Minoru <https://github.com/minorua>`_ rocks!
+
+.. image :: images/next-3d.gif
+   :width: 300px
+
 Layer board: configure your big QGIS projects, easily
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
