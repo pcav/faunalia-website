@@ -57,7 +57,11 @@ Dicono di noi
 
 **Salvatore "Totò" Fiandaca**: "Nel marzo del 2014 seguii il corso base di cartografia con QGIS  tenuto da Paolo Cavallini: corso ben strutturato, ricco di esempi pratici, teoria e soprattutto si respirava aria di OPEN SOURCE. Imparai molte cose ma soprattutto il modo di collaborare per migliorare QGIS tramite la ML Gfoss, segnalazioni di bug tramite la bugtracker; il tutto in un ambiente accogliente e professionale."  https://pigrecoinfinito.wordpress.com/
 
-**Lorenzo Luisi**: "Ho sempre immaginato QGIS come un Davide che sorprende i Gis closed source. I corsi di Faunalia pongono le basi perché questo si avveri!"
+.. image:: images/luisi.jpg
+          :width: 70px
+          :align: left
+
+**Lorenzo Luisi**: "Ho sempre immaginato QGIS come un Davide che sorprende i Gis closed source. I corsi di Faunalia pongono le basi perché questo si avveri!" http://spaziocartograficopugliese.it/ 
 
 .. image:: images/umbiz.jpg
           :width: 70px
