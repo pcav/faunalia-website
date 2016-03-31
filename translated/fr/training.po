@@ -145,7 +145,7 @@ msgstr ""
 
 #: ../../training.rst:50
 msgid "Dicono di noi"
-msgstr ""
+msgstr "Témoignages"
 
 #: ../../training.rst:52
 msgid ""
