@@ -54,17 +54,17 @@ Dicono di noi
 .. image:: images/toto.jpg
           :align: left
 
-**Salvatore "Totò" Fiandaca**: "Nel marzo del 2014 seguii il corso base di cartografia con QGIS  tenuto da Paolo Cavallini: corso ben strutturato, ricco di esempi pratici, teoria e soprattutto si respirava aria di OPEN SOURCE. Imparai molte cose ma soprattutto il modo di collaborare per migliorare QGIS tramite la ML Gfoss, segnalazioni di bug tramite la bugtracker; il tutto in un ambiente accogliente e professionale."  https://pigrecoinfinito.wordpress.com/
+**Salvatore "Totò" Fiandaca**, `PigrecoInfinito <https://pigrecoinfinito.wordpress.com/>`_: "Nel marzo del 2014 seguii il corso base di cartografia con QGIS  tenuto da Paolo Cavallini: corso ben strutturato, ricco di esempi pratici, teoria e soprattutto si respirava aria di OPEN SOURCE. Imparai molte cose ma soprattutto il modo di collaborare per migliorare QGIS tramite la ML Gfoss, segnalazioni di bug tramite la bugtracker; il tutto in un ambiente accogliente e professionale."
 
 .. image:: images/luisi.jpg
           :align: left
 
-**Lorenzo Luisi**: "Ho sempre immaginato QGIS come un Davide che sorprende i Gis closed source. I corsi di Faunalia pongono le basi perché questo si avveri!" http://spaziocartograficopugliese.it/ 
+**Lorenzo Luisi**, `Spazio Cartografico Pugliese <http://spaziocartograficopugliese.it/>`_: "Ho sempre immaginato QGIS come un Davide che sorprende i Gis closed source. I corsi di Faunalia pongono le basi perché questo si avveri!"
 
 .. image:: images/umbiz.jpg
           :align: left
 
-**Umberto Zulian**: "Mi sono trovato benissimo a frequentare i corsi Faunalia (geodatabase, analisi e webmapping) che sono serviti per mettere in produzione ed approfondire le conoscenze lavorative che avevo già: il docente Paolo è mitico (lo definisco il “guru” di QGIS), il materiale fornito permette di portare a casa progetti di lavoro già funzionanti che non si basano solo sulla teoria ma su dati geografici attuali ed analisi territoriali operative." http://serviziinformativi.provincia.belluno.it/ http://webgis.provincia.belluno.it/
+**Umberto Zulian**, `Provincia di Belluno <http://serviziinformativi.provincia.belluno.it/>`_, `WebGIS Belluno <http://webgis.provincia.belluno.it/>`_: "Mi sono trovato benissimo a frequentare i corsi Faunalia (geodatabase, analisi e webmapping) che sono serviti per mettere in produzione ed approfondire le conoscenze lavorative che avevo già: il docente Paolo è mitico (lo definisco il “guru” di QGIS), il materiale fornito permette di portare a casa progetti di lavoro già funzionanti che non si basano solo sulla teoria ma su dati geografici attuali ed analisi territoriali operative."
 
 .. image:: images/fusco.jpg
           :align: left
@@ -74,8 +74,8 @@ Dicono di noi
 .. image:: images/bertonati.jpg
           :align: left
 
-**Enrico Bertonati**: "Ho fatto tutti i  corsi alla fine dello scorso anno e mi sono ritrovato all’ingresso di un mondo fantastico, quello del Gis e non solo, dove sicuramente il Dott. Cavallini ne è un’ottima guida.
-Spero in futuro di continuare ad approfondire queste materie ed ottenere sempre più migliori risultati."  http://www.vigilfuoco.it/
+**Enrico Bertonati**, `Vigili del Fuoco <http://www.vigilfuoco.it/>`_: "Ho fatto tutti i  corsi alla fine dello scorso anno e mi sono ritrovato all’ingresso di un mondo fantastico, quello del Gis e non solo, dove sicuramente il Dott. Cavallini ne è un’ottima guida.
+Spero in futuro di continuare ad approfondire queste materie ed ottenere sempre più migliori risultati."
 
 **Silvano Mastrolonardo**: "Ho apprezzato molto il corso, e Paolo mi ha aperto un mondo tutto nuovo prima completamente sconosciuto. Ora vedo il Gis e i DataBase sotto un punto di vista diverso, oltre ad aver appreso la logica che li attraversa."
 
@@ -84,6 +84,7 @@ Spero in futuro di continuare ad approfondire queste materie ed ottenere sempre 
 
 **Marta Puppo**: "Utile. Intenso. Molto efficace! Ho seguito il corso perché avevo bisogno di realizzare un WebGis in tempi molto stretti. Paolo ci ha guidato nella realizzazione dell'applicazione fornendoci un server virtuale funzionante prezioso per replicare l'installazione su altre macchine. Prezioso anche il legame che si è creato tra i corsisti. Grazie di tutto!"
 
+Vuoi lasciare anche tu il tuo commento? Scrivi a info@faunalia.it - Grazie!
 
 Calendario
 +++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -94,7 +95,7 @@ Calendario
 Corso                                    Date e durata         Iscrizione            Dove           Lingua
                                                                consigliata entro il
 ======================================== ====================  ===================== ============== ===========
-WebMapping con QGIS (IT)                 21-22 Aprile 2016     1 Aprile              Pontedera, IT  Italiano
+WebMapping con QGIS (IT)                 9-10 Maggio 2016      20 Aprile             Pontedera, IT  Italiano
 Cartografia con QGIS (IT)                Settembre 2016        1 Settembre           Pontedera, IT  Italiano
 Analisi con QGIS (IT)                    Ottobre 2016          1 Ottobre             Pontedera, IT  Italiano
 Geodatabase: PostgreSQL e PostGIS (IT)   Novembre 2016         1 Novembre            Pontedera, IT  Italiano
