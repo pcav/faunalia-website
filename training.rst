@@ -84,7 +84,7 @@ Spero in futuro di continuare ad approfondire queste materie ed ottenere sempre 
 
 **Marta Puppo**: "Utile. Intenso. Molto efficace! Ho seguito il corso perché avevo bisogno di realizzare un WebGis in tempi molto stretti. Paolo ci ha guidato nella realizzazione dell'applicazione fornendoci un server virtuale funzionante prezioso per replicare l'installazione su altre macchine. Prezioso anche il legame che si è creato tra i corsisti. Grazie di tutto!"
 
-Vuoi lasciare anche tu il tuo commento? Scrivi a info@faunalia.it - Grazie!
+**Vuoi lasciare anche tu il tuo commento?** Scrivi a info@faunalia.it - Grazie!
 
 Calendario
 +++++++++++++++++++++++++++++++++++++++++++++++++++
