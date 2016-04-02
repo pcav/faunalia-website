@@ -102,7 +102,6 @@ Spero in futuro di continuare ad approfondire queste materie ed ottenere sempre 
 
 .. image:: images/stefanini.jpg
           :align: left
-
 **Emiliano Stefanini**: "i corsi di Faunalia: un must per chi vuole lavorare con Qgis!!!"
 
 ------
