@@ -51,25 +51,35 @@ Dicono di noi
 
 **Emanuele Tataranni**: "I corsi di Faunalia sono i migliori nel campo dei sistemi informativi geografici. Ho potuto apprendere molto sui GIS open source (mondo a me prima poco conosciuto) e metterlo in pratica in contesto lavorativo grazie alla semplicità di insegnamento e alla chiarezza nell'esposizione di Paolo. Consiglio a tutti di affidarsi ai corsi di Faunalia. ... e poi la cecina di Pontedera è buonissima!"
 
+------
+
 .. image:: images/toto.jpg
           :align: left
 
 **Salvatore "Totò" Fiandaca**, `PigrecoInfinito <https://pigrecoinfinito.wordpress.com/>`_: "Nel marzo del 2014 seguii il corso base di cartografia con QGIS  tenuto da Paolo Cavallini: corso ben strutturato, ricco di esempi pratici, teoria e soprattutto si respirava aria di OPEN SOURCE. Imparai molte cose ma soprattutto il modo di collaborare per migliorare QGIS tramite la ML Gfoss, segnalazioni di bug tramite la bugtracker; il tutto in un ambiente accogliente e professionale."
+
+------
 
 .. image:: images/luisi.jpg
           :align: left
 
 **Lorenzo Luisi**, `Spazio Cartografico Pugliese <http://spaziocartograficopugliese.it/>`_: "Ho sempre immaginato QGIS come un Davide che sorprende i Gis closed source. I corsi di Faunalia pongono le basi perché questo si avveri!"
 
+------
+
 .. image:: images/umbiz.jpg
           :align: left
 
 **Umberto Zulian**, `Provincia di Belluno <http://serviziinformativi.provincia.belluno.it/>`_, `WebGIS Belluno <http://webgis.provincia.belluno.it/>`_: "Mi sono trovato benissimo a frequentare i corsi Faunalia (geodatabase, analisi e webmapping) che sono serviti per mettere in produzione ed approfondire le conoscenze lavorative che avevo già: il docente Paolo è mitico (lo definisco il “guru” di QGIS), il materiale fornito permette di portare a casa progetti di lavoro già funzionanti che non si basano solo sulla teoria ma su dati geografici attuali ed analisi territoriali operative."
 
+------
+
 .. image:: images/fusco.jpg
           :align: left
 
 **Lorenzo Fusco**: "Paolo Cavallini? Fantastico! Il corso poi, per la quantità di porte che apre lo si potrebbe fare con colonna sonora di doors". Più formale: "Consiglio a tutti la professionalità di Paolo Cavallini, glielo si legge negli occhi che è un vero appassionato, oltre che competente gissaro. Il corso è strutturato benissimo e lui è una persona molto disponibile, anche successivamente, quando, a casa, quel passaggio su cui hai preso male gli appunti proprio non ti riesce. In due giorni mi ha messo in grado di realizzare delle fantastiche mappe web oltre che avermi aperto le porte dell'amplissimo mondo del webgis"
+
+------
 
 .. image:: images/bertonati.jpg
           :align: left
@@ -77,19 +87,32 @@ Dicono di noi
 **Enrico Bertonati**, `Vigili del Fuoco <http://www.vigilfuoco.it/>`_: "Ho fatto tutti i  corsi alla fine dello scorso anno e mi sono ritrovato all’ingresso di un mondo fantastico, quello del Gis e non solo, dove sicuramente il Dott. Cavallini ne è un’ottima guida.
 Spero in futuro di continuare ad approfondire queste materie ed ottenere sempre più migliori risultati."
 
+------
+
 **Silvano Mastrolonardo**: "Ho apprezzato molto il corso, e Paolo mi ha aperto un mondo tutto nuovo prima completamente sconosciuto. Ora vedo il Gis e i DataBase sotto un punto di vista diverso, oltre ad aver appreso la logica che li attraversa."
+
+------
 
 .. image:: images/puppo.jpg
           :align: left
 
 **Marta Puppo**: "Utile. Intenso. Molto efficace! Ho seguito il corso perché avevo bisogno di realizzare un WebGis in tempi molto stretti. Paolo ci ha guidato nella realizzazione dell'applicazione fornendoci un server virtuale funzionante prezioso per replicare l'installazione su altre macchine. Prezioso anche il legame che si è creato tra i corsisti. Grazie di tutto!"
 
+------
+
+.. image:: images/stefanini.jpg
+          :align: left
+
+**Emiliano Stefanini**: "i corsi di Faunalia: un must per chi vuole lavorare con Qgis!!!"
+
+------
+
 **Vuoi lasciare anche tu il tuo commento?** Scrivi a info@faunalia.it - Grazie!
 
 Calendario
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-.. rst-class:: table  
+.. rst-class:: table
 
 ======================================== ====================  ===================== ============== ===========
 Corso                                    Date e durata         Iscrizione            Dove           Lingua
