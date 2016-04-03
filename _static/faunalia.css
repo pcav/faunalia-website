@@ -369,3 +369,5 @@ text-shadow:none !important;
 .nav-list > li > ul > li > a {
 margin-left:10px !important;
 }
+
+  #sidebar > ul > li > ul > li > ul > li {text-indent:10px;font-size:.85em;}
