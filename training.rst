@@ -89,6 +89,9 @@ Spero in futuro di continuare ad approfondire queste materie ed ottenere sempre 
 
 ------
 
+.. image:: images/mastrolonardo.jpg
+          :align: left
+
 **Silvano Mastrolonardo**: "Ho apprezzato molto il corso, e Paolo mi ha aperto un mondo tutto nuovo prima completamente sconosciuto. Ora vedo il Gis e i DataBase sotto un punto di vista diverso, oltre ad aver appreso la logica che li attraversa."
 
 ------
