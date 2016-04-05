@@ -49,8 +49,25 @@ Perché scegliere i corsi di Faunalia?
 Dicono di noi
 =================
 
+.. image:: images/frassinelli.jpg
+          :align: left
+
+**Niccolò Frassinelli**: "Nonostante l'uscita di una nuova versione di QGis appena due giorni prima del corso base, Paolo si è dimostrato preparatissimo, visto anche il suo impegno nello sviluppo del software. Oltre alla preparazione, ha avuto capacità didattiche molto buone. Il confronto con le necessità di noi corsisti è stato costante e la disponibilità ad aiuti dopo il corso totale. Non posso che consigliare a tutti i corsi di Faunalia, come del resto già ho fatto e faccio."
+
+------
+
 **Marco Barbieri**, `webmapp.it <http://webmapp.it>`_: "Ero da tempo alla ricerca di un corso su PostGIS, avendo difficoltà ad usare questo strumento fondamentale per il mio lavoro. Ho trovato e seguito il corso tenuto da Paolo: completo, chiaro e ben documentato. Grazie al corso ora sono autonomo nella creazione e gestione di database spaziali e sopratutto sono in grado di leggere la documentazione online e di capire quello che viene scritto nei forum! Quindi progredire nella conoscenza ed utilizzo del vasto e ricco mondo di PostGIS.
 Grazie ancora davvero per il tuo corso, Paolo."
+
+------
+
+.. image:: images/stefanini.jpg
+          :align: left
+**Emiliano Stefanini**: "i corsi di Faunalia: un must per chi vuole lavorare con Qgis!!!"
+
+.. raw:: html
+
+   <br />
 
 ------
 
@@ -105,16 +122,6 @@ Spero in futuro di continuare ad approfondire queste materie ed ottenere sempre 
           :align: left
 
 **Marta Puppo**: "Utile. Intenso. Molto efficace! Ho seguito il corso perché avevo bisogno di realizzare un WebGis in tempi molto stretti. Paolo ci ha guidato nella realizzazione dell'applicazione fornendoci un server virtuale funzionante prezioso per replicare l'installazione su altre macchine. Prezioso anche il legame che si è creato tra i corsisti. Grazie di tutto!"
-
-------
-
-.. image:: images/stefanini.jpg
-          :align: left
-**Emiliano Stefanini**: "i corsi di Faunalia: un must per chi vuole lavorare con Qgis!!!"
-
-.. raw:: html
-
-   <br />
 
 ------
 
