@@ -37,10 +37,11 @@ Formulário de inscrição
 			// compose submitter mail
 			$from = 'From: ' . $sender_email; 
 			$to = $email; 
+			$additional_headers = $from . "\r\n" . 'Content-Type: text/plain; charset=UTF-8';
 			$subject = "Faunalia LDA, inscrição no curso " . $corso . " efectuada com sucesso";
 			$message = "A sua inscrição foi registrada. Será contactado o mais brevemente possível.\n\nObrigado.";
 			$body = "From: $sender_name\nRemetente: $sender_email\nMensagem:\n$message";
-			if ( !mail ($to, $subject, $body, $from) ) { 
+			if ( !mail ($to, $subject, $body, $from, $additional_headers) ) { 
 				error_log("Error sending inscription receipt email: " . $body); 
 				$found_error = 1;
 				
@@ -49,6 +50,7 @@ Formulário de inscrição
 				// compose internal archive mail 
 				$from = 'From: ' . $sender_email; 
 				$to = $sender_email; 
+				$additional_headers = $from . "\r\n" . 'Content-Type: text/plain; charset=UTF-8';
 				$subject = "Inscrição no curso: " . $corso . " de " . $nome . " " . $cognome;
 					
 					// key:value message
@@ -75,7 +77,7 @@ Formulário de inscrição
 								$note;
 					
 				$body = "De: $sender_name\nRemetente: $sender_email\nDetalhes:\n$message_formatted\n\nDetalhes para LibreOffice:\n$header\n$message\n";
-				if ( !mail ($to, $subject, $body, $from) ) {
+				if ( !mail ($to, $subject, $body, $from, $additional_headers) ) {
 					error_log("Error sending internal inscription mail: ". $body);
 					$found_error = 1;
 				}
