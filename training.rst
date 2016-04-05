@@ -49,6 +49,11 @@ Perché scegliere i corsi di Faunalia?
 Dicono di noi
 =================
 
+**Marco Barbieri**, `webmapp.it <http://webmapp.it>`_: "Ero da tempo alla ricerca di un corso su PostGIS, avendo difficoltà ad usare questo strumento fondamentale per il mio lavoro. Ho trovato e seguito il corso tenuto da Paolo: completo, chiaro e ben documentato. Grazie al corso ora sono autonomo nella creazione e gestione di database spaziali e sopratutto sono in grado di leggere la documentazione online e di capire quello che viene scritto nei forum! Quindi progredire nella conoscenza ed utilizzo del vasto e ricco mondo di PostGIS.
+Grazie ancora davvero per il tuo corso, Paolo."
+
+------
+
 **Emanuele Tataranni**: "I corsi di Faunalia sono i migliori nel campo dei sistemi informativi geografici. Ho potuto apprendere molto sui GIS open source (mondo a me prima poco conosciuto) e metterlo in pratica in contesto lavorativo grazie alla semplicità di insegnamento e alla chiarezza nell'esposizione di Paolo. Consiglio a tutti di affidarsi ai corsi di Faunalia. ... e poi la cecina di Pontedera è buonissima!"
 
 ------
