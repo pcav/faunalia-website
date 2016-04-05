@@ -20,10 +20,10 @@ Formulário de inscrição
 			
 			// sender data
 			$sender_name = 'Faunalia LDA';
-			$sender_email ="info@faunalia.pt";
+			$sender_email ="info@faunalia.it";
 			
 			$sender_name = 'Inscrição formação SIG';
-			$sender_email ="info@faunalia.pt";
+			$sender_email ="info@faunalia.it";
 			// form data
 			$nome = $_POST["nome"];
 			$cognome = $_POST["cognome"];
