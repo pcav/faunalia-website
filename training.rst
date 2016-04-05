@@ -56,6 +56,9 @@ Dicono di noi
 
 ------
 
+.. image:: images/barbieri.jpg
+          :align: left
+
 **Marco Barbieri**, `webmapp.it <http://webmapp.it>`_: "Ero da tempo alla ricerca di un corso su PostGIS, avendo difficoltà ad usare questo strumento fondamentale per il mio lavoro. Ho trovato e seguito il corso tenuto da Paolo: completo, chiaro e ben documentato. Grazie al corso ora sono autonomo nella creazione e gestione di database spaziali e sopratutto sono in grado di leggere la documentazione online e di capire quello che viene scritto nei forum! Quindi progredire nella conoscenza ed utilizzo del vasto e ricco mondo di PostGIS.
 Grazie ancora davvero per il tuo corso, Paolo."
 
