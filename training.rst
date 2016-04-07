@@ -49,6 +49,32 @@ Perché scegliere i corsi di Faunalia?
 Dicono di noi
 =================
 
+.. image:: images/iwasaki.jpg
+          :align: left
+
+**Nobusuke Iwasaki** , `NARO http://www.naro.affrc.go.jp/english/index.html>`_: "In Oct 2012, We held the Faunalia courses about QGIS in Japan. It was a great opportunity for Japanese user to learn and understand QGIS more deeply!"
+
+------
+
+.. image:: images/asahi.jpg
+          :align: left
+
+**Kosuke Asahi** `FOSS4G Hokkaido <https://sites.google.com/site/foss4ghokkaido/>`_: "Dr.Paolo Cavallini's `QGIS workshop <https://sites.google.com/site/foss4ghokkaido/foss4g-hokkaido-2012/qgis-paolo>`_ in English is very easy to understand even for none-native English speaker like me. He kindly gave me a lot of practical skill from his workshop. I strongly recommend his workshop for none-native English speaker too." 
+
+------
+
+.. image:: images/gagna.jpg
+          :align: left
+
+**Andrea Gagna**, `ProfessioneGeografo <https://www.facebook.com/R.I.ProfessioneGeografo/?view_public_for=569283503097366>`_:" Ho frequentato presso l'Azienda Faunalia SRL di Paolo Cavallini il mio primo Corso GIS Open Source avanzato e ormai si parla del 2012. Era focalizzato sull'analisi e il Geo-processing con QGIS integrato al GRASS tramite ononimo Plugin. Ricordo bene i tre fantastici giorni formativi trascorsi presso la sede della Faunalia perchè ebbi modo anzitutto di conoscere Paolo e la sua Azienda e iniziare a scoprire il "Mondo GIS Open Source" e le sue potenzialità, poi per l'eccellente ospitalità e disponibilità dimostrata durante l'erogazione delle lezioni ma soprattutto per il loro notevole tasso tecnico. Un Corso avanzato che però riprendeva concetti base e che permetteva quasi a chiunque di apprendere un'ottima  dimestichezza con il QGIS in quei soli 3 giorni di lezioni. Pensate che Io prima di fare il Corso avevo solo fatto un 4/5 ore di introduzione presso un Libero Professionista e che grazie alle competenze acquisite dal Corso della Faunalia ho potuto tranquillamente sostenere e ottenere l'ECDL GIS. Da quell'Ottobre 2012 ad oggi le mie competenze sono chiaramente incrementate e della tecnologia GIS ne sto facendo un lavoro nel senso che sto cercando di mettermi in proprio. Anche se in Italia siamo ancora un po' indietro, io credo fermamente nelle potenzialità della tecnologia GIS Open Source e nella necessità sempre più forte di figure professionali specializzate.
+Quindi non posso che evidenziare la mia estrema soddisfazione per il Corso avanzato in Analisi vettoriale/raster con QGIS e plugin GRASS che feci nel 2012 presso Faunalia. Oltretutto ritengo che il rapporto qualità/prezzo sia tra i migliori sul mercato."
+
+------
+
+**Anonymous**: "il corso e' stato organizzato in modo preciso e  con chiare spiegazioni. Un altro grande vantaggio e' la ridotta partecipazione. Imparare qualcosa di nuovo in un gruppo piccolo significa avere più support da parte del trainer e a creare un network con gli altri partecipanti del corso"
+
+------
+
 .. image:: images/frassinelli.jpg
           :align: left
 
@@ -128,7 +154,9 @@ Spero in futuro di continuare ad approfondire queste materie ed ottenere sempre 
 
 ------
 
-**Vuoi lasciare anche tu il tuo commento?** Scrivi a info@faunalia.it - Grazie!
+**Vuoi lasciare anche tu il tuo commento?** `Scrivici`_  - Grazie!
+
+.. _Scrivici: info@faunalia.it?subject=Testimonials
 
 Calendario
 +++++++++++++++++++++++++++++++++++++++++++++++++++
