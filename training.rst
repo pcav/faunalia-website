@@ -52,7 +52,7 @@ Dicono di noi
 .. image:: images/iwasaki.jpg
           :align: left
 
-**Nobusuke Iwasaki** , `NARO http://www.naro.affrc.go.jp/english/index.html>`_: "In Oct 2012, We held the Faunalia courses about QGIS in Japan. It was a great opportunity for Japanese user to learn and understand QGIS more deeply!"
+**Nobusuke Iwasaki** , `NARO <http://www.naro.affrc.go.jp/english/index.html>`_: "In Oct 2012, We held the Faunalia courses about QGIS in Japan. It was a great opportunity for Japanese user to learn and understand QGIS more deeply!"
 
 ------
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-07 20:25+0200\n"
+"POT-Creation-Date: 2016-04-07 20:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,7 +73,7 @@ msgid "Dicono di noi"
 msgstr ""
 
 #: ../../training.rst:55
-msgid "**Nobusuke Iwasaki** , `NARO http://www.naro.affrc.go.jp/english/index.html>`_: \"In Oct 2012, We held the Faunalia courses about QGIS in Japan. It was a great opportunity for Japanese user to learn and understand QGIS more deeply!\""
+msgid "**Nobusuke Iwasaki** , `NARO <http://www.naro.affrc.go.jp/english/index.html>`_: \"In Oct 2012, We held the Faunalia courses about QGIS in Japan. It was a great opportunity for Japanese user to learn and understand QGIS more deeply!\""
 msgstr ""
 
 #: ../../training.rst:62
