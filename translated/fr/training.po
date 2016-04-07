@@ -319,8 +319,8 @@ msgstr ""
 #: ../../training.rst:157
 msgid "**Vuoi lasciare anche tu il tuo commento?** `Scrivici`_  - Grazie!"
 msgstr ""
-"S'il te plaît, envoie-nous tes opinions sur nos courses: info@faunalia.it - "
-"Merci bien!"
+"S'il te plaît,**envoie-nous tes opinions** sur nos courses: info@faunalia.it "
+"- Merci bien!"
 
 # 60ceb7adc7744dfdba3c604cf37e7978
 #: ../../training.rst:162
