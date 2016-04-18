@@ -49,6 +49,13 @@ Perché scegliere i corsi di Faunalia?
 Dicono di noi
 =================
 
+.. image:: images/nina.jpg
+          :align: left
+
+`NINA <http://nina.no/>`_: "Paolo has been instructor 3 times for technicians and researchers in the **Norwegian Institute for Nature Research –NINA-**. He has made a QGIS new beginners course, a QGIS advanced course as well, as a Lizmap course specifically to fulfill the needs of the institute. He is a very experienced instructor, patient and willing to help the attendees. We are very much satisfied with the courses that make a quick off for starting to use this efficient tools. Thanks Paolo and Faunalia!"
+
+------
+
 .. image:: images/iwasaki.jpg
           :align: left
 
