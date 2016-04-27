@@ -66,7 +66,14 @@ Dicono di noi
 .. image:: images/asahi.jpg
           :align: left
 
-**Kosuke Asahi** `FOSS4G Hokkaido <https://sites.google.com/site/foss4ghokkaido/>`_: "Dr.Paolo Cavallini's `QGIS workshop <https://sites.google.com/site/foss4ghokkaido/foss4g-hokkaido-2012/qgis-paolo>`_ in English is very easy to understand even for none-native English speaker like me. He kindly gave me a lot of practical skill from his workshop. I strongly recommend his workshop for none-native English speaker too." 
+**Kosuke Asahi** `FOSS4G Hokkaido <https://sites.google.com/site/foss4ghokkaido/>`_: "Dr.Paolo Cavallini's `QGIS workshop <https://sites.google.com/site/foss4ghokkaido/foss4g-hokkaido-2012/qgis-paolo>`_ in English is very easy to understand even for none-native English speaker like me. He kindly gave me a lot of practical skill from his workshop. I strongly recommend his workshop for none-native English speaker too."
+
+------
+
+.. image:: images/puglisi.jpg
+          :align: left
+
+`**Luca Puglisi** <https://www.researchgate.net/profile/Luca_Puglisi>`_: "Ho seguito con grande profitto due corsi organizzati da Faunalia. L'attenzione con cui vengono ascoltate anche le esigenze dei corsisti rende questa esperienza formativa particolarmente efficace, rendendo le lezioni, rigorose da un punta di vista tecnico ma svolte in un clima informale, particolarmente piacevoli."
 
 ------
 
