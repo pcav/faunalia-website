@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-18 11:12+0200\n"
+"POT-Creation-Date: 2016-05-20 13:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -91,7 +91,7 @@ msgid "Need 3D in QGIS? A glimpse of the future"
 msgstr ""
 
 #: ../../index.rst:91
-msgid "You can use `Qgis2threejs <https://plugins.qgis.org/plugins/Qgis2threejs/>`_ plugin to easily create `dynamic 3D visualization of your map <http://www.faunalia.eu/it/3d/20160316105926.html>`_, and that's fun enough. Look at what you'll be able to do, even more easily, in the near future, once QGIS has moved to Qt5 - work underway. `Minoru <https://github.com/minorua>`_ rocks!"
+msgid "You can use `Qgis2threejs <https://plugins.qgis.org/plugins/Qgis2threejs/>`_ plugin to easily create `dynamic 3D visualization of your map <https://www.faunalia.eu/it/3d/20160316105926.html>`_, and that's fun enough. Look at what you'll be able to do, even more easily, in the near future, once QGIS has moved to Qt5 - work underway. `Minoru <https://github.com/minorua>`_ rocks!"
 msgstr ""
 
 #: ../../index.rst:97
@@ -107,7 +107,7 @@ msgid "Another nice plugin: Historical maps"
 msgstr ""
 
 #: ../../index.rst:107
-msgid "A very simple to use, yet powerful plugin (`Historical Map <http://plugins.qgis.org/plugins/HistoricalMap/>`_) for doing supervised classification of land use. It is especially designed for finding woodlands in historical maps, but I tested with normal ortophoto, with good results."
+msgid "A very simple to use, yet powerful plugin (`Historical Map <https://plugins.qgis.org/plugins/HistoricalMap/>`_) for doing supervised classification of land use. It is especially designed for finding woodlands in historical maps, but I tested with normal ortophoto, with good results."
 msgstr ""
 
 #: ../../index.rst:113
@@ -115,7 +115,7 @@ msgid "Big plans for next QGIS_"
 msgstr ""
 
 #: ../../index.rst:115
-msgid "Major transitions in large software projects are always a big challenge, and involve considerable risks. After a long gestation, now we have a definite plan towards QGIS 3.0, andt we believe this is the best way forward. `Read about it <http://blog.qgis.org/2016/02/10/qgis-3-0-plans/>`_, straight from the project leader, and join us for the next leap forward."
+msgid "Major transitions in large software projects are always a big challenge, and involve considerable risks. After a long gestation, now we have a definite plan towards QGIS 3.0, andt we believe this is the best way forward. `Read about it <https://blog.qgis.org/2016/02/10/qgis-3-0-plans/>`_, straight from the project leader, and join us for the next leap forward."
 msgstr ""
 
 #: ../../index.rst:118
@@ -147,7 +147,7 @@ msgid "An easier and safer life for QGIS plugin writer"
 msgstr ""
 
 #: ../../index.rst:136
-msgid "Now, thanks to Martin Dobias, plugin writer can relax a bit more: with the plugin `First Aid <http://plugins.qgis.org/plugins/firstaid/>`_ finding errors and debugging your plugin will be far easier. This will also help you to get ready for the upcoming Python 3 and Qt 5 transition, a major breakthrough."
+msgid "Now, thanks to Martin Dobias, plugin writer can relax a bit more: with the plugin `First Aid <https://plugins.qgis.org/plugins/firstaid/>`_ finding errors and debugging your plugin will be far easier. This will also help you to get ready for the upcoming Python 3 and Qt 5 transition, a major breakthrough."
 msgstr ""
 
 #: ../../index.rst:142
@@ -155,7 +155,7 @@ msgid "Nasce il gruppo italiano degli utenti di QGIS_"
 msgstr ""
 
 #: ../../index.rst:144
-msgid "Siamo finalmente pronti: da oggi chi è interessato al futuro di QGIS potrà partecipare attivamente. Trovate le semplicissime istruzioni sul sito `QGIS.it <http://qgis.it/>`_ . In pratica, ci mettiamo insieme, tutti quelli che donano (codice o euro) al progetto decidono poi insieme come investire quanto raccolto. Per qualunque chiarimento, non esitate a chiedere."
+msgid "Siamo finalmente pronti: da oggi chi è interessato al futuro di QGIS potrà partecipare attivamente. Trovate le semplicissime istruzioni sul sito `QGIS.it <https://qgis.it/>`_ . In pratica, ci mettiamo insieme, tutti quelli che donano (codice o euro) al progetto decidono poi insieme come investire quanto raccolto. Per qualunque chiarimento, non esitate a chiedere."
 msgstr ""
 
 #: ../../index.rst:150
@@ -163,7 +163,7 @@ msgid "Paolo Cavallini appointed as QGIS co-chair"
 msgstr ""
 
 #: ../../index.rst:152
-msgid "**QGIS.org** is becoming a formal association. In this process, Tim Sutton has been elected as Chair of the project, and Paolo Cavallini as co-chair - a great honour and responsibility. See the `blog post <http://blog.qgis.org/2015/11/03/introducing-the-qgis-board/>`_."
+msgid "**QGIS.org** is becoming a formal association. In this process, Tim Sutton has been elected as Chair of the project, and Paolo Cavallini as co-chair - a great honour and responsibility. See the `blog post <https://blog.qgis.org/2015/11/03/introducing-the-qgis-board/>`_."
 msgstr ""
 
 #: ../../index.rst:155
@@ -187,7 +187,7 @@ msgid "Let us hear your voice: a survey on QGIS usage"
 msgstr ""
 
 #: ../../index.rst:173
-msgid "We would like to better understand how you are using QGIS so that we can improve the way that we manage the project. We have compiled this short survey, and would be most appreciative if you could take a few minutes to complete it for us. All responses are anonymous and we will share the results with the community so that we can all benefit from the insights gained. You can find the `survey here <http://blog.qgis.org/2015/10/15/take-the-qgis-user-survey/>`_"
+msgid "We would like to better understand how you are using QGIS so that we can improve the way that we manage the project. We have compiled this short survey, and would be most appreciative if you could take a few minutes to complete it for us. All responses are anonymous and we will share the results with the community so that we can all benefit from the insights gained. You can find the `survey here <https://blog.qgis.org/2015/10/15/take-the-qgis-user-survey/>`_"
 msgstr ""
 
 #: ../../index.rst:176
@@ -195,7 +195,7 @@ msgid "New PostGIS version"
 msgstr ""
 
 #: ../../index.rst:178
-msgid "Just released **PostGIS 2.2.0**: lots of `improvements and new functions <http://svn.osgeo.org/postgis/tags/2.2.0/NEWS>`_. My favourite of the day: `ST_ClusterWithin <http://postgis.net/docs/manual-2.2/ST_ClusterWithin.html>`_, which aggregates all geometries within a set distance from the others."
+msgid "Just released **PostGIS 2.2.0**: lots of `improvements and new functions <https://svn.osgeo.org/postgis/tags/2.2.0/NEWS>`_. My favourite of the day: `ST_ClusterWithin <https://postgis.net/docs/manual-2.2/ST_ClusterWithin.html>`_, which aggregates all geometries within a set distance from the others."
 msgstr ""
 
 #: ../../index.rst:181
@@ -219,7 +219,7 @@ msgid "Really Fast Fourier filter for rasters in QGIS"
 msgstr ""
 
 #: ../../index.rst:196
-msgid "I just approved for publication an interesting plugin: `FFT Convolution Filters <http://plugins.qgis.org/plugins/fft-convolution-filter-master/>`_; it allows both to detect edges and smooth an existing raster - and it's impressively fast! *Beware*: you need NumPy, SciPy and Rasterio python modules installed in your system. Have fun."
+msgid "I just approved for publication an interesting plugin: `FFT Convolution Filters <https://plugins.qgis.org/plugins/fft-convolution-filter-master/>`_; it allows both to detect edges and smooth an existing raster - and it's impressively fast! *Beware*: you need NumPy, SciPy and Rasterio python modules installed in your system. Have fun."
 msgstr ""
 
 #: ../../index.rst:202
@@ -243,7 +243,7 @@ msgid "More background maps in QGIS"
 msgstr ""
 
 #: ../../index.rst:214
-msgid "One hidden gem in QGIS: `QuickMapServices Plugin <http://plugins.qgis.org/plugins/quick_map_services/>`_; it allows you to add 47 background layers from the web, including the well known Google services as well as less known, interesting stuff - and you are encouraged to add your own!"
+msgid "One hidden gem in QGIS: `QuickMapServices Plugin <https://plugins.qgis.org/plugins/quick_map_services/>`_; it allows you to add 47 background layers from the web, including the well known Google services as well as less known, interesting stuff - and you are encouraged to add your own!"
 msgstr ""
 
 #: ../../index.rst:220
@@ -267,7 +267,7 @@ msgid "Opinions on QGIS: today and the future"
 msgstr ""
 
 #: ../../index.rst:238
-msgid "An `interview <http://exporttocanoma.blogspot.it/2015/08/intervista-paolo-cavallini.html>`_ with Paolo Cavallini about QGIS and more. In Italian, sorry, non-latins! :)"
+msgid "An `interview <https://exporttocanoma.blogspot.it/2015/08/intervista-paolo-cavallini.html>`_ with Paolo Cavallini about QGIS and more. In Italian, sorry, non-latins! :)"
 msgstr ""
 
 #: ../../index.rst:241
@@ -283,7 +283,7 @@ msgid "New QGIS Long Term Release"
 msgstr ""
 
 #: ../../index.rst:251
-msgid "`QGIS 2.8.3 'Wien' new bugfix release is out <http://qgis.org/en/site/forusers/download.html>`_. Hundreds of bugfixes `(see the list <https://github.com/qgis/QGIS/compare/final-2_8_2...final-2_8_3>`_) - upgrade now! `More details on the QGIS blog <http://blog.qgis.org/2015/08/06/point-release-qgis-2-8-3-wien-is-ready/>`_"
+msgid "`QGIS 2.8.3 'Wien' new bugfix release is out <https://qgis.org/en/site/forusers/download.html>`_. Hundreds of bugfixes `(see the list <https://github.com/qgis/QGIS/compare/final-2_8_2...final-2_8_3>`_) - upgrade now! `More details on the QGIS blog <https://blog.qgis.org/2015/08/06/point-release-qgis-2-8-3-wien-is-ready/>`_"
 msgstr ""
 
 #: ../../index.rst:254
@@ -299,6 +299,6 @@ msgid "Yet another interesting QGIS plugin: Cartograms"
 msgstr ""
 
 #: ../../index.rst:261
-msgid "`Create distorted maps <http://plugins.qgis.org/plugins/cartogram/>`_, where areas of each polygon represents a variable in your data. An example:"
+msgid "`Create distorted maps <https://plugins.qgis.org/plugins/cartogram/>`_, where areas of each polygon represents a variable in your data. An example:"
 msgstr ""
 
