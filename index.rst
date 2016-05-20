@@ -88,7 +88,7 @@ News
 Need 3D in QGIS? A glimpse of the future
 +++++++++++++++++++++++++++++++++++++++++++
 
-* You can use `Qgis2threejs <https://plugins.qgis.org/plugins/Qgis2threejs/>`_ plugin to easily create `dynamic 3D visualization of your map <http://www.faunalia.eu/it/3d/20160316105926.html>`_, and that's fun enough. Look at what you'll be able to do, even more easily, in the near future, once QGIS has moved to Qt5 - work underway. `Minoru <https://github.com/minorua>`_ rocks!
+* You can use `Qgis2threejs <https://plugins.qgis.org/plugins/Qgis2threejs/>`_ plugin to easily create `dynamic 3D visualization of your map <https://www.faunalia.eu/it/3d/20160316105926.html>`_, and that's fun enough. Look at what you'll be able to do, even more easily, in the near future, once QGIS has moved to Qt5 - work underway. `Minoru <https://github.com/minorua>`_ rocks!
 
 .. image :: images/next-3d.gif
    :width: 300px
@@ -104,7 +104,7 @@ Layer board: configure your big QGIS projects, easily
 Another nice plugin: Historical maps
 +++++++++++++++++++++++++++++++++++++
 
-* A very simple to use, yet powerful plugin (`Historical Map <http://plugins.qgis.org/plugins/HistoricalMap/>`_) for doing supervised classification of land use. It is especially designed for finding woodlands in historical maps, but I tested with normal ortophoto, with good results.
+* A very simple to use, yet powerful plugin (`Historical Map <https://plugins.qgis.org/plugins/HistoricalMap/>`_) for doing supervised classification of land use. It is especially designed for finding woodlands in historical maps, but I tested with normal ortophoto, with good results.
 
 .. image :: images/hist_map.png
    :width: 300px
@@ -112,7 +112,7 @@ Another nice plugin: Historical maps
 Big plans for next QGIS_
 ++++++++++++++++++++++++++
 
-* Major transitions in large software projects are always a big challenge, and involve considerable risks. After a long gestation, now we have a definite plan towards QGIS 3.0, andt we believe this is the best way forward. `Read about it <http://blog.qgis.org/2016/02/10/qgis-3-0-plans/>`_, straight from the project leader, and join us for the next leap forward.
+* Major transitions in large software projects are always a big challenge, and involve considerable risks. After a long gestation, now we have a definite plan towards QGIS 3.0, andt we believe this is the best way forward. `Read about it <https://blog.qgis.org/2016/02/10/qgis-3-0-plans/>`_, straight from the project leader, and join us for the next leap forward.
 
 Workshop su QGIS_
 ++++++++++++++++++++
@@ -133,7 +133,7 @@ Novità in QGIS_
 An easier and safer life for QGIS plugin writer
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
-* Now, thanks to Martin Dobias, plugin writer can relax a bit more: with the plugin `First Aid <http://plugins.qgis.org/plugins/firstaid/>`_ finding errors and debugging your plugin will be far easier. This will also help you to get ready for the upcoming Python 3 and Qt 5 transition, a major breakthrough.
+* Now, thanks to Martin Dobias, plugin writer can relax a bit more: with the plugin `First Aid <https://plugins.qgis.org/plugins/firstaid/>`_ finding errors and debugging your plugin will be far easier. This will also help you to get ready for the upcoming Python 3 and Qt 5 transition, a major breakthrough.
 
 .. image :: images/firstaidplugin.png
    :width: 48px
@@ -141,7 +141,7 @@ An easier and safer life for QGIS plugin writer
 Nasce il gruppo italiano degli utenti di QGIS_
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-* Siamo finalmente pronti: da oggi chi è interessato al futuro di QGIS potrà partecipare attivamente. Trovate le semplicissime istruzioni sul sito `QGIS.it <http://qgis.it/>`_ . In pratica, ci mettiamo insieme, tutti quelli che donano (codice o euro) al progetto decidono poi insieme come investire quanto raccolto. Per qualunque chiarimento, non esitate a chiedere.
+* Siamo finalmente pronti: da oggi chi è interessato al futuro di QGIS potrà partecipare attivamente. Trovate le semplicissime istruzioni sul sito `QGIS.it <https://qgis.it/>`_ . In pratica, ci mettiamo insieme, tutti quelli che donano (codice o euro) al progetto decidono poi insieme come investire quanto raccolto. Per qualunque chiarimento, non esitate a chiedere.
 
 .. image :: images/qgis-icon.png
    :width: 300px
@@ -149,7 +149,7 @@ Nasce il gruppo italiano degli utenti di QGIS_
 Paolo Cavallini appointed as QGIS co-chair
 ++++++++++++++++++++++++++++++++++++++++++++
 
-* **QGIS.org** is becoming a formal association. In this process, Tim Sutton has been elected as Chair of the project, and Paolo Cavallini as co-chair - a great honour and responsibility. See the `blog post <http://blog.qgis.org/2015/11/03/introducing-the-qgis-board/>`_.
+* **QGIS.org** is becoming a formal association. In this process, Tim Sutton has been elected as Chair of the project, and Paolo Cavallini as co-chair - a great honour and responsibility. See the `blog post <https://blog.qgis.org/2015/11/03/introducing-the-qgis-board/>`_.
 
 Yet another country: Faunalia training in Saudi Arabia
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -170,12 +170,12 @@ Faunalia al Linux Day
 Let us hear your voice: a survey on QGIS usage
 +++++++++++++++++++++++++++++++++++++++++++++++++
 
-* We would like to better understand how you are using QGIS so that we can improve the way that we manage the project. We have compiled this short survey, and would be most appreciative if you could take a few minutes to complete it for us. All responses are anonymous and we will share the results with the community so that we can all benefit from the insights gained. You can find the `survey here <http://blog.qgis.org/2015/10/15/take-the-qgis-user-survey/>`_
+* We would like to better understand how you are using QGIS so that we can improve the way that we manage the project. We have compiled this short survey, and would be most appreciative if you could take a few minutes to complete it for us. All responses are anonymous and we will share the results with the community so that we can all benefit from the insights gained. You can find the `survey here <https://blog.qgis.org/2015/10/15/take-the-qgis-user-survey/>`_
 
 New PostGIS version
 +++++++++++++++++++++
 
-* Just released **PostGIS 2.2.0**: lots of `improvements and new functions <http://svn.osgeo.org/postgis/tags/2.2.0/NEWS>`_. My favourite of the day: `ST_ClusterWithin <http://postgis.net/docs/manual-2.2/ST_ClusterWithin.html>`_, which aggregates all geometries within a set distance from the others.
+* Just released **PostGIS 2.2.0**: lots of `improvements and new functions <https://svn.osgeo.org/postgis/tags/2.2.0/NEWS>`_. My favourite of the day: `ST_ClusterWithin <https://postgis.net/docs/manual-2.2/ST_ClusterWithin.html>`_, which aggregates all geometries within a set distance from the others.
 
 GFOSS Day Italia 2015: Faunalia c'è
 +++++++++++++++++++++++++++++++++++++
@@ -193,7 +193,7 @@ QGIS keeps on growing in popularity, ArcGIS starts declining?
 Really Fast Fourier filter for rasters in QGIS
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
-* I just approved for publication an interesting plugin: `FFT Convolution Filters <http://plugins.qgis.org/plugins/fft-convolution-filter-master/>`_; it allows both to detect edges and smooth an existing raster - and it's impressively fast! *Beware*: you need NumPy, SciPy and Rasterio python modules installed in your system. Have fun.
+* I just approved for publication an interesting plugin: `FFT Convolution Filters <https://plugins.qgis.org/plugins/fft-convolution-filter-master/>`_; it allows both to detect edges and smooth an existing raster - and it's impressively fast! *Beware*: you need NumPy, SciPy and Rasterio python modules installed in your system. Have fun.
 
 .. image :: images/ff_convolution.png
    :width: 300px
@@ -211,7 +211,7 @@ A WPS inside QGIS?
 More background maps in QGIS
 +++++++++++++++++++++++++++++++
 
-* One hidden gem in QGIS: `QuickMapServices Plugin <http://plugins.qgis.org/plugins/quick_map_services/>`_; it allows you to add 47 background layers from the web, including the well known Google services as well as less known, interesting stuff - and you are encouraged to add your own!
+* One hidden gem in QGIS: `QuickMapServices Plugin <https://plugins.qgis.org/plugins/quick_map_services/>`_; it allows you to add 47 background layers from the web, including the well known Google services as well as less known, interesting stuff - and you are encouraged to add your own!
 
 .. image :: images/quickmapservices.png
    :width: 300px
@@ -235,7 +235,7 @@ Change the interface of your QGIS
 Opinions on QGIS: today and the future
 ++++++++++++++++++++++++++++++++++++++++
 
-* An `interview <http://exporttocanoma.blogspot.it/2015/08/intervista-paolo-cavallini.html>`_ with Paolo Cavallini about QGIS and more. In Italian, sorry, non-latins! :)
+* An `interview <https://exporttocanoma.blogspot.it/2015/08/intervista-paolo-cavallini.html>`_ with Paolo Cavallini about QGIS and more. In Italian, sorry, non-latins! :)
 
 Customize your QGIS menus
 ++++++++++++++++++++++++++++
@@ -248,7 +248,7 @@ Customize your QGIS menus
 New QGIS Long Term Release
 ++++++++++++++++++++++++++++++++
 
-* `QGIS 2.8.3 'Wien' new bugfix release is out <http://qgis.org/en/site/forusers/download.html>`_. Hundreds of bugfixes `(see the list <https://github.com/qgis/QGIS/compare/final-2_8_2...final-2_8_3>`_) - upgrade now! `More details on the QGIS blog <http://blog.qgis.org/2015/08/06/point-release-qgis-2-8-3-wien-is-ready/>`_
+* `QGIS 2.8.3 'Wien' new bugfix release is out <https://qgis.org/en/site/forusers/download.html>`_. Hundreds of bugfixes `(see the list <https://github.com/qgis/QGIS/compare/final-2_8_2...final-2_8_3>`_) - upgrade now! `More details on the QGIS blog <https://blog.qgis.org/2015/08/06/point-release-qgis-2-8-3-wien-is-ready/>`_
 
 A new QGIS plugin: Natural earth data
 +++++++++++++++++++++++++++++++++++++++
@@ -258,11 +258,11 @@ A new QGIS plugin: Natural earth data
 Yet another interesting QGIS plugin: Cartograms
 +++++++++++++++++++++++++++++++++++++++++++++++++
 
-* `Create distorted maps <http://plugins.qgis.org/plugins/cartogram/>`_, where areas of each polygon represents a variable in your data. An example:
+* `Create distorted maps <https://plugins.qgis.org/plugins/cartogram/>`_, where areas of each polygon represents a variable in your data. An example:
 
 .. figure:: https://raw.githubusercontent.com/informeren/qgis-cartogram/develop/assets/cartogram.png
    :width: 400px
 
-.. _QGIS: http://www.qgis.org/
+.. _QGIS: https://www.qgis.org/
 .. _PostGIS: http://postgis.net/
 .. _OpenGeospatialConsortium: http://www.opengeospatial.org/
