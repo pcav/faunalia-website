@@ -85,6 +85,11 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+World first: sailing & QGIS
++++++++++++++++++++++++++++
+
+* Love sailing? Come to the first `QGIS course on a cruise! <sail_course.html>`_
+
 Need 3D in QGIS? A glimpse of the future
 +++++++++++++++++++++++++++++++++++++++++++
 
