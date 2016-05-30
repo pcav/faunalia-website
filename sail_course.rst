@@ -18,7 +18,7 @@ World first: sailing & QGIS
    :width: 100px
    :align: left
 
-Love sailing? Need to learn GIS in depth? Come to the first course on free and open source GIS ever, focused on the popular `QGIS <http://qgis.org>`_ software, in one of the most scenic environments in Italy, the `Tuscany Archipelago <https://en.wikipedia.org/wiki/Tuscan_Archipelago>`_ (see a `QGIS map <http://lizmap.faunalia.eu/index.php/view/map/?repository=faunalia&project=faunalia_en&zoom=8&lat=5259485.23614&lon=1119156.96686&layers=000B00TTT>`_). You'll master the software while enjoying days of sailing, swimming, and sunbathing.
+Love sailing? Need to learn GIS in depth? Come to the first course on free and open source GIS ever, focused on the popular `QGIS <http://qgis.org>`_ software, in one of the most scenic environments in Italy, the `Tuscany Archipelago <https://en.wikipedia.org/wiki/Tuscan_Archipelago>`_ (see a `QGIS map <https://lizmap.faunalia.eu/index.php/view/map/?repository=faunalia&project=faunalia_en&zoom=8&lat=5259485.23614&lon=1119156.96686&layers=000B00TTT>`_). You'll master the software while enjoying days of sailing, swimming, and sunbathing.
 
 Every day you'll enjoy an alternance of GIS training and sailing around the islands. Every moment will be good to discuss practical applications of GIS. The small number of participants will guarantee maximum didactic efficiency.
 
