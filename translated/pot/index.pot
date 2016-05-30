@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-30 10:56+0200\n"
+"POT-Creation-Date: 2016-05-30 12:34+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,7 +43,7 @@ msgid "I servizi di Faunalia sono presenti nel `catalogo del Mercato Elettronico
 msgstr ""
 
 #: ../../index.rst:45
-msgid "`Un esempio di WebGIS di Faunalia: <http://lizmap.faunalia.eu/index.php/view/map/?repository=faunalia&project=pontedera>`_"
+msgid "`Un esempio di WebGIS di Faunalia: <https://lizmap.faunalia.eu/index.php/view/map/?repository=faunalia&project=pontedera>`_"
 msgstr ""
 
 #: ../../index.rst:56

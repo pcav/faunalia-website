@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-25 09:31+0200\n"
+"POT-Creation-Date: 2016-05-30 12:34+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -71,9 +71,10 @@ msgstr ""
 
 # 548d69a71d734b0e818717f4f9e20138
 #: ../../index.rst:45
+#, fuzzy
 msgid ""
-"`Un esempio di WebGIS di Faunalia: <http://lizmap.faunalia.eu/index.php/view/"
-"map/?repository=faunalia&project=pontedera>`_"
+"`Un esempio di WebGIS di Faunalia: <https://lizmap.faunalia.eu/index.php/"
+"view/map/?repository=faunalia&project=pontedera>`_"
 msgstr ""
 "`Demo WebGIS <http://lizmap.faunalia.eu/index.php/view/map/?"
 "repository=faunalia&project=pontedera>`_"
