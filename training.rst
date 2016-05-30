@@ -66,7 +66,14 @@ Dicono di noi
 .. image:: images/asahi.jpg
           :align: left
 
-**Kosuke Asahi** `FOSS4G Hokkaido <https://sites.google.com/site/foss4ghokkaido/>`_: "Dr.Paolo Cavallini's `QGIS workshop <https://sites.google.com/site/foss4ghokkaido/foss4g-hokkaido-2012/qgis-paolo>`_ in English is very easy to understand even for none-native English speaker like me. He kindly gave me a lot of practical skill from his workshop. I strongly recommend his workshop for none-native English speaker too."
+**Kosuke Asahi** `FOSS4G Hokkaido <https://sites.google.com/site/foss4ghokkaido/>`_: "Dr.Paolo Cavallini's `QGIS workshop <https://sites.google.com/site/foss4ghokkaido/foss4g-hokkaido-2012/qgis-paolo>`_ in English is very easy to understand even for none-native English speaker like me. He kindly gave me a lot of practical skill from his workshop. I strongly recommend his workshop for non-native English speaker too."
+
+------
+
+.. image:: images/tecnostudi.jpg
+          :align: left
+
+`Tecnostudi Ambiente <http://www.tecnostudiambiente.it/>`_: "Seguire un corso di QGis, anche di base, con Paolo Cavallini va oltre la semplice didattica. Approcciare o approfondire le conoscenze con chi il software lo sviluppa fornisce una marcia in più. Senza contare poi che la disponibilità, professionalità e simpatia di Paolo, che prosegue anche a corso ultimato, rende il tutto molto piacevole."
 
 ------
 
