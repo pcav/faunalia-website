@@ -77,6 +77,13 @@ Dicono di noi
 
 ------
 
+.. image:: images/paoloant.jpg
+          :align: left
+
+**Paolo Antonelli**, geologo: In Faunalia ho frequentato con piacere tre corsi specifici: QGIS Advanced, GeoDB (PostgreSQL/PostGIS) e WebMapping. Tutti e tre i corsi sono stati gestiti da Paolo, che si dimostra una persona altamente competente, conoscitore approfondito dei GIS Open Source. La struttura dei corsi ed il materiale fornito mi hanno permesso, insieme al know-how di Paolo, di ampliare notevolmente la mia conoscenza e capacità lavorativa nell'utilizzo dei GIS. Consiglio fortemente Faunalia per l'approccio, le metodologie utilizzate e la disponibilità mostrata.
+
+------
+
 .. image:: images/puglisi.jpg
           :align: left
 
