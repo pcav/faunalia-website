@@ -87,7 +87,7 @@ Dicono di noi
 .. image:: images/puglisi.jpg
           :align: left
 
-`**Luca Puglisi** <https://www.researchgate.net/profile/Luca_Puglisi>`_: "Ho seguito con grande profitto due corsi organizzati da Faunalia. L'attenzione con cui vengono ascoltate anche le esigenze dei corsisti rende questa esperienza formativa particolarmente efficace, rendendo le lezioni, rigorose da un punta di vista tecnico ma svolte in un clima informale, particolarmente piacevoli."
+`Luca Puglisi <https://www.researchgate.net/profile/Luca_Puglisi>`_: "Ho seguito con grande profitto due corsi organizzati da Faunalia. L'attenzione con cui vengono ascoltate anche le esigenze dei corsisti rende questa esperienza formativa particolarmente efficace, rendendo le lezioni, rigorose da un punta di vista tecnico ma svolte in un clima informale, particolarmente piacevoli."
 
 ------
 
