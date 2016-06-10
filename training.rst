@@ -56,17 +56,27 @@ Dicono di noi
 
 ------
 
+.. image:: images/picetti.jpg
+          :align: left
+
+**Cinzia Picetti, Monica Lazzari** , `ARPAL <http://www.arpal.gov.it/>`_: "Abbiamo fatto un primo corso presso Faunalia di Analisi con QGIS e siamo rimaste entusiaste della preparazione del docente e delle conoscenze apprese in 3 giorni.
+Per il corso di WbMapping con QGIS abbiamo invece deciso di invitare Paolo Cavallini a tenere il corso presso ARPAL al fine di poter coinvolgere più colleghi nell'apprendimento.
+Nonostante le difficoltà tecniche della nostra aula informatica, Paolo e' riuscito a illustrarci tutte le potenzialità di QGIS in ambito web e ci ha guidato nello sviluppo di alcuni esempi di servizi web sia con dati di esempio che con dati nostri. I colleghi che ancora non conoscevano bene QGIS o ne avevano una conoscenza di base sono rimasti entusiasti e ne hanno apprezzato anche la semplicità in un ambito di solito un po' ostico come il web.
+Ancora un grazie a Paolo Cavallini per la sua disponibilità e competenza."
+
+------
+
 .. image:: images/iwasaki.jpg
           :align: left
 
-**Nobusuke Iwasaki** , `NARO <http://www.naro.affrc.go.jp/english/index.html>`_: "In Oct 2012, We held the Faunalia courses about QGIS in Japan. It was a great opportunity for Japanese user to learn and understand QGIS more deeply!"
+**Nobusuke Iwasaki**, `NARO <http://www.naro.affrc.go.jp/english/index.html>`_: "In Oct 2012, We held the Faunalia courses about QGIS in Japan. It was a great opportunity for Japanese user to learn and understand QGIS more deeply!"
 
 ------
 
 .. image:: images/asahi.jpg
           :align: left
 
-**Kosuke Asahi** `FOSS4G Hokkaido <https://sites.google.com/site/foss4ghokkaido/>`_: "Dr.Paolo Cavallini's `QGIS workshop <https://sites.google.com/site/foss4ghokkaido/foss4g-hokkaido-2012/qgis-paolo>`_ in English is very easy to understand even for none-native English speaker like me. He kindly gave me a lot of practical skill from his workshop. I strongly recommend his workshop for non-native English speaker too."
+**Kosuke Asahi**, `FOSS4G Hokkaido <https://sites.google.com/site/foss4ghokkaido/>`_: "Dr.Paolo Cavallini's `QGIS workshop <https://sites.google.com/site/foss4ghokkaido/foss4g-hokkaido-2012/qgis-paolo>`_ in English is very easy to understand even for none-native English speaker like me. He kindly gave me a lot of practical skill from his workshop. I strongly recommend his workshop for non-native English speaker too."
 
 ------
 
