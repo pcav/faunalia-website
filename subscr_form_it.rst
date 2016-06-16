@@ -40,7 +40,8 @@ Modulo di iscrizione
 			$subject = "Iscrizione al corso " . $corso . " avvenuta con successo";
 			$message = "La tua iscrizione e' stata registrata. Verrai contattato.\n Grazie.";
 			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n $message";
-			if ( !mail ($to, $subject, $body, $from) ) { 
+			$additional_headers = $from . "\r\n" . 'Content-Type: text/plain; charset=UTF-8';
+			if ( !mail ($to, $subject, $body, $additional_headers) ) { 
 				error_log("Error sending inscription receipt email: " . $body); 
 				$found_error = 1;
 				
@@ -75,7 +76,8 @@ Modulo di iscrizione
 								$note;
 					
 				$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n$header\n$message\n";
-				if ( !mail ($to, $subject, $body, $from) ) {
+				$additional_headers = $from . "\r\n" . 'Content-Type: text/plain; charset=UTF-8';
+				if ( !mail ($to, $subject, $body, $additional_headers) ) {
 					error_log("Error sending internal inscription mail: ". $body);
 					$found_error = 1;
 				}

@@ -40,7 +40,8 @@ Training Courses subscriptions form
 			$subject = "Successfully subscribed to " . $corso . " course";
 			$message = "Your subscription has been recordered. You will be contacted.\n Thank you.";
 			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n $message";
-			if ( !mail ($to, $subject, $body, $from) ) { 
+			$additional_headers = $from . "\r\n" . 'Content-Type: text/plain; charset=UTF-8';
+			if ( !mail ($to, $subject, $body, $additional_headers) ) { 
 				error_log("Error sending inscription receipt email: " . $body); 
 				$found_error = 1;
 				
@@ -75,7 +76,8 @@ Training Courses subscriptions form
 								$note;
 					
 				$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n$header\n$message\n";
-				if ( !mail ($to, $subject, $body, $from) ) {
+				$additional_headers = $from . "\r\n" . 'Content-Type: text/plain; charset=UTF-8';
+				if ( !mail ($to, $subject, $body, $additional_headers) ) {
 					error_log("Error sending internal inscription mail: ". $body);
 					$found_error = 1;
 				}

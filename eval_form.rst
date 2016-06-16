@@ -120,7 +120,8 @@ Minimo 0, Massimo 5
 							$nome_corso;
 				
 			$body = "From: $sender_name\n E-Mail: $sender_email\n Message:\n$header\n$message";
-			if ( !mail ($to, $subject, $body, $from) ) { 
+			$additional_headers = $from . "\r\n" . 'Content-Type: text/plain; charset=UTF-8';
+			if ( !mail ($to, $subject, $body, $additional_headers) ) { 
 				error_log("Error sending internal evaluation mail: ". $body);
 				$found_error = 1;
 			}
