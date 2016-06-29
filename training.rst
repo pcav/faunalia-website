@@ -80,6 +80,13 @@ Ancora un grazie a Paolo Cavallini per la sua disponibilità e competenza."
 
 ------
 
+.. image:: images/bonaposta.jpg
+          :align: left
+
+**Daniele Bonaposta**, cartografo: "Oltre il corso, le nozioni e le tecniche, si aprono le porte del mondo *open source*. Si ha la consapevolezza che un altro tipo di conoscenza è possibile, si entra a far parte di una comunità di tecnici ed esperti del settore. Si creano contatti, possibili occasioni di lavoro e anche amicizie. Ma questo nella descrizione del programma non c'è scritto!"
+
+------
+
 .. image:: images/tecnostudi.jpg
           :align: left
 
@@ -90,7 +97,7 @@ Ancora un grazie a Paolo Cavallini per la sua disponibilità e competenza."
 .. image:: images/paoloant.jpg
           :align: left
 
-**Paolo Antonelli**, geologo: In Faunalia ho frequentato con piacere tre corsi specifici: QGIS Advanced, GeoDB (PostgreSQL/PostGIS) e WebMapping. Tutti e tre i corsi sono stati gestiti da Paolo, che si dimostra una persona altamente competente, conoscitore approfondito dei GIS Open Source. La struttura dei corsi ed il materiale fornito mi hanno permesso, insieme al know-how di Paolo, di ampliare notevolmente la mia conoscenza e capacità lavorativa nell'utilizzo dei GIS. Consiglio fortemente Faunalia per l'approccio, le metodologie utilizzate e la disponibilità mostrata.
+**Paolo Antonelli**, geologo: "In Faunalia ho frequentato con piacere tre corsi specifici: QGIS Advanced, GeoDB (PostgreSQL/PostGIS) e WebMapping. Tutti e tre i corsi sono stati gestiti da Paolo, che si dimostra una persona altamente competente, conoscitore approfondito dei GIS Open Source. La struttura dei corsi ed il materiale fornito mi hanno permesso, insieme al know-how di Paolo, di ampliare notevolmente la mia conoscenza e capacità lavorativa nell'utilizzo dei GIS. Consiglio fortemente Faunalia per l'approccio, le metodologie utilizzate e la disponibilità mostrata."
 
 ------
 
