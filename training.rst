@@ -49,17 +49,27 @@ Perché scegliere i corsi di Faunalia?
 Dicono di noi
 =================
 
+.. image:: images/gustavo.jpg
+          :align: left
+
+**Gustavo Presa Arias**, Geógrafo, `ENEL <http://www.enel.com/>`_: "Este curso de “QGIS funzionalità standard” ha cubierto mis expectativas, y lo valoro muy positivamente. Destaco la amabilidad y conocimientos del instructor del mismo (Paolo Cavallini). Yo le planteé muchas dudas y siempre estuvo dispuesto a aclararlas.
+Esta formación ha estado enfocada como introducción general de QGIS versión 2.14.3, siendo recomendable tener conocimientos previos y experiencia en el manejo de un GIS desktop, ya que se tocaban temas específicos tales como definición de un Sistema de Coordenadas de Referencia (CRS), transformaciones “al vuelo”, uso de distintos código EPSG, simbología, etiquetado, concepto y uso de plugins, digitalización (creación de capas vectoriales, ayudas al dibujo –snapping-), consultas, temáticos, almacenamiento de datos(Spatialite/Geopackage, shp files…), importación de datos (shp, gdb, dxf, csv, xlsx… ), exportación de datos (pdf, kmz, tiff, jpg…), uso de servicios WMS, WFS, impresión de mapas, etc…
+
+En resumen, mi valoración es muy, muy positiva."
+
+------
+
 .. image:: images/nina.jpg
           :align: left
 
-`NINA <http://nina.no/>`_: "Paolo has been instructor 3 times for technicians and researchers in the **Norwegian Institute for Nature Research –NINA-**. He has made a QGIS new beginners course, a QGIS advanced course as well, as a Lizmap course specifically to fulfill the needs of the institute. He is a very experienced instructor, patient and willing to help the attendees. We are very much satisfied with the courses that make a quick off for starting to use this efficient tools. Thanks Paolo and Faunalia!"
+`NINA <http://nina.no/>`_: "Paolo has been instructor 3 times for technicians and researchers in the **Norwegian Institute for Nature Research -NINA-**. He has made a QGIS new beginners course, a QGIS advanced course as well, as a Lizmap course specifically to fulfill the needs of the institute. He is a very experienced instructor, patient and willing to help the attendees. We are very much satisfied with the courses that make a quick off for starting to use this efficient tools. Thanks Paolo and Faunalia!"
 
 ------
 
 .. image:: images/picetti.jpg
           :align: left
 
-**Cinzia Picetti, Monica Lazzari** , `ARPAL <http://www.arpal.gov.it/>`_: "Abbiamo fatto un primo corso presso Faunalia di Analisi con QGIS e siamo rimaste entusiaste della preparazione del docente e delle conoscenze apprese in 3 giorni.
+**Cinzia Picetti, Monica Lazzari**, `ARPAL <http://www.arpal.gov.it/>`_: "Abbiamo fatto un primo corso presso Faunalia di Analisi con QGIS e siamo rimaste entusiaste della preparazione del docente e delle conoscenze apprese in 3 giorni.
 Per il corso di WbMapping con QGIS abbiamo invece deciso di invitare Paolo Cavallini a tenere il corso presso ARPAL al fine di poter coinvolgere più colleghi nell'apprendimento.
 Nonostante le difficoltà tecniche della nostra aula informatica, Paolo e' riuscito a illustrarci tutte le potenzialità di QGIS in ambito web e ci ha guidato nello sviluppo di alcuni esempi di servizi web sia con dati di esempio che con dati nostri. I colleghi che ancora non conoscevano bene QGIS o ne avevano una conoscenza di base sono rimasti entusiasti e ne hanno apprezzato anche la semplicità in un ambito di solito un po' ostico come il web.
 Ancora un grazie a Paolo Cavallini per la sua disponibilità e competenza."
