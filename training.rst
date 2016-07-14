@@ -67,6 +67,13 @@ En resumen, mi valoración es muy, muy positiva."
 
 ------
 
+.. image:: images/howard.jpg
+          :align: left
+
+**Howard Frederick** - *QGIS and PostGIS training* in Arusha for the `Tanzania Conservation Resource Centre <http://www.tzcrc.org/>`_: "We were fortunate to have Paolo Cavallini come and teach an advanced course in PostGIS with QGIS in Arusha in December 2015, the second time he has come to Tanzania to teach. Students were able to get into PostGIS very quickly, turning out some excellent analyses and getting the basics of setting up, administering and using a PostGIS database on their personal machines."
+
+------
+
 .. image:: images/picetti.jpg
           :align: left
 
