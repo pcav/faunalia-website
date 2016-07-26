@@ -85,6 +85,11 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Cluster renderer: a good chance to improve QGIS
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* Nyall Dawson, one of the most productive QGIS core developers, has just `launched a campaign <http://north-road.com/qgis-cluster-renderer-crowdfunding/>`_ to implement one of the few missing features in QGIS: the cluster renderer for points. With a small investment you can now be sure you'll have it available soon. See his `crowdfunding page <http://north-road.com/qgis-cluster-renderer-crowdfunding/>`_ for details.
+
 World first: sailing & QGIS
 +++++++++++++++++++++++++++
 
