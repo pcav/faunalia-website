@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-01 13:15+0200\n"
+"POT-Creation-Date: 2016-08-02 12:39+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -185,10 +185,6 @@ msgid "Date e durata"
 msgstr ""
 
 #: ../../training.rst:230
-msgid "Iscrizione consigliata entro il"
-msgstr ""
-
-#: ../../training.rst:230
 msgid "Dove"
 msgstr ""
 
@@ -196,93 +192,70 @@ msgstr ""
 msgid "Lingua"
 msgstr ""
 
-#: ../../training.rst:233
-#: ../../training.rst:237
-msgid "WebMapping con QGIS (IT)"
-msgstr ""
-
-#: ../../training.rst:233
-msgid "9-10 Maggio 2016"
-msgstr ""
-
-#: ../../training.rst:233
-msgid "20 Aprile"
-msgstr ""
-
-#: ../../training.rst:233
-#: ../../training.rst:234
-#: ../../training.rst:235
-#: ../../training.rst:236
-#: ../../training.rst:237
-msgid "Pontedera, IT"
-msgstr ""
-
-#: ../../training.rst:233
-#: ../../training.rst:234
-#: ../../training.rst:235
-#: ../../training.rst:236
-#: ../../training.rst:237
-msgid "Italiano"
-msgstr ""
-
-#: ../../training.rst:234
+#: ../../training.rst:232
 msgid "Cartografia con QGIS (IT)"
 msgstr ""
 
-#: ../../training.rst:234
-msgid "Settembre 2016"
+#: ../../training.rst:232
+msgid "14-16 Settembre 2016"
 msgstr ""
 
+#: ../../training.rst:232
+#: ../../training.rst:233
 #: ../../training.rst:234
-msgid "1 Settembre"
-msgstr ""
-
 #: ../../training.rst:235
+msgid "Pontedera, IT"
+msgstr ""
+
+#: ../../training.rst:232
+#: ../../training.rst:233
+#: ../../training.rst:234
+#: ../../training.rst:235
+msgid "Italiano"
+msgstr ""
+
+#: ../../training.rst:233
 msgid "Analisi con QGIS (IT)"
 msgstr ""
 
-#: ../../training.rst:235
-msgid "Ottobre 2016"
+#: ../../training.rst:233
+msgid "26-28 Ottobre 2016"
 msgstr ""
 
-#: ../../training.rst:235
-msgid "1 Ottobre"
-msgstr ""
-
-#: ../../training.rst:236
+#: ../../training.rst:234
 msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
 msgstr ""
 
-#: ../../training.rst:236
-msgid "Novembre 2016"
+#: ../../training.rst:234
+msgid "16-18 Novembre 2016"
 msgstr ""
 
-#: ../../training.rst:236
-msgid "1 Novembre"
+#: ../../training.rst:235
+msgid "WebMapping con QGIS (IT)"
 msgstr ""
 
-#: ../../training.rst:237
-msgid "Dicembre 2016"
+#: ../../training.rst:235
+msgid "14-16 Dicembre 2016"
 msgstr ""
 
-#: ../../training.rst:237
-msgid "1 Dicembre"
-msgstr ""
-
-#: ../../training.rst:241
+#: ../../training.rst:239
 msgid "Costi"
 msgstr ""
 
-#: ../../training.rst:243
+#: ../../training.rst:241
 msgid "Corsi di Cartografia QGIS, Analisi QGIS, Geodatabase PostGIS (3 giorni): 350 € per i privati, 330 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 336,82 €). Corso Python-QGIS: 700 € per i privati, 660 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 673,64 €). Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 275,58 €)"
 msgstr ""
 
-#: ../../training.rst:244
+#: ../../training.rst:242
 msgid "**Sconti**: 5% per l'iscrizione simultanea a più corsi"
 msgstr ""
 
-#: ../../training.rst:247
+#: ../../training.rst:245
 msgid "Iscrizione"
+msgstr ""
+
+#: ../../training.rst:247
+msgid "Ti preghiamo di iscriverti appena ti è possibile, in modo da consentirci di organizzare la logistica al meglio."
 msgstr ""
 
 #: ../../training.rst:249

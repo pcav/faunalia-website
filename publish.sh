@@ -23,7 +23,9 @@ esac
 echo ""
 echo "**Statistics of untranslated (u) and fuzzy (f) strings**"
 
-pocount --incomplete --short-strings translated/*/*.po
+#pocount --incomplete --short-strings translated/*/*.po
+pocount --incomplete --short-strings translated/en/*.po
+pocount --incomplete --short-strings translated/fr/*.po
 
 read -p "Are you sure you want to publish the website anyway? [y/n]" choice2
 case "$choice2" in

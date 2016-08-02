@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-26 08:55+0200\n"
+"POT-Creation-Date: 2016-08-02 12:39+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -72,7 +72,6 @@ msgstr ""
 
 # 548d69a71d734b0e818717f4f9e20138
 #: ../../index.rst:45
-#, fuzzy
 msgid ""
 "`Un esempio di WebGIS di Faunalia: <https://lizmap.faunalia.eu/index.php/"
 "view/map/?repository=faunalia&project=pontedera>`_"
@@ -177,6 +176,12 @@ msgid ""
 "has moved to Qt5 - work underway. `Minoru <https://github.com/minorua>`_ "
 "rocks!"
 msgstr ""
+"You can use `Qgis2threejs <https://plugins.qgis.org/plugins/Qgis2threejs/>`_ "
+"plugin to easily create `dynamic 3D visualization of your map <http://www."
+"faunalia.eu/it/3d/20160316105926.html>`_, and that's fun enough. Look at "
+"what you'll be able to do, even more easily, in the near future, once QGIS "
+"has moved to Qt5 - work underway. `Minoru <https://github.com/minorua>`_ "
+"rocks!"
 
 #: ../../index.rst:107
 msgid "Layer board: configure your big QGIS projects, easily"
@@ -429,7 +434,7 @@ msgstr ""
 
 #: ../../index.rst:230
 msgid "Paolo Cavallini @ ASITA"
-msgstr ""
+msgstr "Paolo Cavallini @ ASITA"
 
 #: ../../index.rst:232
 msgid ""
