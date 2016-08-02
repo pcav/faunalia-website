@@ -226,16 +226,14 @@ Calendario
 
 .. rst-class:: table
 
-======================================== ====================  ===================== ============== ===========
-Corso                                    Date e durata         Iscrizione            Dove           Lingua
-                                                               consigliata entro il
-======================================== ====================  ===================== ============== ===========
-WebMapping con QGIS (IT)                 9-10 Maggio 2016      20 Aprile             Pontedera, IT  Italiano
-Cartografia con QGIS (IT)                Settembre 2016        1 Settembre           Pontedera, IT  Italiano
-Analisi con QGIS (IT)                    Ottobre 2016          1 Ottobre             Pontedera, IT  Italiano
-Geodatabase: PostgreSQL e PostGIS (IT)   Novembre 2016         1 Novembre            Pontedera, IT  Italiano
-WebMapping con QGIS (IT)                 Dicembre 2016         1 Dicembre            Pontedera, IT  Italiano
-======================================== ====================  ===================== ============== ===========
+======================================== ==================== ============== ===========
+Corso                                    Date e durata        Dove           Lingua
+======================================== ==================== ============== ===========
+Cartografia con QGIS (IT)                14-16 Settembre 2016 Pontedera, IT  Italiano
+Analisi con QGIS (IT)                    26-28 Ottobre 2016   Pontedera, IT  Italiano
+Geodatabase: PostgreSQL e PostGIS (IT)   16-18 Novembre 2016  Pontedera, IT  Italiano
+WebMapping con QGIS (IT)                 14-16 Dicembre 2016  Pontedera, IT  Italiano
+======================================== ==================== ============== ===========
 
 Costi
 +++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -245,6 +243,8 @@ Costi
 
 Iscrizione
 +++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Ti preghiamo di iscriverti appena ti è possibile, in modo da consentirci di organizzare la logistica al meglio.
 
 * **Iscrizione**: confermata al versamento di una caparra di 100 €, saldo prima dell'inizio del corso; è possibile versare l'intera quota in unica soluzione; in caso il corso non si svolga per qualunque motivo, la quota versata verrà interamente restituita
 * **Conferma**: il corso sarà confermato al raggiungimento del numero minimo di partecipanti
