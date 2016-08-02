@@ -232,7 +232,7 @@ Corso                                    Date e durata        Dove           Lin
 Cartografia con QGIS (IT)                14-16 Settembre 2016 Pontedera, IT  Italiano
 Analisi con QGIS (IT)                    26-28 Ottobre 2016   Pontedera, IT  Italiano
 Geodatabase: PostgreSQL e PostGIS (IT)   16-18 Novembre 2016  Pontedera, IT  Italiano
-WebMapping con QGIS (IT)                 14-16 Dicembre 2016  Pontedera, IT  Italiano
+WebMapping con QGIS (IT)                 15-16 Dicembre 2016  Pontedera, IT  Italiano
 ======================================== ==================== ============== ===========
 
 Costi

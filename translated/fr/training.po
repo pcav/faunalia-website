@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-02 12:25+0200\n"
+"POT-Creation-Date: 2016-08-02 12:45+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -518,8 +518,8 @@ msgstr "WebMapping avec QGIS (IT)"
 
 # f7db670e6b22473f88e2168c85cf783a
 #: ../../training.rst:235
-msgid "14-16 Dicembre 2016"
-msgstr "14-16 Décembre 2016"
+msgid "15-16 Dicembre 2016"
+msgstr "15-16 Décembre 2016"
 
 # 2b01fbfd1fbb417da072f5b12ca3fae2
 #: ../../training.rst:239
