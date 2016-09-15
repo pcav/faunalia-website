@@ -499,7 +499,7 @@ msgstr "Analyse avec QGIS (IT)"
 # 789f35850632463296adba2404463064
 #: ../../training.rst:233
 msgid "26-28 Ottobre 2016"
-msgstr "16-18 Octobre 2013"
+msgstr "16-18 Octobre 2016"
 
 # 7cabf0be650643f1b85997a1c5b71df0
 #: ../../training.rst:234
