@@ -85,6 +85,16 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Advanced QGIS @ OGRS 2016
++++++++++++++++++++++++++++
+
+* At the `Open Source Geospatial Research & Education Symposium 2016 <http://2016.ogrs-community.org>`_, in Perugia, Italy, Paolo Cavallini will present a hands-on workshop on `Advanced QGIS <http://2016.ogrs-community.org/scientific-program/workshops#advanced>`_
+
+Workshop su QGIS_
+++++++++++++++++++++
+
+* Il 7 ottobre 2016, all'`ArcheoFOSS 2016 <http://www.archeofoss.org/archeofoss-2016/>`_, presso l'Università di Cagliari, Paolo Cavallini terrà un workshop su *Cartografia con QGIS: dal foglio bianco alle tecniche avanzate*. A presto!
+
 Cluster renderer: a good chance to improve QGIS
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
