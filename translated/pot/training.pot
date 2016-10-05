@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-19 09:36+0200\n"
+"POT-Creation-Date: 2016-10-05 08:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,7 +53,7 @@ msgid "Sono completamente interattivi: la teoria è quindi sempre abbinata alla 
 msgstr ""
 
 #: ../../training.rst:44
-msgid "Sono tenuti da docenti che contribuiscono attivamente, da anni, allo sviluppo dei software oggetto dei corsi. In particolare, Paolo Cavallini è *Co-chair* dell'Associazione internazionale **QGIS.org** e membro dello *Steering Committee* di QGIS, e Faunalia ha sviluppato parti significative di GRASS, PostGIS, GDAL ecc."
+msgid "Sono tenuti da docenti che contribuiscono attivamente, da anni, allo sviluppo dei software oggetto dei corsi. In particolare, `Paolo Cavallini <cv_pc_it.html>`__ è *Co-chair* dell'Associazione internazionale **QGIS.org** e membro dello *Steering Committee* di QGIS, e Faunalia ha sviluppato parti significative di GRASS, PostGIS, GDAL ecc."
 msgstr ""
 
 #: ../../training.rst:45
