@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-19 09:36+0200\n"
+"POT-Creation-Date: 2016-10-05 09:05+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -138,7 +138,7 @@ msgstr "News"
 
 #: ../../index.rst:89
 msgid "Advanced QGIS @ OGRS 2016"
-msgstr ""
+msgstr "Advanced QGIS @ OGRS 2016"
 
 #: ../../index.rst:91
 msgid ""
@@ -147,6 +147,10 @@ msgid ""
 "present a hands-on workshop on `Advanced QGIS <http://2016.ogrs-community."
 "org/scientific-program/workshops#advanced>`_"
 msgstr ""
+"At the `Open Source Geospatial Research & Education Symposium 2016 "
+"<http://2016.ogrs-community.org>`_, in Perugia, Italy, Paolo Cavallini will "
+"present a hands-on workshop on `Advanced QGIS <http://2016.ogrs-community."
+"org/scientific-program/workshops#advanced>`_"
 
 #: ../../index.rst:94 ../../index.rst:138
 msgid "Workshop su QGIS_"
@@ -159,6 +163,10 @@ msgid ""
 "un workshop su *Cartografia con QGIS: dal foglio bianco alle tecniche "
 "avanzate*. A presto!"
 msgstr ""
+"Il 7 ottobre 2016, all'`ArcheoFOSS 2016 <http://www.archeofoss.org/"
+"archeofoss-2016/>`_, presso l'Università di Cagliari, Paolo Cavallini terrà "
+"un workshop su *Cartografia con QGIS: dal foglio bianco alle tecniche "
+"avanzate*. A presto!"
 
 #: ../../index.rst:99
 msgid "Cluster renderer: a good chance to improve QGIS"
@@ -173,6 +181,12 @@ msgid ""
 "you'll have it available soon. See his `crowdfunding page <http://north-road."
 "com/qgis-cluster-renderer-crowdfunding/>`_ for details."
 msgstr ""
+"Nyall Dawson, one of the most productive QGIS core developers, has just "
+"`launched a campaign <http://north-road.com/qgis-cluster-renderer-"
+"crowdfunding/>`_ to implement one of the few missing features in QGIS: the "
+"cluster renderer for points. With a small investment you can now be sure "
+"you'll have it available soon. See his `crowdfunding page <http://north-road."
+"com/qgis-cluster-renderer-crowdfunding/>`_ for details."
 
 #: ../../index.rst:104
 msgid "World first: sailing & QGIS"
@@ -268,22 +282,29 @@ msgid ""
 "l'Università di Parma, Paolo Cavallini terrà un workshop sulle ultime novità "
 "di QGIS, fino alla versione 2.14, di imminente pubblicazione. Ci vediamo lì!"
 msgstr ""
+"Al `GRASS Meeting 2016 <http://meetingrass2016.unipr.it/>`_, presso "
+"l'Università di Parma, Paolo Cavallini terrà un workshop sulle ultime novità "
+"di QGIS, fino alla versione 2.14, di imminente pubblicazione. Ci vediamo lì!"
 
 #: ../../index.rst:143
 msgid "Novità in QGIS_"
-msgstr ""
+msgstr "Novità in QGIS_"
 
 #: ../../index.rst:145
 msgid ""
 "Nuova versione di QGIS \"stabile\" (*Long Term Release*, LTR): 2.8.4, che "
 "sistema oltre 80 malfunzionamenti, inclusi alcuni importanti"
 msgstr ""
+"Nuova versione di QGIS \"stabile\" (*Long Term Release*, LTR): 2.8.4, che "
+"sistema oltre 80 malfunzionamenti, inclusi alcuni importanti"
 
 #: ../../index.rst:146
 msgid ""
 "Nuova versione di QGIS \"Lyon\" (2.12.1), che sistema quasi 70 "
 "malfunzionamenti"
 msgstr ""
+"Nuova versione di QGIS \"Lyon\" (2.12.1), che sistema quasi 70 "
+"malfunzionamenti"
 
 #: ../../index.rst:147
 msgid ""
@@ -291,6 +312,9 @@ msgid ""
 "android-5/>`_, che **finalmente** gira anche su Android 5! La trovate in "
 "Google Play"
 msgstr ""
+"`Nuova versione di QField <http://www.opengis.ch/2015/12/01/qfield-for-"
+"android-5/>`_, che **finalmente** gira anche su Android 5! La trovate in "
+"Google Play"
 
 #: ../../index.rst:154
 msgid "An easier and safer life for QGIS plugin writer"
@@ -312,7 +336,7 @@ msgstr ""
 
 #: ../../index.rst:162
 msgid "Nasce il gruppo italiano degli utenti di QGIS_"
-msgstr ""
+msgstr "Nasce il gruppo italiano degli utenti di QGIS_"
 
 #: ../../index.rst:164
 msgid ""
@@ -322,10 +346,15 @@ msgid ""
 "donano (codice o euro) al progetto decidono poi insieme come investire "
 "quanto raccolto. Per qualunque chiarimento, non esitate a chiedere."
 msgstr ""
+"Siamo finalmente pronti: da oggi chi è interessato al futuro di QGIS potrà "
+"partecipare attivamente. Trovate le semplicissime istruzioni sul sito `QGIS."
+"it <https://qgis.it/>`_ . In pratica, ci mettiamo insieme, tutti quelli che "
+"donano (codice o euro) al progetto decidono poi insieme come investire "
+"quanto raccolto. Per qualunque chiarimento, non esitate a chiedere."
 
 #: ../../index.rst:170
 msgid "Paolo Cavallini appointed as QGIS co-chair"
-msgstr ""
+msgstr "Paolo Cavallini appointed as QGIS co-chair"
 
 #: ../../index.rst:172
 msgid ""
@@ -353,7 +382,7 @@ msgstr ""
 
 #: ../../index.rst:183
 msgid "Faunalia al Linux Day"
-msgstr ""
+msgstr "Faunalia al Linux Day"
 
 #: ../../index.rst:185
 msgid ""
@@ -361,6 +390,9 @@ msgid ""
 "`Linux Day di Livorno <http://linux.livorno.it/sito/1080/linux-day-2015/>`_: "
 "una chiacchierata informale, venite e chiedete."
 msgstr ""
+"Paolo Cavallini parlerà di geografia libera (QGIS e dati geografici) al "
+"`Linux Day di Livorno <http://linux.livorno.it/sito/1080/linux-day-2015/>`_: "
+"una chiacchierata informale, venite e chiedete."
 
 #: ../../index.rst:191
 msgid "Let us hear your voice: a survey on QGIS usage"
@@ -404,7 +436,7 @@ msgstr ""
 
 #: ../../index.rst:201
 msgid "GFOSS Day Italia 2015: Faunalia c'è"
-msgstr ""
+msgstr "GFOSS Day Italia 2015: Faunalia c'è"
 
 #: ../../index.rst:203
 msgid ""
@@ -418,6 +450,15 @@ msgid ""
 "registrazione.html>`_. L'iscrizione è gratuita per i soci GFOSS.it, richiede "
 "una donazione per i non soci. **A presto!**"
 msgstr ""
+"Faunalia sarà presente al `GFOSS Day 2015 <http://gfossday2015."
+"associazionegfoss.it/index.html>`_, la settima conferenza italiana sul "
+"software geografico libero ed open source, a Lecco il 28 e 29 settembre, "
+"con: (1) un workshop su QGIS_; (2) una conferenza sullo stato di sviluppo "
+"del progetto QGIS_; (3) un intervento, già annunciato, nell'ambito della "
+"`conferenza ASITA <http://www.asita.it/>`_. Per iscrivervi al workshop, "
+"usate la `pagina di registrazione <http://gfossday2015.associazionegfoss.it/"
+"registrazione.html>`_. L'iscrizione è gratuita per i soci GFOSS.it, richiede "
+"una donazione per i non soci. **A presto!**"
 
 #: ../../index.rst:206
 msgid "QGIS keeps on growing in popularity, ArcGIS starts declining?"
@@ -534,6 +575,12 @@ msgid ""
 "geografico-libero-una-reale-opportunita-di-sviluppo/>`_ Siete i benvenuti, "
 "passate ed intervenite."
 msgstr ""
+"Nella prossima `conferenza ASITA <http://www.asita.it/>`_ (Federazione delle "
+"Associazioni Scientifiche per le Informazioni Territoriali e Ambientali) "
+"terremo un intervento nella sessione `Il software geografico libero: una "
+"reale opportunità di sviluppo? <http://www.asita.it/blog/il-software-"
+"geografico-libero-una-reale-opportunita-di-sviluppo/>`_ Siete i benvenuti, "
+"passate ed intervenite."
 
 #: ../../index.rst:248
 msgid "Change the interface of your QGIS"
