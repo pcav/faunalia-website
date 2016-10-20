@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-05 08:35+0200\n"
+"POT-Creation-Date: 2016-10-20 20:58+0200\n"
 "PO-Revision-Date: 2013-08-17 16:58+0200\n"
 "Last-Translator: Paolo Cavallini <cavallini@faunalia.it>\n"
 "Language-Team: Italiano <>\n"
@@ -642,16 +642,16 @@ msgstr "Where"
 msgid "Lingua"
 msgstr "Language"
 
-# 9df10e3690b541f18c1a208a812d8836
-# 3d3d613c57f54cc694e2872191f90b33
+# bd04cff96a1d4414899ef132ad5ba7bf
+# 84a61dcdc830454e9665797c69bd9891
 #: ../../training.rst:232
-msgid "Cartografia con QGIS (IT)"
-msgstr "Cartography with QGIS (IT)"
+msgid "Analisi con QGIS (IT)"
+msgstr "GIS analysis with QGIS (IT)"
 
-# 1477ed8907e24345b0045abe4fb7372a
+# 789f35850632463296adba2404463064
 #: ../../training.rst:232
-msgid "14-16 Settembre 2016"
-msgstr "14-16 September 2016"
+msgid "26-28 Ottobre 2016"
+msgstr "26-28 October 2016"
 
 # 768ef41660e8444b834e3d11d5ef4934
 # 69abb73e3dbe4ec59cc72dd9e0314203
@@ -673,36 +673,36 @@ msgstr "Pontedera, IT"
 msgid "Italiano"
 msgstr "Italian"
 
-# bd04cff96a1d4414899ef132ad5ba7bf
-# 84a61dcdc830454e9665797c69bd9891
-#: ../../training.rst:233
-msgid "Analisi con QGIS (IT)"
-msgstr "GIS analysis with QGIS (IT)"
-
-# 789f35850632463296adba2404463064
-#: ../../training.rst:233
-msgid "26-28 Ottobre 2016"
-msgstr "26-28 October 2016"
-
 # 7cabf0be650643f1b85997a1c5b71df0
-#: ../../training.rst:234
+#: ../../training.rst:233
 msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
 msgstr "Geographic databases: PostgreSQL and PostGIS (IT)"
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
-#: ../../training.rst:234
+#: ../../training.rst:233
 msgid "16-18 Novembre 2016"
 msgstr "16-18 November"
 
 # 660512ec03ae4bc59a877c8ec19a3162
-#: ../../training.rst:235
+#: ../../training.rst:234
 msgid "WebMapping con QGIS (IT)"
 msgstr "WebMapping with QGIS (IT)"
 
 # f7db670e6b22473f88e2168c85cf783a
-#: ../../training.rst:235
+#: ../../training.rst:234
 msgid "15-16 Dicembre 2016"
 msgstr "15-16 December 2016"
+
+# 9df10e3690b541f18c1a208a812d8836
+# 3d3d613c57f54cc694e2872191f90b33
+#: ../../training.rst:235
+msgid "Cartografia con QGIS (IT)"
+msgstr "Cartography with QGIS (IT)"
+
+# b28a9fbcf9964ba28a693bb9feccab9b
+#: ../../training.rst:235
+msgid "Gennaio 2017"
+msgstr "January 2017"
 
 # 2b01fbfd1fbb417da072f5b12ca3fae2
 #: ../../training.rst:239
@@ -1588,6 +1588,10 @@ msgstr "Let's use pyQGIS"
 msgid "esempi di codice"
 msgstr "code examples"
 
+# 1477ed8907e24345b0045abe4fb7372a
+#~ msgid "14-16 Settembre 2016"
+#~ msgstr "14-16 September 2016"
+
 #~ msgid "Iscrizione consigliata entro il"
 #~ msgstr "Subscription best before"
 
@@ -1649,10 +1653,6 @@ msgstr "code examples"
 # 8ca44401dfb44b978be9a75a3bec63b6
 #~ msgid "Introduzione a QGIS"
 #~ msgstr "Introduction to QGIS "
-
-# b28a9fbcf9964ba28a693bb9feccab9b
-#~ msgid "20-22 Gennaio 2016"
-#~ msgstr "20-22 January 2014"
 
 # 2837589f472d43e6b2fcc68aa9118522
 #~ msgid "3 Gennaio"
