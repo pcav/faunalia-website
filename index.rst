@@ -85,6 +85,11 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Perché ti conviene scegliere i corsi Faunalia
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* Abbiamo realizzato il recente corso di *Analisi con QGIS*, come sempre, usando l'ultima versione, QGIS 2.18 "Las Palmas", pubblicata proprio il giorno prima dell'inizio. Durante la preparazione e la realizzazione del corso abbiamo trovato `20 problemi, tutti debitamente segnalati, di cui 7 sono già sistemati <http://hub.qgis.org/projects/quantum-gis/issues?author_id=10&set_filter=1&status_id=*&subproject_id=!*>`_, ed altri lo saranno presto (grazie Victor!). I partecipanti hanno imparato a confrontarsi con i problemi reali, e risolverli efficacemente. Negli anni, questo lavoro ha consentito di aprire oltre 900 tickets, e di sistemare oltre 670 malfunzionamenti. Investire in Faunalia risulta direttamente in un QGIS migliore. Nessuno dei nostri concorrenti ti offre questo vantaggio.
+
 Advanced QGIS @ OGRS 2016
 +++++++++++++++++++++++++++
 
