@@ -90,7 +90,7 @@ html:
 	test -e $(BUILDDIR)/html/pdf || ln -s /home/www/pdf $(BUILDDIR)/html/;
 	test -e $(BUILDDIR)/html/webalizer || ln -s /var/www/webalizer.www.faunalia.eu $(BUILDDIR)/html/webalizer;
 	test -e $(BUILDDIR)/html/qgis || ln -s /var/www/qgis $(BUILDDIR)/html/;
-	test -e $(BUILDDIR)/html/enel || ln -s /home/paolo/Documents/Lavori/enel/ericsson_gare/plugin/ $(BUILDDIR)/html/enel;
+	test -e $(BUILDDIR)/html/enel || ln -s /home/paolo/Documents/Lavori/enel/plugin/ $(BUILDDIR)/html/enel;
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html/<language>."
 
