@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-03 13:28+0200\n"
+"POT-Creation-Date: 2016-12-11 08:18+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,6 +19,21 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Language: fr_FR\n"
 "X-Source-Language: it_IT\n"
+
+#: ../../support.rst:1
+msgid ""
+"Assistance and support of Free and Open Source GIS: QGIS, PostGIS, GDAL, "
+"MapServer, GRASS"
+msgstr ""
+
+#: ../../support.rst:1
+msgid ""
+"Open Source, Free Software, Software libero, Software Livre, Software "
+"Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, "
+"OsGeo, OGC, supporto, assistenza, risoluzione bugs, migrazione, support, bug "
+"fixing, migration, suporte, assistência, resolução bugs, migração, "
+"développement"
+msgstr ""
 
 # e4147a488126479887c42ebe2997e327
 #: ../../support.rst:9
@@ -49,15 +64,13 @@ msgstr ""
 # 1b26eeb1960f4a4aa19a2de96f8e55ac
 #: ../../support.rst:12
 msgid ""
-"In particolare, Faunalia garantisce `servizi professionali per QGIS "
-"<http://www.qgis.org/en/site/forusers/commercial_support.html>`_ (Desktop, "
-"Server e Web Client), GRASS_, PostgreSQL_ `e PostGIS "
-"<http://postgis.net/support/>`_:"
+"In particolare, Faunalia garantisce `servizi professionali per QGIS <http://"
+"www.qgis.org/en/site/forusers/commercial_support.html>`_ (Desktop, Server e "
+"Web Client), GRASS_, PostgreSQL_ `e PostGIS <http://postgis.net/support/>`_:"
 msgstr ""
-"Faunalia offre des `services professionnels pour QGIS "
-"<http://www.qgis.org/en/site/forusers/commercial_support.html>`_ (Desktop, "
-"Server et Web Client), GRASS_, PostgreSQL_ `et PostGIS "
-"<http://postgis.net/support>`_:"
+"Faunalia offre des `services professionnels pour QGIS <http://www.qgis.org/"
+"en/site/forusers/commercial_support.html>`_ (Desktop, Server et Web Client), "
+"GRASS_, PostgreSQL_ `et PostGIS <http://postgis.net/support>`_:"
 
 # f085741ebad245a78e054d8936399bf6
 #: ../../support.rst:14

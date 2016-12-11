@@ -8,13 +8,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-02 07:43+0100\n"
+"POT-Creation-Date: 2016-12-11 08:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#: ../../dev.rst:1
+msgid "Free and Open Source GIS development: QGIS, PostGIS, GDAL, MapServer, GRASS"
+msgstr ""
+
+#: ../../dev.rst:1
+msgid "Open Source, Free Software, Software libero, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, python, plugin, C++, sviluppo, programmazione, development, développement, desarrollo, risoluzione problemi, bug fixing"
+msgstr ""
 
 #: ../../dev.rst:15
 msgid "Sviluppo"
