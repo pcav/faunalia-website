@@ -229,10 +229,11 @@ Calendario
 ======================================== ==================== ============== ===========
 Corso                                    Date e durata        Dove           Lingua
 ======================================== ==================== ============== ===========
-Geodatabase: PostgreSQL e PostGIS (IT)   16-18 Novembre 2016  Pontedera, IT  Italiano
 WebMapping con QGIS (IT)                 15-16 Dicembre 2016  Pontedera, IT  Italiano
 Cartografia con QGIS (IT)                Gennaio 2017         Pontedera, IT  Italiano
 Analisi con QGIS (IT)                    Febbraio 2017        Pontedera, IT  Italiano
+Geodatabase: PostgreSQL e PostGIS (IT)   Marzo 2017           Pontedera, IT  Italiano
+WebMapping con QGIS (IT)                 Aprile 2017          Pontedera, IT  Italiano
 ======================================== ==================== ============== ===========
 
 Costi
