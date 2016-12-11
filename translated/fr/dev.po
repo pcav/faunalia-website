@@ -24,6 +24,7 @@ msgstr ""
 msgid ""
 "Free and Open Source GIS development: QGIS, PostGIS, GDAL, MapServer, GRASS"
 msgstr ""
+"Développement de logiciel SIG libre: QGIS, PostGIS, GDAL, MapServer, GRASS"
 
 #: ../../dev.rst:1
 msgid ""
@@ -32,6 +33,9 @@ msgid ""
 "sviluppo, programmazione, development, développement, desarrollo, "
 "risoluzione problemi, bug fixing"
 msgstr ""
+"Open Source, Free Software, Logiciel libre, GIS, SIG, QGIS, Quantum GIS, "
+"GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, python, plugin, C++, "
+"développement, bug fixing"
 
 # 4e4267e056b54b4285d741002e12df7c
 #: ../../dev.rst:15
@@ -50,14 +54,14 @@ msgid ""
 "`lista dei plugins sviluppati <http://plugins.qgis.org/search/?q=faunalia>`_)"
 msgstr ""
 "le développement des extensions pour QGIS_ (*core*: GDALTools, DB Manager; "
-"*custom*: `liste des extensions développées par Faunalia <http://plugins."
-"qgis.org/search/?q=faunalia>`_)"
+"*custom*: `liste des extensions développées par Faunalia "
+"<http://plugins.qgis.org/search/?q=faunalia>`_)"
 
 # 5b38585e1e384ef6bb57dfd79cb4902b
 #: ../../dev.rst:20
 msgid ""
-"Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/"
-"OGR <http://www.gdal.org/>`_"
+"Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, "
+"`GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
 "le développement de nouvelles fonctionnalités pour QGIS_, PostGIS_, GRASS_, "
 "MapServer_, `GDAL/OGR <http://www.gdal.org/>`_ "

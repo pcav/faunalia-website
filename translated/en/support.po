@@ -25,6 +25,8 @@ msgid ""
 "Assistance and support of Free and Open Source GIS: QGIS, PostGIS, GDAL, "
 "MapServer, GRASS"
 msgstr ""
+"Assistance and support of Free and Open Source GIS: QGIS, PostGIS, GDAL, "
+"MapServer, GRASS"
 
 #: ../../support.rst:1
 msgid ""
@@ -34,6 +36,8 @@ msgid ""
 "fixing, migration, suporte, assistência, resolução bugs, migração, "
 "développement"
 msgstr ""
+"Open Source, Free Software, GIS, QGIS, Quantum GIS, GRASS, SAGA, OTB, "
+"PostGIS, PostgreSQL, OsGeo, OGC, support, bug fixing, migration, development"
 
 # e4147a488126479887c42ebe2997e327
 #: ../../support.rst:9
@@ -64,13 +68,15 @@ msgstr ""
 # 1b26eeb1960f4a4aa19a2de96f8e55ac
 #: ../../support.rst:12
 msgid ""
-"In particolare, Faunalia garantisce `servizi professionali per QGIS <http://"
-"www.qgis.org/en/site/forusers/commercial_support.html>`_ (Desktop, Server e "
-"Web Client), GRASS_, PostgreSQL_ `e PostGIS <http://postgis.net/support/>`_:"
+"In particolare, Faunalia garantisce `servizi professionali per QGIS "
+"<http://www.qgis.org/en/site/forusers/commercial_support.html>`_ (Desktop, "
+"Server e Web Client), GRASS_, PostgreSQL_ `e PostGIS "
+"<http://postgis.net/support/>`_:"
 msgstr ""
-"Faunalia provides `professional services to QGIS <http://www.qgis.org/en/"
-"site/forusers/commercial_support.html>`_ (Desktop, Server e Web Client), "
-"GRASS_, PostgreSQL_ `and PostGIS <http://postgis.net/support>`_:"
+"Faunalia provides `professional services to QGIS "
+"<http://www.qgis.org/en/site/forusers/commercial_support.html>`_ (Desktop, "
+"Server e Web Client), GRASS_, PostgreSQL_ `and PostGIS "
+"<http://postgis.net/support>`_:"
 
 # f085741ebad245a78e054d8936399bf6
 #: ../../support.rst:14

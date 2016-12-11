@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-11 08:18+0100\n"
+"POT-Creation-Date: 2016-12-11 08:40+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,18 +25,24 @@ msgid ""
 "Faunalia, Open Source GIS. Leader in solutions based on QGIS: training, "
 "development, support"
 msgstr ""
+"Faunalia, Open Source GIS. Leader in solutions based on QGIS: training, "
+"development, support"
 
 #: ../../index.rst:1
 msgid ""
 "Faunalia, GIS Open Source. Impresa leader nelle soluzioni basate su QGIS: "
 "formazione, sviluppo, supporto"
 msgstr ""
+"Faunalia, Open Source GIS. Leader in solutions based on QGIS: training, "
+"development, support"
 
 #: ../../index.rst:1
 msgid ""
 "Faunalia, SIG Open Source. Leader dans les solutions basés sur QGIS: "
 "formation, développement, assistance"
 msgstr ""
+"Faunalia, Open Source GIS. Leader in solutions based on QGIS: training, "
+"development, support"
 
 #: ../../index.rst:1
 msgid ""
@@ -46,6 +52,9 @@ msgid ""
 "development, corsi, formazione, training courses, développement, assistance, "
 "formation"
 msgstr ""
+"Open Source, Free Software, GIS, QGIS, Quantum GIS, GRASS, SAGA, OTB, "
+"PostGIS, PostgreSQL, OsGeo, OGC,  support, bug fixing, migration, "
+"development, training courses"
 
 # 56bcab473aff44a6be177e81a69b3ec7
 #: ../../index.rst:22 ../../index.rst:26 ../../index.rst:80
