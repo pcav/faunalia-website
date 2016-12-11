@@ -155,6 +155,7 @@ Grazie ancora davvero per il tuo corso, Paolo."
 
 .. image:: images/stefanini.jpg
           :align: left
+
 **Emiliano Stefanini**: "i corsi di Faunalia: un must per chi vuole lavorare con Qgis!!!"
 
 .. raw:: html
