@@ -728,7 +728,7 @@ msgstr "25-26 Mai 2017"
 
 #: ../../training.rst:239
 msgid "Le date definitive sono soggette a cambiamento."
-msgstr ""
+msgstr "Les dates définitives peuvent changer."
 
 # 2b01fbfd1fbb417da072f5b12ca3fae2
 #: ../../training.rst:242
