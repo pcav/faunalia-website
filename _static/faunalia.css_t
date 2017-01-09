@@ -371,3 +371,12 @@ margin-left:10px !important;
 }
 
   #sidebar > ul > li > ul > li > ul > li {text-indent:10px;font-size:.85em;}
+
+/* correct news stories on index page 2017-01-09 */
+#news p {
+    color: #333;
+    text-align: left;
+    font-size: 16px;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+}
