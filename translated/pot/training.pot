@@ -8,21 +8,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-19 17:51+0100\n"
+"POT-Creation-Date: 2016-12-19 18:08+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#: ../../training.rst:3
-msgid "Training on Free and Open Source GIS: QGIS, PostGIS, GDAL, MapServer, GRASS"
-msgstr ""
-
-#: ../../training.rst:3
-msgid "Open Source, Free Software, Software libero, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, Webmapping, Webgis, Mapserver, QGIS Server, Lizmap, QGIS Web Client, corsi, corso, formazione, training courses, Database geografico, formation"
-msgstr ""
 
 #: ../../training.rst:19
 msgid "Corsi"

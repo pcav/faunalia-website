@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-11 08:18+0100\n"
+"POT-Creation-Date: 2016-12-19 18:08+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,19 +19,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Language: fr_FR\n"
 "X-Source-Language: it_IT\n"
-
-#: ../../jobs.rst:1
-msgid "Our experience and customers around the globe"
-msgstr "Notre expérience et clients dans le monde"
-
-#: ../../jobs.rst:1
-msgid ""
-"Open Source, Free Software, Software libero, GIS, SIG, QGIS, Quantum GIS, "
-"GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, lavori, clienti, jobs, "
-"clients, travaux, clients"
-msgstr ""
-"Open Source, Free Software, Logiciel libre, GIS, SIG, QGIS, Quantum GIS, "
-"GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, travaux, clients"
 
 # ab38b9b6d1924b2cb0907f188cf2017b
 #: ../../jobs.rst:9
@@ -46,11 +33,11 @@ msgstr "Carte des réalisations de Faunalia"
 # 1a76693376ba41ef822a3646731acb77
 #: ../../jobs.rst:18
 msgid ""
-"`Esplora la mappa "
-"<https://lizmap.faunalia.eu/index.php/view/map/?repository=faunalia&project=faunalia_it>`_"
+"`Esplora la mappa <https://lizmap.faunalia.eu/index.php/view/map/?"
+"repository=faunalia&project=faunalia_it>`_"
 msgstr ""
-"`Naviguez sur la carte "
-"<https://lizmap.faunalia.eu/index.php/view/map/?repository=faunalia&project=faunalia_en>`_"
+"`Naviguez sur la carte <https://lizmap.faunalia.eu/index.php/view/map/?"
+"repository=faunalia&project=faunalia_en>`_"
 
 # a4dd5c2238944fbf889fbcfdac51370c
 #: ../../jobs.rst:25
@@ -91,3 +78,14 @@ msgstr "Assistance et développement"
 #: ../../jobs.rst:74
 msgid "Pubblicazioni"
 msgstr "Publications"
+
+#~ msgid "Our experience and customers around the globe"
+#~ msgstr "Notre expérience et clients dans le monde"
+
+#~ msgid ""
+#~ "Open Source, Free Software, Software libero, GIS, SIG, QGIS, Quantum GIS, "
+#~ "GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, lavori, clienti, jobs, "
+#~ "clients, travaux, clients"
+#~ msgstr ""
+#~ "Open Source, Free Software, Logiciel libre, GIS, SIG, QGIS, Quantum GIS, "
+#~ "GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, travaux, clients"

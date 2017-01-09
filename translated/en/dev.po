@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-11 08:18+0100\n"
+"POT-Creation-Date: 2016-12-19 18:08+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,22 +19,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: en_GB\n"
 "X-Source-Language: it_IT\n"
-
-#: ../../dev.rst:1
-msgid ""
-"Free and Open Source GIS development: QGIS, PostGIS, GDAL, MapServer, GRASS"
-msgstr ""
-"Free and Open Source GIS development: QGIS, PostGIS, GDAL, MapServer, GRASS"
-
-#: ../../dev.rst:1
-msgid ""
-"Open Source, Free Software, Software libero, GIS, SIG, QGIS, Quantum GIS, "
-"GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, python, plugin, C++, "
-"sviluppo, programmazione, development, développement, desarrollo, "
-"risoluzione problemi, bug fixing"
-msgstr ""
-"Open Source, Free Software, GIS, QGIS, Quantum GIS, GRASS, SAGA, OTB, "
-"PostGIS, PostgreSQL, OsGeo, OGC, python, plugin, C++, development, bug fixing"
 
 # 4e4267e056b54b4285d741002e12df7c
 #: ../../dev.rst:15
@@ -53,17 +37,17 @@ msgid ""
 "`lista dei plugins sviluppati <http://plugins.qgis.org/search/?q=faunalia>`_)"
 msgstr ""
 "Development of plugins for QGIS_(*core*: GDALTools, DB Manager; *custom*: "
-"`list of plugins developed by us "
-"<http://plugins.qgis.org/search/?q=faunalia>`_)"
+"`list of plugins developed by us <http://plugins.qgis.org/search/?"
+"q=faunalia>`_)"
 
 # 5b38585e1e384ef6bb57dfd79cb4902b
 #: ../../dev.rst:20
 msgid ""
-"Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, "
-"`GDAL/OGR <http://www.gdal.org/>`_"
+"Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/"
+"OGR <http://www.gdal.org/>`_"
 msgstr ""
-"Development of core functions for QGIS_, PostGIS_, GRASS_, MapServer_, "
-"`GDAL/OGR <http://www.gdal.org/>`_"
+"Development of core functions for QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/"
+"OGR <http://www.gdal.org/>`_"
 
 # cf99310f7e6e429a841b3f255af7dd46
 #: ../../dev.rst:21
@@ -71,8 +55,8 @@ msgid ""
 "Riparazione dei malfunzionamenti per QGIS_, PostGIS_, GRASS_, MapServer_, "
 "`GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
-"Bug fixing for QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR "
-"<http://www.gdal.org/>`_"
+"Bug fixing for QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR <http://www."
+"gdal.org/>`_"
 
 # d650ef8ee81b4e4584a51093561c5e93
 #: ../../dev.rst:22
@@ -113,6 +97,23 @@ msgstr ""
 "Faunalia has developed, since many years, functions for all software listed "
 "above, and we count among our collaborators many of the best developers of "
 "these projects."
+
+#~ msgid ""
+#~ "Free and Open Source GIS development: QGIS, PostGIS, GDAL, MapServer, "
+#~ "GRASS"
+#~ msgstr ""
+#~ "Free and Open Source GIS development: QGIS, PostGIS, GDAL, MapServer, "
+#~ "GRASS"
+
+#~ msgid ""
+#~ "Open Source, Free Software, Software libero, GIS, SIG, QGIS, Quantum GIS, "
+#~ "GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, python, plugin, C++, "
+#~ "sviluppo, programmazione, development, développement, desarrollo, "
+#~ "risoluzione problemi, bug fixing"
+#~ msgstr ""
+#~ "Open Source, Free Software, GIS, QGIS, Quantum GIS, GRASS, SAGA, OTB, "
+#~ "PostGIS, PostgreSQL, OsGeo, OGC, python, plugin, C++, development, bug "
+#~ "fixing"
 
 # f08f7331cf78489899f60dac239e0742
 #~ msgid "Sviluppo di plugin per QGIS_"
