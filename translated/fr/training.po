@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-19 18:08+0100\n"
+"POT-Creation-Date: 2017-01-09 12:57+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,6 +19,25 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Language: fr_FR\n"
 "X-Source-Language: it_IT\n"
+
+#: ../../training.rst:3
+msgid ""
+"Training on Free and Open Source GIS: QGIS, PostGIS, GDAL, MapServer, GRASS"
+msgstr ""
+"Formation sur logiciel libre pour le SIG: QGIS, PostGIS, GDAL, MapServer, "
+"GRASS"
+
+#: ../../training.rst:3
+msgid ""
+"Open Source, Free Software, Software libero, GIS, SIG, QGIS, Quantum GIS, "
+"GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, Webmapping, Webgis, "
+"Mapserver, QGIS Server, Lizmap, QGIS Web Client, corsi, corso, formazione, "
+"training courses, Database geografico, formation"
+msgstr ""
+"Open Source, Free Software, Software libero, GIS, SIG, QGIS, Quantum GIS, "
+"GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, Webmapping, Webgis, "
+"Mapserver, QGIS Server, Lizmap, QGIS Web Client, corsi, corso, formazione, "
+"training courses, Database geografico, formation"
 
 # 53903b0dcdd448bcbcfc9f5249e6b640
 #: ../../training.rst:19
@@ -1618,24 +1637,6 @@ msgstr "Utilisons PyQGIS"
 #: ../../training.rst:484
 msgid "esempi di codice"
 msgstr "exemples de code"
-
-#~ msgid ""
-#~ "Training on Free and Open Source GIS: QGIS, PostGIS, GDAL, MapServer, "
-#~ "GRASS"
-#~ msgstr ""
-#~ "Formation sur logiciel libre pour le SIG: QGIS, PostGIS, GDAL, MapServer, "
-#~ "GRASS"
-
-#~ msgid ""
-#~ "Open Source, Free Software, Software libero, GIS, SIG, QGIS, Quantum GIS, "
-#~ "GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, Webmapping, Webgis, "
-#~ "Mapserver, QGIS Server, Lizmap, QGIS Web Client, corsi, corso, "
-#~ "formazione, training courses, Database geografico, formation"
-#~ msgstr ""
-#~ "Open Source, Free Software, Software libero, GIS, SIG, QGIS, Quantum GIS, "
-#~ "GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, Webmapping, Webgis, "
-#~ "Mapserver, QGIS Server, Lizmap, QGIS Web Client, corsi, corso, "
-#~ "formazione, training courses, Database geografico, formation"
 
 # f7db670e6b22473f88e2168c85cf783a
 #~ msgid "15-16 Dicembre 2016"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-19 18:08+0100\n"
+"POT-Creation-Date: 2017-01-09 12:57+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,6 +19,22 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: en_GB\n"
 "X-Source-Language: it_IT\n"
+
+#: ../../dev.rst:1
+msgid ""
+"Free and Open Source GIS development: QGIS, PostGIS, GDAL, MapServer, GRASS"
+msgstr ""
+"Free and Open Source GIS development: QGIS, PostGIS, GDAL, MapServer, GRASS"
+
+#: ../../dev.rst:1
+msgid ""
+"Open Source, Free Software, Software libero, GIS, SIG, QGIS, Quantum GIS, "
+"GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, python, plugin, C++, "
+"sviluppo, programmazione, development, développement, desarrollo, "
+"risoluzione problemi, bug fixing"
+msgstr ""
+"Open Source, Free Software, GIS, QGIS, Quantum GIS, GRASS, SAGA, OTB, "
+"PostGIS, PostgreSQL, OsGeo, OGC, python, plugin, C++, development, bug fixing"
 
 # 4e4267e056b54b4285d741002e12df7c
 #: ../../dev.rst:15
@@ -97,23 +113,6 @@ msgstr ""
 "Faunalia has developed, since many years, functions for all software listed "
 "above, and we count among our collaborators many of the best developers of "
 "these projects."
-
-#~ msgid ""
-#~ "Free and Open Source GIS development: QGIS, PostGIS, GDAL, MapServer, "
-#~ "GRASS"
-#~ msgstr ""
-#~ "Free and Open Source GIS development: QGIS, PostGIS, GDAL, MapServer, "
-#~ "GRASS"
-
-#~ msgid ""
-#~ "Open Source, Free Software, Software libero, GIS, SIG, QGIS, Quantum GIS, "
-#~ "GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, python, plugin, C++, "
-#~ "sviluppo, programmazione, development, développement, desarrollo, "
-#~ "risoluzione problemi, bug fixing"
-#~ msgstr ""
-#~ "Open Source, Free Software, GIS, QGIS, Quantum GIS, GRASS, SAGA, OTB, "
-#~ "PostGIS, PostgreSQL, OsGeo, OGC, python, plugin, C++, development, bug "
-#~ "fixing"
 
 # f08f7331cf78489899f60dac239e0742
 #~ msgid "Sviluppo di plugin per QGIS_"

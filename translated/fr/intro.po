@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-19 18:08+0100\n"
+"POT-Creation-Date: 2017-01-09 12:57+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,6 +19,20 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Language: fr_FR\n"
 "X-Source-Language: it_IT\n"
+
+#: ../../intro.rst:1
+msgid "Faunalia vision, services, and team"
+msgstr "Vision, services, and équipe de Faunalia"
+
+#: ../../intro.rst:1
+msgid ""
+"Open Source, Free Software, Software libero, Software Livre, Software "
+"Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, "
+"OsGeo, OGC, Paolo Cavallini, Renzo Cavallini"
+msgstr ""
+"Open Source, Free Software, Logiciel libre, GIS, SIG, QGIS, Quantum GIS, "
+"GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, Paolo Cavallini, Renzo "
+"Cavallini"
 
 # 57042a2ccf1944a3940a1bbecc2e241e
 #: ../../intro.rst:13
@@ -419,18 +433,6 @@ msgstr ""
 #: ../../intro.rst:95
 msgid "*e-mail*: renzo.cavallini@faunalia.it"
 msgstr "*e-mail*: renzo.cavallini@faunalia.it"
-
-#~ msgid "Faunalia vision, services, and team"
-#~ msgstr "Vision, services, and équipe de Faunalia"
-
-#~ msgid ""
-#~ "Open Source, Free Software, Software libero, Software Livre, Software "
-#~ "Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, "
-#~ "PostgreSQL, OsGeo, OGC, Paolo Cavallini, Renzo Cavallini"
-#~ msgstr ""
-#~ "Open Source, Free Software, Logiciel libre, GIS, SIG, QGIS, Quantum GIS, "
-#~ "GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, Paolo Cavallini, Renzo "
-#~ "Cavallini"
 
 # b49d1ac6a130438b9c4770674f677d65
 #~ msgid "Giovanni Manghi |pt|"

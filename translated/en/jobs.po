@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-19 18:08+0100\n"
+"POT-Creation-Date: 2017-01-09 12:57+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,6 +19,19 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: en_GB\n"
 "X-Source-Language: it_IT\n"
+
+#: ../../jobs.rst:1
+msgid "Our experience and customers around the globe"
+msgstr "Our experience and customers around the globe"
+
+#: ../../jobs.rst:1
+msgid ""
+"Open Source, Free Software, Software libero, GIS, SIG, QGIS, Quantum GIS, "
+"GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, lavori, clienti, jobs, "
+"clients, travaux, clients"
+msgstr ""
+"Open Source, Free Software, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, "
+"PostGIS, PostgreSQL, OsGeo, OGC, jobs, clients"
 
 # ab38b9b6d1924b2cb0907f188cf2017b
 #: ../../jobs.rst:9
@@ -78,14 +91,3 @@ msgstr "Support and development"
 #: ../../jobs.rst:74
 msgid "Pubblicazioni"
 msgstr "Publications"
-
-#~ msgid "Our experience and customers around the globe"
-#~ msgstr "Our experience and customers around the globe"
-
-#~ msgid ""
-#~ "Open Source, Free Software, Software libero, GIS, SIG, QGIS, Quantum GIS, "
-#~ "GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, lavori, clienti, jobs, "
-#~ "clients, travaux, clients"
-#~ msgstr ""
-#~ "Open Source, Free Software, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, "
-#~ "OTB, PostGIS, PostgreSQL, OsGeo, OGC, jobs, clients"
