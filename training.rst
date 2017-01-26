@@ -52,11 +52,11 @@ Dicono di noi
 .. image:: images/gustavo.jpg
           :align: left
 
-**Gustavo Presa Arias**, Geógrafo, `ENEL <http://www.enel.com/>`_: "Este curso de “QGIS funzionalità standard” ha cubierto mis expectativas, y lo valoro muy positivamente. Destaco la amabilidad y conocimientos del instructor del mismo (Paolo Cavallini). Yo le planteé muchas dudas y siempre estuvo dispuesto a aclararlas.
+**Gustavo Presa Arias**, Geógrafo, `ENEL <https://www.enel.com/>`_: "Este curso de “QGIS funzionalità standard” ha cubierto mis expectativas, y lo valoro muy positivamente. Destaco la amabilidad y conocimientos del instructor del mismo (Paolo Cavallini). Yo le planteé muchas dudas y siempre estuvo dispuesto a aclararlas.
 Esta formación ha estado enfocada como introducción general de QGIS versión 2.14.3, siendo recomendable tener conocimientos previos y experiencia en el manejo de un GIS desktop, ya que se tocaban temas específicos tales como definición de un Sistema de Coordenadas de Referencia (CRS), transformaciones “al vuelo”, uso de distintos código EPSG, simbología, etiquetado, concepto y uso de plugins, digitalización (creación de capas vectoriales, ayudas al dibujo –snapping-), consultas, temáticos, almacenamiento de datos(Spatialite/Geopackage, shp files…), importación de datos (shp, gdb, dxf, csv, xlsx… ), exportación de datos (pdf, kmz, tiff, jpg…), uso de servicios WMS, WFS, impresión de mapas, etc…
 En resumen, mi valoración es muy, muy positiva."
 
-**Juan Manuel Pérez Román**, GdD, `ENEL <http://www.enel.com/>`_: "El curso de “QGIS funzionalità standard” ha superado con creces mis expectativas. Se nos ha mostrado un producto adecuado a nuestras necesidades concretas y se nos ha resuelto de forma inmediata todas nuestras consultas. Destacar que el instructor Paolo Cavallini se ha mostrado abierto a resolver todas nuestras dudas particulares de una forma efectiva y concisa más allá de cualquier barrera idiomática. En resumen, un curso que valoro muy positivamente y personalmente lo considero totalmente recomendable."
+**Juan Manuel Pérez Román**, GdD, `ENEL <https://www.enel.com/>`_: "El curso de “QGIS funzionalità standard” ha superado con creces mis expectativas. Se nos ha mostrado un producto adecuado a nuestras necesidades concretas y se nos ha resuelto de forma inmediata todas nuestras consultas. Destacar que el instructor Paolo Cavallini se ha mostrado abierto a resolver todas nuestras dudas particulares de una forma efectiva y concisa más allá de cualquier barrera idiomática. En resumen, un curso que valoro muy positivamente y personalmente lo considero totalmente recomendable."
 
 ------
 
@@ -372,7 +372,7 @@ Argomenti principali
 
 * Breve introduzione ai Sistemi Informativi Territoriali *open source*
 * Vantaggi dell'uso di un database nel GIS
-* Introduzione a `PostgreSQL <http://www.postgresql.org/>`_
+* Introduzione a `PostgreSQL <https://www.postgresql.org/>`_
 * Prima configurazione del database: i files di configurazione, gestione del server
 * Ottimizzazione di PostgreSQL
 * Introduzione a `PostGIS <http://postgis.net/>`_ (standard `Open Geospatial Consortium <http://www.opengeospatial.org/>`_)
