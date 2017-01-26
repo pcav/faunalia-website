@@ -33,5 +33,5 @@ In particolare, Faunalia garantisce `servizi professionali per QGIS <http://www.
 
 .. _QGIS: http://www.qgis.org/
 .. _GRASS: http://grass.osgeo.org/support/commercial-support/
-.. _PostgreSQL: http://www.postgresql.org/support/professional_support/europe/
+.. _PostgreSQL: https://www.postgresql.org/support/professional_support/europe/
 .. _PostGIS: http://postgis.net/
