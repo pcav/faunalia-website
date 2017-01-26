@@ -85,7 +85,7 @@ News
 QGIS e Faunalia al FOSS4G-IT 2017
 ++++++++++++++++++++++++++++++++++
 
-* Durante il prossimo `FOSS4G-IT 2017 <http://www.dicca.unige.it/geomatica/foss4git_2017/>`_ terremo un workshop di `Introduzione a QGIS http://www.dicca.unige.it/geomatica/foss4git_2017/index.html#workshop>`_ e un intervento su `QGIS 3: stato dell'arte e prospettive <http://www.dicca.unige.it/geomatica/foss4git_2017/programma.html>`_. Vi aspettiamo, sarà una buona occasione per scambiare opinioni.
+* Durante il prossimo `FOSS4G-IT 2017 <http://www.dicca.unige.it/geomatica/foss4git_2017/>`_ terremo un workshop di `Introduzione a QGIS <http://www.dicca.unige.it/geomatica/foss4git_2017/index.html#workshop>`_ e un intervento su `QGIS 3: stato dell'arte e prospettive <http://www.dicca.unige.it/geomatica/foss4git_2017/programma.html>`_. Vi aspettiamo, sarà una buona occasione per scambiare opinioni.
 
 Perché ti conviene scegliere i corsi Faunalia
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
