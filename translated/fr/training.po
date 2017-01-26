@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-09 12:57+0100\n"
+"POT-Creation-Date: 2017-01-26 11:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -168,8 +168,9 @@ msgstr "Témoignages"
 
 # Left untranslated
 #: ../../training.rst:55
+#, fuzzy
 msgid ""
-"**Gustavo Presa Arias**, Geógrafo, `ENEL <http://www.enel.com/>`_: \"Este "
+"**Gustavo Presa Arias**, Geógrafo, `ENEL <https://www.enel.com/>`_: \"Este "
 "curso de “QGIS funzionalità standard” ha cubierto mis expectativas, y lo "
 "valoro muy positivamente. Destaco la amabilidad y conocimientos del "
 "instructor del mismo (Paolo Cavallini). Yo le planteé muchas dudas y siempre "
@@ -202,15 +203,16 @@ msgstr ""
 "etc… En resumen, mi valoración es muy, muy positiva.\""
 
 #: ../../training.rst:59
+#, fuzzy
 msgid ""
-"**Juan Manuel Pérez Román**, GdD, `ENEL <http://www.enel.com/>`_: \"El curso "
-"de “QGIS funzionalità standard” ha superado con creces mis expectativas. Se "
-"nos ha mostrado un producto adecuado a nuestras necesidades concretas y se "
-"nos ha resuelto de forma inmediata todas nuestras consultas. Destacar que el "
-"instructor Paolo Cavallini se ha mostrado abierto a resolver todas nuestras "
-"dudas particulares de una forma efectiva y concisa más allá de cualquier "
-"barrera idiomática. En resumen, un curso que valoro muy positivamente y "
-"personalmente lo considero totalmente recomendable.\""
+"**Juan Manuel Pérez Román**, GdD, `ENEL <https://www.enel.com/>`_: \"El "
+"curso de “QGIS funzionalità standard” ha superado con creces mis "
+"expectativas. Se nos ha mostrado un producto adecuado a nuestras necesidades "
+"concretas y se nos ha resuelto de forma inmediata todas nuestras consultas. "
+"Destacar que el instructor Paolo Cavallini se ha mostrado abierto a resolver "
+"todas nuestras dudas particulares de una forma efectiva y concisa más allá "
+"de cualquier barrera idiomática. En resumen, un curso que valoro muy "
+"positivamente y personalmente lo considero totalmente recomendable.\""
 msgstr ""
 "**Juan Manuel Pérez Román**, GdD, `ENEL <http://www.enel.com/>`_: \"El curso "
 "de “QGIS funzionalità standard” ha superado con creces mis expectativas. Se "
@@ -1216,7 +1218,8 @@ msgid "Vantaggi dell'uso di un database nel GIS"
 msgstr "Avantages d'utiliser une base de données SIG"
 
 #: ../../training.rst:375
-msgid "Introduzione a `PostgreSQL <http://www.postgresql.org/>`_"
+#, fuzzy
+msgid "Introduzione a `PostgreSQL <https://www.postgresql.org/>`_"
 msgstr "Introduction à `PostgreSQL <http://www.postgresql.org/>`_"
 
 #: ../../training.rst:376
@@ -1427,9 +1430,10 @@ msgid "Pubblicare servizi WMS e WFS"
 msgstr "Publier WMS et WFS"
 
 #: ../../training.rst:430
+#, fuzzy
 msgid ""
 "WebGIS ricchi di funzioni: `QGIS web client <https://github.com/qgis/QGIS-"
-"Web-Client/>`_ (`demo <https://gis.uster.ch/>`_) e `LizMap <http://www.3liz."
+"Web-Client/>`_ (`demo <https://gis.uster.ch/>`_) e `LizMap <https://www.3liz."
 "com/lizmap.html>`_"
 msgstr ""
 "WebGIS riches en fonctionnalités: `QGIS web client <https://github.com/qgis/"
@@ -1437,7 +1441,8 @@ msgstr ""
 "www.3liz.com/lizmap.html>`_"
 
 #: ../../training.rst:431
-msgid "Approfondimento su `LizMap <http://www.3liz.com/lizmap.html>`_"
+#, fuzzy
+msgid "Approfondimento su `LizMap <https://www.3liz.com/lizmap.html>`_"
 msgstr "Approfondissement sur `LizMap <http://www.3liz.com/lizmap.html>`_"
 
 #: ../../training.rst:433
