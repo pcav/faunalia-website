@@ -427,8 +427,8 @@ Argomenti principali
 * Sicurezza del server
 * Installazione e configurazione di QGIS server
 * Pubblicare servizi WMS e WFS
-* WebGIS ricchi di funzioni: `QGIS web client <https://github.com/qgis/QGIS-Web-Client/>`_ (`demo <https://gis.uster.ch/>`_) e `LizMap <http://www.3liz.com/lizmap.html>`_
-* Approfondimento su `LizMap <http://www.3liz.com/lizmap.html>`_
+* WebGIS ricchi di funzioni: `QGIS web client <https://github.com/qgis/QGIS-Web-Client/>`_ (`demo <https://gis.uster.ch/>`_) e `LizMap <https://www.3liz.com/lizmap.html>`_
+* Approfondimento su `LizMap <https://www.3liz.com/lizmap.html>`_
 
   * funzionalità di base
   * guida per l'utente

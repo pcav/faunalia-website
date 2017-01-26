@@ -12,6 +12,6 @@ The good and the bad
 Yes                             No
 =============================== ===========================================
                                 Gold car rental https://www.goldcar.es
-Ryanair http://www.ryanair.com  Iberia, Vueling
+Ryanair https://www.ryanair.com Iberia, Vueling
 Hetzner https://www.hetzner.de/  OVH https://www.ovh.it/
 =============================== ===========================================
