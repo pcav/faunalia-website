@@ -46,7 +46,19 @@ Infine teniamo corsi di formazione teorico-pratica, sia standard, sia personaliz
 
 Team
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-L'attività di Faunalia si basa su una fitta rete internazionale di collaboratori, coordinato da Paolo Cavallini.
+L'attività di Faunalia si basa su una rete internazionale di collaboratori autorevoli, coordinati da Paolo Cavallini.
+Fra i nostri collaboratori recenti:
+
+* `Alex Bruy <https://github.com/alexbruy>`_
+* `Radim Blazek <https://github.com/blazek>`_
+-* `Nyall Dawson/North Road <https://github.com/nyalldawson>`_
+* `René-Luc D'Hont <https://github.com/rldhont>`_ / `3Liz <https://www.3liz.com/>`_
+* `Michael Douchin <https://github.com/mdouchin>`_ / `3Liz <https://www.3liz.com/>`_
+-* `Jürgen E. Fischer/Norbit <https://github.com/jef-n>`_
+-* `Matteo Ghetta <https://github.com/ghtmtt>`_
+* `Even Rouault <https://github.com/rouault>`_ / `Spatialys <http://www.spatialys.com>`_
+* `Sandro Santilli <http://strk.kbt.io/>`_
+-* `Tamas Szekeres <https://github.com/szekerest>`_
 
 Paolo Cavallini
 ...............................................................................
