@@ -53,6 +53,7 @@ Fra i nostri collaboratori recenti:
 * `Radim Blazek <https://github.com/blazek>`_
 * `René-Luc D'Hont <https://github.com/rldhont>`_ / `3Liz <https://www.3liz.com/>`_
 * `Michael Douchin <https://github.com/mdouchin>`_ / `3Liz <https://www.3liz.com/>`_
+* `Jürgen E. Fischer/Norbit <https://github.com/jef-n>`_ / `norBIT <http://norbit.de/>`_
 * `Even Rouault <https://github.com/rouault>`_ / `Spatialys <http://www.spatialys.com>`_
 * `Sandro Santilli <http://strk.kbt.io/>`_
 
