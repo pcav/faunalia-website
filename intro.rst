@@ -51,7 +51,7 @@ Fra i nostri collaboratori recenti:
 
 * `Alex Bruy <https://github.com/alexbruy>`_
 * `Radim Blazek <https://github.com/blazek>`_
-* `Nyall Dawson/North Road <https://github.com/nyalldawson>`_ / `North Road <https://north-road.com/>`_
+* `Nyall Dawson <https://github.com/nyalldawson>`_ / `North Road <https://north-road.com/>`_
 * `René-Luc D'Hont <https://github.com/rldhont>`_ / `3Liz <https://www.3liz.com/>`_
 * `Michael Douchin <https://github.com/mdouchin>`_ / `3Liz <https://www.3liz.com/>`_
 * `Jürgen E. Fischer/Norbit <https://github.com/jef-n>`_ / `norBIT <http://norbit.de/>`_

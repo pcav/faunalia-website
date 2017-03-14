@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-13 11:40+0100\n"
+"POT-Creation-Date: 2017-03-14 08:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -105,126 +105,134 @@ msgid "`Radim Blazek <https://github.com/blazek>`_"
 msgstr ""
 
 #: ../../intro.rst:54
-msgid "`René-Luc D'Hont <https://github.com/rldhont>`_ / `3Liz <https://www.3liz.com/>`_"
+msgid "`Nyall Dawson <https://github.com/nyalldawson>`_ / `North Road <https://north-road.com/>`_"
 msgstr ""
 
 #: ../../intro.rst:55
-msgid "`Michael Douchin <https://github.com/mdouchin>`_ / `3Liz <https://www.3liz.com/>`_"
+msgid "`René-Luc D'Hont <https://github.com/rldhont>`_ / `3Liz <https://www.3liz.com/>`_"
 msgstr ""
 
 #: ../../intro.rst:56
-msgid "`Even Rouault <https://github.com/rouault>`_ / `Spatialys <http://www.spatialys.com>`_"
+msgid "`Michael Douchin <https://github.com/mdouchin>`_ / `3Liz <https://www.3liz.com/>`_"
 msgstr ""
 
 #: ../../intro.rst:57
+msgid "`Jürgen E. Fischer/Norbit <https://github.com/jef-n>`_ / `norBIT <http://norbit.de/>`_"
+msgstr ""
+
+#: ../../intro.rst:58
+msgid "`Even Rouault <https://github.com/rouault>`_ / `Spatialys <http://www.spatialys.com>`_"
+msgstr ""
+
+#: ../../intro.rst:59
 msgid "`Sandro Santilli <http://strk.kbt.io/>`_"
 msgstr ""
 
-#: ../../intro.rst:60
+#: ../../intro.rst:62
 msgid "Paolo Cavallini"
 msgstr ""
 
-#: ../../intro.rst:65
+#: ../../intro.rst:67
 msgid "Fondatore di Faunalia"
 msgstr ""
 
-#: ../../intro.rst:66
+#: ../../intro.rst:68
 msgid "Co-Chair dell'associazione internazionale **QGIS.org** e membro del *QGIS Project Steering Commitee* col ruolo di *Financial/Marketing Advisor*"
 msgstr ""
 
-#: ../../intro.rst:67
+#: ../../intro.rst:69
 msgid "Socio fondatore di ed ex presidente di `GFOSS.it - Italian Geographic Free and Open-Source Software Association <http://www.gfoss.it/drupal/>`_"
 msgstr ""
 
-#: ../../intro.rst:68
+#: ../../intro.rst:70
 msgid "Socio e *charter member* della fondazione internazionale `OSGeo - Open Source Geospatial Foundation <http://www.osgeo.org/>`_"
 msgstr ""
 
-#: ../../intro.rst:69
+#: ../../intro.rst:71
 msgid "Socio fondatore di `ITPUG - ITalian PostgreSQL User Group <http://www.itpug.org>`_"
 msgstr ""
 
-#: ../../intro.rst:70
+#: ../../intro.rst:72
 msgid "Membro di `IUCN - The World Conservation Union - Species Survival Commission <http://www.iucn.org/>`_, ex Presidente dello *IUCN Small Carnivore Specialist Group* e membro dello *IUCN - European Sustainable Use Specialist Group*"
 msgstr ""
 
-#: ../../intro.rst:71
+#: ../../intro.rst:73
 msgid "Oltre 10 anni di esperienza sui GIS liberi"
 msgstr ""
 
-#: ../../intro.rst:72
+#: ../../intro.rst:74
 msgid "Dottore di ricerca"
 msgstr ""
 
-#: ../../intro.rst:73
+#: ../../intro.rst:75
 msgid "`Curriculum Vitae (html) <cv_pc_it.html>`__"
 msgstr ""
 
-#: ../../intro.rst:74
+#: ../../intro.rst:76
 msgid "`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) <pdf/Cavallini_CV_eu.pdf>`__"
 msgstr ""
 
-#: ../../intro.rst:75
+#: ../../intro.rst:77
 msgid "`Alcune mie conferenze <https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-AC4ktZQ/>`_"
 msgstr ""
 
-#: ../../intro.rst:76
+#: ../../intro.rst:78
 msgid "`My recent contributions to free software <https://github.com/pcav>`_"
 msgstr ""
 
-#: ../../intro.rst:82
+#: ../../intro.rst:84
 msgid "*e-mail*: cavallini@faunalia.it - *PEC*: paolo.cavallini@pec.it"
 msgstr ""
 
-#: ../../intro.rst:83
+#: ../../intro.rst:85
 msgid "*Tel/Viber/Line*: +39-348-3801953"
 msgstr ""
 
-#: ../../intro.rst:84
+#: ../../intro.rst:86
 msgid "*Skype*: paolo.gg.cavallini"
 msgstr ""
 
-#: ../../intro.rst:85
+#: ../../intro.rst:87
 msgid "*Hangout*: paolo.cavallini"
 msgstr ""
 
-#: ../../intro.rst:88
+#: ../../intro.rst:90
 msgid "Renzo Cavallini"
 msgstr ""
 
-#: ../../intro.rst:93
+#: ../../intro.rst:95
 msgid "Geologo, specializzato in geofisica"
 msgstr ""
 
-#: ../../intro.rst:94
+#: ../../intro.rst:96
 msgid "Ha collaborato a livello scientifico e didattico con l'Università di Pisa"
 msgstr ""
 
-#: ../../intro.rst:95
+#: ../../intro.rst:97
 msgid "Ha pubblicato nel settore geofisico"
 msgstr ""
 
-#: ../../intro.rst:96
+#: ../../intro.rst:98
 msgid "Conduce attività di prospezione geotecnica, in laboratorio ed *in situ*"
 msgstr ""
 
-#: ../../intro.rst:98
+#: ../../intro.rst:100
 msgid "esecuzione ed elaborazione di prove di laboratorio su terreni naturali: consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), compressione semplice, analisi granulometrica, limiti di consistenza (LL, LP, LR), peso specifico dei granuli, permeabilità in cella edometrica, triassiale e in permeametro (norme seguite: racc. AGI, CNR, ASTM)"
 msgstr ""
 
-#: ../../intro.rst:99
+#: ../../intro.rst:101
 msgid "esecuzione ed elaborazione di prove di laboratorio su materiali stradali e da costruzione: compattazione Proctor Standard e modificata, penetrazione CBR, miscelazione delle terre con calce (norme seguite: EN, CNR, ASTM)"
 msgstr ""
 
-#: ../../intro.rst:100
+#: ../../intro.rst:102
 msgid "esecuzione ed elaborazione di prove in situ: penetrometriche statiche con punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o senza rivestimento, PLT, densità in situ"
 msgstr ""
 
-#: ../../intro.rst:101
+#: ../../intro.rst:103
 msgid "installazione e messa a punto di apparecchiature di laboratorio e di sistemi di acquisizione automatica; calibrazione di trasduttori elettrici"
 msgstr ""
 
-#: ../../intro.rst:103
+#: ../../intro.rst:105
 msgid "*e-mail*: renzo.cavallini@faunalia.it"
 msgstr ""
 
