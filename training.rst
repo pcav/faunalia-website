@@ -230,23 +230,25 @@ Calendario
 ======================================== ==================== ============== ===========
 Corso                                    Date e durata        Dove           Lingua
 ======================================== ==================== ============== ===========
-Cartografia con QGIS (IT)                22-24 Febbraio 2017  Pontedera, IT  Italiano
-Geodatabase: PostgreSQL e PostGIS (IT)   19-21 Aprile 2017    Pontedera, IT  Italiano
 WebMapping con QGIS (IT)                 25-26 Maggio 2017    Pontedera, IT  Italiano
+Cartografia con QGIS (IT)                Settembre 2017       Pontedera, IT  Italiano
+Analisi con QGIS (IT)                    Ottobre 2017         Pontedera, IT  Italiano
+Geodatabase: PostgreSQL e PostGIS (IT)   Novembre 2017        Pontedera, IT  Italiano
+WebMapping con QGIS (IT)                 Dicembre 2017        Pontedera, IT  Italiano
 ======================================== ==================== ============== ===========
 
-Le date definitive sono soggette a cambiamento.
+Le date sono soggette a cambiamento per esigenze logistiche.
 
 Costi
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-* Corsi di Cartografia QGIS, Analisi QGIS, Geodatabase PostGIS (3 giorni): 350 € per i privati, 330 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 336,82 €). Corso Python-QGIS: 700 € per i privati, 660 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 673,64 €). Corso di Web Mapping (2 giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno la ritenuta d'acconto, da versare 275,58 €)
+* Corsi di *Cartografia QGIS, Analisi QGIS, Geodatabase PostGIS* (3 giorni): 350 € per i privati, 330 € + IVA per aziende/partite IVA (meno ritenuta d'acconto, da versare 336,82 €), 360 € IVA esclusa per enti pubblici (meno ritenuta d'acconto, da versare 288,24 €). Corso di *WebMapping* (2 giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno ritenuta d'acconto, da versare 275,58 €), 295 € IVA esclusa per enti pubblici (meno ritenuta d'acconto, da versare 236,19 €). Corso Python-QGIS a richiesta.
 * **Sconti**: 5% per l'iscrizione simultanea a più corsi
 
 Iscrizione
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Ti preghiamo di iscriverti appena ti è possibile, in modo da consentirci di organizzare la logistica al meglio.
+Ti preghiamo di iscriverti appena ti è possibile, in modo da consentirci di organizzare al meglio la logistica.
 
 * **Iscrizione**: confermata al versamento di una caparra di 100 €, saldo prima dell'inizio del corso; è possibile versare l'intera quota in unica soluzione; in caso il corso non si svolga per qualunque motivo, la quota versata verrà interamente restituita
 * **Conferma**: il corso sarà confermato al raggiungimento del numero minimo di partecipanti
