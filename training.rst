@@ -49,6 +49,12 @@ Perché scegliere i corsi di Faunalia?
 Dicono di noi
 =================
 
+.. image:: images/mclink.jpg
+          :align: left
+
+**Massimo Truscelli**, sysadmin, `MC-link S.p.A. <http://www.mclink.it/>`_: "Gran bel corso! Ho frequentato il corso di Faunalia tenuto da Paolo Cavallini su integrazione QGIS e PostgreSQL/PostGIS ed ho scoperto un mondo. Sono tornato a casa con un bagaglio di conoscenze maggiori e soprattutto un server da poter replicare su qualsiasi infrastruttura per costruire la propria base dati geografica consultabile a piacere. Ringrazio Paolo per la competenza, la pazienza e le ottime doti di docente. In particolare, per la sua capacità di non dare niente per scontato su argomenti e tecnologie dove altri considerano superfluo spiegare concetti basilari. Ringrazio gli altri partecipanti al corso per l’atmosfera di collaborazione instauratasi e per il bel “gruppo” che si è formato. Spero di ripetere l’esperienza con il successivo corso dedicato alla gestione dei dati geografici su Web.
+Grazie ancora."
+
 .. image:: images/gustavo.jpg
           :align: left
 
