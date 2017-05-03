@@ -18,7 +18,7 @@
 Corsi
 ---------------------------------------------------
 
-Faunalia ha l'esperienza più vasta nel mondo nella formazione sui GIS liberi, avendo realizzato oltre 300 fra corsi, seminari e workshops, in italiano, inglese, portoghese e francese.
+Faunalia ha l'esperienza più vasta nel mondo nella formazione sui GIS liberi, avendo realizzato oltre 300 fra corsi, seminari e workshops, in italiano, inglese, portoghese e francese, per oltre 4.500 persone.
 
 Con QGIS puoi creare rappresentazioni 3D, navigabili anche sul web. Clicca sulle immagini per attivarle:
 
