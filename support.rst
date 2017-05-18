@@ -19,7 +19,7 @@ In particolare, Faunalia garantisce `servizi professionali per QGIS <http://www.
 * Abbonamento agli annunci sulle novità importanti sui software GIS open source e liberi
 
 
-.. image:: images/qgis-logo-48x48.png
+.. image:: images/qgis-logo.png
    :target: http://www.qgis.org/en/site/forusers/commercial_support.html
 
 .. image:: images/grass-gis-logo-48x48.png

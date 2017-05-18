@@ -30,7 +30,7 @@ In questo modo sarete certi della sua fruibilità e facilità di manutenzione an
 
 Faunalia ha sviluppato direttamente, già da molti anni, funzioni per tutti i software sopra elencati e fra i nostri collaboratori annoveriamo molti dei più importanti sviluppatori di questi progetti.
 
-.. image :: images/qgis-logo-48x48.png
+.. image :: images/qgis-logo.png
    :target: QGIS_
 
 .. image :: images/grass-gis-logo-48x48.png
