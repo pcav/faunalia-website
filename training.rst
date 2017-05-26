@@ -236,7 +236,6 @@ Calendario
 ======================================== ==================== ============== ===========
 Corso                                    Date e durata        Dove           Lingua
 ======================================== ==================== ============== ===========
-WebMapping con QGIS (IT)                 25-26 Maggio 2017    Pontedera, IT  Italiano
 Cartografia con QGIS (IT)                Settembre 2017       Pontedera, IT  Italiano
 Analisi con QGIS (IT)                    Ottobre 2017         Pontedera, IT  Italiano
 Geodatabase: PostgreSQL e PostGIS (IT)   Novembre 2017        Pontedera, IT  Italiano
@@ -248,7 +247,7 @@ Le date sono soggette a cambiamento per esigenze logistiche.
 Costi
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-* Corsi di *Cartografia QGIS, Analisi QGIS, Geodatabase PostGIS* (3 giorni): 350 € per i privati, 330 € + IVA per aziende/partite IVA (meno ritenuta d'acconto, da versare 336,82 €), 360 € IVA esclusa per enti pubblici (meno ritenuta d'acconto, da versare 288,24 €). Corso di *WebMapping* (2 giorni): 290 € per i privati, 270 € + IVA per aziende/partite IVA (meno ritenuta d'acconto, da versare 275,58 €), 295 € IVA esclusa per enti pubblici (meno ritenuta d'acconto, da versare 236,19 €). Corso Python-QGIS a richiesta.
+* Tutti i corsi standard (3 giorni), eccetto Python-QGIS: 350 € per i privati, 330 € + IVA per aziende/partite IVA (meno ritenuta d'acconto, da versare 336,82 €), 360 € IVA esclusa per enti pubblici (meno ritenuta d'acconto, da versare 288,24 €). Corso Python-QGIS solo a richiesta.
 * **Sconti**: 5% per l'iscrizione simultanea a più corsi
 
 Iscrizione
@@ -448,7 +447,7 @@ Argomenti principali
 Durata 
 ...................................................................................................
 
-Due giorni *full time*
+Tre giorni *full time*
 
 Creare plugin in Python per QGIS
 ===================================================
