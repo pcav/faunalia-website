@@ -256,7 +256,7 @@ margin:20px 30px 30px 0;
 
 {% if theme_navbar_fixed_top == 'true' %}
 body {
-	background:#fee653;
+	background:#ffffff;
 {% if theme_bootswatch_theme %}
   padding-top: 50px;
 {% else %}
