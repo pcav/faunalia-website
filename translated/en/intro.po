@@ -192,7 +192,7 @@ msgid ""
 "strumenti, fra cui QGIS, GRASS, PostGIS, GDAL/OGR."
 msgstr ""
 "Faunalia contributes directly to the development of the programs it uses and "
-"offer. Over the years, we have contributed to sveral projects, among which "
+"offers. Over the years, we have contributed to sveral projects, among which "
 "QGIS, GRASS, PostGIS, GDAL/OGR."
 
 # 49bc3928cb4d4ba89abae2723e193b1f
