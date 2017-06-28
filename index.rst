@@ -82,6 +82,11 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Parnership con Expédition MED
+++++++++++++++++++++++++++++++++++
+
+* Nel quadro del nostro impegno di lungo termine per la conservazione della biodiversità e per la tutela ambientale, Faunalia sostiene la campagna 2017 di `Expédition MED <http://it.expeditionmed.eu/fr/>`_, che percorre il Mediterraneo centrale raccogliendo campioni di microplastiche, per stimare l'impatto che queste hanno sull'ecosistema marino. Faunalia dà consulenza GIS al progetto, e aiuta a diffondere i risultati con la creazione di un `WebGIS dedicato <https://lizmap.faunalia.eu/index.php/view/map/?repository=faunalia&project=tosca0>`_. Guarda un `video della campagna <https://www.youtube.com/watch?v=qF-grPtvtmw>`_ e una `presentazione del progetto <https://www.youtube.com/watch?v=rAq3DU0V57s>`_ (in francese).
+
 QGIS e Faunalia al FOSS4G-IT 2017
 ++++++++++++++++++++++++++++++++++
 
