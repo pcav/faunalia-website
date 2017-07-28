@@ -236,7 +236,7 @@ Calendario
 ======================================== ==================== ============== ===========
 Corso                                    Date e durata        Dove           Lingua
 ======================================== ==================== ============== ===========
-Cartografia con QGIS (IT)                Settembre 2017       Pontedera, IT  Italiano
+Cartografia con QGIS (IT)                20-22 Settembre 2017 Pontedera, IT  Italiano
 Analisi con QGIS (IT)                    Ottobre 2017         Pontedera, IT  Italiano
 Geodatabase: PostgreSQL e PostGIS (IT)   Novembre 2017        Pontedera, IT  Italiano
 WebMapping con QGIS (IT)                 Dicembre 2017        Pontedera, IT  Italiano
