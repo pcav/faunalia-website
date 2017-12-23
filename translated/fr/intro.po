@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-23 17:49+0100\n"
+"POT-Creation-Date: 2017-12-23 17:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -424,7 +424,7 @@ msgstr "Fondateur de Faunalia "
 #: ../../intro.rst:97
 msgid ""
 "Ha lavorato come borsista presso la Scuola Superiore Sant'Anna nel progetto "
-"`<H2020 Freewat http://www.freewat.eu/>`_ come co-autore dell'omonimo plugin"
+"`H2020 Freewat <http://www.freewat.eu/>`_ come co-autore dell'omonimo plugin"
 msgstr ""
 
 #: ../../intro.rst:98
@@ -434,7 +434,7 @@ msgid ""
 msgstr ""
 
 #: ../../intro.rst:99
-msgid "Autore del plugin `<DataPlotly https://github.com/ghtmtt/DataPlotly>`_"
+msgid "Autore del plugin `DataPlotly <https://github.com/ghtmtt/DataPlotly>`_"
 msgstr ""
 
 #: ../../intro.rst:100
