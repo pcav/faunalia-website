@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-28 12:12+0200\n"
+"POT-Creation-Date: 2017-12-23 17:41+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -185,7 +185,7 @@ msgid "*e-mail*: cavallini@faunalia.it - *PEC*: paolo.cavallini@pec.it"
 msgstr ""
 
 #: ../../intro.rst:85
-msgid "*Tel/Viber/Line*: +39-348-3801953"
+msgid "*Tel/WhatsApp/Signal/Telegram/Line*: +39-348-3801953"
 msgstr ""
 
 #: ../../intro.rst:86
@@ -197,42 +197,78 @@ msgid "*Hangout*: paolo.cavallini"
 msgstr ""
 
 #: ../../intro.rst:90
-msgid "Renzo Cavallini"
+msgid "Matteo Ghetta"
 msgstr ""
 
 #: ../../intro.rst:95
-msgid "Geologo, specializzato in geofisica"
+msgid "Scienziato ambientale con specializzazione in dati geografici"
 msgstr ""
 
 #: ../../intro.rst:96
-msgid "Ha collaborato a livello scientifico e didattico con l'Università di Pisa"
+msgid "Socio Fondatore di QGIS Italia"
 msgstr ""
 
 #: ../../intro.rst:97
-msgid "Ha pubblicato nel settore geofisico"
+msgid "Ha lavorato come borsista presso la Scuola Superiore Sant'Anna nel progetto <H2020 Freewat http://www.freewat.eu/>_ come co-autore dell'omonimo plugin"
 msgstr ""
 
 #: ../../intro.rst:98
-msgid "Conduce attività di prospezione geotecnica, in laboratorio ed *in situ*"
+msgid "Collabora in modo attivo con gli sviluppatore di QGIS sia scrivendo codice che documentazione"
+msgstr ""
+
+#: ../../intro.rst:99
+msgid "Autore del plugin <DataPlotly https://github.com/ghtmtt/DataPlotly>_"
 msgstr ""
 
 #: ../../intro.rst:100
-msgid "esecuzione ed elaborazione di prove di laboratorio su terreni naturali: consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), compressione semplice, analisi granulometrica, limiti di consistenza (LL, LP, LR), peso specifico dei granuli, permeabilità in cella edometrica, triassiale e in permeametro (norme seguite: racc. AGI, CNR, ASTM)"
-msgstr ""
-
-#: ../../intro.rst:101
-msgid "esecuzione ed elaborazione di prove di laboratorio su materiali stradali e da costruzione: compattazione Proctor Standard e modificata, penetrazione CBR, miscelazione delle terre con calce (norme seguite: EN, CNR, ASTM)"
+msgid "Revisore della traduzione italiana di QGIS"
 msgstr ""
 
 #: ../../intro.rst:102
-msgid "esecuzione ed elaborazione di prove in situ: penetrometriche statiche con punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o senza rivestimento, PLT, densità in situ"
+msgid "*email* matteo.ghetta@faunalia.eu"
 msgstr ""
 
 #: ../../intro.rst:103
+msgid "*Tel/WhatsApp/Signal/Telegram*: +39-348-9523719"
+msgstr ""
+
+#: ../../intro.rst:106
+msgid "Renzo Cavallini"
+msgstr ""
+
+#: ../../intro.rst:111
+msgid "Geologo, specializzato in geofisica"
+msgstr ""
+
+#: ../../intro.rst:112
+msgid "Ha collaborato a livello scientifico e didattico con l'Università di Pisa"
+msgstr ""
+
+#: ../../intro.rst:113
+msgid "Ha pubblicato nel settore geofisico"
+msgstr ""
+
+#: ../../intro.rst:114
+msgid "Conduce attività di prospezione geotecnica, in laboratorio ed *in situ*"
+msgstr ""
+
+#: ../../intro.rst:116
+msgid "esecuzione ed elaborazione di prove di laboratorio su terreni naturali: consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), compressione semplice, analisi granulometrica, limiti di consistenza (LL, LP, LR), peso specifico dei granuli, permeabilità in cella edometrica, triassiale e in permeametro (norme seguite: racc. AGI, CNR, ASTM)"
+msgstr ""
+
+#: ../../intro.rst:117
+msgid "esecuzione ed elaborazione di prove di laboratorio su materiali stradali e da costruzione: compattazione Proctor Standard e modificata, penetrazione CBR, miscelazione delle terre con calce (norme seguite: EN, CNR, ASTM)"
+msgstr ""
+
+#: ../../intro.rst:118
+msgid "esecuzione ed elaborazione di prove in situ: penetrometriche statiche con punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o senza rivestimento, PLT, densità in situ"
+msgstr ""
+
+#: ../../intro.rst:119
 msgid "installazione e messa a punto di apparecchiature di laboratorio e di sistemi di acquisizione automatica; calibrazione di trasduttori elettrici"
 msgstr ""
 
-#: ../../intro.rst:105
+#: ../../intro.rst:121
 msgid "*e-mail*: renzo.cavallini@faunalia.it"
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-28 12:12+0200\n"
+"POT-Creation-Date: 2017-12-23 17:41+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -176,9 +176,8 @@ msgstr "Services"
 # b8a0e5217dba40d69e56e9e492c4103b
 #: ../../intro.rst:39
 msgid ""
-"La nostra offerta di servizi è riassumibile in tre aree principali\\: "
-":doc:`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione "
-"<training>`."
+"La nostra offerta di servizi è riassumibile in tre aree principali\\: :doc:"
+"`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione <training>`."
 msgstr ""
 "Our commercial offer focuses on three main areas\\: :doc:`development "
 "<dev>`, :doc:`assistance <support>` and :doc:`training <training>`."
@@ -240,43 +239,43 @@ msgstr "`Radim Blazek <https://github.com/blazek>`_"
 
 #: ../../intro.rst:54
 msgid ""
-"`Nyall Dawson <https://github.com/nyalldawson>`_ / `North Road "
-"<https://north-road.com/>`_"
+"`Nyall Dawson <https://github.com/nyalldawson>`_ / `North Road <https://"
+"north-road.com/>`_"
 msgstr ""
-"`Nyall Dawson <https://github.com/nyalldawson>`_ / `North Road "
-"<https://north-road.com/>`_"
+"`Nyall Dawson <https://github.com/nyalldawson>`_ / `North Road <https://"
+"north-road.com/>`_"
 
 #: ../../intro.rst:55
 msgid ""
-"`René-Luc D'Hont <https://github.com/rldhont>`_ / `3Liz "
-"<https://www.3liz.com/>`_"
+"`René-Luc D'Hont <https://github.com/rldhont>`_ / `3Liz <https://www.3liz."
+"com/>`_"
 msgstr ""
-"`René-Luc D'Hont <https://github.com/rldhont>`_ / `3Liz "
-"<https://www.3liz.com/>`_"
+"`René-Luc D'Hont <https://github.com/rldhont>`_ / `3Liz <https://www.3liz."
+"com/>`_"
 
 #: ../../intro.rst:56
 msgid ""
-"`Michael Douchin <https://github.com/mdouchin>`_ / `3Liz "
-"<https://www.3liz.com/>`_"
+"`Michael Douchin <https://github.com/mdouchin>`_ / `3Liz <https://www.3liz."
+"com/>`_"
 msgstr ""
-"`Michael Douchin <https://github.com/mdouchin>`_ / `3Liz "
-"<https://www.3liz.com/>`_"
+"`Michael Douchin <https://github.com/mdouchin>`_ / `3Liz <https://www.3liz."
+"com/>`_"
 
 #: ../../intro.rst:57
 msgid ""
-"`Jürgen E. Fischer/Norbit <https://github.com/jef-n>`_ / `norBIT "
-"<http://norbit.de/>`_"
+"`Jürgen E. Fischer/Norbit <https://github.com/jef-n>`_ / `norBIT <http://"
+"norbit.de/>`_"
 msgstr ""
-"`Jürgen E. Fischer/Norbit <https://github.com/jef-n>`_ / `norBIT "
-"<http://norbit.de/>`_"
+"`Jürgen E. Fischer/Norbit <https://github.com/jef-n>`_ / `norBIT <http://"
+"norbit.de/>`_"
 
 #: ../../intro.rst:58
 msgid ""
-"`Even Rouault <https://github.com/rouault>`_ / `Spatialys "
-"<http://www.spatialys.com>`_"
+"`Even Rouault <https://github.com/rouault>`_ / `Spatialys <http://www."
+"spatialys.com>`_"
 msgstr ""
-"`Even Rouault <https://github.com/rouault>`_ / `Spatialys "
-"<http://www.spatialys.com>`_"
+"`Even Rouault <https://github.com/rouault>`_ / `Spatialys <http://www."
+"spatialys.com>`_"
 
 #: ../../intro.rst:59
 msgid "`Sandro Santilli <http://strk.kbt.io/>`_"
@@ -316,14 +315,14 @@ msgid ""
 "Socio e *charter member* della fondazione internazionale `OSGeo - Open "
 "Source Geospatial Foundation <http://www.osgeo.org/>`_"
 msgstr ""
-"*Charter member* of `OSGeo - Open Source Geospatial Foundation "
-"<http://www.osgeo.org/>`_"
+"*Charter member* of `OSGeo - Open Source Geospatial Foundation <http://www."
+"osgeo.org/>`_"
 
 # fdd0adf5373648759b7d691e40e92d7e
 #: ../../intro.rst:71
 msgid ""
-"Socio fondatore di `ITPUG - ITalian PostgreSQL User Group "
-"<http://www.itpug.org>`_"
+"Socio fondatore di `ITPUG - ITalian PostgreSQL User Group <http://www.itpug."
+"org>`_"
 msgstr ""
 "Co-founder of `ITPUG - ITalian PostgreSQL User Group <http://www.itpug.org>`_"
 
@@ -357,18 +356,18 @@ msgstr "`Curriculum Vitae (html) <cv_pc_en.html>`__"
 # 70801919d32d45a49f60c7c3c9ff8b2e
 #: ../../intro.rst:76
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) "
-"<pdf/Cavallini_CV_eu.pdf>`__"
+"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) <pdf/"
+"Cavallini_CV_eu.pdf>`__"
 msgstr "`Curriculum Vitae (pdf) <pdf/Cavallini_CV_en.pdf>`__"
 
 # 556122cf766c45969fe434d2a09b2cfd
 #: ../../intro.rst:77
 msgid ""
-"`Alcune mie conferenze "
-"<https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-AC4ktZQ/>`_"
+"`Alcune mie conferenze <https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-"
+"AC4ktZQ/>`_"
 msgstr ""
-"`Some of my talks "
-"<https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-AC4ktZQ/>`_"
+"`Some of my talks <https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-AC4ktZQ/"
+">`_"
 
 #: ../../intro.rst:78
 msgid "`My recent contributions to free software <https://github.com/pcav>`_"
@@ -381,7 +380,8 @@ msgstr "*e-mail*: cavallini@faunalia.it"
 
 # 2796ab88a4474c5fa01132a029cc64b8
 #: ../../intro.rst:85
-msgid "*Tel/Viber/Line*: +39-348-3801953"
+#, fuzzy
+msgid "*Tel/WhatsApp/Signal/Telegram/Line*: +39-348-3801953"
 msgstr "*Tel/Viber/Line*: +39-348-3801953"
 
 # ede2f46ba5724b5dbac2da31e1010a23
@@ -394,18 +394,64 @@ msgstr "*Skype*: paolo.gg.cavallini"
 msgid "*Hangout*: paolo.cavallini"
 msgstr "*Hangout*: paolo.cavallini"
 
-# 7fbaf8236c9e46d590fb8cc752c2198a
 #: ../../intro.rst:90
+msgid "Matteo Ghetta"
+msgstr ""
+
+#: ../../intro.rst:95
+msgid "Scienziato ambientale con specializzazione in dati geografici"
+msgstr ""
+
+# 320753b22aa74b1cbff528c8d0f27a23
+#: ../../intro.rst:96
+#, fuzzy
+msgid "Socio Fondatore di QGIS Italia"
+msgstr "Founder of Faunalia"
+
+#: ../../intro.rst:97
+msgid ""
+"Ha lavorato come borsista presso la Scuola Superiore Sant'Anna nel progetto "
+"<H2020 Freewat http://www.freewat.eu/>_ come co-autore dell'omonimo plugin"
+msgstr ""
+
+#: ../../intro.rst:98
+msgid ""
+"Collabora in modo attivo con gli sviluppatore di QGIS sia scrivendo codice "
+"che documentazione"
+msgstr ""
+
+#: ../../intro.rst:99
+msgid "Autore del plugin <DataPlotly https://github.com/ghtmtt/DataPlotly>_"
+msgstr ""
+
+#: ../../intro.rst:100
+msgid "Revisore della traduzione italiana di QGIS"
+msgstr ""
+
+# 12db5196f90647d8b593e6b4c685d9d4
+#: ../../intro.rst:102
+#, fuzzy
+msgid "*email* matteo.ghetta@faunalia.eu"
+msgstr "*e-mail*: vania.neves@faunalia.pt"
+
+# 2796ab88a4474c5fa01132a029cc64b8
+#: ../../intro.rst:103
+#, fuzzy
+msgid "*Tel/WhatsApp/Signal/Telegram*: +39-348-9523719"
+msgstr "*Tel/Viber/Line*: +39-348-3801953"
+
+# 7fbaf8236c9e46d590fb8cc752c2198a
+#: ../../intro.rst:106
 msgid "Renzo Cavallini"
 msgstr "Renzo Cavallini"
 
 # a01dda5df8d644749a4e0295093fe1e0
-#: ../../intro.rst:95
+#: ../../intro.rst:111
 msgid "Geologo, specializzato in geofisica"
 msgstr "Geologist, specialised in geophysics"
 
 # 82cd43493dd24a64a12263b97becaa4a
-#: ../../intro.rst:96
+#: ../../intro.rst:112
 msgid ""
 "Ha collaborato a livello scientifico e didattico con l'Università di Pisa"
 msgstr ""
@@ -413,17 +459,17 @@ msgstr ""
 "teaching"
 
 # 03cf91c1fa8a4b42aaf5e7a990980471
-#: ../../intro.rst:97
+#: ../../intro.rst:113
 msgid "Ha pubblicato nel settore geofisico"
 msgstr "He has published scientific papers on geophysics"
 
 # 1200ea1bce804534904223f3b14800ea
-#: ../../intro.rst:98
+#: ../../intro.rst:114
 msgid "Conduce attività di prospezione geotecnica, in laboratorio ed *in situ*"
 msgstr "Leads geotechnical explorations, in the laboratory and *in situ*"
 
 # 7a363e92386745399f180ff13897da58
-#: ../../intro.rst:100
+#: ../../intro.rst:116
 msgid ""
 "esecuzione ed elaborazione di prove di laboratorio su terreni naturali: "
 "consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), "
@@ -438,7 +484,7 @@ msgstr ""
 "(rules followed: Coll. AGI, CNR, ASTM)"
 
 # 78a0702041e84c08aa141038a65d979f
-#: ../../intro.rst:101
+#: ../../intro.rst:117
 msgid ""
 "esecuzione ed elaborazione di prove di laboratorio su materiali stradali e "
 "da costruzione: compattazione Proctor Standard e modificata, penetrazione "
@@ -449,7 +495,7 @@ msgstr ""
 "of land with lime (follow standards: EN, CNR, ASTM)"
 
 # e42944834a8a4a808fe3288ea5d1bc04
-#: ../../intro.rst:102
+#: ../../intro.rst:118
 msgid ""
 "esecuzione ed elaborazione di prove in situ: penetrometriche statiche con "
 "punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o "
@@ -460,7 +506,7 @@ msgstr ""
 "without coating, PLT, in situ density"
 
 # 80067180141f4a7982ea07c0fe694e59
-#: ../../intro.rst:103
+#: ../../intro.rst:119
 msgid ""
 "installazione e messa a punto di apparecchiature di laboratorio e di sistemi "
 "di acquisizione automatica; calibrazione di trasduttori elettrici"
@@ -469,7 +515,7 @@ msgstr ""
 "acquiring; calibration of electrical transducers"
 
 # a9ce1c992be34c53bd43f385da4f4bab
-#: ../../intro.rst:105
+#: ../../intro.rst:121
 msgid "*e-mail*: renzo.cavallini@faunalia.it"
 msgstr "*e-mail*: renzo.cavallini@faunalia.it"
 
@@ -487,11 +533,11 @@ msgstr "*e-mail*: renzo.cavallini@faunalia.it"
 
 # 92e5e56111ae4a58af219d06bb84952b
 #~ msgid ""
-#~ "Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and "
-#~ "Open-Source Software Association <http://osgeopt.pt/>`_"
+#~ "Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and Open-"
+#~ "Source Software Association <http://osgeopt.pt/>`_"
 #~ msgstr ""
-#~ "Co-founder of `OSGeo Portugal - Portuguese Geographic Free and "
-#~ "Open-Source Software Association <http://osgeopt.pt/>`_"
+#~ "Co-founder of `OSGeo Portugal - Portuguese Geographic Free and Open-"
+#~ "Source Software Association <http://osgeopt.pt/>`_"
 
 # 162c6121a6004904abfddd9243d4e8df
 #~ msgid ""
@@ -512,8 +558,8 @@ msgstr "*e-mail*: renzo.cavallini@faunalia.it"
 
 # fb9167a7fa5b4395a8d03095f9ae74cd
 #~ msgid ""
-#~ "`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`__ - `europeo (pdf) "
-#~ "<pdf/Manghi_CV_eu.pdf>`__"
+#~ "`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`__ - `europeo (pdf) <pdf/"
+#~ "Manghi_CV_eu.pdf>`__"
 #~ msgstr "`Curriculum Vitae (pdf) <pdf/Manghi_CV_en.pdf>`__"
 
 # 3472687752ef4624a6d1046f9ab20882
@@ -546,11 +592,11 @@ msgstr "*e-mail*: renzo.cavallini@faunalia.it"
 
 # 92e5e56111ae4a58af219d06bb84952b
 #~ msgid ""
-#~ "Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and "
-#~ "Open-Source Software Association <http://osgeopt.pt/>`_"
+#~ "Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and Open-"
+#~ "Source Software Association <http://osgeopt.pt/>`_"
 #~ msgstr ""
-#~ "Co-founder of `OSGeo Portugal - Portuguese Geographic Free and "
-#~ "Open-Source Software Association <http://osgeopt.pt/>`_"
+#~ "Co-founder of `OSGeo Portugal - Portuguese Geographic Free and Open-"
+#~ "Source Software Association <http://osgeopt.pt/>`_"
 
 # f2e2c08f2fe54447b9ddb4ca52b3af41
 #~ msgid "`Curriculum Vitae (html) <cv_vn_it.html>`__"
@@ -558,13 +604,9 @@ msgstr "*e-mail*: renzo.cavallini@faunalia.it"
 
 # 8630faa3be4b4cda952d6b505825b794
 #~ msgid ""
-#~ "`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`__ - `europeo (pdf) "
-#~ "<pdf/Neves_CV_eu.pdf>`__"
+#~ "`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`__ - `europeo (pdf) <pdf/"
+#~ "Neves_CV_eu.pdf>`__"
 #~ msgstr "`Curriculum Vitae (pdf) <pdf/Neves_CV_en.pdf>`__"
-
-# 12db5196f90647d8b593e6b4c685d9d4
-#~ msgid "*e-mail*: vania.neves@faunalia.pt"
-#~ msgstr "*e-mail*: vania.neves@faunalia.pt"
 
 # a5ec7d08d5c3410284e5988b9eb304f4
 #~ msgid "*Tel/Viber/Line*: +351939320104"
