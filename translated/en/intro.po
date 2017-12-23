@@ -413,9 +413,9 @@ msgid ""
 "<http://www.santannapisa.it/it>`_ nel progetto `H2020 Freewat "
 "<http://www.freewat.eu/>`_ come co-autore dell'omonimo plugin"
 msgstr ""
-"He has worked as researcher at the Scuola Superiore Sant'Anna, Pisa, Italy, "
-"in the `H2020 Freewat <http://www.freewat.eu/>`_ project as co-author of the "
-"plugin"
+"He has worked as researcher at the `Scuola Superiore Sant'Anna "
+"<http://www.santannapisa.it/it>`_, Pisa, Italy, in the `H2020 Freewat "
+"<http://www.freewat.eu/>`_ project as co-author of the plugin"
 
 #: ../../intro.rst:98
 msgid ""
