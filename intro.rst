@@ -82,7 +82,7 @@ Paolo Cavallini
 	<a href="https://www.ohloh.net/accounts/20905?ref=Tiny"><img src="https://www.ohloh.net/accounts/20905/widgets/account_tiny.gif" border="0" alt="Ohloh" /></a>
 
 * *e-mail*: cavallini@faunalia.it - *PEC*: paolo.cavallini@pec.it
-* *Tel/Viber/Line*: +39-348-3801953
+* *Tel/WhatsApp/Signal/Telegram/Line*: +39-348-3801953
 * *Skype*: paolo.gg.cavallini
 * *Hangout*: paolo.cavallini
 
@@ -99,10 +99,8 @@ Matteo Ghetta
 * Autore del plugin <DataPlotly https://github.com/ghtmtt/DataPlotly>_
 * Revisore della traduzione italiana di QGIS
 
-* *Tel*: +39-348-9523719
 * *email* matteo.ghetta@faunalia.eu
-	
-
+* *Tel/WhatsApp/Signal/Telegram*: +39-348-9523719
 
 Renzo Cavallini
 ...............................................................................
