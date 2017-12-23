@@ -177,11 +177,11 @@ msgstr "Actualités"
 
 #: ../../index.rst:86
 msgid "DataPlotly plugin per la creazione di grafici stile D3js"
-msgstr ""
+msgstr "Beautiful D3js plots in QGIS 3 with DataPlotly plugin"
 
 #: ../../index.rst:94
 msgid "Raggiunti 1500 download!"
-msgstr ""
+msgstr "1500 download reached!"
 
 #: ../../index.rst:89
 msgid ""
@@ -195,6 +195,14 @@ msgid ""
 "francese. Guarda il repository ufficiale con molti esempi `DataPlotly "
 "<https://github.com/ghtmtt/DataPlotly>`_"
 msgstr ""
+"DataPlotly plugin allows to create D3js like interactive plots in QGIS 3. "
+"Many different plots are available and DataPlotly allows to overlap them or "
+"separate all plots in different rows and columns. When clicking on a plot "
+"element, the linked geometries will be highlighted in the map canvas. Many "
+"customization are available: plot colors, statistics and much much more. The "
+"plugin comes with a complete user manual and currently is available in "
+"English, Italian, Dutch, Swedish and French. Have a look at the repository: "
+"`DataPlotly <https://github.com/ghtmtt/DataPlotly>`_"
 
 #: ../../index.rst:97
 msgid "Parnership con Expédition MED"
