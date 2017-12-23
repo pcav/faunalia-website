@@ -427,7 +427,7 @@ msgstr ""
 
 #: ../../intro.rst:99
 msgid "Autore del plugin `DataPlotly <https://github.com/ghtmtt/DataPlotly>`_"
-msgstr "Author of DataPlotly <https://github.com/ghtmtt/DataPlotly>`_ plugin"
+msgstr "Author of `DataPlotly <https://github.com/ghtmtt/DataPlotly>`_ plugin"
 
 #: ../../intro.rst:100
 msgid "Revisore della traduzione italiana di QGIS"

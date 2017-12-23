@@ -95,7 +95,7 @@ Matteo Ghetta
 * Scienziato ambientale con specializzazione in dati geografici
 * Socio Fondatore di QGIS Italia
 * Ha lavorato come borsista presso la `Scuola Superiore Sant'Anna <http://www.santannapisa.it/it>`_ nel progetto `H2020 Freewat <http://www.freewat.eu/>`_ come co-autore dell'omonimo plugin
-* Collabora in modo attivo con gli sviluppatore di QGIS sia scrivendo codice che documentazione
+* Collabora in modo attivo con gli sviluppatori di QGIS sia scrivendo codice che documentazione
 * Autore del plugin `DataPlotly <https://github.com/ghtmtt/DataPlotly>`_
 * Revisore della traduzione italiana di QGIS
 
