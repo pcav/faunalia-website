@@ -236,10 +236,10 @@ Calendario
 ======================================== ==================== ============== ===========
 Corso                                    Date e durata        Dove           Lingua
 ======================================== ==================== ============== ===========
-Geodatabase: PostgreSQL e PostGIS (IT)   15-17 Gennaio 2018   Pontedera, IT  Italiano
 WebMapping con QGIS (IT)                 07-09 Febbraio 2018  Pontedera, IT  Italiano
 Cartografia con QGIS (IT)                Febbraio 2018        Pontedera, IT  Italiano
 Analisi con QGIS (IT)                    Aprile 2018          Pontedera, IT  Italiano
+Geodatabase: PostgreSQL e PostGIS (IT)   da definire          Pontedera, IT  Italiano
 ======================================== ==================== ============== ===========
 
 Le date sono soggette a cambiamento per esigenze logistiche.
@@ -317,14 +317,14 @@ Argomenti principali
 * Visualizzazione 3D
 * Stampa avanzata, stampa seriale
 
-Durata 
+Durata
 ...................................................................................................
 Tre giorni *full time*
 
 Analisi con QGIS
 ===================================================
 
-Per imparare a realizzare analisi raster e vettoriali, e modellistica spaziale, unendo la potenza di elaborazione GIS di `GRASS <https://grass.osgeo.org/>`_, `SAGA <http://www.saga-gis.org/>`_, `Orfeo ToolBox <https://www.orfeo-toolbox.org/>`_, ecc., con la semplicità d'uso di QGIS. Al termine del corso, l'utente avrà appreso a gestire con facilità l'ambiente di lavoro di QGIS, e ad effettuare analisi anche molto complesse in modo semplice ed intuitivo. 
+Per imparare a realizzare analisi raster e vettoriali, e modellistica spaziale, unendo la potenza di elaborazione GIS di `GRASS <https://grass.osgeo.org/>`_, `SAGA <http://www.saga-gis.org/>`_, `Orfeo ToolBox <https://www.orfeo-toolbox.org/>`_, ecc., con la semplicità d'uso di QGIS. Al termine del corso, l'utente avrà appreso a gestire con facilità l'ambiente di lavoro di QGIS, e ad effettuare analisi anche molto complesse in modo semplice ed intuitivo.
 
 Adatto a chi desidera approfondire l'uso analitico e predittivo dei GIS, avendo già delle nozioni di base.
 
@@ -359,7 +359,7 @@ Argomenti principali
 * Automazione di analisi ricorsive ed in serie tramite interfaccia grafica
 * Script per l'automazione di processo
 
-Durata 
+Durata
 ...................................................................................................
 
 Tre giorni *full time*
@@ -403,7 +403,7 @@ Argomenti principali
 * Cenni sulla topologia
 * Copia e salvataggio
 
-Durata 
+Durata
 ...................................................................................................
 Tre giorni *full time*
 
@@ -444,7 +444,7 @@ Argomenti principali
   * come rendere veloce il tuo WebGIS: criteri di ottimizzazione
   * editing online: WFS-T
 
-Durata 
+Durata
 ...................................................................................................
 
 Tre giorni *full time*
@@ -489,7 +489,7 @@ Argomenti principali
 
   * esempi di codice
 
-Durata 
+Durata
 ...................................................................................................
 
 Tre giorni *full time*
