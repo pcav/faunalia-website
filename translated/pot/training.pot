@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-11 10:56+0100\n"
+"POT-Creation-Date: 2017-12-28 16:05+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -205,11 +205,11 @@ msgid "Lingua"
 msgstr ""
 
 #: ../../training.rst:239
-msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
+msgid "WebMapping con QGIS (IT)"
 msgstr ""
 
 #: ../../training.rst:239
-msgid "15-17 Gennaio 2018"
+msgid "07-09 Febbraio 2018"
 msgstr ""
 
 #: ../../training.rst:239
@@ -227,27 +227,27 @@ msgid "Italiano"
 msgstr ""
 
 #: ../../training.rst:240
-msgid "WebMapping con QGIS (IT)"
-msgstr ""
-
-#: ../../training.rst:240
-msgid "07-09 Febbraio 2018"
-msgstr ""
-
-#: ../../training.rst:241
 msgid "Cartografia con QGIS (IT)"
 msgstr ""
 
-#: ../../training.rst:241
+#: ../../training.rst:240
 msgid "Febbraio 2018"
 msgstr ""
 
-#: ../../training.rst:242
+#: ../../training.rst:241
 msgid "Analisi con QGIS (IT)"
 msgstr ""
 
-#: ../../training.rst:242
+#: ../../training.rst:241
 msgid "Aprile 2018"
+msgstr ""
+
+#: ../../training.rst:242
+msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
+msgstr ""
+
+#: ../../training.rst:242
+msgid "da definire"
 msgstr ""
 
 #: ../../training.rst:245

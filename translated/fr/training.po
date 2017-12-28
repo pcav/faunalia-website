@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-11 10:56+0100\n"
+"POT-Creation-Date: 2017-12-28 16:05+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -694,15 +694,15 @@ msgstr "Lieu"
 msgid "Lingua"
 msgstr "Language"
 
-# 7cabf0be650643f1b85997a1c5b71df0
+# 660512ec03ae4bc59a877c8ec19a3162
 #: ../../training.rst:239
-msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
-msgstr "Geodatabases: PostgreSQL et PostGIS (IT)"
+msgid "WebMapping con QGIS (IT)"
+msgstr "WebMapping avec QGIS (IT)"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
 #: ../../training.rst:239
-msgid "15-17 Gennaio 2018"
-msgstr "15-17 Janvier 2018"
+msgid "07-09 Febbraio 2018"
+msgstr "07-09 Février 2018"
 
 # 768ef41660e8444b834e3d11d5ef4934
 # 69abb73e3dbe4ec59cc72dd9e0314203
@@ -724,37 +724,36 @@ msgstr "Pontedera, IT"
 msgid "Italiano"
 msgstr "Italie"
 
-# 660512ec03ae4bc59a877c8ec19a3162
-#: ../../training.rst:240
-msgid "WebMapping con QGIS (IT)"
-msgstr "WebMapping avec QGIS (IT)"
-
-# b28a9fbcf9964ba28a693bb9feccab9b
-#: ../../training.rst:240
-msgid "07-09 Febbraio 2018"
-msgstr "07-09 Février 2018"
-
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
-#: ../../training.rst:241
+#: ../../training.rst:240
 msgid "Cartografia con QGIS (IT)"
 msgstr "Cartographie avec QGIS (IT)"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
-#: ../../training.rst:241
+#: ../../training.rst:240
 msgid "Febbraio 2018"
 msgstr "Février 2018"
 
 # bd04cff96a1d4414899ef132ad5ba7bf
 # 84a61dcdc830454e9665797c69bd9891
-#: ../../training.rst:242
+#: ../../training.rst:241
 msgid "Analisi con QGIS (IT)"
 msgstr "Analyse avec QGIS (IT)"
 
 # eafdbe68fb894344a151fb2d4142818d
-#: ../../training.rst:242
+#: ../../training.rst:241
 msgid "Aprile 2018"
 msgstr "Avril 2018"
+
+# 7cabf0be650643f1b85997a1c5b71df0
+#: ../../training.rst:242
+msgid "Geodatabase: PostgreSQL e PostGIS (IT)"
+msgstr "Geodatabases: PostgreSQL et PostGIS (IT)"
+
+#: ../../training.rst:242
+msgid "da definire"
+msgstr "à décider"
 
 #: ../../training.rst:245
 msgid "Le date sono soggette a cambiamento per esigenze logistiche."
@@ -1665,6 +1664,10 @@ msgstr "Utilisons PyQGIS"
 #: ../../training.rst:490
 msgid "esempi di codice"
 msgstr "exemples de code"
+
+# b28a9fbcf9964ba28a693bb9feccab9b
+#~ msgid "15-17 Gennaio 2018"
+#~ msgstr "15-17 Janvier 2018"
 
 # 5264f422ac9d4034a6d68c5b38458a39
 #~ msgid "20-22 Settembre 2017"
