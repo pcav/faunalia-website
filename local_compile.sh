@@ -10,6 +10,7 @@ touch *.rst
 make gettext
 make compile_messages
 make merge_messages
+
 read -p "Do you wish to check the links? [y/n]" choice_link
 case "$choice_link" in 
   y|Y ) echo "Checking links";make linkcheck;;
