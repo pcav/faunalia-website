@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-23 18:10+0100\n"
+"POT-Creation-Date: 2017-12-23 18:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -213,7 +213,7 @@ msgid "Ha lavorato come borsista presso la `Scuola Superiore Sant'Anna <http://w
 msgstr ""
 
 #: ../../intro.rst:98
-msgid "Collabora in modo attivo con gli sviluppatore di QGIS sia scrivendo codice che documentazione"
+msgid "Collabora in modo attivo con gli sviluppatori di QGIS sia scrivendo codice che documentazione"
 msgstr ""
 
 #: ../../intro.rst:99
