@@ -6,9 +6,12 @@ case "$choice1" in
   * ) echo "Skipping compilation of CVs";;
 esac
 
-touch *.rst
-make gettext
-make compile_messages
+echo ""
+echo "**BEWARE: experimentally removed some translation commands,**"
+echo "**complete translation not guaranteed. Please check!**"
+#touch *.rst
+#make gettext
+#make compile_messages
 make merge_messages
 read -p "Do you wish to check the links? [y/n]" choice_link
 case "$choice_link" in 
