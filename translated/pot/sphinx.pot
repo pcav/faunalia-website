@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-04-27 14:56+0200\n"
+"POT-Creation-Date: 2017-12-30 12:05+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,31 +36,35 @@ msgstr ""
 msgid "Chi siamo"
 msgstr ""
 
-#: ../../_templates/layout.html:74
+#: ../../_templates/layout.html:35
+msgid "DataPlotly"
+msgstr ""
+
+#: ../../_templates/layout.html:75
 msgid "Italia"
 msgstr ""
 
-#: ../../_templates/layout.html:84
+#: ../../_templates/layout.html:85
 msgid "Seguici"
 msgstr ""
 
-#: ../../_templates/layout.html:101
+#: ../../_templates/layout.html:102
 msgid "&copy; <a href=\"%(path)s\">Copyright</a> %(copyright)s."
 msgstr ""
 
-#: ../../_templates/layout.html:103
+#: ../../_templates/layout.html:104
 msgid "&copy; Copyright %(copyright)s."
 msgstr ""
 
-#: ../../_templates/layout.html:107
+#: ../../_templates/layout.html:108
 msgid "Last updated on %(last_updated)s."
 msgstr ""
 
-#: ../../_templates/layout.html:110
+#: ../../_templates/layout.html:111
 msgid "Created using <a href=\"http://sphinx-doc.org/\">Sphinx</a> %(sphinx_version)s."
 msgstr ""
 
-#: ../../_templates/layout.html:115
+#: ../../_templates/layout.html:116
 msgid "Torna su"
 msgstr ""
 

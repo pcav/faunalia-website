@@ -13,6 +13,7 @@
     Sviluppo <dev>
     Attività <jobs>
     Chi siamo <intro>
+    DataPlotly <dataplotly>
     Error <404>
     Dummy <dummy>
 
@@ -52,7 +53,7 @@ I servizi di Faunalia sono presenti nel `catalogo del Mercato Elettronico della 
 Corsi
 ===========================================================================
 
-Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il tuo GIS? 
+Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il tuo GIS?
 
 :doc:`More info <training>`
 
@@ -85,7 +86,7 @@ News
 DataPlotly plugin per la creazione di grafici stile D3js
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-* Raggiunti 1500 download!  
+* Raggiunti 1500 download!
     Il plugin DataPlotly permette di creare grafici in stile D3js interattivi in QGIS 3. DataPlotly permette di creare molti grafici diversi, di sovrapporli oppure di seprarli in righe e colonne. Cliccando su un elemento del
     grafico si vedranno le geometrie corrispondenti sulla mappa. Ci sono moltissime personalizzazioni disponibili: colori del grafico, statistiche elaborate e molto molto altro ancora.
     Il plugin è completo di manuale d'uso e attualmente è disponibile in inglese, italiano, olandese, svedese e francese. Guarda il repository ufficiale con molti esempi `DataPlotly <https://github.com/ghtmtt/DataPlotly>`_

@@ -11,6 +11,8 @@ I grafici sono completamente interattivi ed *interagiscono* con gli elementi del
 mappa: cliccando o selezionando un elemento del grafico i relativi elementi della
 mappa vengono selezionati.
 
+.. image:: images/dataplotly/dataplotly_general.gif
+
 DataPlotly permette di creare molti tipi di grafici diversi con enorme semplicità:
 ogni tipologia di grafico ha moltissime personalizzazioni disponibili che arricchiscono
 il grafico in molti modi diversi.
@@ -34,7 +36,7 @@ Supporto multilingue
 --------------------
 DataPlotly è stato concepito per poter essere tradotto in altre lingue. Sia l'interfaccia
 utente che il manuale di utilizzo sono disponibili sul portale di traduzione
-`Transifex <>`_ dove è possibile richiedere la propria lingua e tradurre DataPlotly.
+`Transifex <https://www.transifex.com/dataplotly/>`_ dove è possibile richiedere la propria lingua e tradurre DataPlotly.
 
 Attualmente il plugin è disponibilie in:
 
@@ -51,14 +53,35 @@ DataPlotly ha riscosso un grande successo fra gli utenti e gli sviluppatori di
 QGIS. Alla data |today| il plugin è stato conta circa 2000 download e diverse
 citazioni in siti e blog:
 
-https://anitagraser.com/2017/12/06/data-exploration-with-data-plotly-for-qgis3/
-http://millermountain.com/geospatialblog/2017/12/18/qgis-data-plotly/
-https://geosupportsystem.wordpress.com/2017/12/13/diagram-i-qgis-3/
-https://www.youtube.com/watch?v=SxtVAtZ4bjA&feature=youtu.be
+* https://anitagraser.com/2017/12/06/data-exploration-with-data-plotly-for-qgis3/
+* http://millermountain.com/geospatialblog/2017/12/18/qgis-data-plotly/
+* https://geosupportsystem.wordpress.com/2017/12/13/diagram-i-qgis-3/
+* https://www.youtube.com/watch?v=SxtVAtZ4bjA&feature=youtu.be
+
+
+Supporto a DataPlotly
+---------------------
+Sono molte le funzioni non ancora presenti in DataPlotly. Se sei interessato a
+supportare il plugin puoi richiedere l'aggiunta di funzionalità o *adottare* una
+delle seguenti *feature request*:
+
+* bblablabla: 500€
+* pippo: 400€
+* ecc...
 
 
 Trucchi e consigli
 ------------------
 Il plugin supporta nativamente tutte le funzionalità di QGIS (utilizzo di espressioni,
 stesse finestre di dialogo per la scelta dei colori, ecc..). Di seguito qualche
-trucchetto per un'esperienza ancora migliore di DataPlotly.
+trucchetto per sfruttare al meglio DataPlotly.
+
+
+Creare più grafici in righe e colonne diverse
+..............................................
+Oltre a poter sovrapporre grafici sia dello stesso tipo che diversi, DataPlotly
+permette di separare i grafici. Questa opzione è particolarmente utile quando
+le unità di misura sono molto diverse e la sovrapposizione non darebbe un risultato
+visivamente utile.
+
+.. image:: images/dataplotly/dataplotly_rows.gif

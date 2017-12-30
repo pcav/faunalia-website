@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2016, Faunalia
+# This file is distributed under the same license as the Faunalia package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Faunalia \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-30 12:05+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../attestati.rst:1
+msgid "Faunalia vision, services, and team"
+msgstr ""
+
+#: ../../attestati.rst:1
+msgid "Open Source, Free Software, Software libero, Software Livre, Software Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, Paolo Cavallini, Renzo Cavallini"
+msgstr ""
+
+#: ../../attestati.rst:13
+msgid "Attestati corsi"
+msgstr ""
+
+#: ../../attestati.rst:15
+msgid "Puoi scaricarlo all'indirizzo http://faunalia.eu/~paolo/attestati/Tuocognome0.pdf (sostituendo il tuo cognome)."
+msgstr ""
+
+#: ../../attestati.rst:17
+msgid "Ti sarò grato se vorrai compilare il `questionario anonimo di valutazione del corso <http://www.faunalia.eu/it/eval_form.html>`_ ed ancora più se, in caso tu sia contento del corso, diffonderai la notizia dei prossimi corsi presso colleghi ed amici."
+msgstr ""
+
+#: ../../attestati.rst:20
+msgid "Cordiali saluti."
+msgstr ""
+
