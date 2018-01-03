@@ -8,6 +8,10 @@ Faunalia website
   * pip install python-pip
   * pip install sphinx_bootstrap_theme
 
+* to know statistics about missing untranslated strings install
+
+  * aptitude install https://packages.debian.org/stretch/translate-toolkit
+
 * Customized layout can be edited in _templates/layout.html
 * css can be edited in _static/faunalia.css
 * beware: images in css are not copied during ``make``; add them to `dummy.rst`
