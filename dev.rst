@@ -49,3 +49,83 @@ Faunalia ha sviluppato direttamente, già da molti anni, funzioni per tutti i so
 .. _PostGIS: http://postgis.net/
 .. _GRASS: http://grass.osgeo.org/
 .. _MapServer: http://mapserver.org/
+
+
+DataPlotly un plugin per creare grafici interattivi in stile D3
+-------------------------------------------------------------------------------
+`DataPlotly <https://github.com/ghtmtt/DataPlotly>`_ è un plugin per QGIS 3 che
+permette la creazione di grafici interattivi in stile D3.
+
+I grafici sono completamente interattivi ed *interagiscono* con gli elementi della
+mappa: cliccando o selezionando un elemento del grafico i relativi elementi della
+mappa vengono selezionati.
+
+.. image:: images/dataplotly/dataplotly_general.gif
+  :align: center
+
+DataPlotly permette di creare molti tipi di grafici diversi con enorme semplicità:
+ogni tipologia di grafico ha moltissime personalizzazioni disponibili che arricchiscono
+il grafico in molti modi diversi.
+
+Oltre alla possibilità di creare un grafico singolo si possono sovrapporre grafici
+(anche ti tipo diverso) oppure si può decidere di collocare i grafici in una vera
+e propria griglia.
+
+DataPlotly utilizza la libreria JavaScript `Plotly <https://plot.ly/>`_ costantemente sviluppata ed aggiornata. Grazie a diverse API, Plotly è utilizzabile anche con altri linguaggi di programmazione (Python, R, NodeJS, ecc.).
+
+Ogni grafico è accompagnato dal codice html *grezzo* che lo compone: in questo modo
+l'utente può facilmente inserire il grafico in una cornice html.
+
+Inoltre si possono salvare i grafici come immagini statiche (``png``) o come file
+``html``: questi ultimi mantengono l'interattività e sono quindi facilmente interrogabili.
+
+
+Supporto multilingue
+--------------------
+DataPlotly è stato concepito per poter essere tradotto in altre lingue. Sia l'interfaccia
+utente che il manuale di utilizzo sono disponibili sul portale di traduzione
+`Transifex <https://www.transifex.com/dataplotly/>`_ dove è possibile richiedere la propria lingua e tradurre DataPlotly in pochissimo tempo.
+
+Attualmente il plugin è disponibilie in:
+
+* inglese
+* italiano
+* olandese
+* svedese
+* francese
+
+
+Parlano di DataPlotly
+---------------------
+DataPlotly ha riscosso un grande successo fra gli utenti e gli sviluppatori di
+QGIS. Al |today| il plugin è stato scaricato circa 2000 download e conta diverse
+citazioni in siti e blog:
+
+* https://anitagraser.com/2017/12/06/data-exploration-with-data-plotly-for-qgis3/
+* http://millermountain.com/geospatialblog/2017/12/18/qgis-data-plotly/
+* https://geosupportsystem.wordpress.com/2017/12/13/diagram-i-qgis-3/
+* https://www.youtube.com/watch?v=SxtVAtZ4bjA&feature=youtu.be
+
+
+Supporto a DataPlotly
+---------------------
+Sono molte le funzioni non ancora presenti in DataPlotly. Se sei interessato a
+supportare il plugin puoi richiedere l'aggiunta di funzionalità.
+
+
+Trucchi e consigli
+------------------
+Il plugin supporta nativamente tutte le funzionalità di QGIS (utilizzo di espressioni,
+stesse finestre di dialogo per la scelta dei colori, ecc..). Di seguito qualche
+trucchetto per sfruttare al meglio DataPlotly.
+
+
+Creare più grafici in righe e colonne diverse
+..............................................
+Oltre a poter sovrapporre grafici sia dello stesso tipo che diversi, DataPlotly
+permette di separare i grafici. Questa opzione è particolarmente utile quando
+le unità di misura sono molto diverse e la sovrapposizione non darebbe un risultato
+visivamente utile.
+
+.. image:: images/dataplotly/dataplotly_rows.gif
+  :align: center
