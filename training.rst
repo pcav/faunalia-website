@@ -233,14 +233,15 @@ Calendario
 
 .. rst-class:: table
 
-======================================== ==================== ============== ===========
-Corso                                    Date e durata        Dove           Lingua
-======================================== ==================== ============== ===========
-WebMapping con QGIS (IT)                 07-09 Febbraio 2018  Pontedera, IT  Italiano
-Cartografia con QGIS (IT)                Febbraio 2018        Pontedera, IT  Italiano
-Analisi con QGIS (IT)                    Aprile 2018          Pontedera, IT  Italiano
-Geodatabase: PostgreSQL e PostGIS (IT)   da definire          Pontedera, IT  Italiano
-======================================== ==================== ============== ===========
+======================================== ==================== ==============  =================== ========
+Corso                                    Date e durata        Dove            Scadenza iscrizione Lingua
+======================================== ==================== ==============  =================== ========
+WebMapping con QGIS (IT)                 07-09 Febbraio 2018  Pontedera, IT   22 Gennaio 2018     Italiano
+Cartografia con QGIS (IT)                14-16 Febbraio 2018  Pontedera, IT   29 Gennaio 2018     Italiano
+Analisi con QGIS (IT)                    Aprile 2018          Pontedera, IT                       Italiano
+Geodatabase: PostgreSQL e PostGIS (IT)   da definire          Pontedera, IT                       Italiano
+Python e QGIS: pyqgis e plugin           da definire          Pontedera, IT                       Italiano
+======================================== ==================== ==============  =================== ========
 
 Le date sono soggette a cambiamento per esigenze logistiche.
 
@@ -449,10 +450,10 @@ Durata
 
 Tre giorni *full time*
 
-Creare plugin in Python per QGIS
+Python e QGIS: pyqgis e plugin
 ===================================================
 
-Per sviluppare plugins (estensioni) per QGIS, utilizzando il linguaggio di programmazione Python. La finalità principale è fornire i concetti fondamentali e l'esperienza pratica per lo sviluppo di plugins. Dopo una breve introduzione a questo linguaggio, i partecipanti saranno guidati passo a passo nella creazione di un plugin.
+Per capire come potenziare QGIS con il linguaggio di programmazione Python. La finalità principale è quella di fornire gli strumenti e i concetti base per sviluppare script in Python e creare plugins. Dopo una breve introduzione a Python, i partecipanti saranno guidati passo a passo nella creazione di script e di un plugin.
 
 È preferibile, ma non obbligatoria, una conoscenza di base di Phyton. È necessaria una conoscenza di base dei principi di programmazione.
 
@@ -465,13 +466,12 @@ Argomenti principali
   * il mio primo plugin in Python: mostra un messaggio in un riquadro
   * creare interfacce utente con QtDesigner (.ui)
   * secondo plugin: aggiungere un layer all’area di mappa di QGIS
-  * creare un file di risorse (.qrc)
 
 * Le classi principali delle API Qt
 
-  * il modulo QTCore (QObject, QString, QAction, QFile, ...)
-  * il modulo QTGui (QWidget, QDialog, QMessageBox, QFileDialog, ...)
-  * accedere alla API QT tramite Python: PyQT (tipi QT mappati da tipi nativi Python, parametro di uscita)
+  * il modulo QtCore (QObject, QString, QAction, QFile, ...)
+  * il modulo QtGui (QWidget, QDialog, QMessageBox, QFileDialog, ...)
+  * accedere alla API QT tramite Python: PyQt (tipi Qt mappati da tipi nativi Python, parametro di uscita)
 
 * Le principali classi API QGIS e le loro relazioni
 
@@ -483,7 +483,6 @@ Argomenti principali
   * strumenti di mappa e banda elastica: QgsMapTool, QgsMapToolEmitPoint, QgsRubberBand
   * elementi della mappa e snap: QgsMapCanvasItem, QgsVertexMarker, QgsSnapper
   * classi dei sistemi di riferimento: QgsCoordinateReferenceSystem, QgsCoordinateTransform
-  * classi di utilità: QgsDataSourceURI
 
 * Usiamo pyQGIS
 
