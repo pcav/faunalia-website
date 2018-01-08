@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-08 16:29+0100\n"
+"POT-Creation-Date: 2018-01-08 19:13+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -177,7 +177,6 @@ msgid "Faunalia, ancora una volta al primo posto"
 msgstr "Faunalia, once again at the top"
 
 #: ../../index.rst:88
-#, fuzzy
 msgid ""
 "Faunalia è orgogliosa di annunciare che è la **prima azienda italiana** a "
 "poter rilasciare una **certificazione ufficiale**, `riconoscituta "
