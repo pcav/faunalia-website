@@ -237,7 +237,8 @@ Calendario
 Corso                                    Date e durata        Dove            Scadenza iscrizione Lingua
 ======================================== ==================== ==============  =================== ========
 WebMapping con QGIS (IT)                 07-09 Febbraio 2018  Pontedera, IT   22 Gennaio 2018     Italiano
-Cartografia con QGIS (IT)                14-16 Febbraio 2018  Pontedera, IT   29 Gennaio 2018     Italiano
+Cartografia con QGIS (IT)                13-15 Febbraio 2018  Pontedera, IT   29 Gennaio 2018     Italiano
+Corso di aggiornamento a QGIS 3 (IT)     16 Febbraio 2018     Pontedera, IT   02 Febbraio 2018    Italiano
 Analisi con QGIS (IT)                    Aprile 2018          Pontedera, IT                       Italiano
 Geodatabase: PostgreSQL e PostGIS (IT)   da definire          Pontedera, IT                       Italiano
 Python e QGIS: pyqgis e plugin           da definire          Pontedera, IT                       Italiano
@@ -492,3 +493,34 @@ Durata
 ...................................................................................................
 
 Tre giorni *full time*
+
+
+Aggiornamento a QGIS 3
+==================================
+Per imparare a utilizzare tutti i nuovi strumenti della prossima versione di QGIS 3.
+Il corso è rivolto a tutte le persone che intendono imparare le novità della nuova versione di QGIS.
+
+È obbligatoria una buona conoscenza di QGIS in quanto non verranno trattati nuovi argomenti, ma verranno mostrate le nuove funzionalità di QGIS 3.
+
+
+Argomenti principali
+............................
+
+* nuove modalità di aggiunta dei dati
+* nuova interfaccia delle proprietà di vettore e raster
+* nuova interfaccia di digitalizzazione
+* cad tools e creazione figure geometriche
+* 3D
+* nuovo compositore di stampe
+* Task manager e processi in background
+* impressionante miglioramento di Processing
+* multi mappe
+* novità di interrogazione layer
+* integrazione con GeoNode
+* nuovo sistema di etichettatura e storage di informazioni temporanee
+
+
+Durata
+.............
+
+Un giorno *full time*
