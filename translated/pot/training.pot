@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-09 12:49+0100\n"
+"POT-Creation-Date: 2018-01-09 16:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -293,7 +293,7 @@ msgid "Costi"
 msgstr ""
 
 #: ../../training.rst:252
-msgid "Tutti i corsi standard (3 giorni), eccetto Python-QGIS: 350 € per i privati, 330 € + IVA per aziende/partite IVA (meno ritenuta d'acconto, da versare 336,82 €), 360 € IVA esclusa per enti pubblici (meno ritenuta d'acconto, da versare 288,24 €). Corso Python-QGIS solo a richiesta."
+msgid "Tutti i corsi standard (3 giorni), eccetto Python-QGIS e Aggiornamento a QGIS 3: 350 € per i privati, 330 € + IVA per aziende/partite IVA (meno ritenuta d'acconto, da versare 336,82 €), 360 € IVA esclusa per enti pubblici (meno ritenuta d'acconto, da versare 288,24 €). Corso Python-QGIS solo a richiesta. Corso di Aggiornamento a QGIS 3: 120€ per i privati, 120 € + IVA per aziende/partite IVA (meno ritenuta d'acconto, da versare 122,48 €), 130 € IVA esclusa per gli enti pubblici (meno ritenuta d'acconto, da versare 104,09 €)."
 msgstr ""
 
 #: ../../training.rst:253
@@ -904,7 +904,7 @@ msgid "nuovo compositore di stampe"
 msgstr ""
 
 #: ../../training.rst:515
-msgid "Task manager e processi in background"
+msgid "task manager e processi in background"
 msgstr ""
 
 #: ../../training.rst:516
