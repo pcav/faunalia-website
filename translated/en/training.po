@@ -1671,7 +1671,7 @@ msgid ""
 "È obbligatoria una buona conoscenza di QGIS in quanto non verranno trattati "
 "nuovi argomenti, ma verranno mostrate le nuove funzionalità di QGIS 3."
 msgstr ""
-"A ggod knowledge of QGIS is mandatory because there won't be treated new "
+"A good knowledge of QGIS is mandatory because there won't be treated new "
 "arguments, there will be shown the new QGIS functionalities."
 
 #: ../../training.rst:509
