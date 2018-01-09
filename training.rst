@@ -249,7 +249,7 @@ Le date sono soggette a cambiamento per esigenze logistiche.
 Costi
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-* Tutti i corsi standard (3 giorni), eccetto Python-QGIS: 350 € per i privati, 330 € + IVA per aziende/partite IVA (meno ritenuta d'acconto, da versare 336,82 €), 360 € IVA esclusa per enti pubblici (meno ritenuta d'acconto, da versare 288,24 €). Corso Python-QGIS solo a richiesta.
+* Tutti i corsi standard (3 giorni), eccetto Python-QGIS e Aggiornamento a QGIS 3: 350 € per i privati, 330 € + IVA per aziende/partite IVA (meno ritenuta d'acconto, da versare 336,82 €), 360 € IVA esclusa per enti pubblici (meno ritenuta d'acconto, da versare 288,24 €). Corso Python-QGIS solo a richiesta. Corso di Aggiornamento a QGIS 3: 120€ per i privati, 120 € + IVA per aziende/partite IVA (meno ritenuta d'acconto, da versare 122,48 €), 130 € IVA esclusa per gli enti pubblici (meno ritenuta d'acconto, da versare 104,09 €).
 * **Sconti**: 5% per l'iscrizione simultanea a più corsi
 
 Iscrizione
@@ -512,7 +512,7 @@ Argomenti principali
 * cad tools e creazione figure geometriche
 * 3D
 * nuovo compositore di stampe
-* Task manager e processi in background
+* task manager e processi in background
 * impressionante miglioramento di Processing
 * multi mappe
 * novità di interrogazione layer
