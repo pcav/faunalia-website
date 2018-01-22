@@ -251,6 +251,7 @@ Costi
 
 * Tutti i corsi standard (3 giorni), eccetto Python-QGIS e Aggiornamento a QGIS 3: 350 € per i privati, 330 € + IVA per aziende/partite IVA (meno ritenuta d'acconto, da versare 336,82 €), 360 € IVA esclusa per enti pubblici (meno ritenuta d'acconto, da versare 288,24 €). Corso Python-QGIS solo a richiesta. Corso di Aggiornamento a QGIS 3: 120€ per i privati, 120 € + IVA per aziende/partite IVA (meno ritenuta d'acconto, da versare 122,48 €), 130 € IVA esclusa per gli enti pubblici (meno ritenuta d'acconto, da versare 104,09 €).
 * **Sconti**: 5% per l'iscrizione simultanea a più corsi
+* **Certificazione QGIS.ORG**: Faunalia è **l'unica azienda italiana** a poter rilasciare una `certificazione ufficiale riconosciuta dalla fondazione internazionale di QGIS <http://changelog.qgis.org/en/qgis/certifyingorganisation/qgis-faunalia/>`_. Puoi richiedere questa certificazione ad un costo aggiuntivo di 50 €. Questi fondi sono destinati allo sviluppo di QGIS.
 
 Iscrizione
 +++++++++++++++++++++++++++++++++++++++++++++++++++
