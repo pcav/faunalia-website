@@ -159,8 +159,8 @@ Modulo di iscrizione
   <p>La certificazione ha un costo <b>aggiuntivo</b> di 50 €. Questi fondi sono destinati allo sviluppo di QGIS.</p>
   <p>Per maggiori informazioni visiti .....</p>
 	<div class="col-sm-6">
-  Si <input type="radio" name="certificazione_qgis" value=1/>
-  No <input type="radio" name="certificazione_qgis" value=0/>
+  Si <input type="radio" name="certificazione_qgis" value=1>
+  No <input type="radio" name="certificazione_qgis" value=0>
 	</div>
 	</div>
   </div>
