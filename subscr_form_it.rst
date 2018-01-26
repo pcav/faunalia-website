@@ -11,6 +11,7 @@ Modulo di iscrizione
 		$telefono = "";
 		$email = "";
 		$corso = "";
+		$certificazione_qgis = "";
 		$dati_per_fatturazione = "";
 		$note = "";
 
@@ -31,6 +32,7 @@ Modulo di iscrizione
 			$telefono = $_POST["telefono"];
 			$email = $_POST["email"];
 			$corso = $_POST["corso"];
+			$certificazione_qgis = $_POST["certificazione_qgis"];
 			$dati_per_fatturazione = $_POST["dati_per_fatturazione"];
 			$note = $_POST["note"];
 
@@ -60,6 +62,7 @@ Modulo di iscrizione
 							   // "Telefono: " . $telefono  . "\n" .
 							   // "Email: " . $email  . "\n" .
 							   // "Corso: " . $corso  . "\n" .
+							   // "Certificazione: " . $certificazione_qgis  . "\n" .
 							   // "Dati per Fatturazione: " . $dati_per_fatturazione  . "\n" .
 							   // "Note: " . $note  . "\n";
 
@@ -72,6 +75,7 @@ Modulo di iscrizione
 								$telefono .";" .
 								$email .";" .
 								$corso .";" .
+								$certificazione_qgis .";" .
 								$dati_per_fatturazione  .";" .
 								$note;
 
@@ -140,13 +144,26 @@ Modulo di iscrizione
 	<select id="edit-submitted-corso" name="corso" class="form-control">
 		<option value="qgis_cartografia" <?php if ($corso=="qgis_cartografia") echo 'selected="selected"';?> >QGIS cartografia</option>
 		<option value="qgis_analisi" <?php if ($corso=="qgis_analisi") echo 'selected="selected"';?> >QGIS analisi</option>
-				<option value="qgis3_aggiorn" <?php if ($corso=="qgis3_aggiorn") echo 'selected="selected"';?> >Aggiornamento a QGIS 3</option>
+		<option value="qgis3_aggiorn" <?php if ($corso=="qgis3_aggiorn") echo 'selected="selected"';?> >Aggiornamento a QGIS 3</option>
 		<option value="postgis" <?php if ($corso=="postgis") echo 'selected="selected"';?> >Geodatabase</option>
 		<option value="webgis" <?php if ($corso=="webgis") echo 'selected="selected"';?> >WebMapping</option>
 		<option value="pyqgis" <?php if ($corso=="pyqgis") echo 'selected="selected"';?> >Python-QGIS</option>
 	</select>
 	</div>
 	</div>
+
+	<div class="form-group">
+	<label for="edit-certificazione_qgis" class="col-sm-3 control-label">Certificazione QGIS.ORG <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+	<div class="col-sm-9">
+  <p>Faunalia è abilitata al rilascio di certificati ufficiali riconosciuti dalla  <a href="http://changelog.qgis.org/en/qgis/certifyingorganisation/qgis-faunalia/">fondazione internazionale di QGIS</a>.</p>
+  <p>La certificazione ha un costo <b>aggiuntivo</b> di 50 €. Questi fondi sono destinati allo sviluppo di QGIS.</p>
+  <p>Per maggiori informazioni visiti .....</p>
+	<div class="col-sm-6">
+  <input for="edit-certificazione_qgis" type="checkbox" name="si" value="1"/><?php echo htmlspecialchars($certificazione_qgis); ?> Si
+  <input for="certificazione_qgis" type="checkbox" name="no" value="0"/><?php echo htmlspecialchars($certificazione_qgis); ?> No
+	</div>
+	</div>
+  </div>
 
 	<div class="form-group">
 	<label for="edit-submitted-dati-per-fatturazione" class="col-sm-3 control-label">Dati per fatturazione <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
