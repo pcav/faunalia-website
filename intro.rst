@@ -30,7 +30,7 @@ Le attività di Faunalia si basano su valori per noi fondamentali:
 
 * **onestà**: è fondamentale nella relazione con il cliente per il rispetto dei reciproci ruoli e per la costruzione di un rapporto di fiducia e di reciproca soddisfazione
 * **centralità del cliente**: le esigenze del cliente sono il criterio guida delle nostre attività, non soltanto per perseguirne la completa soddisfazione, ma per renderlo pienamente in possesso delle soluzioni sviluppate e del know-how per il suo utilizzo, evitando di instaurare una dipendenza dal fornitore
-* **qualità**: garantiamo standard di qualità alti, anche mediante il nostro continuo aggiornamento teorico e pratico sui GIS e la collaborazione con i migliori sviluppatori nazionali e internazionali. 
+* **qualità**: garantiamo standard di qualità alti, anche mediante il nostro continuo aggiornamento teorico e pratico sui GIS e la collaborazione con i migliori sviluppatori nazionali e internazionali.
 
 Faunalia è inoltre particolarmente impegnata a diminuire il più possibile l'impatto delle proprie attività sull'ambiente, quindi: riduciamo i nostri spostamenti, privilegiando il lavoro da remoto; utilizziamo, in modo accorto, l’energia elettrica proveniente da fonti rinnovabili certificate; adottiamo cicli di utilizzo dell'hardware più lunghi di quelli standard, e favoriamo il riutilizzo delle singole componenti e il trashware.
 
@@ -38,7 +38,7 @@ I servizi
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 La nostra offerta di servizi è riassumibile in tre aree principali\: :doc:`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione <training>`.
 
-Faunalia lavora direttamente allo sviluppo del software che utilizza e offre sul mercato, collaborando con i migliori sviluppatori GIS a livello internazionale. Negli anni, abbiamo contribuito allo sviluppo di vari strumenti, fra cui QGIS, GRASS, PostGIS, GDAL/OGR. 
+Faunalia lavora direttamente allo sviluppo del software che utilizza e offre sul mercato, collaborando con i migliori sviluppatori GIS a livello internazionale. Negli anni, abbiamo contribuito allo sviluppo di vari strumenti, fra cui QGIS, GRASS, PostGIS, GDAL/OGR.
 
 Oltre allo sviluppo software, offriamo, a costi competitivi, attività di intervento rapido e di assistenza continuativa su tutte le problematiche relative ai GIS.
 
@@ -81,7 +81,7 @@ Paolo Cavallini
 
 	<a href="https://www.ohloh.net/accounts/20905?ref=Tiny"><img src="https://www.ohloh.net/accounts/20905/widgets/account_tiny.gif" border="0" alt="Ohloh" /></a>
 
-* *e-mail*: cavallini@faunalia.it - *PEC*: paolo.cavallini@pec.it
+* *e-mail*: info@faunalia.eu - *PEC*: paolo.cavallini@pec.it
 * *Tel/WhatsApp/Signal/Telegram/Line*: +39-348-3801953
 * *Skype*: paolo.gg.cavallini
 * *Hangout*: paolo.cavallini
