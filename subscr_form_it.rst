@@ -67,7 +67,7 @@ Modulo di iscrizione
 							   // "Note: " . $note  . "\n";
 
 					// with header csv message
-					$header = "Timestamp;Nome;Cognome;Indirizzo;Telefono;Email;Corso;Dati per Fatturazione;Note";
+					$header = "Timestamp;Nome;Cognome;Indirizzo;Telefono;Email;Corso;Certificazione;Dati per Fatturazione;Note";
 					$message =  date("c") .";" .
 								$nome  .";" .
 								$cognome  .";" .
