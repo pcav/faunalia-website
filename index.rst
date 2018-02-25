@@ -83,6 +83,20 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+QGIS 3 is out
+++++++++++++++++++++
+After a really hard work of the whole QGIS community, QGIS 3 is finally out:
+`https://qgis.org/en/site/ <https://qgis.org/en/site/>`_. Faunalia's team has
+contributed a lot to this release: plugin testing, Processing documentation,
+training, plugin development and much much more. 
+
+
+Bivariate legend for QGIS 3
+++++++++++++++++++++++++++++++++++
+Very interested plugin published for the brand new QGIS 3. Have a look at it:
+`https://github.com/webgeodatavore/bivariate_legend/ <https://github.com/webgeodatavore/bivariate_legend>`_
+
+
 Faunalia, ancora una volta al primo posto
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Faunalia è orgogliosa di annunciare che è la **prima azienda italiana** a poter rilasciare una **certificazione ufficiale**, `riconoscituta internazionalmente di QGIS <http://changelog.qgis.org/en/qgis/certifyingorganisation/qgis-faunalia/>`_.
