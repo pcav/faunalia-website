@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Faunalia
+# This file is distributed under the same license as the Faunalia package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Faunalia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-03 07:49\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: es_ES\n"
+"X-Source-Language: it_IT\n"
+
+# 8c2ffe11c07e4f519aafc861c3a89f25
+#: ../../404.rst:2
+msgid "[EN] Page not found"
+msgstr "[EN] Page not found"
+
+# 5c1b4f50a01b423baf9de8004b42a721
+#: ../../404.rst:4
+msgid "The page you search was not found on this site."
+msgstr "The page you search was not found on this site."
+
+# 89c9b29edfd24cc89fc48bbaffdffd52
+#: ../../404.rst:6
+msgid ""
+"We have rewritten our website, and most pages have changed name. Please "
+"search the information you need, using the menus above."
+msgstr ""
+"We have rewritten our website, and most pages have changed name. Please "
+"search the information you need, using the menus above."
+
+# 5015a83825f4412bb3cabb161081b985
+#: ../../404.rst:10
+msgid "[IT] Pagina non trovata"
+msgstr "[IT] Pagina non trovata"
+
+# cfd818ddbace450fa3f18ac464d56ba3
+#: ../../404.rst:12
+msgid "La pagina che cerchi non è presente su questo sito."
+msgstr "La pagina che cerchi non è presente su questo sito."
+
+# ddd4d2be98794844a5676a305fa27f57
+#: ../../404.rst:14
+msgid ""
+"Abbiamo ristrutturato il sito e molte pagine hanno cambiato nome. Riprova "
+"per cortesia utilizzando per la ricerca i menu della home page."
+msgstr ""
+"Abbiamo ristrutturato il sito e molte pagine hanno cambiato nome. Riprova "
+"per cortesia utilizzando per la ricerca i menu della home page."
+
+# 79a413be6b6144c29e0d68af6de5b39d
+#: ../../404.rst:18
+msgid "[PT] Página não encontrada"
+msgstr "[PT] Página não encontrada"
+
+# cfd818ddbace450fa3f18ac464d56ba3
+#: ../../404.rst:20
+msgid "A página procurada não existe neste site."
+msgstr "A página procurada não existe neste site."
+
+# ee80d8f14d9740daaca867b6d7cfb8f2
+#: ../../404.rst:22
+msgid ""
+"O site foi restructurado e muitas páginas foram renomeadas. Por favor tente "
+"novamente utilizando o menus da home page e o pesquisador."
+msgstr ""
+"O site foi restructurado e muitas páginas foram renomeadas. Por favor tente "
+"novamente utilizando o menus da home page e o pesquisador."
+
+# 5015a83825f4412bb3cabb161081b985
+#: ../../404.rst:25
+msgid "[FR] Page non trouvée"
+msgstr "[FR] Page non trouvée"
+
+# cfd818ddbace450fa3f18ac464d56ba3
+#: ../../404.rst:27
+msgid "La page que vous recherchez n'est pas présente sur ce site."
+msgstr "La page que vous recherchez n'est pas présente sur ce site."
+
+# a77241d0706e42d2911919417d416706
+#: ../../404.rst:29
+msgid ""
+"Nous avons réécrit notre site, et la plupart des pages ont changé de nom. "
+"S'il vous plaît recherchez les informations dont vous avez besoin, en "
+"utilisant les menus ci-dessus."
+msgstr ""
+"Nous avons réécrit notre site, et la plupart des pages ont changé de nom. "
+"S'il vous plaît recherchez les informations dont vous avez besoin, en "
+"utilisant les menus ci-dessus."
+
+# a66bd2293c4a4f8988e757a7986debb0
+#: ../../404.rst:33
+msgid "[ES] Página no encontrada"
+msgstr "[ES] Página no encontrada"
+
+# cfd818ddbace450fa3f18ac464d56ba3
+#: ../../404.rst:34
+msgid "La página que busca no está presente en este site."
+msgstr "La página que busca no está presente en este site."
+
+# ddd4d2be98794844a5676a305fa27f57
+#: ../../404.rst:36
+msgid ""
+"Hemos reconstruído la web y muchas páginas han cambiado de nombre. Pruebe de "
+"nuevo usando para la búsqueda el menu de la página principal."
+msgstr ""
+"Hemos reconstruído la web y muchas páginas han cambiado de nombre. Pruebe de "
+"nuevo usando para la búsqueda el menu de la página principal."

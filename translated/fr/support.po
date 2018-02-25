@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Faunalia
+# This file is distributed under the same license as the Faunalia package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Faunalia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-09 12:57+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Language: fr_FR\n"
+"X-Source-Language: it_IT\n"
+
+#: ../../support.rst:1
+msgid ""
+"Assistance and support of Free and Open Source GIS: QGIS, PostGIS, GDAL, "
+"MapServer, GRASS"
+msgstr "Assistance pour les SIG libres: QGIS, PostGIS, GDAL, MapServer, GRASS"
+
+#: ../../support.rst:1
+msgid ""
+"Open Source, Free Software, Software libero, Software Livre, Software "
+"Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, "
+"OsGeo, OGC, supporto, assistenza, risoluzione bugs, migrazione, support, bug "
+"fixing, migration, suporte, assistência, resolução bugs, migração, "
+"développement"
+msgstr ""
+"Open Source, Free Software, Logiciel libre, GIS, SIG, QGIS, Quantum GIS, "
+"GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, support, bug fixing, "
+"migration, développement"
+
+# e4147a488126479887c42ebe2997e327
+#: ../../support.rst:9
+msgid "Assistenza"
+msgstr "Assistance"
+
+# 78d8555ca6d64dc485ccdfed4709f286
+#: ../../support.rst:10
+msgid ""
+"Faunalia è la prima società in Italia a fornire assistenza tecnica per "
+"QGIS_. La nostra assistenza assicura, in caso di problemi, un intervento "
+"rapido e un supporto costante per l'immediato ripristino del normale flusso "
+"di lavoro. Inoltre, contribuendo attivamente allo sviluppo del software, "
+"Faunalia è in grado di assicurare, a costi competitivi, interventi di "
+"massima efficacia e la possibilità di personalizzazione delle soluzioni "
+"proposte sia per gli utenti singoli, sia per le organizzazioni pubbliche e "
+"private."
+msgstr ""
+"Faunalia se situe parmi les premières sociétés  en Europe qui offrent une "
+"assistance technique et un dépannage pour le logiciel QGIS_. Notre "
+"assistance garantit, en cas de problèmes, une intervention rapide et une "
+"aide constante afin de récupérer le flux normal de travail. De plus, en "
+"contribuant activemen au développement des logiciels, Faunalia assure à des "
+"prix raisonnables des interventions efficaces et la possibilité de "
+"personnaliser les solutions proposées, pour les particuliers, les "
+"administrations publiques et les entreprises commerciales."
+
+# 1b26eeb1960f4a4aa19a2de96f8e55ac
+#: ../../support.rst:12
+msgid ""
+"In particolare, Faunalia garantisce `servizi professionali per QGIS <http://"
+"www.qgis.org/en/site/forusers/commercial_support.html>`_ (Desktop, Server e "
+"Web Client), GRASS_, PostgreSQL_ `e PostGIS <http://postgis.net/support/>`_:"
+msgstr ""
+"Faunalia offre des `services professionnels pour QGIS <http://www.qgis.org/"
+"en/site/forusers/commercial_support.html>`_ (Desktop, Server et Web Client), "
+"GRASS_, PostgreSQL_ `et PostGIS <http://postgis.net/support>`_:"
+
+# f085741ebad245a78e054d8936399bf6
+#: ../../support.rst:14
+msgid "Installazione, configurazione e aggiornamento"
+msgstr "Installations, configuration et mise à jour"
+
+# 87388a1633154706b13c18ed33ad5af0
+#: ../../support.rst:15
+msgid ""
+"Migrazione da GIS proprietari (es. ArcGIS e Oracle Spatial) a GIS liberi "
+"(es. QGIS_ e PostGIS_)"
+msgstr ""
+"Migration des SIG propriétaires (p. ex. ArcGIS et Oracle Spatial) aux "
+"solutions libres (p.ex. QGIS_ et PostGIS_)"
+
+# 7e6a9430a67d4ebcaaecfd9b0a4f50ee
+#: ../../support.rst:16
+msgid "Assistenza email e telefonica"
+msgstr "Assistance téléphonique et en ligne"
+
+# 1e18ab0a307646ca83cc3d12b6518f1b
+#: ../../support.rst:17
+msgid "Assistenza on site"
+msgstr "Assistance à domicile"
+
+# 4b174ce7f2514316ad43390a97d38bc9
+#: ../../support.rst:18
+msgid "Bug fixing su richiesta"
+msgstr "Réparation des dysfonctionnements (bugfix) sur demande du client"
+
+# bf3417e766704b4b8ac5e295057fbc60
+#: ../../support.rst:19
+msgid ""
+"Abbonamento agli annunci sulle novità importanti sui software GIS open "
+"source e liberi"
+msgstr ""
+"Abonnement aux annonces sur les nouvelles fonctions des SIG libres et en "
+"open source"

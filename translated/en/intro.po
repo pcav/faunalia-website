@@ -1,0 +1,642 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Faunalia
+# This file is distributed under the same license as the Faunalia package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Faunalia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-26 15:11+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: en_GB\n"
+"X-Source-Language: it_IT\n"
+
+#: ../../intro.rst:1
+msgid "Faunalia vision, services, and team"
+msgstr "Faunalia vision, services, and team"
+
+#: ../../intro.rst:1
+msgid ""
+"Open Source, Free Software, Software libero, Software Livre, Software "
+"Aberto, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, "
+"OsGeo, OGC, Paolo Cavallini, Renzo Cavallini"
+msgstr ""
+"Open Source, Free Software, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, "
+"PostGIS, PostgreSQL, OsGeo, OGC, Paolo Cavallini, Renzo Cavallini"
+
+# 57042a2ccf1944a3940a1bbecc2e241e
+#: ../../intro.rst:13
+msgid "Chi siamo"
+msgstr "Who we are"
+
+# 6fe80d00aacf473c8a223b255f816098
+#: ../../intro.rst:15
+msgid ""
+"Faunalia è una società che opera da più di 10 anni nell’ambito dei GIS, i "
+"sistemi informativi territoriali, con software libero e open source. I "
+"nostri clienti sono pubbliche amministrazioni, aziende private, "
+"associazioni. Faunalia ha sede in Italia e opera in tutto il mondo."
+msgstr ""
+"Faunalia is a company that operates since more than 10 years in the field of "
+"Geographic Information Systems (GIS) basing on free and open source "
+"software. Our main customers are public administrations, private companies, "
+"associations. Faunalia has its main branch in Italy, and operates worldwide."
+
+# 5b200ec4a3a4454b8c4480d877edd2d1
+#: ../../intro.rst:18
+msgid "La nostra visione"
+msgstr "Our vision"
+
+# 2cd187b27f9646cea7f6e86b0ebe31bf
+#: ../../intro.rst:20
+msgid ""
+"Le nostre attività si basano sulla convinzione che il software libero e open "
+"source sia la scelta migliore e più efficace, in particolare in relazione ai "
+"GIS. Utilizzare un GIS open source e libero offre numerosi vantaggi rispetto "
+"alle alternative proprietarie presenti sul mercato, sia per il cliente, sia "
+"per lo sviluppo sociale complessivo. Consente innanzitutto un controllo "
+"pieno e trasparente del software utilizzato e quindi una totale indipendenza "
+"del cliente rispetto ai fornitori. Da un punto di vista tecnico, i GIS open "
+"source consentono la massima flessibilità e personalizzazione delle "
+"soluzioni sviluppate e un costante aggiornamento del software, garantito dal "
+"lavoro di una rete di sviluppatori internazionale. Inoltre, rispetto ai "
+"sistemi proprietari, assicurano la massima persistenza dei dati geografici "
+"nel tempo e, grazie all’impiego di standard aperti, un’alta interoperabilità "
+"tra sistemi informativi."
+msgstr ""
+"We are convinced free and open source softare is the best and most efficient "
+"choice, especially for GIS. Using a free GIS offers a number of advantages "
+"when compared to proprietary alternatives, both for the customer and for "
+"global social development. It allows a full and transparent control of the "
+"software utilised, and therefore a total freedom from vendor lock-in. From a "
+"technical point of view, free GIS allow maximum flexibility and "
+"customizations, and a constant update of the software, guaranteed by an "
+"international network of highly skilled developers. Furthermore, thanks to "
+"the use of open standards and formats, they guarantee the maximum "
+"persistence of data ove long time span, and a high interoperability among "
+"different systems."
+
+# 32c6b33271d84475850ee5e73258f8d5
+#: ../../intro.rst:24
+msgid ""
+"I software GIS liberi hanno un costo complessivo più basso dei software "
+"proprietari e l’assenza di costi di licenza d’uso rimuove una barriera "
+"importante all’ingresso che favorisce una adozione maggiore, presso una più "
+"ampia varietà di utilizzatori e sempre legale. Utilizzare GIS open source "
+"significa incentivare il lavoro di sviluppatori locali, arricchendo il "
+"territorio, incrementando le competenze a livello nazionale, favorendo una "
+"maggiore competizione e quindi offrendo maggiori tutele per il cliente "
+"rispetto ad offerte di tipo monopolistico."
+msgstr ""
+"Free and open source GIS have a total cost of ownership lower than "
+"proprietary solutions; the absence of licence costs removes a significant "
+"barrier to a fully legal widespread adoption of GIS technologies by a higher "
+"variety of users. Using open source GIS favours the development of local "
+"skills, more competition among service providers, and therefore more "
+"protection for the customers, when compared with monopolistic solutions."
+
+# 7e06819c7336461fa92f15a01a9b348c
+#: ../../intro.rst:28
+msgid "I nostri valori"
+msgstr "Our values"
+
+# 7ddd3f6a951849b099b02820c183e23a
+#: ../../intro.rst:29
+msgid "Le attività di Faunalia si basano su valori per noi fondamentali:"
+msgstr ""
+"Activities of Faunalia are based on values that are fundamental for us:"
+
+# 72a68bad4081499e86cccdb52a8ca45e
+#: ../../intro.rst:31
+msgid ""
+"**onestà**: è fondamentale nella relazione con il cliente per il rispetto "
+"dei reciproci ruoli e per la costruzione di un rapporto di fiducia e di "
+"reciproca soddisfazione"
+msgstr ""
+"**honesty**: it is essential in the relationship with the customer, for the "
+"respect of reciprocal roles and to build a relationship of trust and mutual "
+"satisfaction"
+
+# 191d0d8cbba54f5f94bed35e2105accc
+#: ../../intro.rst:32
+msgid ""
+"**centralità del cliente**: le esigenze del cliente sono il criterio guida "
+"delle nostre attività, non soltanto per perseguirne la completa "
+"soddisfazione, ma per renderlo pienamente in possesso delle soluzioni "
+"sviluppate e del know-how per il suo utilizzo, evitando di instaurare una "
+"dipendenza dal fornitore"
+msgstr ""
+"**customer empowerment**: the customer's needs are the guiding principle of "
+"our business, not only to pursue its full satisfaction, but to make it fully "
+"in possession of the developed solutions and know-how for its use, avoiding "
+"dependence on the supplier and vendor lock-in"
+
+# eb53568958e648c899431d285668bb7a
+#: ../../intro.rst:33
+msgid ""
+"**qualità**: garantiamo standard di qualità alti, anche mediante il nostro "
+"continuo aggiornamento teorico e pratico sui GIS e la collaborazione con i "
+"migliori sviluppatori nazionali e internazionali."
+msgstr ""
+"**quality**: we guarantee high standards, thanks to our commitment and "
+"continuous self training, both practical and theoretical, on GIS, and to the "
+"collaboration with the top developers worldwide."
+
+# f1bf08edd3354de187d9c6721b46288e
+#: ../../intro.rst:35
+msgid ""
+"Faunalia è inoltre particolarmente impegnata a diminuire il più possibile "
+"l'impatto delle proprie attività sull'ambiente, quindi: riduciamo i nostri "
+"spostamenti, privilegiando il lavoro da remoto; utilizziamo, in modo "
+"accorto, l’energia elettrica proveniente da fonti rinnovabili certificate; "
+"adottiamo cicli di utilizzo dell'hardware più lunghi di quelli standard, e "
+"favoriamo il riutilizzo delle singole componenti e il trashware."
+msgstr ""
+"Faunaliais also particularly committed to reduce as much as possible the "
+"impact of its activities on the environment: we reduce our movements, "
+"preferring on the work remotely whenever feasible, we use electricity from "
+"certified renewable sources, we adopt cycles of hardware utilization longer "
+"than standard, and prefer the reuse of the individual components and the "
+"trashware."
+
+# f8603e9b053a4ffd85874bc8ec20644f
+#: ../../intro.rst:38
+msgid "I servizi"
+msgstr "Services"
+
+# b8a0e5217dba40d69e56e9e492c4103b
+#: ../../intro.rst:39
+msgid ""
+"La nostra offerta di servizi è riassumibile in tre aree principali\\: "
+":doc:`sviluppo <dev>`, :doc:`assistenza <support>` e :doc:`formazione "
+"<training>`."
+msgstr ""
+"Our commercial offer focuses on three main areas\\: :doc:`development "
+"<dev>`, :doc:`assistance <support>` and :doc:`training <training>`."
+
+# 0d9537fc94a942f2ab5df24400d3f760
+#: ../../intro.rst:41
+msgid ""
+"Faunalia lavora direttamente allo sviluppo del software che utilizza e offre "
+"sul mercato, collaborando con i migliori sviluppatori GIS a livello "
+"internazionale. Negli anni, abbiamo contribuito allo sviluppo di vari "
+"strumenti, fra cui QGIS, GRASS, PostGIS, GDAL/OGR."
+msgstr ""
+"Faunalia contributes directly to the development of the programs it uses and "
+"offers. Over the years, we have contributed to sveral projects, among which "
+"QGIS, GRASS, PostGIS, GDAL/OGR."
+
+# 49bc3928cb4d4ba89abae2723e193b1f
+#: ../../intro.rst:43
+msgid ""
+"Oltre allo sviluppo software, offriamo, a costi competitivi, attività di "
+"intervento rapido e di assistenza continuativa su tutte le problematiche "
+"relative ai GIS."
+msgstr ""
+"In addition to software development, we also offer, at competitive rates, "
+"support and assistance on the software mentioned above."
+
+# 59b3b975362049aeb3bfc1cd14507d2d
+#: ../../intro.rst:45
+msgid ""
+"Infine teniamo corsi di formazione teorico-pratica, sia standard, sia "
+"personalizzati, presso le nostre sedi e presso i nostri clienti."
+msgstr ""
+"We offer training courses, both with a standard programme and custom, at our "
+"facilities or at your workplace."
+
+# 75db996c26e9473fb509980159080576
+#: ../../intro.rst:48
+msgid "Team"
+msgstr "Team"
+
+# 7ddd3f6a951849b099b02820c183e23a
+#: ../../intro.rst:49
+msgid ""
+"L'attività di Faunalia si basa su una rete internazionale di collaboratori "
+"autorevoli, coordinati da Paolo Cavallini. Fra i nostri collaboratori "
+"recenti:"
+msgstr ""
+"The activities of Faunalia are based on an international network of high "
+"profile collaborators, coordinated by Paolo Cavallini. Among our recent "
+"collaborators:"
+
+#: ../../intro.rst:52
+msgid "`Alex Bruy <https://github.com/alexbruy>`_"
+msgstr "`Alex Bruy <https://github.com/alexbruy>`_"
+
+#: ../../intro.rst:53
+msgid "`Radim Blazek <https://github.com/blazek>`_"
+msgstr "`Radim Blazek <https://github.com/blazek>`_"
+
+#: ../../intro.rst:54
+msgid ""
+"`Nyall Dawson <https://github.com/nyalldawson>`_ / `North Road "
+"<https://north-road.com/>`_"
+msgstr ""
+"`Nyall Dawson <https://github.com/nyalldawson>`_ / `North Road "
+"<https://north-road.com/>`_"
+
+#: ../../intro.rst:55
+msgid ""
+"`René-Luc D'Hont <https://github.com/rldhont>`_ / `3Liz "
+"<https://www.3liz.com/>`_"
+msgstr ""
+"`René-Luc D'Hont <https://github.com/rldhont>`_ / `3Liz "
+"<https://www.3liz.com/>`_"
+
+#: ../../intro.rst:56
+msgid ""
+"`Michael Douchin <https://github.com/mdouchin>`_ / `3Liz "
+"<https://www.3liz.com/>`_"
+msgstr ""
+"`Michael Douchin <https://github.com/mdouchin>`_ / `3Liz "
+"<https://www.3liz.com/>`_"
+
+#: ../../intro.rst:57
+msgid ""
+"`Jürgen E. Fischer/Norbit <https://github.com/jef-n>`_ / `norBIT "
+"<http://norbit.de/>`_"
+msgstr ""
+"`Jürgen E. Fischer/Norbit <https://github.com/jef-n>`_ / `norBIT "
+"<http://norbit.de/>`_"
+
+#: ../../intro.rst:58
+msgid ""
+"`Even Rouault <https://github.com/rouault>`_ / `Spatialys "
+"<http://www.spatialys.com>`_"
+msgstr ""
+"`Even Rouault <https://github.com/rouault>`_ / `Spatialys "
+"<http://www.spatialys.com>`_"
+
+#: ../../intro.rst:59
+msgid "`Sandro Santilli <http://strk.kbt.io/>`_"
+msgstr "`Sandro Santilli <http://strk.kbt.io/>`_"
+
+# 4ea39f199b9a4022a3845ca9d59eb11d
+#: ../../intro.rst:62
+msgid "Paolo Cavallini"
+msgstr "Paolo Cavallini"
+
+# 320753b22aa74b1cbff528c8d0f27a23
+#: ../../intro.rst:67
+msgid "Fondatore di Faunalia"
+msgstr "Founder of Faunalia"
+
+# 89e9e1fc097a4254b73ea7b4f6d50b20
+#: ../../intro.rst:68
+msgid ""
+"Co-Chair dell'associazione internazionale **QGIS.org** e membro del *QGIS "
+"Project Steering Commitee* col ruolo di *Financial/Marketing Advisor*"
+msgstr ""
+"Co-Chair of the international association **QGIS.org** and member of *QGIS "
+"Project Steering Commitee* with the role of *Financial/Marketing Advisor*"
+
+# 92e5e56111ae4a58af219d06bb84952b
+#: ../../intro.rst:69
+msgid ""
+"Socio fondatore di ed ex presidente di `GFOSS.it - Italian Geographic Free "
+"and Open-Source Software Association <http://www.gfoss.it/>`_"
+msgstr ""
+"Co-founder and past president of `GFOSS.it - Italian Geographic Free and "
+"Open-Source Software Association <http://www.gfoss.it/>`_"
+
+# 8be3705edf854ed4984036f33d12a898
+#: ../../intro.rst:70
+msgid ""
+"Socio e *charter member* della fondazione internazionale `OSGeo - Open "
+"Source Geospatial Foundation <http://www.osgeo.org/>`_"
+msgstr ""
+"*Charter member* of `OSGeo - Open Source Geospatial Foundation "
+"<http://www.osgeo.org/>`_"
+
+# fdd0adf5373648759b7d691e40e92d7e
+#: ../../intro.rst:71
+msgid ""
+"Socio fondatore di `ITPUG - ITalian PostgreSQL User Group "
+"<http://www.itpug.org>`_"
+msgstr ""
+"Co-founder of `ITPUG - ITalian PostgreSQL User Group <http://www.itpug.org>`_"
+
+# 6f1bd28a37b245f286bf2b35665bd9fa
+#: ../../intro.rst:72
+msgid ""
+"Membro di `IUCN - The World Conservation Union - Species Survival Commission "
+"<http://www.iucn.org/>`_, ex Presidente dello *IUCN Small Carnivore "
+"Specialist Group* e membro dello *IUCN - European Sustainable Use Specialist "
+"Group*"
+msgstr ""
+"Member of `IUCN - The World Conservation Union - Species Survival Commission "
+"<http://www.iucn.org/>`_, past President of *IUCN Small Carnivore Specialist "
+"Group* and member of *IUCN - European Sustainable Use Specialist Group*"
+
+# 64ccb14d406e4a11a5d713ae7e7a0153
+#: ../../intro.rst:73
+msgid "Oltre 10 anni di esperienza sui GIS liberi"
+msgstr "Over 10 years of experience on free and open source GIS"
+
+# 2e4af78fcadf46ecb317d2ca8306e848
+#: ../../intro.rst:74
+msgid "Dottore di ricerca"
+msgstr "PhD"
+
+# 7e88d4c193e8445f9729faedcd714934
+#: ../../intro.rst:75
+msgid "`Curriculum Vitae (html) <cv_pc_it.html>`__"
+msgstr "`Curriculum Vitae (html) <cv_pc_en.html>`__"
+
+# 70801919d32d45a49f60c7c3c9ff8b2e
+#: ../../intro.rst:76
+msgid ""
+"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) "
+"<pdf/Cavallini_CV_eu.pdf>`__"
+msgstr "`Curriculum Vitae (pdf) <pdf/Cavallini_CV_en.pdf>`__"
+
+# 556122cf766c45969fe434d2a09b2cfd
+#: ../../intro.rst:77
+msgid ""
+"`Alcune mie conferenze "
+"<https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-AC4ktZQ/>`_"
+msgstr ""
+"`Some of my talks "
+"<https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-AC4ktZQ/>`_"
+
+#: ../../intro.rst:78
+msgid "`My recent contributions to free software <https://github.com/pcav>`_"
+msgstr "`My recent contributions to free software <https://github.com/pcav>`_"
+
+# a1c10919702c4131a1d76e6220ca4264
+#: ../../intro.rst:84
+msgid "*e-mail*: info@faunalia.eu - *PEC*: paolo.cavallini@pec.it"
+msgstr "*e-mail*: info@faunalia.eu - *PEC*: paolo.cavallini@pec.it"
+
+# 2796ab88a4474c5fa01132a029cc64b8
+#: ../../intro.rst:85
+msgid "*Tel/WhatsApp/Signal/Telegram/Line*: +39-348-3801953"
+msgstr "*Tel/WhatsApp/Signal/Telegram/Line*: +39-348-3801953"
+
+# ede2f46ba5724b5dbac2da31e1010a23
+#: ../../intro.rst:86
+msgid "*Skype*: paolo.gg.cavallini"
+msgstr "*Skype*: paolo.gg.cavallini"
+
+# 50a86c9746184c10af024785c66b0169
+#: ../../intro.rst:87
+msgid "*Hangout*: paolo.cavallini"
+msgstr "*Hangout*: paolo.cavallini"
+
+#: ../../intro.rst:90
+msgid "Matteo Ghetta"
+msgstr "Matteo Ghetta"
+
+#: ../../intro.rst:95
+msgid "Scienziato ambientale con specializzazione in dati geografici"
+msgstr "Environmental scientist with specialization in geographical data"
+
+# 320753b22aa74b1cbff528c8d0f27a23
+#: ../../intro.rst:96
+msgid "Socio Fondatore di QGIS Italia"
+msgstr "Co-Founder of QGIS Italia"
+
+#: ../../intro.rst:97
+msgid ""
+"Ha lavorato come borsista presso la `Scuola Superiore Sant'Anna "
+"<http://www.santannapisa.it/it>`_ nel progetto `H2020 Freewat "
+"<http://www.freewat.eu/>`_ come co-autore dell'omonimo plugin"
+msgstr ""
+"He has worked as researcher at the `Scuola Superiore Sant'Anna "
+"<http://www.santannapisa.it/it>`_, Pisa, Italy, in the `H2020 Freewat "
+"<http://www.freewat.eu/>`_ project as co-author of the plugin"
+
+#: ../../intro.rst:98
+msgid ""
+"Collabora in modo attivo con gli sviluppatori di QGIS sia scrivendo codice "
+"che documentazione"
+msgstr ""
+"Collaborates actively with the QGIS developers community, writing code and "
+"documentation"
+
+#: ../../intro.rst:99
+msgid "Autore del plugin `DataPlotly <https://github.com/ghtmtt/DataPlotly>`_"
+msgstr "Author of `DataPlotly <https://github.com/ghtmtt/DataPlotly>`_ plugin"
+
+#: ../../intro.rst:100
+msgid "Revisore della traduzione italiana di QGIS"
+msgstr "Reviewer of the Italian translation of QGIS"
+
+# 12db5196f90647d8b593e6b4c685d9d4
+#: ../../intro.rst:102
+msgid "*email* matteo.ghetta@faunalia.eu"
+msgstr "*email* matteo.ghetta@faunalia.eu"
+
+# 2796ab88a4474c5fa01132a029cc64b8
+#: ../../intro.rst:103
+msgid "*Tel/WhatsApp/Signal/Telegram*: +39-348-9523719"
+msgstr "*Tel/WhatsApp/Signal/Telegram*: +39-348-9523719"
+
+# 7fbaf8236c9e46d590fb8cc752c2198a
+#: ../../intro.rst:106
+msgid "Renzo Cavallini"
+msgstr "Renzo Cavallini"
+
+# a01dda5df8d644749a4e0295093fe1e0
+#: ../../intro.rst:111
+msgid "Geologo, specializzato in geofisica"
+msgstr "Geologist, specialised in geophysics"
+
+# 82cd43493dd24a64a12263b97becaa4a
+#: ../../intro.rst:112
+msgid ""
+"Ha collaborato a livello scientifico e didattico con l'Università di Pisa"
+msgstr ""
+"He has collaborated with the University of Pisa, both for reasearch and "
+"teaching"
+
+# 03cf91c1fa8a4b42aaf5e7a990980471
+#: ../../intro.rst:113
+msgid "Ha pubblicato nel settore geofisico"
+msgstr "He has published scientific papers on geophysics"
+
+# 1200ea1bce804534904223f3b14800ea
+#: ../../intro.rst:114
+msgid "Conduce attività di prospezione geotecnica, in laboratorio ed *in situ*"
+msgstr "Leads geotechnical explorations, in the laboratory and *in situ*"
+
+# 7a363e92386745399f180ff13897da58
+#: ../../intro.rst:116
+msgid ""
+"esecuzione ed elaborazione di prove di laboratorio su terreni naturali: "
+"consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), "
+"compressione semplice, analisi granulometrica, limiti di consistenza (LL, "
+"LP, LR), peso specifico dei granuli, permeabilità in cella edometrica, "
+"triassiale e in permeametro (norme seguite: racc. AGI, CNR, ASTM)"
+msgstr ""
+"execution and processing of laboratory tests on natural soils: oedometer "
+"consolidation, direct shear CD, triaxial (UU, CU, CD), simple compression, "
+"particle size analysis, consistency limits (LL, LP, LR), specific weight of "
+"the granules, permeability in oedometer cell, triaxial and in permeameter "
+"(rules followed: Coll. AGI, CNR, ASTM)"
+
+# 78a0702041e84c08aa141038a65d979f
+#: ../../intro.rst:117
+msgid ""
+"esecuzione ed elaborazione di prove di laboratorio su materiali stradali e "
+"da costruzione: compattazione Proctor Standard e modificata, penetrazione "
+"CBR, miscelazione delle terre con calce (norme seguite: EN, CNR, ASTM)"
+msgstr ""
+"execution and processing of laboratory tests on road and construction "
+"materials: standard and modified Proctor compaction, CBR penetration, mixing "
+"of land with lime (follow standards: EN, CNR, ASTM)"
+
+# e42944834a8a4a808fe3288ea5d1bc04
+#: ../../intro.rst:118
+msgid ""
+"esecuzione ed elaborazione di prove in situ: penetrometriche statiche con "
+"punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o "
+"senza rivestimento, PLT, densità in situ"
+msgstr ""
+"execution and processing of in situ tests: static penetration with "
+"mechanical, electrical and piezocone tip, dynamic penetration with or "
+"without coating, PLT, in situ density"
+
+# 80067180141f4a7982ea07c0fe694e59
+#: ../../intro.rst:119
+msgid ""
+"installazione e messa a punto di apparecchiature di laboratorio e di sistemi "
+"di acquisizione automatica; calibrazione di trasduttori elettrici"
+msgstr ""
+"installation and setup of laboratory equipment and systems for automatically "
+"acquiring; calibration of electrical transducers"
+
+# a9ce1c992be34c53bd43f385da4f4bab
+#: ../../intro.rst:121
+msgid "*e-mail*: renzo.cavallini@faunalia.it"
+msgstr "*e-mail*: renzo.cavallini@faunalia.it"
+
+# b49d1ac6a130438b9c4770674f677d65
+#~ msgid "Giovanni Manghi |pt|"
+#~ msgstr "Giovanni Manghi |pt|"
+
+# 92fabff5a8624df3835bc487c4d7102a
+#~ msgid "Fondatore di Faunalia Portogallo"
+#~ msgstr "Founder of Faunalia Portugal"
+
+# a01dda5df8d644749a4e0295093fe1e0
+#~ msgid "Biologo specializzato in Conservation Biology"
+#~ msgstr "Biologist, specialised in Conservation Biology"
+
+# 92e5e56111ae4a58af219d06bb84952b
+#~ msgid ""
+#~ "Socio fondatore di `OSGeo Portugal - Portuguese Geographic Free and "
+#~ "Open-Source Software Association <http://osgeopt.pt/>`_"
+#~ msgstr ""
+#~ "Co-founder of `OSGeo Portugal - Portuguese Geographic Free and "
+#~ "Open-Source Software Association <http://osgeopt.pt/>`_"
+
+# 162c6121a6004904abfddd9243d4e8df
+#~ msgid ""
+#~ "Membro di `IUCN - The World Conservation Union - *IUCN Small Carnivore "
+#~ "Specialist Group* <http://www.iucn.org/>`_"
+#~ msgstr ""
+#~ "Member of `IUCN - The World Conservation Union - *IUCN Small Carnivore "
+#~ "Specialist Group* <http://www.iucn.org/>`_"
+
+# 5124bd8f369744908e0748675ec84bfc
+# 5124bd8f369744908e0748675ec84bfc
+#~ msgid "Oltre 7 anni di esperienza sui GIS liberi"
+#~ msgstr "Over 7 years of experience on free and open source GIS"
+
+# 95dca4087d374ece822ccbd1aee35dec
+#~ msgid "`Curriculum Vitae (html) <cv_gm_it.html>`__"
+#~ msgstr "`Curriculum Vitae (html) <cv_gm_en.html>`__"
+
+# fb9167a7fa5b4395a8d03095f9ae74cd
+#~ msgid ""
+#~ "`Curriculum Vitae (pdf) <pdf/Manghi_CV_it.pdf>`__ - `europeo (pdf) "
+#~ "<pdf/Manghi_CV_eu.pdf>`__"
+#~ msgstr "`Curriculum Vitae (pdf) <pdf/Manghi_CV_en.pdf>`__"
+
+# 3472687752ef4624a6d1046f9ab20882
+#~ msgid "*e-mail*: giovanni.manghi@faunalia.pt"
+#~ msgstr "*e-mail*: giovanni.manghi@faunalia.pt"
+
+# 15522c498725496f856475a620fcdd2a
+#~ msgid "*Tel/Viber/Line*: +351967058216"
+#~ msgstr "*Tel/Viber/Line*: +351967058216"
+
+# b1ddd3fd79b94726be56cce19351906f
+#~ msgid "*Skype*: toirao"
+#~ msgstr "*Skype*: toirao"
+
+# e7f575a193b44b1bb55a712f99f32844
+#~ msgid "*Hangout*: giovanni.manghi@gmail.com"
+#~ msgstr "*Hangout*: giovanni.manghi@gmail.com"
+
+# 3cff42186bd64d37bf7b4f240aa08b11
+#~ msgid "Vânia Neves |pt|"
+#~ msgstr "Vânia Neves |pt|"
+
+# 92fabff5a8624df3835bc487c4d7102a
+#~ msgid "Fondatrice di Faunalia Portogallo"
+#~ msgstr "Founder of Faunalia Portugal"
+
+# a01dda5df8d644749a4e0295093fe1e0
+#~ msgid "Biologa specializzata in Conservation Biology"
+#~ msgstr "Biologist, specialised in Conservation Biology"
+
+# 92e5e56111ae4a58af219d06bb84952b
+#~ msgid ""
+#~ "Socia fondatrice di `OSGeo Portugal - Portuguese Geographic Free and "
+#~ "Open-Source Software Association <http://osgeopt.pt/>`_"
+#~ msgstr ""
+#~ "Co-founder of `OSGeo Portugal - Portuguese Geographic Free and "
+#~ "Open-Source Software Association <http://osgeopt.pt/>`_"
+
+# f2e2c08f2fe54447b9ddb4ca52b3af41
+#~ msgid "`Curriculum Vitae (html) <cv_vn_it.html>`__"
+#~ msgstr "`Curriculum Vitae (html) <cv_vn_en.html>`__"
+
+# 8630faa3be4b4cda952d6b505825b794
+#~ msgid ""
+#~ "`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`__ - `europeo (pdf) "
+#~ "<pdf/Neves_CV_eu.pdf>`__"
+#~ msgstr "`Curriculum Vitae (pdf) <pdf/Neves_CV_en.pdf>`__"
+
+# a5ec7d08d5c3410284e5988b9eb304f4
+#~ msgid "*Tel/Viber/Line*: +351939320104"
+#~ msgstr "*Tel/Viber/Line*: +351939320104"
+
+# b5e761cc9e0f4d81bf792684f1f0a921
+#~ msgid "*Skype*: vaniavanilla"
+#~ msgstr "*Skype*: vaniavanilla"
+
+# 24ccae109629408ea3fa8831fac20a97
+#~ msgid "*Hangout*: vbneves@gmail.com"
+#~ msgstr "*Hangout*: vbneves@gmail.com"
+
+# ed5d29949685436bb24ee66a0f36a9f6
+#~ msgid ""
+#~ "Conduce attività di prospezione geotecnica, in laboratorio ed *in situ* * "
+#~ "esecuzione ed elaborazione di prove di laboratorio su terreni naturali: "
+#~ "consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), "
+#~ "compressione semplice, analisi granulometrica, limiti di consistenza (LL, "
+#~ "LP, LR), peso specifico dei granuli, permeabilità in cella edometrica, "
+#~ "triassiale e in permeametro (norme seguite: racc. AGI, CNR, ASTM) * "
+#~ "esecuzione ed elaborazione di prove di laboratorio su materiali stradali "
+#~ "e da costruzione: compattazione Proctor Standard e modificata, "
+#~ "penetrazione CBR, miscelazione delle terre con calce (norme seguite: EN, "
+#~ "CNR, ASTM) * esecuzione ed elaborazione di prove in situ: penetrometriche "
+#~ "statiche con punta meccanica, elettrica e piezocono, penetrometriche "
+#~ "dinamiche con o senza rivestimento, PLT, densità in situ * installazione "
+#~ "e messa a punto di apparecchiature di laboratorio e di sistemi di "
+#~ "acquisizione automatica; calibrazione di trasduttori elettrici"
+#~ msgstr "Leads geotechnical explorations, in the laboratory and *in situ*"

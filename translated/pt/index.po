@@ -1,0 +1,346 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Faunalia
+# This file is distributed under the same license as the Faunalia package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Faunalia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-08 15:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: pt_PT\n"
+"X-Source-Language: it_IT\n"
+
+# 56bcab473aff44a6be177e81a69b3ec7
+#: ../../index.rst:25 ../../index.rst:29 ../../index.rst:74
+msgid "Faunalia"
+msgstr "Faunalia"
+
+# c24a6a0f2c1f47b581312366dd4113f7
+#: ../../index.rst:31
+msgid "Sistemi informativi territoriali liberi ed open source"
+msgstr "Sistemas de Informação Geográfica, exclusivamente Open Source "
+
+# c228af7a0dac424691110af07c2cfbe3
+#: ../../index.rst:36
+msgid "Specialisti di QGIS e Database Geografici PostGIS"
+msgstr ""
+"Especialistas em QGIS (Quantum GIS) e bases de dados geográficas "
+"PostgreSQL/PostGIS"
+
+# 1f54f146a10b4daca7070a3d26ba800f
+#: ../../index.rst:38
+msgid ""
+"QGIS_ e PostGIS_ mettono a disposizione un grande numero di funzionalità per "
+"visualizzare, gestire, editare e analizzare dati geografici e per creare "
+"stampe con simbologia cartografica avanzata."
+msgstr ""
+"QGIS_ e PostGIS_ disponiblizam um grande numero de funcionalidades para "
+"visualizar, gerir, editar e analizar dados geográficos e para criar layouts "
+"de impressão com simbologia cartográfica avançada."
+
+# ad6688da853a4c0cba4fb82635bc7f5a
+#: ../../index.rst:40
+msgid ""
+"QGIS_ e PostGIS_ forniscono un modo semplice ed economico per gestire grandi "
+"volumi di dati (ad es. Catasto Urbano, Catasto Rurale, etc.) e per "
+"pubblicare servizi standard OpenGeospatialConsortium_ (WMS, WFS, WCS), così "
+"come mappe on-line (WebGIS)."
+msgstr ""
+"QGIS_ e PostGIS_ fornecem uma forma simples e economica para gerir grandes "
+"volumes de dados (por exemplo, Cadastro Urbano, Cadastro Rural) e para "
+"publicar serviços padrão do OpenGeospatialConsortium_ (WMS, WFS, WCS), "
+"assimo como mapas em ambiente Web (WebSIG)."
+
+# 548d69a71d734b0e818717f4f9e20138
+#: ../../index.rst:42
+msgid ""
+"`Esempio di WebGIS di Faunalia "
+"<http://lizmap.faunalia.eu/index.php/view/map/?repository=faunalia&project=pontedera>`_"
+msgstr ""
+"`Demo WebGIS "
+"<http://lizmap.faunalia.eu/index.php/view/map/?repository=faunalia&project=pontedera>`_"
+
+# 74d5fd586c43466aafb1f532dfbf4ead
+#: ../../index.rst:47
+msgid "Corsi"
+msgstr "Formação"
+
+# 1e7ec7a2516c48aa90fbd6563a143a77
+#: ../../index.rst:49
+msgid ""
+"Vuoi imparare, in modo rapido ed efficace, a conoscere e gestire appieno il "
+"tuo GIS?"
+msgstr ""
+"Quer aprender, rapidamente e de forma eficaz, como compreender e gerir os "
+"SIG?"
+
+# 80549d17aca94c20ba96853e17c8154d
+#: ../../index.rst:51
+msgid ":doc:`More info <training>`"
+msgstr ":doc:`More info <training>`"
+
+# 2c65bd5329b9402b8ff3cdd828a1c810
+#: ../../index.rst:56
+msgid "Assistenza"
+msgstr "Assistência"
+
+# 0413ebabaffd4d768717bd48f723e880
+#: ../../index.rst:58
+msgid ""
+"Vuoi la certezza e la tranquillità di un supporto costante per la soluzione "
+"dei tuoi problemi?"
+msgstr ""
+"Quer ter a certeza e tranquilidade de um suporte contínuo para a solução dos "
+"seus problemas?"
+
+# a2069a3f48204eed95a4f2d71236ff50
+#: ../../index.rst:60
+msgid ":doc:`More info <support>`"
+msgstr ":doc:`More info <support>`"
+
+# b29116aece954590a864d9174f6d8416
+#: ../../index.rst:65
+msgid "Sviluppo"
+msgstr "Desenvolvimento"
+
+# 1e0a20d246044004ba27ccf7bbb05251
+#: ../../index.rst:67
+msgid ""
+"Hai bisogno di un nuovo comando, di un plugin per velocizzare il tuo lavoro "
+"o di correggere un bug?"
+msgstr ""
+"Precisa de uma nova ferramenta ou extensão para a execução de tarefas "
+"específicas ou de corrigir um bug?"
+
+# 2fd4a8b1ef644db38dcea8a1e8a61c03
+#: ../../index.rst:69
+msgid ":doc:`More info <dev>`"
+msgstr ":doc:`More info <dev>`"
+
+#: ../../index.rst:77
+msgid "News"
+msgstr ""
+
+#: ../../index.rst:80
+msgid "New PostGIS version"
+msgstr ""
+
+#: ../../index.rst:82
+msgid ""
+"Just released **PostGIS 2.2.0**: lots of `improvements and new functions "
+"<http://svn.osgeo.org/postgis/tags/2.2.0/NEWS>`_. My favourite of the day: "
+"`ST_ClusterWithin "
+"<http://postgis.net/docs/manual-2.2/ST_ClusterWithin.html>`_, which "
+"aggregates all geometries within a set distance from the others."
+msgstr ""
+
+#: ../../index.rst:85
+msgid "GFOSS Day Italia 2015: Faunalia c'è"
+msgstr ""
+
+#: ../../index.rst:87
+msgid ""
+"Faunalia sarà presente al `GFOSS Day 2015 "
+"<http://gfossday2015.associazionegfoss.it/index.html>`_, la settima "
+"conferenza italiana sul software geografico libero ed open source, a Lecco "
+"il 28 e 29 settembre, con: (1) un workshop su QGIS_; (2) una conferenza "
+"sullo stato di sviluppo del progetto QGIS_; (3) un intervento, già "
+"annunciato, nell'ambito della `conferenza ASITA <http://www.asita.it/>`_. "
+"Per iscrivervi al workshop, usate la `pagina di registrazione "
+"<http://gfossday2015.associazionegfoss.it/registrazione.html>`_. "
+"L'iscrizione è gratuita per i soci GFOSS.it, richiede una donazione per i "
+"non soci. **A presto!**"
+msgstr ""
+
+#: ../../index.rst:90
+msgid "QGIS keeps on growing in popularity, ArcGIS starts declining?"
+msgstr ""
+
+#: ../../index.rst:92
+#, qt-format
+msgid ""
+"`Long term trends in internet searches "
+"<https://www.google.com/trends/explore#q=qgis%2C%20arcgis%2C%20gvsig%2C%20mapinfo&cmpt=q&tz=Etc%2FGMT-2>`_ "
+"seem to show a continuous increase in QGIS popularity; what is new is that "
+"the proprietary market leader started loosing ground, for the first time "
+"ever - future is bright for free GIS."
+msgstr ""
+
+#: ../../index.rst:98
+msgid "Really Fast Fourier filter for rasters in QGIS"
+msgstr ""
+
+#: ../../index.rst:100
+msgid ""
+"I just approved for publication an interesting plugin: `FFT Convolution "
+"Filters <http://plugins.qgis.org/plugins/fft-convolution-filter-master/>`_; "
+"it allows both to detect edges and smooth an existing raster - and it's "
+"impressively fast! *Beware*: you need NumPy, SciPy and Rasterio python "
+"modules installed in your system. Have fun."
+msgstr ""
+
+#: ../../index.rst:106
+msgid "Full GRASS 7 support in QGIS"
+msgstr ""
+
+#: ../../index.rst:108
+msgid ""
+"Thanks to the patient work of Radim Blazek, and to the many donors, the work "
+"on a full, and much improved, support for GRASS in QGIS is almost completed. "
+"See the detail at the `crowdfunding page "
+"<http://www.gissula.eu/qgis-grass-plugin-crowdfunding/progress.html>`_. "
+"Expected delivery in 1.5 months, with QGIS 2.12."
+msgstr ""
+
+#: ../../index.rst:111
+msgid "A WPS inside QGIS?"
+msgstr ""
+
+#: ../../index.rst:113
+msgid ""
+"Thanks to friends from `3Liz <http://www.3liz.com/>`_, you can now have `Web "
+"Processing <https://github.com/3liz/qgis-wps4server>`_ within your QGIS "
+"server, in addition to the existing WMS and WFS. **wps4server** is a QGIS "
+"Server Plugin that provides `OGC Web Processing "
+"<http://www.opengeospatial.org/standards/wps>`_ capabilities, based on "
+"`PyWPS <http://pywps.wald.intevation.org/>`_ and QGIS Processing. With "
+"wps4server you can publish all the QGIS Processing algorithms through Web "
+"Processing. This means you can create a Web Processing Service that provides "
+"QGIS, GRASS7, GDAL/OGR, Orfeo Toolbox, SAGA algorithms, and also your R and "
+"Python scripts algorithms, and your Processing models. With a configuration "
+"file, you can restrict the algorithms number. `Source code and an "
+"installation guide <//github.com/3liz/qgis-wps4server>`_ available. *Test "
+"and feedback are welcome!*"
+msgstr ""
+
+#: ../../index.rst:116
+msgid "More background maps in QGIS"
+msgstr ""
+
+#: ../../index.rst:118
+msgid ""
+"One hidden gem in QGIS: `QuickMapServices Plugin "
+"<http://plugins.qgis.org/plugins/quick_map_services/>`_; it allows you to "
+"add 47 background layers from the web, including the well known Google "
+"services as well as less known, interesting stuff - and you are encouraged "
+"to add your own!"
+msgstr ""
+
+#: ../../index.rst:124
+msgid "Paolo Cavallini @ ASITA"
+msgstr ""
+
+#: ../../index.rst:126
+msgid ""
+"Nella prossima `conferenza ASITA <http://www.asita.it/>`_ (Federazione delle "
+"Associazioni Scientifiche per le Informazioni Territoriali e Ambientali) "
+"terremo un intervento nella sessione `Il software geografico libero: una "
+"reale opportunità di sviluppo? "
+"<http://www.asita.it/blog/il-software-geografico-libero-una-reale-opportunita-di-sviluppo/>`_ "
+"Siete i benvenuti, passate ed intervenite."
+msgstr ""
+
+#: ../../index.rst:132
+msgid "Change the interface of your QGIS"
+msgstr ""
+
+#: ../../index.rst:134
+msgid ""
+"It is now possible, in the development version of QGIS, to `choose and "
+"create your theme "
+"<http://nathanw.net/2015/08/29/ui-theme-support-now-core-in-qgis/>`_. If you "
+"create something interesting, why not sharing it, so it may go in the next "
+"version, due in October?"
+msgstr ""
+
+#: ../../index.rst:140
+msgid "Opinions on QGIS: today and the future"
+msgstr ""
+
+#: ../../index.rst:142
+msgid ""
+"An `interview "
+"<http://exporttocanoma.blogspot.it/2015/08/intervista-paolo-cavallini.html>`_ "
+"with Paolo Cavallini about QGIS and more. In Italian, sorry, non-latins! :)"
+msgstr ""
+
+#: ../../index.rst:145
+msgid "Customize your QGIS menus"
+msgstr ""
+
+#: ../../index.rst:147
+msgid ""
+"The flux of plugins keeps on steady - just published: **Menu builder**: "
+"Create your own menus with your favorite layers. Easy configuration is done "
+"with drag & drop from the qgis browser. More are in the queue, stay tuned."
+msgstr ""
+
+#: ../../index.rst:153
+msgid "New QGIS Long Term Release"
+msgstr ""
+
+#: ../../index.rst:155
+msgid ""
+"`QGIS 2.8.3 'Wien' new bugfix release is out "
+"<http://qgis.org/en/site/forusers/download.html>`_. Hundreds of bugfixes "
+"`(see the list "
+"<https://github.com/qgis/QGIS/compare/final-2_8_2...final-2_8_3>`_) - "
+"upgrade now! `More details on the QGIS blog "
+"<http://blog.qgis.org/2015/08/06/point-release-qgis-2-8-3-wien-is-ready/>`_"
+msgstr ""
+
+#: ../../index.rst:158
+msgid "A new QGIS plugin: Natural earth data"
+msgstr ""
+
+#: ../../index.rst:160
+msgid ""
+"Just published: `a new plugin "
+"<https://plugins.qgis.org/plugins/natural_earth_raster/>`_ to automatically "
+"download Natural Earth data. Enjoy, and `report any issue "
+"<https://github.com/informeren/qgis-natural-earth-raster/issues>`_"
+msgstr ""
+
+#: ../../index.rst:163
+msgid "Yet another interesting QGIS plugin: Cartograms"
+msgstr ""
+
+#: ../../index.rst:165
+msgid ""
+"`Create distorted maps <http://plugins.qgis.org/plugins/cartogram/>`_, where "
+"areas of each polygon represents a variable in your data. An example:"
+msgstr ""
+
+# 27ba75a5c87b4d7fbe43caa345a2a862
+#~ msgid "Twitter stream"
+#~ msgstr "Twitter stream"
+
+# 7c86988afd8844b38c23017831348731
+#~ msgid "Facebook stream"
+#~ msgstr "Facebook stream"
+
+# 6b6a7e7df7a64e8eb22e79f72ef832f4
+#~ msgid "Attività svolte"
+#~ msgstr "Actividades e trabalhos"
+
+# 991f0deeb98e44e9aa684ccc0e5e931d
+#~ msgid ":doc:`More info <jobs>`"
+#~ msgstr ":doc:`More info <jobs>`"
+
+# 376793a3f58043c9b6f0f0bf22a3efd0
+#~ msgid "Chi siamo"
+#~ msgstr "Quem somos"
+
+# 8b1d74fd505143fa92f52d472cc10beb
+#~ msgid ":doc:`More info <staff>`"
+#~ msgstr ":doc:`More info <staff>`"

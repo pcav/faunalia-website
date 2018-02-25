@@ -1,0 +1,1499 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2016, Faunalia
+# This file is distributed under the same license as the Faunalia package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Faunalia \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-18 14:58+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:4
+msgid "Convenzioni"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:6
+msgid "In questo manuale sono adottate alcune convenzioni per mettere in evidenza specifiche azioni. Le funzioni da attivare tramite menu e sottomenu sono descritte con:"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:9
+msgid ":menuselection:`Impostazioni --> Proprietà del progetto`."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:11
+msgid "il che indica di attivare il menu *“Impostazioni”* e poi il sottomenu *“Proprietà del progetto”*."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:14
+msgid "Le opzioni a cui porre particolare attenzione sono marcate con **questo stile**."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:16
+msgid "Il testo da digitare è indicato con `questo stile`."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:18
+msgid "Le annotazioni a cui porre particolare attenzione sono indicate con questo stile"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:20
+msgid "Le opzioni di particolare importanza sono indicate con questo stile"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:23
+msgid "Glossario"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:26
+msgid "LTR"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:28
+msgid "*Long Term Release*: si denominano così le versioni di QGIS_ oggetto di manutenzione di lungo termine (1 o 2 anni); le versioni LTR, nel loro ciclo di vita, ricevono regolarmente *bugfixes*, ovvero correzione di malfunzionamenti, ma non nuove funzioni, in modo da fornire un ambiente di lavoro stabile e prevedibile"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:29
+msgid "Plugin"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:31
+msgid "Componente software che estende il programma base, fornendo funzionalità aggiuntive. Sono disponibili sia plugins standard sia quelli sviluppati ad hoc, come quello descritto qui, di uso esclusivo da parte di ENEL"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:32
+msgid "OSM"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:34
+msgid "OpenStreetMap: un progetto di mappatura collaborativa globale che fornisce dati geografici liberi; viene utilizzato per generare mappe di sfondo liberamente utilizzabili"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:35
+msgid "Rete BT"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:37
+msgid "Rete Bassa Tensione"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:38
+msgid "Rete MT"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:40
+msgid "Rete Media Tensione"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:41
+msgid "Rete AT"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:43
+msgid "Rete Alta Tensione"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:44
+msgid "Global GIS"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:46
+msgid "Nuovo sistema per l'aggiornamento e la gestione cartografica della rete di distribuzione"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:47
+msgid "SIGRAF"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:49
+msgid "Sistema grafico utilizzato in ENEL Distribuzione per la gestione cartografica della rete di Nel Distribuzione"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:50
+msgid "Tratta"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:52
+msgid "Parte elementare di un percorso di un impianto, definita dalla linea poligonale spezzata compresa tra due PEL, dove si mantengono uniformi e costanti le sue caratteristiche costruttive, sia fisiche sia elettriche"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:55
+msgid "Introduzione"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:57
+msgid "Questo documento descrive l'installazione ed il funzionamento del plugin **EGG grid**, sviluppato nell'ambito del progetto :index:`GlobalGIS` per consentire, tramite strumenti desktop, di visualizzare, modificare e gestire le varie reti di competenza ENEL."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:59
+msgid "Questa versione del documento descrive la versione **1** del plugin, che gestisce la rete BT. Successive versioni gestiranno altre reti, e saranno documentate in versioni successive del documento."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:61
+msgid "Lo strumento di base su cui ci si appoggia è QGIS_, il più potente e diffuso desktop GIS a codice libero ed aperto. Il plugin qui descritto estende le funzionalità di base di QGIS_ e facilita le operazioni più comuni per la gestione della rete, fornendo un ambiente predisposto a ciò. Il plugin opera direttamente sui database ENEL, dove le operazioni realizzate dagli utenti vengono immediatamente salvate."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:63
+msgid "La scelta di base che ha improntato questo lavoro è quella di adottare quanto più possibile il funzionamento standard di QGIS_, in modo da fornire un ambiente di lavoro coerente ed omogeneo, e rendere più facile la manutenzione dell'intero stack software anche in caso di ulteriori evoluzioni del software di base."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:65
+msgid "Si è scelto inoltre di fornire all'utente un ambiente aperto, in modo che all'occorrenza sia agevole inserire ulteriori informazioni eterogenee, anche da fonti locali o di terze parti, ed utilizzare funzioni aggiuntive, utili per scopi generali o specifici, derivate al programma base o da una delle centinaia di estensioni disponibili attraverso il sistema di gestione dei plugins proprio di QGIS_."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:67
+msgid "In questo manuale non vengono descritti, a meno che non sia strettamente necessario per realizzare le funzioni del plugin, i meccanismi di funzionamento di base di QGIS_. Si rimanda alla `documentazione ufficiale del progetto <http://qgis.org/it/docs/index.html>`_ per ulteriori approfondimenti in questo senso."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:69
+msgid "Lo schema base di funzionamento è il seguente:"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:71
+msgid "Il plugin carica automaticamente tutti i layer necessari, con i relativi stili."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:72
+msgid "Il plugin attiva poi le operazioni di modifica (aggiungi e cancella, in seguito anche modifica ed ottieni informazioni) sui layer, quando la mappa abbia un livello di zoom appropriato, in modo da prevenire digitalizzazioni imprecise, perché condotte a scale troppo piccole. Tutte le scale di visualizzazione e attivazione della modalità modifica sono parametrizzate, in base ad apposita tabella sullo stesso database dove si trovano i dati."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:73
+msgid "In seguito all’input dell’utente, che disegnerà punti o linee, il plugin invoca la Stored Procedure relativa, che si occupa delle verifiche e del salvataggio sul database."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:75
+msgid "Si rimanda alle pagine:"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:77
+msgid "https://trac.faunalia.it/globalgis/wiki/GlobalPluginGridSpecs"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:78
+msgid "https://trac.faunalia.it/globalgis/wiki/GlobalPluginGridDetails"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:80
+msgid "per tutti i dettagli tecnici in merito."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:83
+msgid "Installazione"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:85
+msgid "Questa sezione è temporanea, e vale solo per il periodo di sviluppo. Verrà rimossa quando sarà predisposto il pacchetto QGIS per l'installazione definitiva, in quanto questo conterrà tutto il software necessario, incluso questo plugin"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:87
+msgid "La versione target di QGIS_ per il presente lavoro è la **2.18.x**."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:89
+msgid "L'installazione di QGIS_ non è descritta in questo documento, in quanto:"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:91
+msgid "si tratta di un'operazione banale, realizzabile tramite doppio click sull'installer *standalone* disponibile sul `sito ufficiale di QGIS <http://qgis.org/it/site/forusers/download.html>`_"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:92
+msgid "la procedura è comunque descritta nel sito ufficiale di QGIS_"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:93
+msgid "il progetto :index:`GlobalGIS` prevede la predisposizione di un installer personalizzato per ENEL, con inclusi tutti i plugins necessari per lo svolgimento del lavoro ordinario, ivi incluso quello qui descritto."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:95
+msgid "Al momento il plugin è invece distribuito tramite un *repository* personalizzato, che verrà comunque rimosso alla fine del progetto."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:97
+msgid "La sequenza di installazione del plugin è la seguente:"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:99
+msgid "avviare QGIS_"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:100
+msgid ":menuselection:`Plugins --> Gestisci e installa plugin`"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:101
+msgid ":menuselection:`Impostazioni --> Aggiungi...`"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:102
+msgid "inserire i dati relativi al *repository* Nome: `ENEL`, URL: `https://www.faunalia.eu/enel/plugins.xml`"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:106
+msgid "Il repository è sotto password (user: `pippo`, passwd: `pluto`)"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:108
+msgid "inserire le credenziali quando richiesto"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:112
+msgid "si raccomanda anche di spuntare l'opzione :menuselection:`Controlla aggiornamenti all'avvio`, in modo da essere prontamente avvisati quando saranno pubblicate nuove versioni del plugin"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:116
+msgid ":menuselection:`Tutto --> Cerca`, digitare `egg`"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:117
+msgid "click sul plugin **EGG_grid**, :menuselection:`Installa plugin`"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:118
+msgid "sincerarsi che il plugin sia installato ed attivato (casella di spunta attivata)"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:122
+msgid "L'indirizzo del *repository* e le credenziali di accesso potranno cambiare durante il corso del progetto, in funzione delle richieste di ENEL"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:124
+msgid "Una volta installato, il plugin non richiede configurazione."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:127
+msgid "Utilizzo"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:130
+msgid "Caricamento progetto da database"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:132
+msgid "Una volta installato ed attivato il plugin **EGG_grid**:"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:134
+msgid "scegliere il menu :menuselection:`Database --> ENEL --> Load project`, poi il progetto da caricare (al momento `RIOG1S.ENET`)"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:135
+msgid "il plugin caricherà automaticamente tutti i layer di progetto, inclusi alcuni layers di sfondo, con le stilizzazioni appropriate"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:136
+msgid "eventualmente aggiungere layers di sfondo addizionali: :menuselection:`Web --> QuickMapServices` e scegliere quello di interesse (consigliato **OSM**)"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:141
+msgid "Funzionalità di visualizzazione"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:143
+msgid "Alcune funzioni di utilità generale, anche nel quadro di utilizzo di questo plugin, sono le seguenti:"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:145
+msgid "per visualizzare le etichette associate ai vari elementi geografici: :menuselection:`Layer --> Proprietà --> Etichette`; si noti che i parametri di visualizzazione (dimensioni, font, ecc.) sono impostabili sia in modo statico, uguale per tutti gli elementi, sia in modo dinamico, in funzione di dati associati o ricavabili dagli elementi stessi"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:146
+msgid "per aggiungere una vista panoramica: :menuselection:`Visualizza --> Pannelli --> Overview panel`, poi scegliere il layer da visualizzare nella vista panoramica, :menuselection:`Click destro --> Aggiungi alla panoramica`"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:147
+msgid "per visualizzare il sistema di riferimento cartografico del progetto, basta osservare l'area all'estremità in basso a destra della finestra di QGIS_, dove è riportato il codice EPSG del sistema utilizzato; per visualizzare i dettagli del sistema, fare click sul codice stesso, e verrà mostrata una finestra con le definizioni, le unità di misura, e il nome associato."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:149
+msgid "Si rimanda al manuale ufficiale di QGIS_, disponibile all'indirizzo http://www.qgis.org/it/docs/  per ulteriori dettagli."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:152
+msgid "Inserimento, modifica e interrogazione dei dati di rete"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:154
+msgid "Per inserire e modificare elementi di rete (lineari e puntuali), la logica di base è la seguente:"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:156
+msgid "scegliere il layer di interesse, zoomare al livello opportuno per la visualizzazione e la modifica (come configurato sull’apposita tabella del database, a cui si rimanda per dettagli)"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:157
+msgid "a questo punto la barra di modifica si attiva, con l’icona appropriata al tipo di geometria (nel caso di esempio, puntiforme) ed i comandi ammissibili sono attivi:"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:161
+msgid "l’utente può procedere ad inserimenti, modifiche, cancellazioni relativamente al layer selezionato, e alla richiesta di informazioni"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:162
+msgid "il plugin mostra feedback grafico all’utente, passa i dati raccolti dalla canvas alla *Stored Procedure* sottostante, che viene invocata e scrive effettivamente sul database."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:164
+msgid "Il funzionamento per i vari elementi è spiegato in dettaglio nei capitoli seguenti."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:166
+msgid "Regole di modifica e visualizzazione"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:167
+msgid "Visibilità degli elementi elettrici"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:169
+msgid "In tutte le finestre di inserimento dati, alcuni campi sono ad inserimento libero, altri invece utilizzano un menu a tendina con un set di possibilità definite."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:172
+msgid "Gestione Entità di rete BT – Bassa Tensione"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:174
+#: ../../build/html/enel/EGG_grid/manual/content.rst:670
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1050
+msgid "Per ciascuna operazione, è necessario prima di tutto:"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:176
+#: ../../build/html/enel/EGG_grid/manual/content.rst:672
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1052
+msgid "selezionare il layer mediante click nella legenda"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:177
+#: ../../build/html/enel/EGG_grid/manual/content.rst:673
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1053
+msgid "zoomare fino ad un livello adeguato per attivare la modalità modifica, visibile perché il menu relativo passa da grigio a colorato"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:181
+#: ../../build/html/enel/EGG_grid/manual/content.rst:677
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1057
+msgid "Il menu \"acceleratore\" consente di attivare direttamente la modalità modifica su un determinato layer, creando nuovi elementi, senza la necessità di selezionare preventivamente il layer nella legenda:"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:186
+msgid "Nodo di consegna"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:188
+#: ../../build/html/enel/EGG_grid/manual/content.rst:246
+#: ../../build/html/enel/EGG_grid/manual/content.rst:304
+#: ../../build/html/enel/EGG_grid/manual/content.rst:371
+#: ../../build/html/enel/EGG_grid/manual/content.rst:429
+#: ../../build/html/enel/EGG_grid/manual/content.rst:489
+#: ../../build/html/enel/EGG_grid/manual/content.rst:554
+#: ../../build/html/enel/EGG_grid/manual/content.rst:612
+#: ../../build/html/enel/EGG_grid/manual/content.rst:684
+#: ../../build/html/enel/EGG_grid/manual/content.rst:742
+#: ../../build/html/enel/EGG_grid/manual/content.rst:809
+#: ../../build/html/enel/EGG_grid/manual/content.rst:869
+#: ../../build/html/enel/EGG_grid/manual/content.rst:934
+#: ../../build/html/enel/EGG_grid/manual/content.rst:992
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1064
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1122
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1189
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1247
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1307
+msgid "**Creazione**:"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:190
+#: ../../build/html/enel/EGG_grid/manual/content.rst:248
+#: ../../build/html/enel/EGG_grid/manual/content.rst:306
+#: ../../build/html/enel/EGG_grid/manual/content.rst:373
+#: ../../build/html/enel/EGG_grid/manual/content.rst:431
+#: ../../build/html/enel/EGG_grid/manual/content.rst:556
+#: ../../build/html/enel/EGG_grid/manual/content.rst:614
+#: ../../build/html/enel/EGG_grid/manual/content.rst:686
+#: ../../build/html/enel/EGG_grid/manual/content.rst:744
+#: ../../build/html/enel/EGG_grid/manual/content.rst:811
+#: ../../build/html/enel/EGG_grid/manual/content.rst:936
+#: ../../build/html/enel/EGG_grid/manual/content.rst:994
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1066
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1124
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1191
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1249
+msgid "cliccare sull'icona con i punti"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:191
+#: ../../build/html/enel/EGG_grid/manual/content.rst:249
+#: ../../build/html/enel/EGG_grid/manual/content.rst:307
+#: ../../build/html/enel/EGG_grid/manual/content.rst:374
+#: ../../build/html/enel/EGG_grid/manual/content.rst:432
+#: ../../build/html/enel/EGG_grid/manual/content.rst:557
+#: ../../build/html/enel/EGG_grid/manual/content.rst:615
+#: ../../build/html/enel/EGG_grid/manual/content.rst:687
+#: ../../build/html/enel/EGG_grid/manual/content.rst:745
+#: ../../build/html/enel/EGG_grid/manual/content.rst:812
+#: ../../build/html/enel/EGG_grid/manual/content.rst:937
+#: ../../build/html/enel/EGG_grid/manual/content.rst:995
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1067
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1125
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1192
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1250
+msgid "posizionarsi sulla mappa, cliccare dove si vuole creare il nuovo elemento"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:192
+#: ../../build/html/enel/EGG_grid/manual/content.rst:221
+#: ../../build/html/enel/EGG_grid/manual/content.rst:250
+#: ../../build/html/enel/EGG_grid/manual/content.rst:279
+#: ../../build/html/enel/EGG_grid/manual/content.rst:346
+#: ../../build/html/enel/EGG_grid/manual/content.rst:375
+#: ../../build/html/enel/EGG_grid/manual/content.rst:404
+#: ../../build/html/enel/EGG_grid/manual/content.rst:433
+#: ../../build/html/enel/EGG_grid/manual/content.rst:462
+#: ../../build/html/enel/EGG_grid/manual/content.rst:529
+#: ../../build/html/enel/EGG_grid/manual/content.rst:558
+#: ../../build/html/enel/EGG_grid/manual/content.rst:587
+#: ../../build/html/enel/EGG_grid/manual/content.rst:616
+#: ../../build/html/enel/EGG_grid/manual/content.rst:645
+#: ../../build/html/enel/EGG_grid/manual/content.rst:688
+#: ../../build/html/enel/EGG_grid/manual/content.rst:717
+#: ../../build/html/enel/EGG_grid/manual/content.rst:784
+#: ../../build/html/enel/EGG_grid/manual/content.rst:813
+#: ../../build/html/enel/EGG_grid/manual/content.rst:842
+#: ../../build/html/enel/EGG_grid/manual/content.rst:909
+#: ../../build/html/enel/EGG_grid/manual/content.rst:938
+#: ../../build/html/enel/EGG_grid/manual/content.rst:967
+#: ../../build/html/enel/EGG_grid/manual/content.rst:996
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1025
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1068
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1097
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1164
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1193
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1222
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1251
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1280
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1347
+msgid "viene mostrato un modulo di inserimento dati (i campi che devono essere necessariamente compilati sono indicati con un asterisco (*) ed evidenziati in rosso quando non compilati)"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:193
+#: ../../build/html/enel/EGG_grid/manual/content.rst:251
+#: ../../build/html/enel/EGG_grid/manual/content.rst:312
+#: ../../build/html/enel/EGG_grid/manual/content.rst:376
+#: ../../build/html/enel/EGG_grid/manual/content.rst:434
+#: ../../build/html/enel/EGG_grid/manual/content.rst:498
+#: ../../build/html/enel/EGG_grid/manual/content.rst:559
+#: ../../build/html/enel/EGG_grid/manual/content.rst:617
+#: ../../build/html/enel/EGG_grid/manual/content.rst:689
+#: ../../build/html/enel/EGG_grid/manual/content.rst:750
+#: ../../build/html/enel/EGG_grid/manual/content.rst:814
+#: ../../build/html/enel/EGG_grid/manual/content.rst:878
+#: ../../build/html/enel/EGG_grid/manual/content.rst:939
+#: ../../build/html/enel/EGG_grid/manual/content.rst:997
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1069
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1130
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1194
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1252
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1316
+msgid "una volta inseriti i dati, cliccare su **OK**"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:194
+#: ../../build/html/enel/EGG_grid/manual/content.rst:252
+#: ../../build/html/enel/EGG_grid/manual/content.rst:377
+#: ../../build/html/enel/EGG_grid/manual/content.rst:435
+#: ../../build/html/enel/EGG_grid/manual/content.rst:560
+#: ../../build/html/enel/EGG_grid/manual/content.rst:618
+#: ../../build/html/enel/EGG_grid/manual/content.rst:690
+#: ../../build/html/enel/EGG_grid/manual/content.rst:815
+#: ../../build/html/enel/EGG_grid/manual/content.rst:940
+#: ../../build/html/enel/EGG_grid/manual/content.rst:998
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1070
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1195
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1253
+msgid "il nuovo punto apparirà in mappa, con la tematizzazione adeguata in funzione del tipo selezionato."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:198
+#: ../../build/html/enel/EGG_grid/manual/content.rst:256
+#: ../../build/html/enel/EGG_grid/manual/content.rst:317
+#: ../../build/html/enel/EGG_grid/manual/content.rst:381
+#: ../../build/html/enel/EGG_grid/manual/content.rst:439
+#: ../../build/html/enel/EGG_grid/manual/content.rst:504
+#: ../../build/html/enel/EGG_grid/manual/content.rst:564
+#: ../../build/html/enel/EGG_grid/manual/content.rst:622
+#: ../../build/html/enel/EGG_grid/manual/content.rst:694
+#: ../../build/html/enel/EGG_grid/manual/content.rst:755
+#: ../../build/html/enel/EGG_grid/manual/content.rst:819
+#: ../../build/html/enel/EGG_grid/manual/content.rst:884
+#: ../../build/html/enel/EGG_grid/manual/content.rst:944
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1002
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1074
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1135
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1199
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1257
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1322
+msgid "Descrizioni dei campi da compilare:"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:200
+#: ../../build/html/enel/EGG_grid/manual/content.rst:258
+#: ../../build/html/enel/EGG_grid/manual/content.rst:319
+#: ../../build/html/enel/EGG_grid/manual/content.rst:696
+#: ../../build/html/enel/EGG_grid/manual/content.rst:757
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1076
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1137
+msgid "**Location**: Coordinate geografiche del nodo. Campo non modificabile nel form di inserimento"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:201
+#: ../../build/html/enel/EGG_grid/manual/content.rst:259
+#: ../../build/html/enel/EGG_grid/manual/content.rst:321
+#: ../../build/html/enel/EGG_grid/manual/content.rst:697
+#: ../../build/html/enel/EGG_grid/manual/content.rst:759
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1077
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1139
+msgid "**Type (*)**: Tipologia di nodo che si vuole inserire (campo obbligatorio). Campo a scelta multipla"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:202
+#: ../../build/html/enel/EGG_grid/manual/content.rst:260
+#: ../../build/html/enel/EGG_grid/manual/content.rst:322
+#: ../../build/html/enel/EGG_grid/manual/content.rst:385
+#: ../../build/html/enel/EGG_grid/manual/content.rst:443
+#: ../../build/html/enel/EGG_grid/manual/content.rst:568
+#: ../../build/html/enel/EGG_grid/manual/content.rst:626
+#: ../../build/html/enel/EGG_grid/manual/content.rst:698
+#: ../../build/html/enel/EGG_grid/manual/content.rst:760
+#: ../../build/html/enel/EGG_grid/manual/content.rst:823
+#: ../../build/html/enel/EGG_grid/manual/content.rst:948
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1006
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1078
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1140
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1203
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1261
+msgid "**Status (*)**: Stato dell'entità (campo obbligatorio). Campo a scelta multipla"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:203
+#: ../../build/html/enel/EGG_grid/manual/content.rst:261
+#: ../../build/html/enel/EGG_grid/manual/content.rst:323
+#: ../../build/html/enel/EGG_grid/manual/content.rst:699
+#: ../../build/html/enel/EGG_grid/manual/content.rst:761
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1079
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1141
+msgid "**Code**: Natural key del nodo, codice costruito in base all'area territoriale in cui ci si trova e alla tipologia dell'elemento. Campo non modificabile nel form di inserimento"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:204
+#: ../../build/html/enel/EGG_grid/manual/content.rst:262
+#: ../../build/html/enel/EGG_grid/manual/content.rst:324
+#: ../../build/html/enel/EGG_grid/manual/content.rst:387
+#: ../../build/html/enel/EGG_grid/manual/content.rst:445
+#: ../../build/html/enel/EGG_grid/manual/content.rst:570
+#: ../../build/html/enel/EGG_grid/manual/content.rst:628
+#: ../../build/html/enel/EGG_grid/manual/content.rst:700
+#: ../../build/html/enel/EGG_grid/manual/content.rst:762
+#: ../../build/html/enel/EGG_grid/manual/content.rst:825
+#: ../../build/html/enel/EGG_grid/manual/content.rst:950
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1008
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1080
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1142
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1205
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1263
+msgid "**Description**: Descrizione dell'elemento geografico. Campo alfanumerico"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:205
+#: ../../build/html/enel/EGG_grid/manual/content.rst:263
+#: ../../build/html/enel/EGG_grid/manual/content.rst:325
+#: ../../build/html/enel/EGG_grid/manual/content.rst:701
+#: ../../build/html/enel/EGG_grid/manual/content.rst:763
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1081
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1143
+msgid "**Elevation**: Quota del nodo. Campo numerico, con il carattere '.' come separatore decimale"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:206
+#: ../../build/html/enel/EGG_grid/manual/content.rst:264
+#: ../../build/html/enel/EGG_grid/manual/content.rst:326
+#: ../../build/html/enel/EGG_grid/manual/content.rst:389
+#: ../../build/html/enel/EGG_grid/manual/content.rst:447
+#: ../../build/html/enel/EGG_grid/manual/content.rst:572
+#: ../../build/html/enel/EGG_grid/manual/content.rst:630
+#: ../../build/html/enel/EGG_grid/manual/content.rst:702
+#: ../../build/html/enel/EGG_grid/manual/content.rst:764
+#: ../../build/html/enel/EGG_grid/manual/content.rst:827
+#: ../../build/html/enel/EGG_grid/manual/content.rst:952
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1010
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1082
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1144
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1207
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1265
+msgid "**Legacy code**: Codice univoco dell’oggetto nel sistema sorgente. Usato solo ai fini della ripresa dati. Campo alfanumerico"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:207
+#: ../../build/html/enel/EGG_grid/manual/content.rst:265
+#: ../../build/html/enel/EGG_grid/manual/content.rst:327
+#: ../../build/html/enel/EGG_grid/manual/content.rst:390
+#: ../../build/html/enel/EGG_grid/manual/content.rst:448
+#: ../../build/html/enel/EGG_grid/manual/content.rst:512
+#: ../../build/html/enel/EGG_grid/manual/content.rst:573
+#: ../../build/html/enel/EGG_grid/manual/content.rst:631
+#: ../../build/html/enel/EGG_grid/manual/content.rst:703
+#: ../../build/html/enel/EGG_grid/manual/content.rst:765
+#: ../../build/html/enel/EGG_grid/manual/content.rst:828
+#: ../../build/html/enel/EGG_grid/manual/content.rst:892
+#: ../../build/html/enel/EGG_grid/manual/content.rst:953
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1011
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1083
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1145
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1208
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1266
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1330
+msgid "**Note**: Note. Campo alfanumerico"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:208
+#: ../../build/html/enel/EGG_grid/manual/content.rst:266
+#: ../../build/html/enel/EGG_grid/manual/content.rst:328
+#: ../../build/html/enel/EGG_grid/manual/content.rst:704
+#: ../../build/html/enel/EGG_grid/manual/content.rst:766
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1084
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1146
+msgid "**Label**: Etichetta che sarà visualizzata del nodo. Campo alfanumerico."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:210
+#: ../../build/html/enel/EGG_grid/manual/content.rst:268
+#: ../../build/html/enel/EGG_grid/manual/content.rst:334
+#: ../../build/html/enel/EGG_grid/manual/content.rst:393
+#: ../../build/html/enel/EGG_grid/manual/content.rst:451
+#: ../../build/html/enel/EGG_grid/manual/content.rst:515
+#: ../../build/html/enel/EGG_grid/manual/content.rst:576
+#: ../../build/html/enel/EGG_grid/manual/content.rst:634
+#: ../../build/html/enel/EGG_grid/manual/content.rst:706
+#: ../../build/html/enel/EGG_grid/manual/content.rst:772
+#: ../../build/html/enel/EGG_grid/manual/content.rst:831
+#: ../../build/html/enel/EGG_grid/manual/content.rst:895
+#: ../../build/html/enel/EGG_grid/manual/content.rst:956
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1014
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1086
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1152
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1211
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1269
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1333
+msgid "**Modifica geometria**:"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:212
+#: ../../build/html/enel/EGG_grid/manual/content.rst:270
+#: ../../build/html/enel/EGG_grid/manual/content.rst:336
+#: ../../build/html/enel/EGG_grid/manual/content.rst:395
+#: ../../build/html/enel/EGG_grid/manual/content.rst:453
+#: ../../build/html/enel/EGG_grid/manual/content.rst:517
+#: ../../build/html/enel/EGG_grid/manual/content.rst:578
+#: ../../build/html/enel/EGG_grid/manual/content.rst:636
+#: ../../build/html/enel/EGG_grid/manual/content.rst:708
+#: ../../build/html/enel/EGG_grid/manual/content.rst:774
+#: ../../build/html/enel/EGG_grid/manual/content.rst:833
+#: ../../build/html/enel/EGG_grid/manual/content.rst:897
+#: ../../build/html/enel/EGG_grid/manual/content.rst:958
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1016
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1088
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1154
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1213
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1271
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1335
+msgid "cliccare sull'icona per la modifica della geometria (a destra nella barra di menu)"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:213
+#: ../../build/html/enel/EGG_grid/manual/content.rst:271
+#: ../../build/html/enel/EGG_grid/manual/content.rst:337
+#: ../../build/html/enel/EGG_grid/manual/content.rst:396
+#: ../../build/html/enel/EGG_grid/manual/content.rst:454
+#: ../../build/html/enel/EGG_grid/manual/content.rst:579
+#: ../../build/html/enel/EGG_grid/manual/content.rst:637
+#: ../../build/html/enel/EGG_grid/manual/content.rst:709
+#: ../../build/html/enel/EGG_grid/manual/content.rst:775
+#: ../../build/html/enel/EGG_grid/manual/content.rst:834
+#: ../../build/html/enel/EGG_grid/manual/content.rst:959
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1017
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1089
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1155
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1214
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1272
+msgid "posizionarsi sulla mappa, cliccare sull'elemento da spostare"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:214
+#: ../../build/html/enel/EGG_grid/manual/content.rst:272
+#: ../../build/html/enel/EGG_grid/manual/content.rst:338
+#: ../../build/html/enel/EGG_grid/manual/content.rst:397
+#: ../../build/html/enel/EGG_grid/manual/content.rst:455
+#: ../../build/html/enel/EGG_grid/manual/content.rst:580
+#: ../../build/html/enel/EGG_grid/manual/content.rst:638
+#: ../../build/html/enel/EGG_grid/manual/content.rst:710
+#: ../../build/html/enel/EGG_grid/manual/content.rst:776
+#: ../../build/html/enel/EGG_grid/manual/content.rst:835
+#: ../../build/html/enel/EGG_grid/manual/content.rst:960
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1018
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1090
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1156
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1215
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1273
+msgid "cliccare dove si vuole riposizionare l'elemento"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:215
+#: ../../build/html/enel/EGG_grid/manual/content.rst:273
+#: ../../build/html/enel/EGG_grid/manual/content.rst:340
+#: ../../build/html/enel/EGG_grid/manual/content.rst:398
+#: ../../build/html/enel/EGG_grid/manual/content.rst:456
+#: ../../build/html/enel/EGG_grid/manual/content.rst:581
+#: ../../build/html/enel/EGG_grid/manual/content.rst:639
+#: ../../build/html/enel/EGG_grid/manual/content.rst:711
+#: ../../build/html/enel/EGG_grid/manual/content.rst:778
+#: ../../build/html/enel/EGG_grid/manual/content.rst:836
+#: ../../build/html/enel/EGG_grid/manual/content.rst:961
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1019
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1091
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1158
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1216
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1274
+msgid "l'elemento riposizionato apparirà in mappa, con la tematizzazione adeguata."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:217
+#: ../../build/html/enel/EGG_grid/manual/content.rst:275
+#: ../../build/html/enel/EGG_grid/manual/content.rst:342
+#: ../../build/html/enel/EGG_grid/manual/content.rst:400
+#: ../../build/html/enel/EGG_grid/manual/content.rst:458
+#: ../../build/html/enel/EGG_grid/manual/content.rst:525
+#: ../../build/html/enel/EGG_grid/manual/content.rst:583
+#: ../../build/html/enel/EGG_grid/manual/content.rst:641
+#: ../../build/html/enel/EGG_grid/manual/content.rst:713
+#: ../../build/html/enel/EGG_grid/manual/content.rst:780
+#: ../../build/html/enel/EGG_grid/manual/content.rst:838
+#: ../../build/html/enel/EGG_grid/manual/content.rst:905
+#: ../../build/html/enel/EGG_grid/manual/content.rst:963
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1021
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1093
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1160
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1218
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1276
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1343
+msgid "**Modifica dati**:"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:219
+#: ../../build/html/enel/EGG_grid/manual/content.rst:277
+#: ../../build/html/enel/EGG_grid/manual/content.rst:344
+#: ../../build/html/enel/EGG_grid/manual/content.rst:402
+#: ../../build/html/enel/EGG_grid/manual/content.rst:460
+#: ../../build/html/enel/EGG_grid/manual/content.rst:527
+#: ../../build/html/enel/EGG_grid/manual/content.rst:585
+#: ../../build/html/enel/EGG_grid/manual/content.rst:643
+#: ../../build/html/enel/EGG_grid/manual/content.rst:715
+#: ../../build/html/enel/EGG_grid/manual/content.rst:782
+#: ../../build/html/enel/EGG_grid/manual/content.rst:840
+#: ../../build/html/enel/EGG_grid/manual/content.rst:907
+#: ../../build/html/enel/EGG_grid/manual/content.rst:965
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1023
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1095
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1162
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1220
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1278
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1345
+msgid "cliccare sull'icona con la penna"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:220
+#: ../../build/html/enel/EGG_grid/manual/content.rst:278
+#: ../../build/html/enel/EGG_grid/manual/content.rst:345
+#: ../../build/html/enel/EGG_grid/manual/content.rst:403
+#: ../../build/html/enel/EGG_grid/manual/content.rst:461
+#: ../../build/html/enel/EGG_grid/manual/content.rst:528
+#: ../../build/html/enel/EGG_grid/manual/content.rst:586
+#: ../../build/html/enel/EGG_grid/manual/content.rst:644
+#: ../../build/html/enel/EGG_grid/manual/content.rst:716
+#: ../../build/html/enel/EGG_grid/manual/content.rst:783
+#: ../../build/html/enel/EGG_grid/manual/content.rst:841
+#: ../../build/html/enel/EGG_grid/manual/content.rst:908
+#: ../../build/html/enel/EGG_grid/manual/content.rst:966
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1024
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1096
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1163
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1221
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1279
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1346
+msgid "posizionarsi sulla mappa, cliccare sull'elemento da modificare"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:222
+#: ../../build/html/enel/EGG_grid/manual/content.rst:280
+#: ../../build/html/enel/EGG_grid/manual/content.rst:347
+#: ../../build/html/enel/EGG_grid/manual/content.rst:405
+#: ../../build/html/enel/EGG_grid/manual/content.rst:463
+#: ../../build/html/enel/EGG_grid/manual/content.rst:530
+#: ../../build/html/enel/EGG_grid/manual/content.rst:588
+#: ../../build/html/enel/EGG_grid/manual/content.rst:646
+#: ../../build/html/enel/EGG_grid/manual/content.rst:718
+#: ../../build/html/enel/EGG_grid/manual/content.rst:785
+#: ../../build/html/enel/EGG_grid/manual/content.rst:843
+#: ../../build/html/enel/EGG_grid/manual/content.rst:910
+#: ../../build/html/enel/EGG_grid/manual/content.rst:968
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1026
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1098
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1165
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1223
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1281
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1348
+msgid "modificare i dati"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:223
+#: ../../build/html/enel/EGG_grid/manual/content.rst:281
+#: ../../build/html/enel/EGG_grid/manual/content.rst:406
+#: ../../build/html/enel/EGG_grid/manual/content.rst:464
+#: ../../build/html/enel/EGG_grid/manual/content.rst:531
+#: ../../build/html/enel/EGG_grid/manual/content.rst:589
+#: ../../build/html/enel/EGG_grid/manual/content.rst:647
+#: ../../build/html/enel/EGG_grid/manual/content.rst:719
+#: ../../build/html/enel/EGG_grid/manual/content.rst:786
+#: ../../build/html/enel/EGG_grid/manual/content.rst:844
+#: ../../build/html/enel/EGG_grid/manual/content.rst:911
+#: ../../build/html/enel/EGG_grid/manual/content.rst:969
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1027
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1099
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1166
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1224
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1282
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1349
+msgid "l'elemento modificato apparirà in mappa, con la tematizzazione adeguata ai nuovi dati inseriti."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:225
+#: ../../build/html/enel/EGG_grid/manual/content.rst:283
+#: ../../build/html/enel/EGG_grid/manual/content.rst:350
+#: ../../build/html/enel/EGG_grid/manual/content.rst:408
+#: ../../build/html/enel/EGG_grid/manual/content.rst:466
+#: ../../build/html/enel/EGG_grid/manual/content.rst:533
+#: ../../build/html/enel/EGG_grid/manual/content.rst:591
+#: ../../build/html/enel/EGG_grid/manual/content.rst:649
+#: ../../build/html/enel/EGG_grid/manual/content.rst:721
+#: ../../build/html/enel/EGG_grid/manual/content.rst:788
+#: ../../build/html/enel/EGG_grid/manual/content.rst:846
+#: ../../build/html/enel/EGG_grid/manual/content.rst:913
+#: ../../build/html/enel/EGG_grid/manual/content.rst:971
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1029
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1101
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1168
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1226
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1284
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1351
+msgid "**Eliminazione**:"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:227
+#: ../../build/html/enel/EGG_grid/manual/content.rst:285
+#: ../../build/html/enel/EGG_grid/manual/content.rst:352
+#: ../../build/html/enel/EGG_grid/manual/content.rst:410
+#: ../../build/html/enel/EGG_grid/manual/content.rst:468
+#: ../../build/html/enel/EGG_grid/manual/content.rst:535
+#: ../../build/html/enel/EGG_grid/manual/content.rst:593
+#: ../../build/html/enel/EGG_grid/manual/content.rst:651
+#: ../../build/html/enel/EGG_grid/manual/content.rst:723
+#: ../../build/html/enel/EGG_grid/manual/content.rst:790
+#: ../../build/html/enel/EGG_grid/manual/content.rst:848
+#: ../../build/html/enel/EGG_grid/manual/content.rst:915
+#: ../../build/html/enel/EGG_grid/manual/content.rst:973
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1031
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1103
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1170
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1228
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1286
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1353
+msgid "cliccare sull'icona con il cestino"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:228
+#: ../../build/html/enel/EGG_grid/manual/content.rst:286
+#: ../../build/html/enel/EGG_grid/manual/content.rst:353
+#: ../../build/html/enel/EGG_grid/manual/content.rst:411
+#: ../../build/html/enel/EGG_grid/manual/content.rst:469
+#: ../../build/html/enel/EGG_grid/manual/content.rst:536
+#: ../../build/html/enel/EGG_grid/manual/content.rst:594
+#: ../../build/html/enel/EGG_grid/manual/content.rst:652
+#: ../../build/html/enel/EGG_grid/manual/content.rst:724
+#: ../../build/html/enel/EGG_grid/manual/content.rst:791
+#: ../../build/html/enel/EGG_grid/manual/content.rst:849
+#: ../../build/html/enel/EGG_grid/manual/content.rst:916
+#: ../../build/html/enel/EGG_grid/manual/content.rst:974
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1032
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1104
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1171
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1229
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1287
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1354
+msgid "posizionarsi sulla mappa, cliccare sull'elemento da eliminare"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:229
+#: ../../build/html/enel/EGG_grid/manual/content.rst:287
+#: ../../build/html/enel/EGG_grid/manual/content.rst:354
+#: ../../build/html/enel/EGG_grid/manual/content.rst:412
+#: ../../build/html/enel/EGG_grid/manual/content.rst:470
+#: ../../build/html/enel/EGG_grid/manual/content.rst:537
+#: ../../build/html/enel/EGG_grid/manual/content.rst:595
+#: ../../build/html/enel/EGG_grid/manual/content.rst:653
+#: ../../build/html/enel/EGG_grid/manual/content.rst:725
+#: ../../build/html/enel/EGG_grid/manual/content.rst:792
+#: ../../build/html/enel/EGG_grid/manual/content.rst:850
+#: ../../build/html/enel/EGG_grid/manual/content.rst:917
+#: ../../build/html/enel/EGG_grid/manual/content.rst:975
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1033
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1105
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1172
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1230
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1288
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1355
+msgid "viene mostrata una finestra di conferma della volontà di eliminazione"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:230
+#: ../../build/html/enel/EGG_grid/manual/content.rst:288
+#: ../../build/html/enel/EGG_grid/manual/content.rst:355
+#: ../../build/html/enel/EGG_grid/manual/content.rst:413
+#: ../../build/html/enel/EGG_grid/manual/content.rst:471
+#: ../../build/html/enel/EGG_grid/manual/content.rst:538
+#: ../../build/html/enel/EGG_grid/manual/content.rst:596
+#: ../../build/html/enel/EGG_grid/manual/content.rst:654
+#: ../../build/html/enel/EGG_grid/manual/content.rst:726
+#: ../../build/html/enel/EGG_grid/manual/content.rst:793
+#: ../../build/html/enel/EGG_grid/manual/content.rst:851
+#: ../../build/html/enel/EGG_grid/manual/content.rst:918
+#: ../../build/html/enel/EGG_grid/manual/content.rst:976
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1034
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1106
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1173
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1231
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1289
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1356
+msgid "cliccare su **OK** per confermare"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:231
+#: ../../build/html/enel/EGG_grid/manual/content.rst:289
+#: ../../build/html/enel/EGG_grid/manual/content.rst:356
+#: ../../build/html/enel/EGG_grid/manual/content.rst:414
+#: ../../build/html/enel/EGG_grid/manual/content.rst:472
+#: ../../build/html/enel/EGG_grid/manual/content.rst:539
+#: ../../build/html/enel/EGG_grid/manual/content.rst:597
+#: ../../build/html/enel/EGG_grid/manual/content.rst:655
+#: ../../build/html/enel/EGG_grid/manual/content.rst:727
+#: ../../build/html/enel/EGG_grid/manual/content.rst:794
+#: ../../build/html/enel/EGG_grid/manual/content.rst:852
+#: ../../build/html/enel/EGG_grid/manual/content.rst:919
+#: ../../build/html/enel/EGG_grid/manual/content.rst:977
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1035
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1107
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1174
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1232
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1290
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1357
+msgid "l'elemento scomparirà dalla mappa."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:233
+#: ../../build/html/enel/EGG_grid/manual/content.rst:291
+#: ../../build/html/enel/EGG_grid/manual/content.rst:358
+#: ../../build/html/enel/EGG_grid/manual/content.rst:416
+#: ../../build/html/enel/EGG_grid/manual/content.rst:474
+#: ../../build/html/enel/EGG_grid/manual/content.rst:541
+#: ../../build/html/enel/EGG_grid/manual/content.rst:599
+#: ../../build/html/enel/EGG_grid/manual/content.rst:657
+#: ../../build/html/enel/EGG_grid/manual/content.rst:729
+#: ../../build/html/enel/EGG_grid/manual/content.rst:796
+#: ../../build/html/enel/EGG_grid/manual/content.rst:854
+#: ../../build/html/enel/EGG_grid/manual/content.rst:921
+#: ../../build/html/enel/EGG_grid/manual/content.rst:979
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1037
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1109
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1176
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1234
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1292
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1359
+msgid "**Visualizzazione informazioni**:"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:235
+#: ../../build/html/enel/EGG_grid/manual/content.rst:293
+#: ../../build/html/enel/EGG_grid/manual/content.rst:360
+#: ../../build/html/enel/EGG_grid/manual/content.rst:418
+#: ../../build/html/enel/EGG_grid/manual/content.rst:476
+#: ../../build/html/enel/EGG_grid/manual/content.rst:543
+#: ../../build/html/enel/EGG_grid/manual/content.rst:601
+#: ../../build/html/enel/EGG_grid/manual/content.rst:659
+#: ../../build/html/enel/EGG_grid/manual/content.rst:731
+#: ../../build/html/enel/EGG_grid/manual/content.rst:798
+#: ../../build/html/enel/EGG_grid/manual/content.rst:856
+#: ../../build/html/enel/EGG_grid/manual/content.rst:923
+#: ../../build/html/enel/EGG_grid/manual/content.rst:981
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1039
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1111
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1178
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1236
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1294
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1361
+msgid "Per ricavare le informazioni specifiche su un elemento, è sufficiente premere sul pulsante standard di QGIS_, avendo selezionato il layer corrispondente nella legenda"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:239
+#: ../../build/html/enel/EGG_grid/manual/content.rst:297
+#: ../../build/html/enel/EGG_grid/manual/content.rst:364
+#: ../../build/html/enel/EGG_grid/manual/content.rst:422
+#: ../../build/html/enel/EGG_grid/manual/content.rst:480
+#: ../../build/html/enel/EGG_grid/manual/content.rst:547
+#: ../../build/html/enel/EGG_grid/manual/content.rst:605
+#: ../../build/html/enel/EGG_grid/manual/content.rst:663
+#: ../../build/html/enel/EGG_grid/manual/content.rst:735
+#: ../../build/html/enel/EGG_grid/manual/content.rst:802
+#: ../../build/html/enel/EGG_grid/manual/content.rst:860
+#: ../../build/html/enel/EGG_grid/manual/content.rst:927
+#: ../../build/html/enel/EGG_grid/manual/content.rst:985
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1043
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1115
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1182
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1240
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1298
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1365
+msgid "al che si aprirà la finestra di informazioni corrispondente, con links a specifiche pagine web"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:244
+msgid "Nodo rigido BT"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:302
+msgid "Nodo origine linea BT"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:308
+#: ../../build/html/enel/EGG_grid/manual/content.rst:746
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1126
+msgid "cliccare su un elemento (*Cabina*) a cui il *Nodo origine linea* deve essere collegato"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:309
+#: ../../build/html/enel/EGG_grid/manual/content.rst:747
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1127
+msgid "se non viene selezionata una *Cabina*, l'operazione è annullata, e nessun nuovo dato viene salvato"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:310
+msgid "se viene selezionata una *Cabina* valida, viene mostrato un modulo di inserimento dati, sia per il *Nodo* che per la linea che la collega alla *Cabina* (i campi che devono essere necessariamente compilati sono indicati con un asterisco (*) ed evidenziati in rosso quando non compilati)"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:311
+#: ../../build/html/enel/EGG_grid/manual/content.rst:339
+#: ../../build/html/enel/EGG_grid/manual/content.rst:749
+#: ../../build/html/enel/EGG_grid/manual/content.rst:777
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1129
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1157
+msgid "il plugin verifica che la distanza fra *Cabina* e *Nodo* sia inferiore a 200 m; in caso contrario, l'utente riceve un messaggio di attenzione"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:313
+#: ../../build/html/enel/EGG_grid/manual/content.rst:751
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1131
+msgid "il nuovo punto apparirà in mappa, con la tematizzazione adeguata in funzione del tipo selezionato, e verrà inoltre creata e visualizzata la linea che lo connette alla *Cabina*."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:320
+#: ../../build/html/enel/EGG_grid/manual/content.rst:758
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1138
+msgid "**Station ID**: Codice identificativo del nodo. Campo non modificabile nel form di inserimento"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:329
+#: ../../build/html/enel/EGG_grid/manual/content.rst:767
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1147
+msgid "**Line code (*)**: Codice identificativo della linea elettrica, valore utilizzato per la creazione del ramo (campo obbligatorio). Campo alfanumerico"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:330
+#: ../../build/html/enel/EGG_grid/manual/content.rst:768
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1148
+msgid "**Line description (*)**: Descrizione della linea elettrica, valore utilizzato per la creazione del ramo (campo obbligatorio). Campo alfanumerico"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:331
+#: ../../build/html/enel/EGG_grid/manual/content.rst:769
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1149
+msgid "**Ownership**: Tipo di proprietario. Campo a scelta multipla"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:332
+msgid "**V nominal line voltage (*)**: Valore di tensione nominale della linea elettrica, valore utilizzato per la creazione del ramo (campo obbligatorio). Campo numerico, con il carattere '.' come separatore decimale"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:348
+msgid "l'elemento riposizionato apparirà in mappa, con la tematizzazione adeguata ai nuovi dati inseriti."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:369
+msgid "Armadio stradale"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:383
+#: ../../build/html/enel/EGG_grid/manual/content.rst:441
+#: ../../build/html/enel/EGG_grid/manual/content.rst:566
+#: ../../build/html/enel/EGG_grid/manual/content.rst:624
+#: ../../build/html/enel/EGG_grid/manual/content.rst:821
+#: ../../build/html/enel/EGG_grid/manual/content.rst:946
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1004
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1201
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1259
+msgid "**Location**: Coordinate geografiche del bay. Campo non modificabile nel form di inserimento"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:384
+#: ../../build/html/enel/EGG_grid/manual/content.rst:442
+#: ../../build/html/enel/EGG_grid/manual/content.rst:567
+#: ../../build/html/enel/EGG_grid/manual/content.rst:625
+#: ../../build/html/enel/EGG_grid/manual/content.rst:822
+#: ../../build/html/enel/EGG_grid/manual/content.rst:947
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1005
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1202
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1260
+msgid "**Type (*)**: Tipologia di bay che si vuole inserire (campo obbligatorio). Campo a scelta multipla"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:386
+#: ../../build/html/enel/EGG_grid/manual/content.rst:444
+#: ../../build/html/enel/EGG_grid/manual/content.rst:569
+#: ../../build/html/enel/EGG_grid/manual/content.rst:627
+#: ../../build/html/enel/EGG_grid/manual/content.rst:824
+#: ../../build/html/enel/EGG_grid/manual/content.rst:949
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1007
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1204
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1262
+msgid "**Code**: Natural key del bay, codice costruito in base all'area territoriale in cui ci si trova e alla tipologia dell'elemento. Campo non modificabile nel form di inserimento"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:388
+#: ../../build/html/enel/EGG_grid/manual/content.rst:446
+#: ../../build/html/enel/EGG_grid/manual/content.rst:571
+#: ../../build/html/enel/EGG_grid/manual/content.rst:629
+#: ../../build/html/enel/EGG_grid/manual/content.rst:826
+#: ../../build/html/enel/EGG_grid/manual/content.rst:951
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1009
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1206
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1264
+msgid "**Elevation**: Quota del bay. Campo numerico, con il carattere '.' come separatore decimale"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:391
+#: ../../build/html/enel/EGG_grid/manual/content.rst:449
+#: ../../build/html/enel/EGG_grid/manual/content.rst:513
+#: ../../build/html/enel/EGG_grid/manual/content.rst:574
+#: ../../build/html/enel/EGG_grid/manual/content.rst:632
+#: ../../build/html/enel/EGG_grid/manual/content.rst:829
+#: ../../build/html/enel/EGG_grid/manual/content.rst:893
+#: ../../build/html/enel/EGG_grid/manual/content.rst:954
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1012
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1209
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1267
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1331
+msgid "**Label**: Etichetta che sarà visualizzata del bay. Campo alfanumerico."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:427
+msgid "Manovratore BT"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:485
+msgid "Ramo BT"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:491
+#: ../../build/html/enel/EGG_grid/manual/content.rst:871
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1309
+msgid "cliccare sull'icona con le linee"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:492
+#: ../../build/html/enel/EGG_grid/manual/content.rst:872
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1310
+msgid "posizionarsi sulla mappa, cliccare dove si vuole iniziare la nuova linea (nodo iniziale); i nodi adatti a cui agganciarsi sono evidenziati in blu quando ci si avvicina, e in rosso quando il cursore è sufficientemente vicino per selezionarlo come nodo iniziale"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:493
+#: ../../build/html/enel/EGG_grid/manual/content.rst:873
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1311
+msgid "digitalizzare il percorso della linea tramite click successivi sulla mappa"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:494
+#: ../../build/html/enel/EGG_grid/manual/content.rst:874
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1312
+msgid "i nodi terminali compatibili sono evidenziati in blu quando ci si avvicina, e in rosso quando il cursore è sufficientemente vicino per selezionarlo come nodo terminale; selezionare il nodo terminale termina automaticamente l'inserimento, agganciandovi la linea"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:495
+#: ../../build/html/enel/EGG_grid/manual/content.rst:875
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1313
+msgid "per evitare di agganciarsi ad uno specifico nodo, evidenziato in rosso, come nodo terminale, premere il tasto `Shift`"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:496
+#: ../../build/html/enel/EGG_grid/manual/content.rst:876
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1314
+msgid "per rimuovere l'ultimo punto digitalizzato, fino anche al primo nodo iniziale, premere `Delete/Backspace`"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:497
+#: ../../build/html/enel/EGG_grid/manual/content.rst:877
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1315
+msgid "una volta completata la digitalizzazione viene mostrato un modulo di inserimento dati (i campi che devono essere necessariamente compilati sono indicati con un asterisco (*) ed evidenziati in rosso quando non compilati)"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:499
+#: ../../build/html/enel/EGG_grid/manual/content.rst:879
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1317
+msgid "se il salvataggio non viene completato a causa di un errore viene mostrato un messaggio di errore; si possono pertanto modificare gli attributi e ritentare il salvataggio"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:500
+#: ../../build/html/enel/EGG_grid/manual/content.rst:880
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1318
+msgid "il nuovo tratto apparirà in mappa, con la tematizzazione adeguata in funzione del tipo selezionato."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:506
+#: ../../build/html/enel/EGG_grid/manual/content.rst:886
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1324
+msgid "**End nodes**: ID dei vertici estremi del ramo. Campo non modificabile nel form di inserimento"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:507
+#: ../../build/html/enel/EGG_grid/manual/content.rst:887
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1325
+msgid "**Line type (*)**: Tipologia di ramo che si vuole inserire (campo obbligatorio). Campo a scelta multipla"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:508
+#: ../../build/html/enel/EGG_grid/manual/content.rst:888
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1326
+msgid "**Laying type (*)**: Tipologia di posa in opera del ramo (campo obbligatorio). Campo a scelta multipla"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:509
+#: ../../build/html/enel/EGG_grid/manual/content.rst:889
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1327
+msgid "**Conductor type (*)**: Catalogo di materiali del conduttori del ramo (campo obbligatorio). Campo a scelta multipla"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:510
+#: ../../build/html/enel/EGG_grid/manual/content.rst:890
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1328
+msgid "**Insulation Type (*)**: Tipologia di isolamento del ramo (campo obbligatorio). Campo a scelta multipla"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:511
+#: ../../build/html/enel/EGG_grid/manual/content.rst:891
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1329
+msgid "**Conductor support (*)**: Tipologia di armamento del ramo (campo obbligatorio). Campo a scelta multipla"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:518
+#: ../../build/html/enel/EGG_grid/manual/content.rst:898
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1336
+msgid "posizionarsi sulla mappa, cliccare sul vertice da spostare"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:519
+#: ../../build/html/enel/EGG_grid/manual/content.rst:899
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1337
+msgid "questo verrà evidenziato in blu"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:520
+#: ../../build/html/enel/EGG_grid/manual/content.rst:900
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1338
+msgid "trascinare il vertice dove si vuole spostarlo, oppure premere `Canc` per eliminarlo"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:521
+#: ../../build/html/enel/EGG_grid/manual/content.rst:901
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1339
+msgid "eseguire un doppio click lungo la linea per aggiungere un vertice"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:522
+#: ../../build/html/enel/EGG_grid/manual/content.rst:902
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1340
+msgid "terminare la modifica con un click destro, oppure annullare le modifiche premendo sul tasto `Esc`"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:523
+#: ../../build/html/enel/EGG_grid/manual/content.rst:903
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1341
+msgid "l'elemento modificato apparirà in mappa, con la tematizzazione adeguata."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:552
+msgid "Ponte BT"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:610
+msgid "Fusible BT"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:668
+msgid "Gestione Entità di rete MT – Media Tensione"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:682
+msgid "Nodo rigido MT"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:740
+msgid "Nodo origine linea MT"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:748
+msgid "se viene selezionata una *Cabina* valida, viene mostrato un modulo di inserimento dati, sia per il *Nodo origine linea* che per la linea che la collega alla *Cabina* (i campi che devono essere necessariamente compilati sono indicati con un asterisco (*) ed evidenziati in rosso quando non compilati)"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:770
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1150
+msgid "**kV nominal line voltage (*)**: Valore di tensione nominale della linea elettrica, valore utilizzato per la creazione del ramo (campo obbligatorio). Campo numerico, con il carattere '.' come separatore decimale"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:807
+msgid "Manovratore MT"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:865
+msgid "Ramo MT"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:932
+msgid "Portafusibile"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:990
+msgid "Cabina secondaria"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1048
+msgid "Gestione Entità di rete AT – Alta Tensione"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1062
+msgid "Nodo rigido AT"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1120
+msgid "Nodo origine linea AT"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1128
+msgid "se viene selezionata una *Cabina* valida, viene mostrato un modulo di inserimento dati, sia per la *Nodo origine linea* che per la linea che la collega alla *Cabina* (i campi che devono essere necessariamente compilati sono indicati con un asterisco (*) ed evidenziati in rosso quando non compilati)"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1187
+msgid "Manovratore AT"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1245
+msgid "Cabina primaria"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1303
+msgid "Ramo AT"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1370
+msgid "Modelli di stampa"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1372
+msgid "Il plugin contiene alcuni modelli di stampa ufficiali, accessibili tramite il menu :menuselection:`Database --> ENEL --> Manage print templates`"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1376
+msgid "Tramite l'interfaccia l'utente può caricare nella sessione di lavoro uno o pù modelli, in modo da poterli utilizzare per la generazione di stampe, sia cartacee che in PDF."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1378
+msgid "Tramite la medesima interfaccia è inoltre possibile, per gli amministratori del sistema, aggiungere, rimuovere o sostituire i modelli presenti."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1380
+msgid "Una volta caricati, i modelli sono disponibili tramite il menu standard :menuselection:`Progetto --> Gestore di stampe` e possono essere utilizzati come in QGIS_ standard."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1382
+msgid "Per visualizzare gli elementi effettivamente inquadrati nella finestra principale, selezionare in alto a destra la scheda :menuselection:`Oggetti`, scorrere verso il basso, e selezionare l'oggetto mappa :menuselection:`Mappa0`; nella scheda :menuselection:`Proprietà oggetto`, scorrere in basso nella sezione :menuselection:`Estensione mappa` e cliccare su :menuselection:`Imposta all'estensione della mappa` (in basso a destra)."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1386
+msgid "L'utente può modificare, nella propria sessione di lavoro, i modelli caricati, in modo da adattarlo alle proprie esigenze specifiche. I modelli non saranno comunque modificati sul database. L'utente può inoltre configurare modelli addizionali, non ufficiali, in funzione dellle sue esigenze."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1390
+msgid "Esportazione ed importazione dati cartografici"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1392
+msgid "Qualunque layer caricato nell'area di mappa, indipendentemente dal suo formato originario e dal suo sistema di riferimento, può essere esportato tramite le funzioni standard di QGIS, operando sia conversioni di formato (ad es. verso shapefile), sia trasformazioni di sistemi di riferimento, sia estrazione dei soli elementi selezionati."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1394
+msgid "Le funzioni sono accessibili tramite il menù contestuale (:menuselection:`click destro --> Salva con nome...`)."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1396
+msgid "Si rimanda al manuale ufficiale per una descrizione estesa di tutte le funzionalità disponibili."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1398
+msgid "QGIS_ può caricare nativamente nell'area di mappa dati in una varietà di formati, tramite doppio click o *drag & drop*."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1400
+msgid "L'importazione nel database di dati relativi al territorio vene realizzata tramite il plugin **EGG_utility** (a cui si rimanda), sviluppato nel contesto di :index:`GlobalGIS`."
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1403
+msgid "Internazionalizzazione"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/content.rst:1405
+msgid "TBD"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/index.rst:7
+msgid "Documentazione per il plugin EGG grid"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/index.rst:18
+msgid "Indice analitico"
+msgstr ""
+
+#: ../../build/html/enel/EGG_grid/manual/index.rst:20
+msgid ":ref:`genindex`"
+msgstr ""
+
