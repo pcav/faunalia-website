@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2016, Faunalia
+# This file is distributed under the same license as the Faunalia package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Faunalia \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-25 11:54+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../nat_course.rst:3
+msgid "Faunalia training"
+msgstr ""
+
+#: ../../nat_course.rst:3
+msgid "GIS, QGIS, course, training, birdwatching, naturalist"
+msgstr ""
+
+#: ../../nat_course.rst:11
+msgid "New course: QGIS for naturalists"
+msgstr ""
+
+#: ../../nat_course.rst:13
+msgid "An in-depth course on free and open source GIS, focused on the popular `QGIS <http://qgis.org>`_ software and its application in natural sciences (ornithology, mammalogy, ecology), in one of the most scenic environments in Italy, the `Maremma Natural Park <http://www.parco-maremma.it/en/>`_. You'll master the software, at the same time enjoying beautiful landscapes, and birdwatching at will."
+msgstr ""
+
+#: ../../nat_course.rst:15
+msgid "Every day you'll enjoy an alternance of GIS training and excursions in the Park. Every moment will be good to discuss practical applications of GIS."
+msgstr ""
+
+#: ../../nat_course.rst:17
+msgid "During the evenings we'll have the opportunity for sharing knowledge and experience both about nature and GIS, and for socializing, around a table with good local food and drinks."
+msgstr ""
+
+#: ../../nat_course.rst:20
+msgid "Course contents"
+msgstr ""
+
+#: ../../nat_course.rst:22
+msgid "The program will be focused on practical applications of GIS for naturalists; you are encouraged to bring your own data to analyse real cases. Topics will include:"
+msgstr ""
+
+#: ../../nat_course.rst:24
+msgid "how to start: installation, configuration, customization"
+msgstr ""
+
+#: ../../nat_course.rst:25
+msgid "get the data: handling the many formats; raster, vectors, web services, catalogs"
+msgstr ""
+
+#: ../../nat_course.rst:26
+msgid "dealing with projections: how to fit your data in"
+msgstr ""
+
+#: ../../nat_course.rst:27
+msgid "working in the field: the options"
+msgstr ""
+
+#: ../../nat_course.rst:28
+msgid "working with GPS"
+msgstr ""
+
+#: ../../nat_course.rst:29
+msgid "georeferencing and displaying images and photos"
+msgstr ""
+
+#: ../../nat_course.rst:30
+msgid "ecology and nature plugins: a wealth of resources"
+msgstr ""
+
+#: ../../nat_course.rst:31
+msgid "analysing data: raster, vector, tables"
+msgstr ""
+
+#: ../../nat_course.rst:32
+msgid "home ranges and movements"
+msgstr ""
+
+#: ../../nat_course.rst:33
+msgid "using the full power: GRASS, R, SAGA, OTB"
+msgstr ""
+
+#: ../../nat_course.rst:34
+msgid "easily creating models (e.g. habitat suitability) and batch analyses"
+msgstr ""
+
+#: ../../nat_course.rst:35
+msgid "remote sensing and land use analyses"
+msgstr ""
+
+#: ../../nat_course.rst:36
+msgid "preparing beautiful maps"
+msgstr ""
+
+#: ../../nat_course.rst:37
+msgid "mass production of maps (e.g. for distribution areas)"
+msgstr ""
+
+#: ../../nat_course.rst:38
+msgid "show your data: simple webGIS."
+msgstr ""
+
+#: ../../nat_course.rst:40
+msgid "Total duration of the training: 24 h of lessons + practical examples throughout the day."
+msgstr ""
+
+#: ../../nat_course.rst:42
+msgid "bring your laptop; all the necessary software will be installed during the course"
+msgstr ""
+
+#: ../../nat_course.rst:43
+msgid "participants will get a certificate of attendance."
+msgstr ""
+
+#: ../../nat_course.rst:46
+msgid "Birdwatching and more"
+msgstr ""
+
+#: ../../nat_course.rst:48
+msgid "During the week, we will:"
+msgstr ""
+
+#: ../../nat_course.rst:50
+msgid "walk up to the San Rabano Abbey, deep into the Mediterranean maquis, in the hearth of the Park"
+msgstr ""
+
+#: ../../nat_course.rst:51
+msgid "bike into the most scenic areas of the Park"
+msgstr ""
+
+#: ../../nat_course.rst:52
+msgid "walk `across the park down to the seaside"
+msgstr ""
+
+#: ../../nat_course.rst:53
+msgid "do a `canoe trip <http://www.silvacoop.com/>`_ along the Ombrone river."
+msgstr ""
+
+#: ../../nat_course.rst:55
+msgid "Don't forget your binoculars and field equipment."
+msgstr ""
+
+#: ../../nat_course.rst:58
+msgid "Dates"
+msgstr ""
+
+#: ../../nat_course.rst:60
+msgid "From 23 till 27 March 2015."
+msgstr ""
+
+#: ../../nat_course.rst:62
+msgid "Training will start on the morning of Monday, and will end will end on Friday. The B&B is available from Sunday till Saturday morning (6 nights)."
+msgstr ""
+
+#: ../../nat_course.rst:65
+msgid "Accommodation"
+msgstr ""
+
+#: ../../nat_course.rst:67
+msgid "`B&B Il Duchesco <http://ilduchesco.it/>`_: double room, buffet breakfast."
+msgstr ""
+
+#: ../../nat_course.rst:70
+msgid "Fees"
+msgstr ""
+
+#: ../../nat_course.rst:72
+msgid "For the full package, including:"
+msgstr ""
+
+#: ../../nat_course.rst:74
+msgid "Bed & Breakfast for 6 nights, shared room (2 persons per room)"
+msgstr ""
+
+#: ../../nat_course.rst:75
+msgid "6 dinners"
+msgstr ""
+
+#: ../../nat_course.rst:76
+msgid "park fees"
+msgstr ""
+
+#: ../../nat_course.rst:77
+msgid "park guides for the excursions"
+msgstr ""
+
+#: ../../nat_course.rst:78
+msgid "bicycle rental"
+msgstr ""
+
+#: ../../nat_course.rst:79
+msgid "canoe rental"
+msgstr ""
+
+#: ../../nat_course.rst:80
+msgid "local transportation between the park and the venue"
+msgstr ""
+
+#: ../../nat_course.rst:81
+msgid "transportation to and from the Grosseto railway station"
+msgstr ""
+
+#: ../../nat_course.rst:83
+msgid "the total cost is:"
+msgstr ""
+
+#: ../../nat_course.rst:85
+msgid "**890 €** for early subscribers (before 15 February 2015)"
+msgstr ""
+
+#: ../../nat_course.rst:86
+msgid "**990 €** for late subscribers."
+msgstr ""
+
+#: ../../nat_course.rst:88
+msgid "Optional, at extra cost: single room (+ 22 € per day), local transportations (to be negotiated), more excursions."
+msgstr ""
+
+#: ../../nat_course.rst:90
+msgid "Not included: lunches, drinks for the dinners, transportations to Grosseto Railway station (easy to reach from Pisa and Rome airports, see `train timetable <http://www.trenitalia.com/trenitalia21.html>`_; price 12-25 €)."
+msgstr ""
+
+#: ../../nat_course.rst:93
+msgid "Trainer"
+msgstr ""
+
+#: ../../nat_course.rst:95
+msgid "**Paolo Cavallini**, PhD, zoologist, part of QGIS core team. He published several scientific papers on international journals, knows intimately the Maremma, and has the highest experience of QGIS teaching throughout the world (more than 130 courses and workshops). `See the details <intro.html#paolo-cavallini>`_."
+msgstr ""
+
+#: ../../nat_course.rst:98
+msgid "Subscription"
+msgstr ""
+
+#: ../../nat_course.rst:100
+msgid "Send us an email (info@faunalia.eu) with:"
+msgstr ""
+
+#: ../../nat_course.rst:102
+msgid "your name"
+msgstr ""
+
+#: ../../nat_course.rst:103
+msgid "billing details (including VAT number if available)"
+msgstr ""
+
+#: ../../nat_course.rst:105
+msgid "Do not hesitate asking, if you need more info (also at paolo.gg.cavallini@skype)."
+msgstr ""
+
+#: ../../nat_course.rst:107
+msgid "Please note:"
+msgstr ""
+
+#: ../../nat_course.rst:109
+msgid "the subscription is confirmed upon payment of 100 €, refundable if the course is cancelled for any reason; payments to Faunalia (IBAN IT55 P052 3271 1310 0002 0048 369, SWIFT POSOIT22, BIC BLJAIT31)"
+msgstr ""
+
+#: ../../nat_course.rst:110
+msgid "the course will be confirmed when the minimum number of subscribers will be reached."
+msgstr ""
+
