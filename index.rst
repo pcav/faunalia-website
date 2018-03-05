@@ -83,6 +83,27 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Guide degli algoritmi di Processing in QGIS3
++++++++++++++++++++++++++++++++++++++++++++++++++
+Grazie ad una *Grant Proposal* di QGIS.ORG è stato completato il nuovo sistema di Help per gli algoritmi di Processing.
+
+Matteo Ghetta ha scritto le guide tutti i 158 algoritmi di QGIS in Processing. Dalla versione 3.0 è infatti possibile cliccare sul pulsante  ``Help`` di ogni algoritmo di QGIS all'interno di Processing per poter accedere alla guida dell'algoritmo direttamente sulla pagina ufficiale del sito di QGIS.
+
+Le guide degli algoritmi sono aggiornate con gli ultimi sviluppi del codice e moltissime guide sono state arricchite di immagini e descrizioni più approfondite.
+
+Per dare una piccola idea del lavoro svolto:
+
+* `32 *Pull Request* fatte e chiuse <​https://github.com/qgis/QGIS-Documentation/pulls?q=is%3Apr+is%3Aclosed+author%3Aghtmtt+label%3A%22Processing+help%22>`_
+* circa 20 files rst modificati
+* `migliaia di righe di descrizione aggiunte e modificate <https://github.com/qgis/QGIS-Documentation/commits?author=ghtmtt>`_
+* moltissime figure esplicative aggiunte
+* `più di 25 *issues* chiuse <https://github.com/qgis/QGIS-Documentation/issues?q=is%3Aissue+is%3Aclosed+label%3AProcessing>`_
+
+Ecco un link per dare un'idea: `QGIS Pendenza <https://docs.qgis.org/3.0/en/docs/user_manual/processing_algs/qgis/rasterterrainanalysis.html#slope>`_
+
+Il sistema di Help è stato costruito in modo da essere aggiornabile per ogni versione di QGIS, è traducibile in tutte le lingue ed è facilmente modificabile da chiunque.
+
+
 QGIS 3 è stato rilasciato
 +++++++++++++++++++++++++++++
 Dopo un enorme sforzo di tutta la comunità di QGIS, QGIS 3 è stato finalmente rilasciato: `https://qgis.org/en/site/ <https://qgis.org/en/site/>`_. Il team di Faunalia ha contribuito moltissimo anche a questa versione: test dei nuovi plugin, documentazione di Processing, formazione e disseminazione, sviluppo dei plugin e molto molto altro.
