@@ -157,7 +157,7 @@ Modulo di iscrizione
 	<div class="col-sm-9">
   <p>Faunalia è abilitata al rilascio di certificati ufficiali riconosciuti dalla  <a href="http://changelog.qgis.org/en/qgis/certifyingorganisation/qgis-faunalia/">fondazione internazionale di QGIS</a>.</p>
   <p>La certificazione ha un costo <b>aggiuntivo</b> di 50 €. Questi fondi sono destinati allo sviluppo di QGIS.</p>
-  <p>Per maggiori informazioni visiti .....</p>
+  <p>Per maggiori informazioni visita <a href="http://changelog.qgis.org/en/qgis/certifyingorganisation/qgis-faunalia/">la pagina di Faunalia</a>.</p>
 	<div class="col-sm-6">
   <input for="edit-certificazione_qgis" type="checkbox" name="si" value="1"/><?php echo htmlspecialchars($certificazione_qgis); ?> Si
   <input for="certificazione_qgis" type="checkbox" name="no" value="0"/><?php echo htmlspecialchars($certificazione_qgis); ?> No
