@@ -734,7 +734,7 @@ msgstr "Italian"
 
 #: ../../training.rst:240
 msgid ":ref:`Python e QGIS: pyqgis e plugin (IT) <pyqgis>`"
-msgstr ":ref:`Python and QGIS: pyqgis and plugin <pyqgis>`"
+msgstr "Python and QGIS: pyqgis and plugin"
 
 # 5f579eacdfe14ef58b3777e851296a6b
 #: ../../training.rst:240
@@ -749,7 +749,7 @@ msgstr "20 May 2018"
 # 660512ec03ae4bc59a877c8ec19a3162
 #: ../../training.rst:241
 msgid ":ref:`WebMapping con QGIS (IT) <webgis>`"
-msgstr ":ref:`WebMapping with QGIS (IT) <webgis>`"
+msgstr "WebMapping with QGIS (IT)"
 
 #: ../../training.rst:241 ../../training.rst:242 ../../training.rst:243
 msgid "da definire"
@@ -758,13 +758,13 @@ msgstr "to be decided"
 # 7cabf0be650643f1b85997a1c5b71df0
 #: ../../training.rst:242
 msgid ":ref:`Geodatabase: PostgreSQL e PostGIS (IT) <geodb>`"
-msgstr ":ref:`Geographic databases: PostgreSQL and PostGIS (IT) <geodb>`"
+msgstr "Geographic databases: PostgreSQL and PostGIS (IT)"
 
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
 #: ../../training.rst:243
 msgid ":ref:`Cartografia con QGIS (IT) <carto>`"
-msgstr ":ref:`Cartography with QGIS (IT) <carto>`"
+msgstr "Cartography with QGIS (IT)"
 
 #: ../../training.rst:246
 msgid "Le date sono soggette a cambiamento per esigenze logistiche."
