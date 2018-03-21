@@ -233,23 +233,22 @@ Calendario
 
 .. rst-class:: table
 
-======================================== ==================== ==============  =================== ========
-Corso                                    Date e durata        Dove            Scadenza iscrizione Lingua
-======================================== ==================== ==============  =================== ========
-Analisi con QGIS (IT)                    09-11 Maggio 2018    Pontedera, IT   15 Aprile 2018      Italiano
-Python e QGIS: pyqgis e plugin           Giugno 2018          Pontedera, IT                       Italiano
-WebMapping con QGIS (IT)                 da definire          Pontedera, IT                       Italiano
-Geodatabase: PostgreSQL e PostGIS (IT)   da definire          Pontedera, IT                       Italiano
-Corso di aggiornamento a QGIS 3 (IT)     da definire          Pontedera, IT                       Italiano
-Cartografia con QGIS (IT)                da definire          Pontedera, IT                       Italiano
-======================================== ==================== ==============  =================== ========
+=====================================================  ==================== ==============  =================== ========
+Corso                                                  Date e durata        Dove            Scadenza iscrizione Lingua
+=====================================================  ==================== ==============  =================== ========
+:ref:`Analisi con QGIS (IT) <analisi>`                 09-11 Maggio 2018    Pontedera, IT   15 Aprile 2018      Italiano
+:ref:`Python e QGIS: pyqgis e plugin (IT) <pyqgis>`    18-20 Giugno 2018    Pontedera, IT   20 Maggio 2018      Italiano
+:ref:`WebMapping con QGIS (IT) <webgis>`               da definire          Pontedera, IT                       Italiano
+:ref:`Geodatabase: PostgreSQL e PostGIS (IT) <geodb>`  da definire          Pontedera, IT                       Italiano
+:ref:`Cartografia con QGIS (IT) <carto>`               da definire          Pontedera, IT                       Italiano
+=====================================================  ==================== ==============  =================== ========
 
 Le date sono soggette a cambiamento per esigenze logistiche.
 
 Costi
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-* Tutti i corsi standard (3 giorni), eccetto Python-QGIS e Aggiornamento a QGIS 3: 350 € per i privati, 330 € + IVA per aziende/partite IVA (meno ritenuta d'acconto, da versare 336,82 €), 360 € IVA esclusa per enti pubblici (meno ritenuta d'acconto, da versare 288,24 €). Corso Python-QGIS solo a richiesta. Corso di Aggiornamento a QGIS 3: 120€ per i privati, 120 € + IVA per aziende/partite IVA (meno ritenuta d'acconto, da versare 122,48 €), 130 € IVA esclusa per gli enti pubblici (meno ritenuta d'acconto, da versare 104,09 €).
+* Tutti i corsi standard (3 giorni), eccetto Python-QGIS e Aggiornamento a QGIS 3: 350 € per i privati, 330 € + IVA per aziende/partite IVA (meno ritenuta d'acconto, da versare 336,82 €), 360 € IVA esclusa per enti pubblici (meno ritenuta d'acconto, da versare 288,24 €). Corso Python-QGIS: 450 € per i privati, 430 € + IVA per aziende/partite IVA (meno ritenuta d'acconto, da versare 438,88 €), 470 € IVA esclusa per gli enti pubblici (meno ritenuta d'acconto, da versare 376,31 €). Corso di Aggiornamento a QGIS 3: 120€ per i privati, 120 € + IVA per aziende/partite IVA (meno ritenuta d'acconto, da versare 122,48 €), 130 € IVA esclusa per gli enti pubblici (meno ritenuta d'acconto, da versare 104,09 €).
 * **Sconti**: 5% per l'iscrizione simultanea a più corsi
 * **Certificazione QGIS.ORG**: Faunalia è **l'unica azienda italiana** a poter rilasciare una `certificazione ufficiale riconosciuta dalla fondazione internazionale di QGIS <http://changelog.qgis.org/en/qgis/certifyingorganisation/qgis-faunalia/>`_. Puoi richiedere questa certificazione ad un costo aggiuntivo di 50 €. Questi fondi sono destinati allo sviluppo di QGIS.
 
@@ -275,6 +274,8 @@ Logistica
 
 Programmi
 +++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. _carto:
 
 Cartografia con QGIS
 ===================================================
@@ -324,6 +325,8 @@ Durata
 ...................................................................................................
 Tre giorni *full time*
 
+.. _analisi:
+
 Analisi con QGIS
 ===================================================
 
@@ -364,6 +367,8 @@ Argomenti principali
 
 Durata
 ...................................................................................................
+
+.. _geodb:
 
 Tre giorni *full time*
 
@@ -410,6 +415,8 @@ Durata
 ...................................................................................................
 Tre giorni *full time*
 
+.. _webgis:
+
 WebMapping con QGIS
 ===================================================
 
@@ -452,6 +459,8 @@ Durata
 
 Tre giorni *full time*
 
+.. _pyqgis:
+
 Python e QGIS: pyqgis e plugin
 ===================================================
 
@@ -462,33 +471,44 @@ Per capire come potenziare QGIS con il linguaggio di programmazione Python. La f
 Argomenti principali
 ...................................................................................................
 
-* Come creare plugin Python per QGIS
+* Introduzione alla programmazione python in QGIS
 
-  * la sintassi Python
-  * il mio primo plugin in Python: mostra un messaggio in un riquadro
-  * creare interfacce utente con QtDesigner (.ui)
-  * secondo plugin: aggiungere un layer all’area di mappa di QGIS
+  * la sintassi Python (variabili, cicli, funzioni e classi)
+  * importazione moduli esterni
 
 * Le classi principali delle API Qt
 
   * il modulo QtCore (QObject, QString, QAction, QFile, ...)
   * il modulo QtGui (QWidget, QDialog, QMessageBox, QFileDialog, ...)
   * accedere alla API QT tramite Python: PyQt (tipi Qt mappati da tipi nativi Python, parametro di uscita)
+  * gestione del sistema di segnali/slot di PyQt
 
 * Le principali classi API QGIS e le loro relazioni
 
-  * costanti e impostazioni: classi QGis e QgsApplication
-  * l’interfaccia del plugin: QgisInterface e metodi comuni usati nei plugins
-  * area mappa, strati e legenda: QgsMapCanvas, QgsMapLayer, QgsLegendInterface, QgsMapLayerRegistry
-  * strati vettoriali: QgsVectorLayer, QgsVectorDataProvider, QgsField, QgsFeature, QgsGeometry
-  * strati raster: QgsRasterLayer, QgsRasterDataProvider
-  * strumenti di mappa e banda elastica: QgsMapTool, QgsMapToolEmitPoint, QgsRubberBand
-  * elementi della mappa e snap: QgsMapCanvasItem, QgsVertexMarker, QgsSnapper
+  * classi di base e impostazioni: classi Qgis, QgsProject, QApplication
+  * area mappa, strati e legenda: QgsMapCanvas, QgsMapLayer, QgsProject, QgsMapLayerRegistry, QgsLayerTree
+  * strati vettoriali: QgsVectorLayer, QgsField, QgsFeature, QgsGeometry
+  * strati raster: QgsRasterLayer
+  * strumenti di mappa e banda elastica: QgsMapTool, QgsMapToolEmitPoint
+  * elementi della mappa: QgsMapCanvas
   * classi dei sistemi di riferimento: QgsCoordinateReferenceSystem, QgsCoordinateTransform
 
-* Usiamo pyQGIS
+* Creazione di un plugin
 
-  * esempi di codice
+  * uso delle classi e dei metodi principali per la creazione in un plugin
+  * Plugin Builder e Plugin Reloader
+  * creare interfacce utente con QtDesigner (.ui)
+  * gestione dei metadati per la pubblicazione del plugin
+  * corretti metodi di gestine di un plugin
+
+* Utilizzo di software di controllo versione (git)
+
+  * introduzione a git
+  * vantaggi di un sistema di versionamento
+  * comandi principali di git (git add, git commit, git pull, git push)
+  * utilizzare i branch di git e gestione dei conflitti
+  * pubblicazione del plugin su un hosting remoto (github, gitlab, ...)
+  * corretta gestione di un issue/bug tracker
 
 Durata
 ...................................................................................................
