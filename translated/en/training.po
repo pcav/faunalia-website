@@ -700,7 +700,7 @@ msgstr "Language"
 # 84a61dcdc830454e9665797c69bd9891
 #: ../../training.rst:239
 msgid ":ref:`Analisi con QGIS (IT) <analisi>`"
-msgstr ":ref:`GIS analysis with QGIS (IT) <analisi>`"
+msgstr "GIS analysis with QGIS (IT)"
 
 # 53d00af130964089957a33ca9154d0b3
 #: ../../training.rst:239
