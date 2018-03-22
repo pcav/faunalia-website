@@ -236,11 +236,12 @@ Calendario
 =====================================================  ==================== ==============  =================== ========
 Corso                                                  Date e durata        Dove            Scadenza iscrizione Lingua
 =====================================================  ==================== ==============  =================== ========
-:ref:`Analisi con QGIS (IT) <analisi>`                 09-11 Maggio 2018    Pontedera, IT   15 Aprile 2018      Italiano
-:ref:`Python e QGIS: pyqgis e plugin (IT) <pyqgis>`    18-20 Giugno 2018    Pontedera, IT   20 Maggio 2018      Italiano
-:ref:`WebMapping con QGIS (IT) <webgis>`               da definire          Pontedera, IT                       Italiano
-:ref:`Geodatabase: PostgreSQL e PostGIS (IT) <geodb>`  da definire          Pontedera, IT                       Italiano
-:ref:`Cartografia con QGIS (IT) <carto>`               da definire          Pontedera, IT                       Italiano
+:ref:`carto`                                           09-11 Maggio 2018    Pontedera, IT   15 Aprile 2018      Italiano
+Python e QGIS: pyqgis e plugin (IT)                    18-20 Giugno 2018    Pontedera, IT   20 Maggio 2018      Italiano
+Cartography with QGIS (EN)                             02-04 Luglio 2018    Berlino, DE                         Italiano
+WebMapping con QGIS (IT)                               da definire          Pontedera, IT                       Italiano
+Geodatabase: PostgreSQL e PostGIS (IT)                 da definire          Pontedera, IT                       Italiano
+Cartografia con QGIS (IT)                              da definire          Pontedera, IT                       Italiano
 =====================================================  ==================== ==============  =================== ========
 
 Le date sono soggette a cambiamento per esigenze logistiche.
