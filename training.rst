@@ -236,13 +236,15 @@ Calendario
 =====================================================  ==================== ==============  =================== ========
 Corso                                                  Date e durata        Dove            Scadenza iscrizione Lingua
 =====================================================  ==================== ==============  =================== ========
-:ref:`carto`                                           09-11 Maggio 2018    Pontedera, IT   15 Aprile 2018      Italiano
-Python e QGIS: pyqgis e plugin (IT)                    18-20 Giugno 2018    Pontedera, IT   20 Maggio 2018      Italiano
-Cartography with QGIS (EN)                             02-04 Luglio 2018    Berlino, DE                         Italiano
-WebMapping con QGIS (IT)                               da definire          Pontedera, IT                       Italiano
-Geodatabase: PostgreSQL e PostGIS (IT)                 da definire          Pontedera, IT                       Italiano
-Cartografia con QGIS (IT)                              da definire          Pontedera, IT                       Italiano
+:ref:`analisi`                                         09-11 Maggio 2018    Pontedera, IT   15 Aprile 2018      Italiano
+:ref:`pyqgis`                                          18-20 Giugno 2018    Pontedera, IT   20 Maggio 2018      Italiano
+`Cartography with QGIS (EN) with Physalia`_            02-04 Luglio 2018    Berlino, DE                         Italiano
+:ref:`webgis`                                          da definire          Pontedera, IT                       Italiano
+:ref:`geodb`                                           da definire          Pontedera, IT                       Italiano
+:ref:`carto`                                           da definire          Pontedera, IT                       Italiano
 =====================================================  ==================== ==============  =================== ========
+
+.. _Cartography with QGIS (EN) with Physalia: https://www.physalia-courses.org/courses-workshops/course35/
 
 Le date sono soggette a cambiamento per esigenze logistiche.
 
@@ -368,10 +370,10 @@ Argomenti principali
 
 Durata
 ...................................................................................................
+Tre giorni *full time*
+
 
 .. _geodb:
-
-Tre giorni *full time*
 
 Geodatabase: PostgreSQL e PostGIS
 ===================================================
