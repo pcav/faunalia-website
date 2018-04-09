@@ -83,6 +83,17 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (1/8)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+La collaborazione fra Faunalia e ARPA Piemonte all'interno del progetto Erikus permetterà di avere moltissime nuove funzionalità a partire dalla prossima versione (3.2) di QGIS.
+
+**Messaggio su sposta e cancella elementi**
+
+Quante volte è capitato di eliminare o spostare delle geometrie per sbaglio solamente perché queste non sono visibili sulla mappa? Un errore che non capiterà più di fare!
+
+.. image :: images/move-elements.gif
+
+
 Guide degli algoritmi di Processing in QGIS3
 +++++++++++++++++++++++++++++++++++++++++++++++++
 Grazie ad una *Grant Proposal* di QGIS.ORG è stato completato il nuovo sistema di Help per gli algoritmi di Processing.
