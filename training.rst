@@ -236,7 +236,7 @@ Calendario
 =====================================================  ==================== ==============  =================== ========
 Corso                                                  Date e durata        Dove            Scadenza iscrizione Lingua
 =====================================================  ==================== ==============  =================== ========
-:ref:`analisi`                                         09-11 Maggio 2018    Pontedera, IT   15 Aprile 2018      Italiano
+:ref:`analisi`                                         09-11 Maggio 2018    Pontedera, IT                       Italiano
 :ref:`pyqgis`                                          18-20 Giugno 2018    Pontedera, IT   20 Maggio 2018      Italiano
 `Cartography with QGIS (EN) with Physalia`_            02-04 Luglio 2018    Berlino, DE                         Italiano
 :ref:`webgis`                                          da definire          Pontedera, IT                       Italiano
