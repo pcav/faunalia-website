@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2016, Faunalia
+# This file is distributed under the same license as the Faunalia package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Faunalia \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-11 14:54+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../arpa_story.rst:2
+msgid "Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (1/8)"
+msgstr ""
+
+#: ../../arpa_story.rst:3
+msgid "La collaborazione fra Faunalia e ARPA Piemonte all'interno del progetto Erikus permetterà di avere moltissime nuove funzionalità a partire dalla prossima versione (3.2) di QGIS."
+msgstr ""
+
+#: ../../arpa_story.rst:5
+msgid "**Messaggio su sposta e cancella elementi**"
+msgstr ""
+
+#: ../../arpa_story.rst:7
+msgid "Quante volte è capitato di eliminare o spostare delle geometrie per sbaglio solamente perché queste non sono visibili sulla mappa? Un errore che non capiterà più di fare!"
+msgstr ""
+
+#: ../../arpa_story.rst:13
+msgid "Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (2/8)"
+msgstr ""
+
+#: ../../arpa_story.rst:14
+msgid "**Migrazione plugin PS Time Series Viewer per QGIS 3**"
+msgstr ""
+
+#: ../../arpa_story.rst:16
+msgid "Il plugin PS Time Series Viewer è stato *portato* con successo in QGIS 3."
+msgstr ""
+
+#: ../../arpa_story.rst:18
+msgid "Questo plugin permette di elaborare serie temporali di dati interferometrici."
+msgstr ""
+
