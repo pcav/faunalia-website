@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-11 14:54+0200\n"
+"POT-Creation-Date: 2018-04-13 19:05+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -197,13 +197,21 @@ msgstr ""
 "work on this project in a cooperative and democratic way for the progress of "
 "this software that allows to work in a free environment."
 
-#: ../../index.rst:97
+#: ../../index.rst:95
+msgid ""
+"`http://blog.qgis.org/2018/04/13/qgis-annual-general-meeting-2018/ <http://"
+"blog.qgis.org/2018/04/13/qgis-annual-general-meeting-2018/>`_"
+msgstr ""
+"`http://blog.qgis.org/2018/04/13/qgis-annual-general-meeting-2018/ <http://"
+"blog.qgis.org/2018/04/13/qgis-annual-general-meeting-2018/>`_"
+
+#: ../../index.rst:99
 msgid "Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (1/8)"
 msgstr ""
 "New features in QGIS thanks to the collaboration of ARPA Piemonte and "
 "Faunalia (1/8)"
 
-#: ../../index.rst:98
+#: ../../index.rst:100
 msgid ""
 "La collaborazione fra Faunalia e ARPA Piemonte all'interno del progetto "
 "Erikus permetterà di avere moltissime nuove funzionalità a partire dalla "
@@ -212,11 +220,11 @@ msgstr ""
 "The collaboration between Faunalia and ARPA Piemonte within Erikus project "
 "will add a lot of new features in the next (3.2) version of QGIS."
 
-#: ../../index.rst:100
+#: ../../index.rst:102
 msgid "**Messaggio su sposta e cancella elementi**"
 msgstr "**Warning message when moving or deleting features**"
 
-#: ../../index.rst:102
+#: ../../index.rst:104
 msgid ""
 "Quante volte è capitato di eliminare o spostare delle geometrie per sbaglio "
 "solamente perché queste non sono visibili sulla mappa? Un errore che non "
@@ -225,11 +233,11 @@ msgstr ""
 "How many times you wrongly move or delete features just because they are "
 "outside the current map extent? It won't happen again!"
 
-#: ../../index.rst:108
+#: ../../index.rst:110
 msgid "Guide degli algoritmi di Processing in QGIS3"
 msgstr "Processing Help system for QGIS3"
 
-#: ../../index.rst:109
+#: ../../index.rst:111
 msgid ""
 "Grazie ad una *Grant Proposal* di QGIS.ORG è stato completato il nuovo "
 "sistema di Help per gli algoritmi di Processing."
@@ -237,7 +245,7 @@ msgstr ""
 "Thanks to a *Grant Proposal* of QGIS.ORG the Help System of Processing "
 "algorithms has been totally renewed."
 
-#: ../../index.rst:111
+#: ../../index.rst:113
 msgid ""
 "Matteo Ghetta ha scritto le guide tutti i 158 algoritmi di QGIS in "
 "Processing. Dalla versione 3.0 è infatti possibile cliccare sul pulsante  "
@@ -250,7 +258,7 @@ msgstr ""
 "algorithm in Processing and access to the algorithm guide in the official "
 "QGIS website."
 
-#: ../../index.rst:113
+#: ../../index.rst:115
 msgid ""
 "Le guide degli algoritmi sono aggiornate con gli ultimi sviluppi del codice "
 "e moltissime guide sono state arricchite di immagini e descrizioni più "
@@ -259,11 +267,11 @@ msgstr ""
 "Algorithm guides are updated with the last code developments and many guides "
 "have been enriched with pictures and detailed descriptions."
 
-#: ../../index.rst:115
+#: ../../index.rst:117
 msgid "Per dare una piccola idea del lavoro svolto:"
 msgstr "A brief overview of the work done:"
 
-#: ../../index.rst:117
+#: ../../index.rst:119
 msgid ""
 "`32 *Pull Request* fatte e chiuse <​https://github.com/qgis/QGIS-"
 "Documentation/pulls?q=is%3Apr+is%3Aclosed+author%3Aghtmtt+label%3A"
@@ -272,11 +280,11 @@ msgstr ""
 "`32 *Pull Request* closed <​https://github.com/qgis/QGIS-Documentation/pulls?"
 "q=is%3Apr+is%3Aclosed+author%3Aghtmtt+label%3A%22Processing+help%22>`_"
 
-#: ../../index.rst:118
+#: ../../index.rst:120
 msgid "circa 20 files rst modificati"
 msgstr "around 20 rst files edited"
 
-#: ../../index.rst:119
+#: ../../index.rst:121
 msgid ""
 "`migliaia di righe di descrizione aggiunte e modificate <https://github.com/"
 "qgis/QGIS-Documentation/commits?author=ghtmtt>`_"
@@ -284,11 +292,11 @@ msgstr ""
 "`thousands of descriptions lines added and edited <https://github.com/qgis/"
 "QGIS-Documentation/commits?author=ghtmtt>`_"
 
-#: ../../index.rst:120
+#: ../../index.rst:122
 msgid "moltissime figure esplicative aggiunte"
 msgstr "many pictures added"
 
-#: ../../index.rst:121
+#: ../../index.rst:123
 msgid ""
 "`più di 25 *issues* chiuse <https://github.com/qgis/QGIS-Documentation/"
 "issues?q=is%3Aissue+is%3Aclosed+label%3AProcessing>`_"
@@ -296,7 +304,7 @@ msgstr ""
 "`more than 25 *issues* closed <https://github.com/qgis/QGIS-Documentation/"
 "issues?q=is%3Aissue+is%3Aclosed+label%3AProcessing>`_"
 
-#: ../../index.rst:123
+#: ../../index.rst:125
 msgid ""
 "Ecco un link per dare un'idea: `QGIS Pendenza <https://docs.qgis.org/3.0/en/"
 "docs/user_manual/processing_algs/qgis/rasterterrainanalysis.html#slope>`_"
@@ -305,7 +313,7 @@ msgstr ""
 "looks like: `QGIS Slope <https://docs.qgis.org/3.0/en/docs/user_manual/"
 "processing_algs/qgis/rasterterrainanalysis.html#slope>`_"
 
-#: ../../index.rst:125
+#: ../../index.rst:127
 msgid ""
 "Il sistema di Help è stato costruito in modo da essere aggiornabile per ogni "
 "versione di QGIS, è traducibile in tutte le lingue ed è facilmente "
@@ -315,11 +323,11 @@ msgstr ""
 "QGIS release, it is translatable in all languages and it is very easy for "
 "everybody to edit."
 
-#: ../../index.rst:129
+#: ../../index.rst:131
 msgid "QGIS 3 è stato rilasciato"
 msgstr "QGIS 3 is out"
 
-#: ../../index.rst:130
+#: ../../index.rst:132
 msgid ""
 "Dopo un enorme sforzo di tutta la comunità di QGIS, QGIS 3 è stato "
 "finalmente rilasciato: `https://qgis.org/en/site/ <https://qgis.org/en/site/"
@@ -332,11 +340,11 @@ msgstr ""
 "has contributed a lot to this release: plugin testing, Processing "
 "documentation, training, plugin development and much much more."
 
-#: ../../index.rst:134
+#: ../../index.rst:136
 msgid "Legenda bivariata per QGIS 3"
 msgstr "Bivariate legend for QGIS 3"
 
-#: ../../index.rst:135
+#: ../../index.rst:137
 msgid ""
 "Interessantissimo plugin per la nuova versione di QGIS 3: `https://github."
 "com/webgeodatavore/bivariate_legend/ <https://github.com/webgeodatavore/"
@@ -346,11 +354,11 @@ msgstr ""
 "it: `https://github.com/webgeodatavore/bivariate_legend/ <https://github.com/"
 "webgeodatavore/bivariate_legend>`_"
 
-#: ../../index.rst:140
+#: ../../index.rst:142
 msgid "Faunalia, ancora una volta al primo posto"
 msgstr "Faunalia, once again at the top"
 
-#: ../../index.rst:141
+#: ../../index.rst:143
 msgid ""
 "Faunalia è orgogliosa di annunciare che è la **prima azienda italiana** a "
 "poter rilasciare una **certificazione ufficiale**, `riconoscituta "
@@ -362,7 +370,7 @@ msgstr ""
 "by QGIS <http://changelog.qgis.org/en/qgis/certifyingorganisation/qgis-"
 "faunalia/>`_."
 
-#: ../../index.rst:143
+#: ../../index.rst:145
 msgid ""
 "Chi seguirà un corso potrà quindi richiedere, in aggiunta al certificato "
 "Faunalia, anche una certificazione garantita e verificabile di della "
@@ -372,7 +380,7 @@ msgstr ""
 "certificate, guaranteed and verifiable by the international foundation of "
 "QGIS.ORG."
 
-#: ../../index.rst:145
+#: ../../index.rst:147
 msgid ""
 "Il servizio ha un costo addizionale, che contribuisce a finanziare lo "
 "sviluppo di QGIS."
@@ -380,15 +388,15 @@ msgstr ""
 "This certificate has an additional cost that allows to support the QGIS "
 "development."
 
-#: ../../index.rst:149
+#: ../../index.rst:151
 msgid "DataPlotly plugin per la creazione di grafici stile D3js"
 msgstr "Beautiful D3js plots in QGIS 3 with DataPlotly plugin"
 
-#: ../../index.rst:157
+#: ../../index.rst:159
 msgid "Raggiunti 2000 download!"
 msgstr "2000 download reached!"
 
-#: ../../index.rst:152
+#: ../../index.rst:154
 msgid ""
 "Il plugin DataPlotly permette di creare grafici in stile D3js interattivi in "
 "QGIS 3. DataPlotly permette di creare molti grafici diversi, di sovrapporli "
@@ -409,11 +417,11 @@ msgstr ""
 "English, Italian, Dutch, Swedish and French. Have a look at the repository: "
 "`DataPlotly <https://github.com/ghtmtt/DataPlotly>`_"
 
-#: ../../index.rst:160
+#: ../../index.rst:162
 msgid "Parnership con Expédition MED"
 msgstr "Parnership with Expédition MED"
 
-#: ../../index.rst:162
+#: ../../index.rst:164
 msgid ""
 "Nel quadro del nostro impegno di lungo termine per la conservazione della "
 "biodiversità e per la tutela ambientale, Faunalia sostiene la campagna 2017 "
@@ -436,11 +444,11 @@ msgstr ""
 "to a `presentation of the project <https://www.youtube.com/watch?"
 "v=rAq3DU0V57s>`_ (in French)."
 
-#: ../../index.rst:165
+#: ../../index.rst:167
 msgid "QGIS e Faunalia al FOSS4G-IT 2017"
 msgstr "QGIS e Faunalia al FOSS4G-IT 2017"
 
-#: ../../index.rst:167
+#: ../../index.rst:169
 msgid ""
 "Durante il prossimo `FOSS4G-IT 2017 <http://www.dicca.unige.it/geomatica/"
 "foss4git_2017/>`_ terremo un workshop di `Introduzione a QGIS <http://www."
@@ -456,11 +464,11 @@ msgstr ""
 "it/geomatica/foss4git_2017/programma.html>`_. Vi aspettiamo, sarà una buona "
 "occasione per scambiare opinioni."
 
-#: ../../index.rst:170
+#: ../../index.rst:172
 msgid "Perché ti conviene scegliere i corsi Faunalia"
 msgstr "Why Faunalia courses are better for you"
 
-#: ../../index.rst:172
+#: ../../index.rst:174
 msgid ""
 "Abbiamo realizzato il recente corso di *Analisi con QGIS*, come sempre, "
 "usando l'ultima versione, QGIS 2.18 \"Las Palmas\", pubblicata proprio il "
@@ -485,11 +493,11 @@ msgstr ""
 "courses directly results in a better QGIS for all. None of our competitors "
 "offers you the same advantage."
 
-#: ../../index.rst:175
+#: ../../index.rst:177
 msgid "Advanced QGIS @ OGRS 2016"
 msgstr "Advanced QGIS @ OGRS 2016"
 
-#: ../../index.rst:177
+#: ../../index.rst:179
 msgid ""
 "At the `Open Source Geospatial Research & Education Symposium 2016 "
 "<http://2016.ogrs-community.org>`_, in Perugia, Italy, Paolo Cavallini will "
@@ -501,11 +509,11 @@ msgstr ""
 "present a hands-on workshop on `Advanced QGIS <http://2016.ogrs-community."
 "org/scientific-program/workshops#advanced>`_"
 
-#: ../../index.rst:180 ../../index.rst:224
+#: ../../index.rst:182 ../../index.rst:226
 msgid "Workshop su QGIS_"
 msgstr "QGIS_ workshop"
 
-#: ../../index.rst:182
+#: ../../index.rst:184
 msgid ""
 "Il 7 ottobre 2016, all'`ArcheoFOSS 2016 <http://www.archeofoss.org/"
 "archeofoss-2016/>`_, presso l'Università di Cagliari, Paolo Cavallini terrà "
@@ -517,11 +525,11 @@ msgstr ""
 "un workshop su *Cartografia con QGIS: dal foglio bianco alle tecniche "
 "avanzate*. A presto!"
 
-#: ../../index.rst:185
+#: ../../index.rst:187
 msgid "Cluster renderer: a good chance to improve QGIS"
 msgstr "Cluster renderer: a good chance to improve QGIS"
 
-#: ../../index.rst:187
+#: ../../index.rst:189
 msgid ""
 "Nyall Dawson, one of the most productive QGIS core developers, has just "
 "`launched a campaign <http://north-road.com/qgis-cluster-renderer-"
@@ -537,11 +545,11 @@ msgstr ""
 "you'll have it available soon. See his `crowdfunding page <http://north-road."
 "com/qgis-cluster-renderer-crowdfunding/>`_ for details."
 
-#: ../../index.rst:190
+#: ../../index.rst:192
 msgid "World first: sailing & QGIS"
 msgstr "World first: sailing & QGIS"
 
-#: ../../index.rst:192
+#: ../../index.rst:194
 msgid ""
 "Love sailing? Come to the first `QGIS course on a cruise! <sail_course."
 "html>`_"
@@ -549,11 +557,11 @@ msgstr ""
 "Love sailing? Come to the first `QGIS course on a cruise! <sail_course."
 "html>`_"
 
-#: ../../index.rst:195
+#: ../../index.rst:197
 msgid "Need 3D in QGIS? A glimpse of the future"
 msgstr "Need 3D in QGIS? A glimpse of the future"
 
-#: ../../index.rst:197
+#: ../../index.rst:199
 msgid ""
 "You can use `Qgis2threejs <https://plugins.qgis.org/plugins/Qgis2threejs/>`_ "
 "plugin to easily create `dynamic 3D visualization of your map <https://www."
@@ -569,11 +577,11 @@ msgstr ""
 "has moved to Qt5 - work underway. `Minoru <https://github.com/minorua>`_ "
 "rocks!"
 
-#: ../../index.rst:203
+#: ../../index.rst:205
 msgid "Layer board: configure your big QGIS projects, easily"
 msgstr "Layer board: configure your big QGIS projects, easily"
 
-#: ../../index.rst:205
+#: ../../index.rst:207
 msgid ""
 "Configuring large projects, with tens of layers, can be painful if you have "
 "to set up min and max scale, CRS, style, title, extent, etc. one by one. "
@@ -591,11 +599,11 @@ msgstr ""
 "automagically removing ghost layers that sometimes accumulate. Kudos to "
 "*Michaël Douchin* from 3liz!"
 
-#: ../../index.rst:211
+#: ../../index.rst:213
 msgid "Another nice plugin: Historical maps"
 msgstr "Another nice plugin: Historical maps"
 
-#: ../../index.rst:213
+#: ../../index.rst:215
 msgid ""
 "A very simple to use, yet powerful plugin (`Historical Map <https://plugins."
 "qgis.org/plugins/HistoricalMap/>`_) for doing supervised classification of "
@@ -607,11 +615,11 @@ msgstr ""
 "land use. It is especially designed for finding woodlands in historical "
 "maps, but I tested with normal ortophoto, with good results."
 
-#: ../../index.rst:219
+#: ../../index.rst:221
 msgid "Big plans for next QGIS_"
 msgstr "Big plans for next QGIS_"
 
-#: ../../index.rst:221
+#: ../../index.rst:223
 msgid ""
 "Major transitions in large software projects are always a big challenge, and "
 "involve considerable risks. After a long gestation, now we have a definite "
@@ -625,7 +633,7 @@ msgstr ""
 "about it <http://blog.qgis.org/2016/02/10/qgis-3-0-plans/>`_, straight from "
 "the project leader, and join us for the next leap forward."
 
-#: ../../index.rst:226
+#: ../../index.rst:228
 msgid ""
 "Al `GRASS Meeting 2016 <http://meetingrass2016.unipr.it/>`_, presso "
 "l'Università di Parma, Paolo Cavallini terrà un workshop sulle ultime novità "
@@ -635,28 +643,28 @@ msgstr ""
 "l'Università di Parma, Paolo Cavallini terrà un workshop sulle ultime novità "
 "di QGIS, fino alla versione 2.14, di imminente pubblicazione. Ci vediamo lì!"
 
-#: ../../index.rst:229
+#: ../../index.rst:231
 msgid "Novità in QGIS_"
 msgstr "Novità in QGIS_"
 
-#: ../../index.rst:231
-msgid ""
-"Nuova versione di QGIS \"stabile\" (*Long Term Release*, LTR): 2.8.4, che "
-"sistema oltre 80 malfunzionamenti, inclusi alcuni importanti"
-msgstr ""
-"Nuova versione di QGIS \"stabile\" (*Long Term Release*, LTR): 2.8.4, che "
-"sistema oltre 80 malfunzionamenti, inclusi alcuni importanti"
-
-#: ../../index.rst:232
-msgid ""
-"Nuova versione di QGIS \"Lyon\" (2.12.1), che sistema quasi 70 "
-"malfunzionamenti"
-msgstr ""
-"Nuova versione di QGIS \"Lyon\" (2.12.1), che sistema quasi 70 "
-"malfunzionamenti"
-
 #: ../../index.rst:233
 msgid ""
+"Nuova versione di QGIS \"stabile\" (*Long Term Release*, LTR): 2.8.4, che "
+"sistema oltre 80 malfunzionamenti, inclusi alcuni importanti"
+msgstr ""
+"Nuova versione di QGIS \"stabile\" (*Long Term Release*, LTR): 2.8.4, che "
+"sistema oltre 80 malfunzionamenti, inclusi alcuni importanti"
+
+#: ../../index.rst:234
+msgid ""
+"Nuova versione di QGIS \"Lyon\" (2.12.1), che sistema quasi 70 "
+"malfunzionamenti"
+msgstr ""
+"Nuova versione di QGIS \"Lyon\" (2.12.1), che sistema quasi 70 "
+"malfunzionamenti"
+
+#: ../../index.rst:235
+msgid ""
 "`Nuova versione di QField <http://www.opengis.ch/2015/12/01/qfield-for-"
 "android-5/>`_, che **finalmente** gira anche su Android 5! La trovate in "
 "Google Play"
@@ -665,11 +673,11 @@ msgstr ""
 "android-5/>`_, che **finalmente** gira anche su Android 5! La trovate in "
 "Google Play"
 
-#: ../../index.rst:240
+#: ../../index.rst:242
 msgid "An easier and safer life for QGIS plugin writer"
 msgstr "An easier and safer life for QGIS plugin writer"
 
-#: ../../index.rst:242
+#: ../../index.rst:244
 msgid ""
 "Now, thanks to Martin Dobias, plugin writer can relax a bit more: with the "
 "plugin `First Aid <https://plugins.qgis.org/plugins/firstaid/>`_ finding "
@@ -683,11 +691,11 @@ msgstr ""
 "to get ready for the upcoming Python 3 and Qt 5 transition, a major "
 "breakthrough."
 
-#: ../../index.rst:248
+#: ../../index.rst:250
 msgid "Nasce il gruppo italiano degli utenti di QGIS_"
 msgstr "Nasce il gruppo italiano degli utenti di QGIS_"
 
-#: ../../index.rst:250
+#: ../../index.rst:252
 msgid ""
 "Siamo finalmente pronti: da oggi chi è interessato al futuro di QGIS potrà "
 "partecipare attivamente. Trovate le semplicissime istruzioni sul sito `QGIS."
@@ -701,11 +709,11 @@ msgstr ""
 "donano (codice o euro) al progetto decidono poi insieme come investire "
 "quanto raccolto. Per qualunque chiarimento, non esitate a chiedere."
 
-#: ../../index.rst:256
+#: ../../index.rst:258
 msgid "Paolo Cavallini appointed as QGIS co-chair"
 msgstr "Paolo Cavallini appointed as QGIS co-chair"
 
-#: ../../index.rst:258
+#: ../../index.rst:260
 msgid ""
 "**QGIS.org** is becoming a formal association. In this process, Tim Sutton "
 "has been elected as Chair of the project, and Paolo Cavallini as co-chair - "
@@ -717,11 +725,11 @@ msgstr ""
 "a great honour and responsibility. See the `blog post <http://blog.qgis."
 "org/2015/11/03/introducing-the-qgis-board/>`_."
 
-#: ../../index.rst:261
+#: ../../index.rst:263
 msgid "Yet another country: Faunalia training in Saudi Arabia"
 msgstr "Yet another country: Faunalia training in Saudi Arabia"
 
-#: ../../index.rst:263
+#: ../../index.rst:265
 msgid ""
 "Renzo Cavallini has recently done a successful course at the College of "
 "Technology in Riyadh (Saudi Arabia) about geotechnical testing."
@@ -729,11 +737,11 @@ msgstr ""
 "Renzo Cavallini has recently done a successful course at the College of "
 "Technology in Riyadh (Saudi Arabia) about geotechnical testing."
 
-#: ../../index.rst:269
+#: ../../index.rst:271
 msgid "Faunalia al Linux Day"
 msgstr "Faunalia al Linux Day"
 
-#: ../../index.rst:271
+#: ../../index.rst:273
 msgid ""
 "Paolo Cavallini parlerà di geografia libera (QGIS e dati geografici) al "
 "`Linux Day di Livorno <http://linux.livorno.it/sito/1080/linux-day-2015/>`_: "
@@ -743,11 +751,11 @@ msgstr ""
 "`Linux Day di Livorno <http://linux.livorno.it/sito/1080/linux-day-2015/>`_: "
 "una chiacchierata informale, venite e chiedete."
 
-#: ../../index.rst:277
+#: ../../index.rst:279
 msgid "Let us hear your voice: a survey on QGIS usage"
 msgstr "Let us hear your voice: a survey on QGIS usage"
 
-#: ../../index.rst:279
+#: ../../index.rst:281
 msgid ""
 "We would like to better understand how you are using QGIS so that we can "
 "improve the way that we manage the project. We have compiled this short "
@@ -765,11 +773,11 @@ msgstr ""
 "gained. You can find the `survey here <http://blog.qgis.org/2015/10/15/take-"
 "the-qgis-user-survey/>`_"
 
-#: ../../index.rst:282
+#: ../../index.rst:284
 msgid "New PostGIS version"
 msgstr "New PostGIS version"
 
-#: ../../index.rst:284
+#: ../../index.rst:286
 msgid ""
 "Just released **PostGIS 2.2.0**: lots of `improvements and new functions "
 "<https://svn.osgeo.org/postgis/tags/2.2.0/NEWS>`_. My favourite of the day: "
@@ -783,11 +791,11 @@ msgstr ""
 "html>`_, which aggregates all geometries within a set distance from the "
 "others."
 
-#: ../../index.rst:287
+#: ../../index.rst:289
 msgid "GFOSS Day Italia 2015: Faunalia c'è"
 msgstr "GFOSS Day Italia 2015: Faunalia c'è"
 
-#: ../../index.rst:289
+#: ../../index.rst:291
 msgid ""
 "Faunalia sarà presente al `GFOSS Day 2015 <http://gfossday2015."
 "associazionegfoss.it/index.html>`_, la settima conferenza italiana sul "
@@ -809,11 +817,11 @@ msgstr ""
 "registrazione.html>`_. L'iscrizione è gratuita per i soci GFOSS.it, richiede "
 "una donazione per i non soci. **A presto!**"
 
-#: ../../index.rst:292
+#: ../../index.rst:294
 msgid "QGIS keeps on growing in popularity, ArcGIS starts declining?"
 msgstr "QGIS keeps on growing in popularity, ArcGIS starts declining?"
 
-#: ../../index.rst:294
+#: ../../index.rst:296
 msgid ""
 "`Long term trends in internet searches <https://www.google.com/trends/"
 "explore#q=qgis%2C%20arcgis%2C%20gvsig%2C%20mapinfo&cmpt=q&tz=Etc%2FGMT-2>`_ "
@@ -827,11 +835,11 @@ msgstr ""
 "the proprietary market leader started loosing ground, for the first time "
 "ever - future is bright for free GIS."
 
-#: ../../index.rst:300
+#: ../../index.rst:302
 msgid "Really Fast Fourier filter for rasters in QGIS"
 msgstr "Really Fast Fourier filter for rasters in QGIS"
 
-#: ../../index.rst:302
+#: ../../index.rst:304
 msgid ""
 "I just approved for publication an interesting plugin: `FFT Convolution "
 "Filters <https://plugins.qgis.org/plugins/fft-convolution-filter-master/>`_; "
@@ -845,11 +853,11 @@ msgstr ""
 "impressively fast! *Beware*: you need NumPy, SciPy and Rasterio python "
 "modules installed in your system. Have fun."
 
-#: ../../index.rst:308
+#: ../../index.rst:310
 msgid "Full GRASS 7 support in QGIS"
 msgstr "Full GRASS 7 support in QGIS"
 
-#: ../../index.rst:310
+#: ../../index.rst:312
 msgid ""
 "Thanks to the patient work of Radim Blazek, and to the many donors, the work "
 "on a full, and much improved, support for GRASS in QGIS is almost completed. "
@@ -863,11 +871,11 @@ msgstr ""
 "plugin-crowdfunding/progress.html>`_. Expected delivery in 1.5 months, with "
 "QGIS 2.12."
 
-#: ../../index.rst:313
+#: ../../index.rst:315
 msgid "A WPS inside QGIS?"
 msgstr "A WPS inside QGIS?"
 
-#: ../../index.rst:315
+#: ../../index.rst:317
 msgid ""
 "Thanks to friends from `3Liz <https://www.3liz.com/>`_, you can now have "
 "`Web Processing <https://github.com/3liz/qgis-wps4server>`_ within your QGIS "
@@ -895,11 +903,11 @@ msgstr ""
 "algorithms number. `Source code and an installation guide <http://github."
 "com/3liz/qgis-wps4server>`_ available. *Test and feedback are welcome!*"
 
-#: ../../index.rst:318
+#: ../../index.rst:320
 msgid "More background maps in QGIS"
 msgstr "More background maps in QGIS"
 
-#: ../../index.rst:320
+#: ../../index.rst:322
 msgid ""
 "One hidden gem in QGIS: `QuickMapServices Plugin <https://plugins.qgis.org/"
 "plugins/quick_map_services/>`_; it allows you to add 47 background layers "
@@ -911,11 +919,11 @@ msgstr ""
 "from the web, including the well known Google services as well as less "
 "known, interesting stuff - and you are encouraged to add your own!"
 
-#: ../../index.rst:326
+#: ../../index.rst:328
 msgid "Paolo Cavallini @ ASITA"
 msgstr "Paolo Cavallini @ ASITA"
 
-#: ../../index.rst:328
+#: ../../index.rst:330
 msgid ""
 "Nella prossima `conferenza ASITA <http://www.asita.it/>`_ (Federazione delle "
 "Associazioni Scientifiche per le Informazioni Territoriali e Ambientali) "
@@ -931,11 +939,11 @@ msgstr ""
 "geografico-libero-una-reale-opportunita-di-sviluppo/>`_ Siete i benvenuti, "
 "passate ed intervenite."
 
-#: ../../index.rst:334
+#: ../../index.rst:336
 msgid "Change the interface of your QGIS"
 msgstr "Change the interface of your QGIS"
 
-#: ../../index.rst:336
+#: ../../index.rst:338
 msgid ""
 "It is now possible, in the development version of QGIS, to `choose and "
 "create your theme <http://nathanw.net/2015/08/29/ui-theme-support-now-core-"
@@ -947,11 +955,11 @@ msgstr ""
 "in-qgis/>`_. If you create something interesting, why not sharing it, so it "
 "may go in the next version, due in October?"
 
-#: ../../index.rst:342
+#: ../../index.rst:344
 msgid "Opinions on QGIS: today and the future"
 msgstr "Opinions on QGIS: today and the future"
 
-#: ../../index.rst:344
+#: ../../index.rst:346
 msgid ""
 "An `interview <https://exporttocanoma.blogspot.it/2015/08/intervista-paolo-"
 "cavallini.html>`_ with Paolo Cavallini about QGIS and more. In Italian, "
@@ -961,11 +969,11 @@ msgstr ""
 "cavallini.html>`_ with Paolo Cavallini about QGIS and more. In Italian, "
 "sorry, non-latins! :)"
 
-#: ../../index.rst:347
+#: ../../index.rst:349
 msgid "Customize your QGIS menus"
 msgstr "Customize your QGIS menus"
 
-#: ../../index.rst:349
+#: ../../index.rst:351
 msgid ""
 "The flux of plugins keeps on steady - just published: **Menu builder**: "
 "Create your own menus with your favorite layers. Easy configuration is done "
@@ -975,11 +983,11 @@ msgstr ""
 "Create your own menus with your favorite layers. Easy configuration is done "
 "with drag & drop from the qgis browser. More are in the queue, stay tuned."
 
-#: ../../index.rst:355
+#: ../../index.rst:357
 msgid "New QGIS Long Term Release"
 msgstr "New QGIS Long Term Release"
 
-#: ../../index.rst:357
+#: ../../index.rst:359
 msgid ""
 "`QGIS 2.8.3 'Wien' new bugfix release is out <https://qgis.org/en/site/"
 "forusers/download.html>`_. Hundreds of bugfixes `(see the list <https://"
@@ -993,11 +1001,11 @@ msgstr ""
 "`More details on the QGIS blog <http://blog.qgis.org/2015/08/06/point-"
 "release-qgis-2-8-3-wien-is-ready/>`_"
 
-#: ../../index.rst:360
+#: ../../index.rst:362
 msgid "A new QGIS plugin: Natural earth data"
 msgstr "A new QGIS plugin: Natural earth data"
 
-#: ../../index.rst:362
+#: ../../index.rst:364
 msgid ""
 "Just published: `a new plugin <https://plugins.qgis.org/plugins/"
 "natural_earth_raster/>`_ to automatically download Natural Earth data. "
@@ -1009,11 +1017,11 @@ msgstr ""
 "Enjoy, and `report any issue <https://github.com/informeren/qgis-natural-"
 "earth-raster/issues>`_"
 
-#: ../../index.rst:365
+#: ../../index.rst:367
 msgid "Yet another interesting QGIS plugin: Cartograms"
 msgstr "Yet another interesting QGIS plugin: Cartograms"
 
-#: ../../index.rst:367
+#: ../../index.rst:369
 msgid ""
 "`Create distorted maps <https://plugins.qgis.org/plugins/cartogram/>`_, "
 "where areas of each polygon represents a variable in your data. An example:"

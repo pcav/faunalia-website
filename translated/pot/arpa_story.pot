@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-11 14:54+0200\n"
+"POT-Creation-Date: 2018-04-13 19:04+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,10 +41,98 @@ msgid "**Migrazione plugin PS Time Series Viewer per QGIS 3**"
 msgstr ""
 
 #: ../../arpa_story.rst:16
-msgid "Il plugin PS Time Series Viewer è stato *portato* con successo in QGIS 3."
+msgid "Il plugin PS Time Series Viewer è stato *portato* con successo ed è disponibile in QGIS 3."
 msgstr ""
 
 #: ../../arpa_story.rst:18
 msgid "Questo plugin permette di elaborare serie temporali di dati interferometrici."
+msgstr ""
+
+#: ../../arpa_story.rst:24
+msgid "Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (3/8)"
+msgstr ""
+
+#: ../../arpa_story.rst:25
+msgid "**Filtro su layer in legenda**"
+msgstr ""
+
+#: ../../arpa_story.rst:27
+msgid "Una grande novità per quanto riguarda la legenda e i layer che hanno un filtro lato provider. Un nuovo pulsante permette rapidamente di sapere se su un layer è stato applicato un filtro . Inoltre con un unico click si può aprire la finestra di dialogo del filtro e cancellarlo o cambiarlo:"
+msgstr ""
+
+#: ../../arpa_story.rst:39
+msgid "Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (4/8)"
+msgstr ""
+
+#: ../../arpa_story.rst:40
+msgid "**Salvataggio dei progetti in database PostgreSQL**"
+msgstr ""
+
+#: ../../arpa_story.rst:42
+msgid "Enorme novità che permette di salvare uno o più progetti all'interno di un database PostgreSQL. Con un semplice *dump* del database si potranno quindi condividere dati, stili e progetti."
+msgstr ""
+
+#: ../../arpa_story.rst:54
+msgid "Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (5/8)"
+msgstr ""
+
+#: ../../arpa_story.rst:55
+msgid "**Gestione della visibilità di gruppi e legenda nei temi mappa**"
+msgstr ""
+
+#: ../../arpa_story.rst:57
+msgid "Grazie a questa implementazione i temi mappa si memorizzano l'apertura/chiusura dei gruppi e delle legende dei vari layer."
+msgstr ""
+
+#: ../../arpa_story.rst:68
+msgid "Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (6/8)"
+msgstr ""
+
+#: ../../arpa_story.rst:69
+msgid "**Metadati di progetto**"
+msgstr ""
+
+#: ../../arpa_story.rst:71
+msgid "Un nuovo menu permette di impostare i metadati del progetto che verranno esportati sia nel progetto che nelle composizioni di stampa."
+msgstr ""
+
+#: ../../arpa_story.rst:74
+msgid "Nello specifico i metadati disponibili sono:"
+msgstr ""
+
+#: ../../arpa_story.rst:76
+msgid "titolo"
+msgstr ""
+
+#: ../../arpa_story.rst:77
+msgid "soggetto"
+msgstr ""
+
+#: ../../arpa_story.rst:78
+msgid "parole chiave"
+msgstr ""
+
+#: ../../arpa_story.rst:79
+msgid "creatore"
+msgstr ""
+
+#: ../../arpa_story.rst:80
+msgid "produttore"
+msgstr ""
+
+#: ../../arpa_story.rst:81
+msgid "data di creazione"
+msgstr ""
+
+#: ../../arpa_story.rst:90
+msgid "Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (7/8)"
+msgstr ""
+
+#: ../../arpa_story.rst:91
+msgid "**Blocco impostazioni dei layer**"
+msgstr ""
+
+#: ../../arpa_story.rst:93
+msgid "Questa funzionalità permette di avere un controllo maggiore su layer che si vuole bloccare nel progetto impedendone la rimozione per sbaglio. La loro modifica (di geometrie e/o di attributi) rimane possibile."
 msgstr ""
 

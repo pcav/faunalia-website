@@ -92,6 +92,8 @@ Dopo tanti anni di continua, attiva e proficua collaborazione Paolo Cavallini
 
 Siamo onorati dalla fiducia che la comunità ha accordato, e continueremo a lavorare a questo progetto, pienamente cooperativo e democratico, per il progresso di uno strumento che consente a tutti di lavorare e creare liberamente.
 
+`http://blog.qgis.org/2018/04/13/qgis-annual-general-meeting-2018/ <http://blog.qgis.org/2018/04/13/qgis-annual-general-meeting-2018/>`_
+
 
 Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (1/8)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
