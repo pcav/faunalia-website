@@ -65,7 +65,7 @@ Paolo Cavallini
    :align: left
 
 * Fondatore di Faunalia
-* Co-Chair dell'associazione internazionale **QGIS.org** e membro del *QGIS Project Steering Commitee* col ruolo di *Financial/Marketing Advisor*
+* Chair dell'associazione internazionale **QGIS.org** e membro del *QGIS Project Steering Commitee* col ruolo di *Financial/Marketing Advisor*
 * Socio fondatore di ed ex presidente di `GFOSS.it - Italian Geographic Free and Open-Source Software Association <http://www.gfoss.it/>`_
 * Socio e *charter member* della fondazione internazionale `OSGeo - Open Source Geospatial Foundation <http://www.osgeo.org/>`_
 * Socio fondatore di `ITPUG - ITalian PostgreSQL User Group <http://www.itpug.org>`_

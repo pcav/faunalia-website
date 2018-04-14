@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-26 15:11+0100\n"
+"POT-Creation-Date: 2018-04-14 11:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -303,8 +303,9 @@ msgstr "Fondateur de Faunalia "
 
 # 89e9e1fc097a4254b73ea7b4f6d50b20
 #: ../../intro.rst:68
+#, fuzzy
 msgid ""
-"Co-Chair dell'associazione internazionale **QGIS.org** e membro del *QGIS "
+"Chair dell'associazione internazionale **QGIS.org** e membro del *QGIS "
 "Project Steering Commitee* col ruolo di *Financial/Marketing Advisor*"
 msgstr ""
 "Vice président de l'association internationale **QGIS.org** et membre du "
