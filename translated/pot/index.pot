@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-16 11:04+0200\n"
+"POT-Creation-Date: 2018-04-16 17:46+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,7 +55,7 @@ msgid "QGIS_ e PostGIS_ forniscono un modo semplice ed economico per gestire gra
 msgstr ""
 
 #: ../../index.rst:40
-msgid "I servizi di Faunalia sono presenti nel `catalogo del Mercato Elettronico della Pubblica Amministrazione <https://www.acquistinretepa.it/catricerche/ricercaSemplice.do?cerca=faunalia>`_. È quindi ora ancora più facile per le Pubbliche Amministrazioni aderire."
+msgid "I servizi di Faunalia sono presenti nel `catalogo del Mercato Elettronico della Pubblica Amministrazione <https://www.acquistinretepa.it/catricerche/ricercaSemplice.do?cerca=faunalia>`_ (**NB**: è necessario autenticarsi sul sistema). È quindi ora ancora più facile per le Pubbliche Amministrazioni aderire."
 msgstr ""
 
 #: ../../index.rst:43

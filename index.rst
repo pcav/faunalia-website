@@ -37,7 +37,7 @@ QGIS_ e PostGIS_ mettono a disposizione un grande numero di funzionalità per vi
 
 QGIS_ e PostGIS_ forniscono un modo semplice ed economico per gestire grandi volumi di dati (ad es. Catasto Urbano, Catasto Rurale, etc.) e per pubblicare servizi standard OpenGeospatialConsortium_ (WMS, WFS, WCS), così come mappe on-line (WebGIS).
 
-I servizi di Faunalia sono presenti nel `catalogo del Mercato Elettronico della Pubblica Amministrazione <https://www.acquistinretepa.it/catricerche/ricercaSemplice.do?cerca=faunalia>`_. È quindi ora ancora più facile per le Pubbliche Amministrazioni aderire.
+I servizi di Faunalia sono presenti nel `catalogo del Mercato Elettronico della Pubblica Amministrazione <https://www.acquistinretepa.it/catricerche/ricercaSemplice.do?cerca=faunalia>`_ (**NB**: è necessario autenticarsi sul sistema). È quindi ora ancora più facile per le Pubbliche Amministrazioni aderire.
 
 
 `Un esempio di WebGIS di Faunalia: <https://lizmap.faunalia.eu/index.php/view/map/?repository=faunalia&project=pontedera>`_
