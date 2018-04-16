@@ -128,7 +128,7 @@ html_theme_options = {
     'navbar_site_name': "",
 #menus in a row, topbar (it works, but is untranslatable)
 #better solution in layout.html
-#    'navbar_links': [('Sviluppo', 'dev'), ('Assistenza', 'support'), ('Corsi', 'training'), ('Attivit&agrave;', 'jobs'), ('Chi siamo', 'intro')], 
+#    'navbar_links': [('Sviluppo', 'dev'), ('Assistenza', 'support'), ('Corsi', 'training'), ('Attivit&agrave;', 'jobs'), ('Chi siamo', 'intro')],
 
     # Choose Bootstrap version.
     # Values: "3" (default) or "2" (in quotes)
@@ -172,7 +172,7 @@ html_static_path = ['_static']
 
 # Custom sidebar templates, maps document names to template names.
 #html_sidebars = {}
-html_sidebars = {'training': ['localtoc.html'], 'intro': ['localtoc.html'], 'jobs': ['localtoc.html'], 'animove': ['localtoc.html'], 'nat_course': ['localtoc.html']} 
+html_sidebars = {'training': ['localtoc.html'], 'intro': ['localtoc.html'], 'jobs': ['localtoc.html'], 'animove': ['localtoc.html'], 'nat_course': ['localtoc.html']}
 
 #html_sidebars = {'**': ['localtoc.html'],
 #                 'search': None,

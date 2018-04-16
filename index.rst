@@ -83,6 +83,16 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (2/8)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+**Migrazione plugin PS Time Series Viewer per QGIS 3**
+
+Il plugin PS Time Series Viewer è stato *portato* con successo ed è disponibile in QGIS 3.
+
+Questo plugin permette di elaborare serie temporali di dati interferometrici.
+
+.. image :: images/ps-time.gif
+
 Paolo Cavallini è il nuovo presidente di QGIS.org
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Paolo Cavallini è il nuovo presidente di QGIS.org
