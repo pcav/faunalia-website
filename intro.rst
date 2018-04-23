@@ -66,7 +66,7 @@ Paolo Cavallini
 
 * Fondatore di Faunalia
 * Chair dell'associazione internazionale **QGIS.org** e membro del *QGIS Project Steering Commitee* col ruolo di *Financial/Marketing Advisor*
-* Socio fondatore di ed ex presidente di `GFOSS.it - Italian Geographic Free and Open-Source Software Association <http://www.gfoss.it/>`_
+* Socio fondatore ed ex presidente di `GFOSS.it - Italian Geographic Free and Open-Source Software Association <http://www.gfoss.it/>`_
 * Socio e *charter member* della fondazione internazionale `OSGeo - Open Source Geospatial Foundation <http://www.osgeo.org/>`_
 * Socio fondatore di `ITPUG - ITalian PostgreSQL User Group <http://www.itpug.org>`_
 * Membro di `IUCN - The World Conservation Union - Species Survival Commission <http://www.iucn.org/>`_, ex Presidente dello *IUCN Small Carnivore Specialist Group* e membro dello *IUCN - European Sustainable Use Specialist Group*
@@ -98,6 +98,8 @@ Matteo Ghetta
 * Collabora in modo attivo con gli sviluppatori di QGIS sia scrivendo codice che documentazione
 * Autore del plugin `DataPlotly <https://github.com/ghtmtt/DataPlotly>`_
 * Revisore della traduzione italiana di QGIS
+* `Curriculum Vitae (html) <cv_mg_it.html>`__
+* `Curriculum Vitae (pdf) <pdf/GHETTA_CV_it.pdf>`__ - `europeo (pdf) <pdf/GHETTA_CV_eu.pdf>`__
 
 * *email* matteo.ghetta@faunalia.eu
 * *Tel/WhatsApp/Signal/Telegram*: +39-348-9523719

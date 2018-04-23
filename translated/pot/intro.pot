@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-14 11:29+0200\n"
+"POT-Creation-Date: 2018-04-23 11:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -141,7 +141,7 @@ msgid "Chair dell'associazione internazionale **QGIS.org** e membro del *QGIS Pr
 msgstr ""
 
 #: ../../intro.rst:69
-msgid "Socio fondatore di ed ex presidente di `GFOSS.it - Italian Geographic Free and Open-Source Software Association <http://www.gfoss.it/>`_"
+msgid "Socio fondatore ed ex presidente di `GFOSS.it - Italian Geographic Free and Open-Source Software Association <http://www.gfoss.it/>`_"
 msgstr ""
 
 #: ../../intro.rst:70
@@ -224,51 +224,59 @@ msgstr ""
 msgid "Revisore della traduzione italiana di QGIS"
 msgstr ""
 
+#: ../../intro.rst:101
+msgid "`Curriculum Vitae (html) <cv_mg_it.html>`__"
+msgstr ""
+
 #: ../../intro.rst:102
+msgid "`Curriculum Vitae (pdf) <pdf/GHETTA_CV_it.pdf>`__ - `europeo (pdf) <pdf/GHETTA_CV_eu.pdf>`__"
+msgstr ""
+
+#: ../../intro.rst:104
 msgid "*email* matteo.ghetta@faunalia.eu"
 msgstr ""
 
-#: ../../intro.rst:103
+#: ../../intro.rst:105
 msgid "*Tel/WhatsApp/Signal/Telegram*: +39-348-9523719"
 msgstr ""
 
-#: ../../intro.rst:106
+#: ../../intro.rst:108
 msgid "Renzo Cavallini"
 msgstr ""
 
-#: ../../intro.rst:111
+#: ../../intro.rst:113
 msgid "Geologo, specializzato in geofisica"
 msgstr ""
 
-#: ../../intro.rst:112
+#: ../../intro.rst:114
 msgid "Ha collaborato a livello scientifico e didattico con l'Università di Pisa"
 msgstr ""
 
-#: ../../intro.rst:113
+#: ../../intro.rst:115
 msgid "Ha pubblicato nel settore geofisico"
 msgstr ""
 
-#: ../../intro.rst:114
+#: ../../intro.rst:116
 msgid "Conduce attività di prospezione geotecnica, in laboratorio ed *in situ*"
 msgstr ""
 
-#: ../../intro.rst:116
+#: ../../intro.rst:118
 msgid "esecuzione ed elaborazione di prove di laboratorio su terreni naturali: consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), compressione semplice, analisi granulometrica, limiti di consistenza (LL, LP, LR), peso specifico dei granuli, permeabilità in cella edometrica, triassiale e in permeametro (norme seguite: racc. AGI, CNR, ASTM)"
 msgstr ""
 
-#: ../../intro.rst:117
+#: ../../intro.rst:119
 msgid "esecuzione ed elaborazione di prove di laboratorio su materiali stradali e da costruzione: compattazione Proctor Standard e modificata, penetrazione CBR, miscelazione delle terre con calce (norme seguite: EN, CNR, ASTM)"
 msgstr ""
 
-#: ../../intro.rst:118
+#: ../../intro.rst:120
 msgid "esecuzione ed elaborazione di prove in situ: penetrometriche statiche con punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o senza rivestimento, PLT, densità in situ"
 msgstr ""
 
-#: ../../intro.rst:119
+#: ../../intro.rst:121
 msgid "installazione e messa a punto di apparecchiature di laboratorio e di sistemi di acquisizione automatica; calibrazione di trasduttori elettrici"
 msgstr ""
 
-#: ../../intro.rst:121
+#: ../../intro.rst:123
 msgid "*e-mail*: renzo.cavallini@faunalia.it"
 msgstr ""
 

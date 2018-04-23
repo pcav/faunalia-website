@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-14 11:29+0200\n"
+"POT-Creation-Date: 2018-04-23 11:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -304,8 +304,8 @@ msgstr ""
 # 92e5e56111ae4a58af219d06bb84952b
 #: ../../intro.rst:69
 msgid ""
-"Socio fondatore di ed ex presidente di `GFOSS.it - Italian Geographic Free "
-"and Open-Source Software Association <http://www.gfoss.it/>`_"
+"Socio fondatore ed ex presidente di `GFOSS.it - Italian Geographic Free and "
+"Open-Source Software Association <http://www.gfoss.it/>`_"
 msgstr ""
 "Co-founder and past president of `GFOSS.it - Italian Geographic Free and "
 "Open-Source Software Association <http://www.gfoss.it/>`_"
@@ -433,28 +433,40 @@ msgstr "Author of `DataPlotly <https://github.com/ghtmtt/DataPlotly>`_ plugin"
 msgid "Revisore della traduzione italiana di QGIS"
 msgstr "Reviewer of the Italian translation of QGIS"
 
-# 12db5196f90647d8b593e6b4c685d9d4
+# 95dca4087d374ece822ccbd1aee35dec
+#: ../../intro.rst:101
+msgid "`Curriculum Vitae (html) <cv_mg_it.html>`__"
+msgstr "`Curriculum Vitae (html) <cv_mg_en.html>`__"
+
+# 8630faa3be4b4cda952d6b505825b794
 #: ../../intro.rst:102
+msgid ""
+"`Curriculum Vitae (pdf) <pdf/GHETTA_CV_it.pdf>`__ - `europeo (pdf) "
+"<pdf/GHETTA_CV_eu.pdf>`__"
+msgstr "`Curriculum Vitae (pdf) <pdf/GHETTA_CV_en.pdf>`__"
+
+# 12db5196f90647d8b593e6b4c685d9d4
+#: ../../intro.rst:104
 msgid "*email* matteo.ghetta@faunalia.eu"
 msgstr "*email* matteo.ghetta@faunalia.eu"
 
 # 2796ab88a4474c5fa01132a029cc64b8
-#: ../../intro.rst:103
+#: ../../intro.rst:105
 msgid "*Tel/WhatsApp/Signal/Telegram*: +39-348-9523719"
 msgstr "*Tel/WhatsApp/Signal/Telegram*: +39-348-9523719"
 
 # 7fbaf8236c9e46d590fb8cc752c2198a
-#: ../../intro.rst:106
+#: ../../intro.rst:108
 msgid "Renzo Cavallini"
 msgstr "Renzo Cavallini"
 
 # a01dda5df8d644749a4e0295093fe1e0
-#: ../../intro.rst:111
+#: ../../intro.rst:113
 msgid "Geologo, specializzato in geofisica"
 msgstr "Geologist, specialised in geophysics"
 
 # 82cd43493dd24a64a12263b97becaa4a
-#: ../../intro.rst:112
+#: ../../intro.rst:114
 msgid ""
 "Ha collaborato a livello scientifico e didattico con l'Università di Pisa"
 msgstr ""
@@ -462,17 +474,17 @@ msgstr ""
 "teaching"
 
 # 03cf91c1fa8a4b42aaf5e7a990980471
-#: ../../intro.rst:113
+#: ../../intro.rst:115
 msgid "Ha pubblicato nel settore geofisico"
 msgstr "He has published scientific papers on geophysics"
 
 # 1200ea1bce804534904223f3b14800ea
-#: ../../intro.rst:114
+#: ../../intro.rst:116
 msgid "Conduce attività di prospezione geotecnica, in laboratorio ed *in situ*"
 msgstr "Leads geotechnical explorations, in the laboratory and *in situ*"
 
 # 7a363e92386745399f180ff13897da58
-#: ../../intro.rst:116
+#: ../../intro.rst:118
 msgid ""
 "esecuzione ed elaborazione di prove di laboratorio su terreni naturali: "
 "consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), "
@@ -487,7 +499,7 @@ msgstr ""
 "(rules followed: Coll. AGI, CNR, ASTM)"
 
 # 78a0702041e84c08aa141038a65d979f
-#: ../../intro.rst:117
+#: ../../intro.rst:119
 msgid ""
 "esecuzione ed elaborazione di prove di laboratorio su materiali stradali e "
 "da costruzione: compattazione Proctor Standard e modificata, penetrazione "
@@ -498,7 +510,7 @@ msgstr ""
 "of land with lime (follow standards: EN, CNR, ASTM)"
 
 # e42944834a8a4a808fe3288ea5d1bc04
-#: ../../intro.rst:118
+#: ../../intro.rst:120
 msgid ""
 "esecuzione ed elaborazione di prove in situ: penetrometriche statiche con "
 "punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o "
@@ -509,7 +521,7 @@ msgstr ""
 "without coating, PLT, in situ density"
 
 # 80067180141f4a7982ea07c0fe694e59
-#: ../../intro.rst:119
+#: ../../intro.rst:121
 msgid ""
 "installazione e messa a punto di apparecchiature di laboratorio e di sistemi "
 "di acquisizione automatica; calibrazione di trasduttori elettrici"
@@ -518,7 +530,7 @@ msgstr ""
 "acquiring; calibration of electrical transducers"
 
 # a9ce1c992be34c53bd43f385da4f4bab
-#: ../../intro.rst:121
+#: ../../intro.rst:123
 msgid "*e-mail*: renzo.cavallini@faunalia.it"
 msgstr "*e-mail*: renzo.cavallini@faunalia.it"
 
@@ -554,10 +566,6 @@ msgstr "*e-mail*: renzo.cavallini@faunalia.it"
 # 5124bd8f369744908e0748675ec84bfc
 #~ msgid "Oltre 7 anni di esperienza sui GIS liberi"
 #~ msgstr "Over 7 years of experience on free and open source GIS"
-
-# 95dca4087d374ece822ccbd1aee35dec
-#~ msgid "`Curriculum Vitae (html) <cv_gm_it.html>`__"
-#~ msgstr "`Curriculum Vitae (html) <cv_gm_en.html>`__"
 
 # fb9167a7fa5b4395a8d03095f9ae74cd
 #~ msgid ""
@@ -604,12 +612,6 @@ msgstr "*e-mail*: renzo.cavallini@faunalia.it"
 # f2e2c08f2fe54447b9ddb4ca52b3af41
 #~ msgid "`Curriculum Vitae (html) <cv_vn_it.html>`__"
 #~ msgstr "`Curriculum Vitae (html) <cv_vn_en.html>`__"
-
-# 8630faa3be4b4cda952d6b505825b794
-#~ msgid ""
-#~ "`Curriculum Vitae (pdf) <pdf/Neves_CV_it.pdf>`__ - `europeo (pdf) "
-#~ "<pdf/Neves_CV_eu.pdf>`__"
-#~ msgstr "`Curriculum Vitae (pdf) <pdf/Neves_CV_en.pdf>`__"
 
 # a5ec7d08d5c3410284e5988b9eb304f4
 #~ msgid "*Tel/Viber/Line*: +351939320104"
