@@ -2,4 +2,4 @@ Matteo Ghetta
 -------------------------------------------------------------------------------
 
 .. raw:: html
-   :file: GHETTA_CV_it.html
+   :file: Ghetta_CV_it.html

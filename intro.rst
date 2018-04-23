@@ -99,7 +99,7 @@ Matteo Ghetta
 * Autore del plugin `DataPlotly <https://github.com/ghtmtt/DataPlotly>`_
 * Revisore della traduzione italiana di QGIS
 * `Curriculum Vitae (html) <cv_mg_it.html>`__
-* `Curriculum Vitae (pdf) <pdf/GHETTA_CV_it.pdf>`__ - `europeo (pdf) <pdf/GHETTA_CV_eu.pdf>`__
+* `Curriculum Vitae (pdf) <pdf/Ghetta_CV_it.pdf>`__ - `europeo (pdf) <pdf/Ghetta_CV_eu.pdf>`__
 
 * *email* matteo.ghetta@faunalia.eu
 * *Tel/WhatsApp/Signal/Telegram*: +39-348-9523719
