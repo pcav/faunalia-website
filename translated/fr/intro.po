@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-23 11:28+0200\n"
+"POT-Creation-Date: 2018-04-23 13:00+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -460,8 +460,8 @@ msgstr "`Curriculum Vitae (html-en) <cv_gm_en.html>`__"
 #: ../../intro.rst:102
 #, fuzzy
 msgid ""
-"`Curriculum Vitae (pdf) <pdf/GHETTA_CV_it.pdf>`__ - `europeo (pdf) <pdf/"
-"GHETTA_CV_eu.pdf>`__"
+"`Curriculum Vitae (pdf) <pdf/Ghetta_CV_it.pdf>`__ - `europeo (pdf) <pdf/"
+"Ghetta_CV_eu.pdf>`__"
 msgstr "`Curriculum Vitae (pdf-en) <pdf/Neves_CV_en.pdf>`__"
 
 # 12db5196f90647d8b593e6b4c685d9d4
