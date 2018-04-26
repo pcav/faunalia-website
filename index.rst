@@ -83,6 +83,21 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (3/8)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+**Filtro su layer in legenda**
+
+Una grande novità per quanto riguarda la legenda e i layer che hanno un filtro
+lato provider. Un nuovo pulsante permette rapidamente di sapere se su un layer
+è stato applicato un filtro . Inoltre con un unico click si può aprire la finestra
+di dialogo del filtro e cancellarlo o cambiarlo:
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/19Md_ubALlw" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+
 Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (2/8)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 **Migrazione plugin PS Time Series Viewer per QGIS 3**
