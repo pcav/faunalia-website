@@ -49,6 +49,12 @@ Perché scegliere i corsi di Faunalia?
 Dicono di noi
 =================
 
+.. image:: images/eambiente.jpg
+          :align: left
+
+**Mauro Gallo, Michele Cagliani, Matteo Paolini, Mattia Tiozzo** `EAmbiente <http://www.eambiente.it/>`_. "Come tecnici dell'unità operativa Environmental Information Technology Management abbiamo avuto il privilegio di ospitare Paolo e Matteo nei nostri uffici per un workshop full-time avanzato sulle tematiche GIS open-source. L'ottima capacità didattica e preparazione tecnica dei docenti ci ha permesso di approfondire in modo assai efficace i contenuti dei corsi di "Analisi avanzata con QGIS", "Geodatabase: PostreSQL e PostGIS" e "WebMapping con QGIS e LizMap" coniugando le nozioni teoriche ad esercitazioni pratiche su casi studio di nostro interesse.
+I corsi si sono dimostrati molto utili anche per gli utenti avanzati, grazie alla condivisione di molti plug-in e "trucchi del mestiere", che ci hanno consentito di migliorare l'attività giornaliera, perfezionando la comprensione del software... Aspettiamo ora il prossimo corso per l'aggiornamento a QGIS3 :) "
+
 .. image:: images/mclink.jpg
           :align: left
 
