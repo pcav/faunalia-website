@@ -83,6 +83,20 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (4/8)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+**Salvataggio dei progetti in database PostgreSQL**
+
+Enorme novità che permette di salvare uno o più progetti all'interno di un database
+PostgreSQL. Con un semplice *dump* del database si potranno quindi condividere
+dati, stili e progetti.
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/l2BvyhEeyaU" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+
 Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (3/8)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 **Filtro su layer in legenda**
