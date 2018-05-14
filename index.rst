@@ -82,6 +82,18 @@ Faunalia
 
 News
 --------------------------------------------------------------------------
+Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (5/8)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+**Gestione della visibilità di gruppi e legenda nei temi mappa**
+
+Grazie a questa implementazione i temi mappa memorizzano lo stato di apertura/chiusura
+dei gruppi e delle legende dei vari layer.
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/YLYD2wn0p2A" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
 
 Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (4/8)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
