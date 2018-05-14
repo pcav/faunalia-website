@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 09:50+0200\n"
+"POT-Creation-Date: 2018-05-14 11:27+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -714,24 +714,30 @@ msgid "Lingua"
 msgstr "Language"
 
 #: ../../training.rst:245
-msgid ":ref:`analisi`"
+msgid ":ref:`pyqgis`"
 msgstr ""
 
-# 53d00af130964089957a33ca9154d0b3
+# 5f579eacdfe14ef58b3777e851296a6b
 #: ../../training.rst:245
 #, fuzzy
-msgid "09-11 Maggio 2018"
-msgstr "25-26 Mai 2017"
+msgid "18-20 Giugno 2018"
+msgstr "1 Juin"
 
 # 768ef41660e8444b834e3d11d5ef4934
 # 69abb73e3dbe4ec59cc72dd9e0314203
 # b926fe538c0a4266816e9a2e2da861a4
 # fa87477f305244138e8c92056cc005d3
 # bfaca8e307114040a30a78bdd2317625
-#: ../../training.rst:245 ../../training.rst:246 ../../training.rst:248
+#: ../../training.rst:245 ../../training.rst:247 ../../training.rst:248
 #: ../../training.rst:249 ../../training.rst:250
 msgid "Pontedera, IT"
 msgstr "Pontedera, IT"
+
+# 53d00af130964089957a33ca9154d0b3
+#: ../../training.rst:245
+#, fuzzy
+msgid "20 Maggio 2018"
+msgstr "25-26 Mai 2017"
 
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
@@ -743,53 +749,42 @@ msgstr "Pontedera, IT"
 msgid "Italiano"
 msgstr "Italie"
 
-#: ../../training.rst:246
-msgid ":ref:`pyqgis`"
-msgstr ""
-
-# 5f579eacdfe14ef58b3777e851296a6b
-#: ../../training.rst:246
-#, fuzzy
-msgid "18-20 Giugno 2018"
-msgstr "1 Juin"
-
-# 53d00af130964089957a33ca9154d0b3
-#: ../../training.rst:246
-#, fuzzy
-msgid "20 Maggio 2018"
-msgstr "25-26 Mai 2017"
-
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
-#: ../../training.rst:247
+#: ../../training.rst:246
 #, fuzzy
 msgid "`Cartography with QGIS (EN) with Physalia`_"
 msgstr "Cartographie avec QGIS (PT)"
 
 # 53d00af130964089957a33ca9154d0b3
-#: ../../training.rst:247
+#: ../../training.rst:246
 #, fuzzy
 msgid "02-04 Luglio 2018"
 msgstr "25-26 Mai 2017"
 
-#: ../../training.rst:247
+#: ../../training.rst:246
 msgid "Berlino, DE"
 msgstr ""
 
-#: ../../training.rst:248
+#: ../../training.rst:247
 msgid ":ref:`webgis`"
 msgstr ""
 
-#: ../../training.rst:248 ../../training.rst:249 ../../training.rst:250
+#: ../../training.rst:247 ../../training.rst:248 ../../training.rst:249
+#: ../../training.rst:250
 msgid "da definire"
 msgstr "à décider"
 
-#: ../../training.rst:249
+#: ../../training.rst:248
 msgid ":ref:`geodb`"
 msgstr ""
 
-#: ../../training.rst:250
+#: ../../training.rst:249
 msgid ":ref:`carto`"
+msgstr ""
+
+#: ../../training.rst:250
+msgid ":ref:`analisi`"
 msgstr ""
 
 #: ../../training.rst:255
@@ -1823,6 +1818,11 @@ msgstr ""
 #, fuzzy
 msgid "Un giorno *full time*"
 msgstr "Trois jours à plein temps"
+
+# 53d00af130964089957a33ca9154d0b3
+#, fuzzy
+#~ msgid "09-11 Maggio 2018"
+#~ msgstr "25-26 Mai 2017"
 
 # eafdbe68fb894344a151fb2d4142818d
 #, fuzzy

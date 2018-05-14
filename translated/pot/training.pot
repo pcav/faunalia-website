@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 09:50+0200\n"
+"POT-Creation-Date: 2018-05-14 11:27+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -213,19 +213,23 @@ msgid "Lingua"
 msgstr ""
 
 #: ../../training.rst:245
-msgid ":ref:`analisi`"
+msgid ":ref:`pyqgis`"
 msgstr ""
 
 #: ../../training.rst:245
-msgid "09-11 Maggio 2018"
+msgid "18-20 Giugno 2018"
 msgstr ""
 
 #: ../../training.rst:245
-#: ../../training.rst:246
+#: ../../training.rst:247
 #: ../../training.rst:248
 #: ../../training.rst:249
 #: ../../training.rst:250
 msgid "Pontedera, IT"
+msgstr ""
+
+#: ../../training.rst:245
+msgid "20 Maggio 2018"
 msgstr ""
 
 #: ../../training.rst:245
@@ -238,45 +242,38 @@ msgid "Italiano"
 msgstr ""
 
 #: ../../training.rst:246
-msgid ":ref:`pyqgis`"
-msgstr ""
-
-#: ../../training.rst:246
-msgid "18-20 Giugno 2018"
-msgstr ""
-
-#: ../../training.rst:246
-msgid "20 Maggio 2018"
-msgstr ""
-
-#: ../../training.rst:247
 msgid "`Cartography with QGIS (EN) with Physalia`_"
 msgstr ""
 
-#: ../../training.rst:247
+#: ../../training.rst:246
 msgid "02-04 Luglio 2018"
 msgstr ""
 
-#: ../../training.rst:247
+#: ../../training.rst:246
 msgid "Berlino, DE"
 msgstr ""
 
-#: ../../training.rst:248
+#: ../../training.rst:247
 msgid ":ref:`webgis`"
 msgstr ""
 
+#: ../../training.rst:247
 #: ../../training.rst:248
 #: ../../training.rst:249
 #: ../../training.rst:250
 msgid "da definire"
 msgstr ""
 
-#: ../../training.rst:249
+#: ../../training.rst:248
 msgid ":ref:`geodb`"
 msgstr ""
 
-#: ../../training.rst:250
+#: ../../training.rst:249
 msgid ":ref:`carto`"
+msgstr ""
+
+#: ../../training.rst:250
+msgid ":ref:`analisi`"
 msgstr ""
 
 #: ../../training.rst:255
