@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-23 13:00+0200\n"
+"POT-Creation-Date: 2018-05-25 08:25+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -238,45 +238,5 @@ msgstr ""
 
 #: ../../intro.rst:105
 msgid "*Tel/WhatsApp/Signal/Telegram*: +39-348-9523719"
-msgstr ""
-
-#: ../../intro.rst:108
-msgid "Renzo Cavallini"
-msgstr ""
-
-#: ../../intro.rst:113
-msgid "Geologo, specializzato in geofisica"
-msgstr ""
-
-#: ../../intro.rst:114
-msgid "Ha collaborato a livello scientifico e didattico con l'Università di Pisa"
-msgstr ""
-
-#: ../../intro.rst:115
-msgid "Ha pubblicato nel settore geofisico"
-msgstr ""
-
-#: ../../intro.rst:116
-msgid "Conduce attività di prospezione geotecnica, in laboratorio ed *in situ*"
-msgstr ""
-
-#: ../../intro.rst:118
-msgid "esecuzione ed elaborazione di prove di laboratorio su terreni naturali: consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), compressione semplice, analisi granulometrica, limiti di consistenza (LL, LP, LR), peso specifico dei granuli, permeabilità in cella edometrica, triassiale e in permeametro (norme seguite: racc. AGI, CNR, ASTM)"
-msgstr ""
-
-#: ../../intro.rst:119
-msgid "esecuzione ed elaborazione di prove di laboratorio su materiali stradali e da costruzione: compattazione Proctor Standard e modificata, penetrazione CBR, miscelazione delle terre con calce (norme seguite: EN, CNR, ASTM)"
-msgstr ""
-
-#: ../../intro.rst:120
-msgid "esecuzione ed elaborazione di prove in situ: penetrometriche statiche con punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o senza rivestimento, PLT, densità in situ"
-msgstr ""
-
-#: ../../intro.rst:121
-msgid "installazione e messa a punto di apparecchiature di laboratorio e di sistemi di acquisizione automatica; calibrazione di trasduttori elettrici"
-msgstr ""
-
-#: ../../intro.rst:123
-msgid "*e-mail*: renzo.cavallini@faunalia.it"
 msgstr ""
 

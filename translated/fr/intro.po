@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-23 13:00+0200\n"
+"POT-Creation-Date: 2018-05-25 08:25+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -475,86 +475,78 @@ msgid "*Tel/WhatsApp/Signal/Telegram*: +39-348-9523719"
 msgstr "*Tel/WhatsApp/Signal/Telegram*: +39-348-9523719"
 
 # 7fbaf8236c9e46d590fb8cc752c2198a
-#: ../../intro.rst:108
-msgid "Renzo Cavallini"
-msgstr "Renzo Cavallini"
+#~ msgid "Renzo Cavallini"
+#~ msgstr "Renzo Cavallini"
 
 # a01dda5df8d644749a4e0295093fe1e0
-#: ../../intro.rst:113
-msgid "Geologo, specializzato in geofisica"
-msgstr "Géologue, spécialisé en géophysique"
+#~ msgid "Geologo, specializzato in geofisica"
+#~ msgstr "Géologue, spécialisé en géophysique"
 
 # 82cd43493dd24a64a12263b97becaa4a
-#: ../../intro.rst:114
-msgid ""
-"Ha collaborato a livello scientifico e didattico con l'Università di Pisa"
-msgstr ""
-"Il a collaboré avec l'Université de Pise, au niveau scientifique et "
-"didactique"
+#~ msgid ""
+#~ "Ha collaborato a livello scientifico e didattico con l'Università di Pisa"
+#~ msgstr ""
+#~ "Il a collaboré avec l'Université de Pise, au niveau scientifique et "
+#~ "didactique"
 
 # 03cf91c1fa8a4b42aaf5e7a990980471
-#: ../../intro.rst:115
-msgid "Ha pubblicato nel settore geofisico"
-msgstr "Il a publié dans le domaine de la géophysique"
+#~ msgid "Ha pubblicato nel settore geofisico"
+#~ msgstr "Il a publié dans le domaine de la géophysique"
 
 # 1200ea1bce804534904223f3b14800ea
-#: ../../intro.rst:116
-msgid "Conduce attività di prospezione geotecnica, in laboratorio ed *in situ*"
-msgstr ""
-"Il conduit des activités d'exploration géotechnique, en laboratoire et *in "
-"situ*"
+#~ msgid ""
+#~ "Conduce attività di prospezione geotecnica, in laboratorio ed *in situ*"
+#~ msgstr ""
+#~ "Il conduit des activités d'exploration géotechnique, en laboratoire et "
+#~ "*in situ*"
 
 # 7a363e92386745399f180ff13897da58
-#: ../../intro.rst:118
-msgid ""
-"esecuzione ed elaborazione di prove di laboratorio su terreni naturali: "
-"consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), "
-"compressione semplice, analisi granulometrica, limiti di consistenza (LL, "
-"LP, LR), peso specifico dei granuli, permeabilità in cella edometrica, "
-"triassiale e in permeametro (norme seguite: racc. AGI, CNR, ASTM)"
-msgstr ""
-"exécution et traitement des tests de laboratoire sur les sols naturels: "
-"consolidation œdométrique, coupe direct CD, triaxial (UU, CU, CD), "
-"compression simple, analyse granulométrique, limites de consistance (LL, LP, "
-"LR), poids spécifique des granules, perméabilité dans la cellule "
-"œdométrique, triaxial et en perméamètre (règles suivies:. Coll AGI, CNR, "
-"ASTM)"
+#~ msgid ""
+#~ "esecuzione ed elaborazione di prove di laboratorio su terreni naturali: "
+#~ "consolidazione edometrica, taglio diretto CD, triassiali (UU, CU, CD), "
+#~ "compressione semplice, analisi granulometrica, limiti di consistenza (LL, "
+#~ "LP, LR), peso specifico dei granuli, permeabilità in cella edometrica, "
+#~ "triassiale e in permeametro (norme seguite: racc. AGI, CNR, ASTM)"
+#~ msgstr ""
+#~ "exécution et traitement des tests de laboratoire sur les sols naturels: "
+#~ "consolidation œdométrique, coupe direct CD, triaxial (UU, CU, CD), "
+#~ "compression simple, analyse granulométrique, limites de consistance (LL, "
+#~ "LP, LR), poids spécifique des granules, perméabilité dans la cellule "
+#~ "œdométrique, triaxial et en perméamètre (règles suivies:. Coll AGI, CNR, "
+#~ "ASTM)"
 
 # 78a0702041e84c08aa141038a65d979f
-#: ../../intro.rst:119
-msgid ""
-"esecuzione ed elaborazione di prove di laboratorio su materiali stradali e "
-"da costruzione: compattazione Proctor Standard e modificata, penetrazione "
-"CBR, miscelazione delle terre con calce (norme seguite: EN, CNR, ASTM)"
-msgstr ""
-"exécution et traitement des tests de laboratoire sur des matériaux routiers "
-"et des bâtiments: compactation Proctor standard et modifié, pénétration CBR, "
-"mélange de terre avec chaux (normes: EN, CNR, ASTM)"
+#~ msgid ""
+#~ "esecuzione ed elaborazione di prove di laboratorio su materiali stradali "
+#~ "e da costruzione: compattazione Proctor Standard e modificata, "
+#~ "penetrazione CBR, miscelazione delle terre con calce (norme seguite: EN, "
+#~ "CNR, ASTM)"
+#~ msgstr ""
+#~ "exécution et traitement des tests de laboratoire sur des matériaux "
+#~ "routiers et des bâtiments: compactation Proctor standard et modifié, "
+#~ "pénétration CBR, mélange de terre avec chaux (normes: EN, CNR, ASTM)"
 
 # e42944834a8a4a808fe3288ea5d1bc04
-#: ../../intro.rst:120
-msgid ""
-"esecuzione ed elaborazione di prove in situ: penetrometriche statiche con "
-"punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o "
-"senza rivestimento, PLT, densità in situ"
-msgstr ""
-"exécution et traitement des essais in situ: pénétration statique avec pointe "
-"mécanique, électrique et piézocône, pénétration dynamique avec ou sans "
-"revêtement, PLT, densité in situ"
+#~ msgid ""
+#~ "esecuzione ed elaborazione di prove in situ: penetrometriche statiche con "
+#~ "punta meccanica, elettrica e piezocono, penetrometriche dinamiche con o "
+#~ "senza rivestimento, PLT, densità in situ"
+#~ msgstr ""
+#~ "exécution et traitement des essais in situ: pénétration statique avec "
+#~ "pointe mécanique, électrique et piézocône, pénétration dynamique avec ou "
+#~ "sans revêtement, PLT, densité in situ"
 
 # 80067180141f4a7982ea07c0fe694e59
-#: ../../intro.rst:121
-msgid ""
-"installazione e messa a punto di apparecchiature di laboratorio e di sistemi "
-"di acquisizione automatica; calibrazione di trasduttori elettrici"
-msgstr ""
-"installation et configuration du matériel et des systèmes de laboratoire "
-"pour acquisition automatique, étalonnage des capteurs électriques"
+#~ msgid ""
+#~ "installazione e messa a punto di apparecchiature di laboratorio e di "
+#~ "sistemi di acquisizione automatica; calibrazione di trasduttori elettrici"
+#~ msgstr ""
+#~ "installation et configuration du matériel et des systèmes de laboratoire "
+#~ "pour acquisition automatique, étalonnage des capteurs électriques"
 
 # a9ce1c992be34c53bd43f385da4f4bab
-#: ../../intro.rst:123
-msgid "*e-mail*: renzo.cavallini@faunalia.it"
-msgstr "*e-mail*: renzo.cavallini@faunalia.it"
+#~ msgid "*e-mail*: renzo.cavallini@faunalia.it"
+#~ msgstr "*e-mail*: renzo.cavallini@faunalia.it"
 
 # b49d1ac6a130438b9c4770674f677d65
 #~ msgid "Giovanni Manghi |pt|"
