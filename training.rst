@@ -271,7 +271,7 @@ Ti preghiamo di iscriverti appena ti è possibile, in modo da consentirci di org
 * **Conferma**: il corso sarà confermato al raggiungimento del numero minimo di partecipanti
 * **Requisiti**: computer portatile in buono stato di funzionamento; i programmi necessari verranno installati durante il corso
 * **Attestato**: la partecipazione al corso dà diritto ad un attestato di partecipazione
-* **Pagamenti**: bonifico sul conto corrente di Faunalia (IBAN IT55 P052 3271 1310 0002 0048 369), indicando nella causale nome e cognome dell'iscritto e nome del corso; si raccomanda di inviare tutti i dati necessari per la fatturazione tramite il modulo qui di seguito
+* **Pagamenti**: bonifico sul conto corrente di Faunalia (IBAN IT30 W053 2371 1310 0000 0013 294), indicando nella causale nome e cognome dell'iscritto e nome del corso; si raccomanda di inviare tutti i dati necessari per la fatturazione tramite il modulo qui di seguito
 
 .. cssclass :: wht
 
