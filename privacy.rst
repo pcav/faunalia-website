@@ -5,7 +5,7 @@ Privacy Policy di Faunalia S.r.l.
 Per avere informazioni circa i tuoi dati personali raccolti, le finalità ed i soggetti con cui i dati vengono condivisi, contatta il Titolare.
 
 
-Titolare del Trattamento dei Dati
+Titolare del trattamento dei dati
 ++++++++++++++++++++++++++++++++++++++
 
 Paolo Cavallini
@@ -16,7 +16,7 @@ Italia
 info@faunalia.it
 
 
-Tipologie di Dati raccolti
+Tipologie di dati raccolti
 +++++++++++++++++++++++++++++++++++++++
 I dati raccolti sono: nome, cognome, email e numero di telefono (se fornito).
 
