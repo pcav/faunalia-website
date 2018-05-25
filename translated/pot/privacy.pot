@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2016, Faunalia
+# This file is distributed under the same license as the Faunalia package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Faunalia \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-25 09:42+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../privacy.rst:2
+msgid "Prospetto informativo riguardo il trattamento dei dati personali"
+msgstr ""
+
+#: ../../privacy.rst:3
+msgid "Privacy Policy di faunalia.eu"
+msgstr ""
+
+#: ../../privacy.rst:5
+msgid "Per avere informazioni circa i tuoi dati personali raccolti, le finalità ed i soggetti con cui i dati vengono condivisi, contatta il Titolare."
+msgstr ""
+
+#: ../../privacy.rst:8
+msgid "Titolare del Trattamento dei Dati"
+msgstr ""
+
+#: ../../privacy.rst:10
+msgid "Paolo Cavallini Piazza Garibaldi, 4 56025 Pontedera (PI) Italia"
+msgstr ""
+
+#: ../../privacy.rst:15
+msgid "cavallini@faunalia.it"
+msgstr ""
+
+#: ../../privacy.rst:18
+msgid "Tipologie di Dati raccolti"
+msgstr ""
+
+#: ../../privacy.rst:19
+msgid "I dati raccolti riguardano nome, cognome, email e numero di telfeono (se fornito)."
+msgstr ""
+
+#: ../../privacy.rst:21
+msgid "I dati raccolti in occasione della stipula del contratto di fornitura di servizi e durante l’esecuzione dello stesso sono trattati per poter erogare il servizio e non per inviare informazioni commerciali o con finalità pubblicitarie."
+msgstr ""
+
+#: ../../privacy.rst:23
+msgid "I dati raccolti **non** sono inviati ad enti esterni a Faunalia S.r.l."
+msgstr ""
+
