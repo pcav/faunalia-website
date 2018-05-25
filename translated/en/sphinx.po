@@ -52,17 +52,19 @@ msgstr "Italy"
 
 #: ../../_templates/layout.html:85
 msgid "Informativa sulla Privacy"
-msgstr ""
+msgstr "Privacy"
 
 #: ../../_templates/layout.html:86
 msgid ""
 "Per maggiori informazioni sul trattamento dei dati personali, clicca sul "
 "seguente"
 msgstr ""
+"To get more information on your personal data treatment, click on the "
+"following"
 
 #: ../../_templates/layout.html:86
 msgid "link"
-msgstr ""
+msgstr "link"
 
 # 319c76da9e244e1fa86d395fa684c45d
 #: ../../_templates/layout.html:90
