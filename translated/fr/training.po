@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-25 09:16+0200\n"
+"POT-Creation-Date: 2018-05-25 09:21+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -733,12 +733,6 @@ msgstr "1 Juin"
 msgid "Pontedera, IT"
 msgstr "Pontedera, IT"
 
-# 53d00af130964089957a33ca9154d0b3
-#: ../../training.rst:245
-#, fuzzy
-msgid "20 Maggio 2018"
-msgstr "25-26 Mai 2017"
-
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
@@ -767,17 +761,28 @@ msgid "Berlino, DE"
 msgstr ""
 
 #: ../../training.rst:247
+msgid ":ref:`geodb`"
+msgstr ""
+
+# 5264f422ac9d4034a6d68c5b38458a39
+#: ../../training.rst:247
+#, fuzzy
+msgid "12-14 Settembre 2018"
+msgstr "20-22 Septembre 2017"
+
+# eafdbe68fb894344a151fb2d4142818d
+#: ../../training.rst:247
+#, fuzzy
+msgid "15 Agosto 2018"
+msgstr "Avril 2018"
+
+#: ../../training.rst:248
 msgid ":ref:`webgis`"
 msgstr ""
 
-#: ../../training.rst:247 ../../training.rst:248 ../../training.rst:249
-#: ../../training.rst:250
+#: ../../training.rst:248 ../../training.rst:249 ../../training.rst:250
 msgid "da definire"
 msgstr "à décider"
-
-#: ../../training.rst:248
-msgid ":ref:`geodb`"
-msgstr ""
 
 #: ../../training.rst:249
 msgid ":ref:`carto`"
@@ -1817,13 +1822,13 @@ msgstr "Trois jours à plein temps"
 
 # 53d00af130964089957a33ca9154d0b3
 #, fuzzy
-#~ msgid "09-11 Maggio 2018"
+#~ msgid "20 Maggio 2018"
 #~ msgstr "25-26 Mai 2017"
 
-# eafdbe68fb894344a151fb2d4142818d
+# 53d00af130964089957a33ca9154d0b3
 #, fuzzy
-#~ msgid "15 Aprile 2018"
-#~ msgstr "Avril 2018"
+#~ msgid "09-11 Maggio 2018"
+#~ msgstr "25-26 Mai 2017"
 
 # 660512ec03ae4bc59a877c8ec19a3162
 #, fuzzy
@@ -1948,10 +1953,6 @@ msgstr "Trois jours à plein temps"
 # b28a9fbcf9964ba28a693bb9feccab9b
 #~ msgid "15-17 Gennaio 2018"
 #~ msgstr "15-17 Janvier 2018"
-
-# 5264f422ac9d4034a6d68c5b38458a39
-#~ msgid "20-22 Settembre 2017"
-#~ msgstr "20-22 Septembre 2017"
 
 # 789f35850632463296adba2404463064
 #, fuzzy

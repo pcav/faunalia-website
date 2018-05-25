@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-25 09:16+0200\n"
+"POT-Creation-Date: 2018-05-25 09:21+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -229,10 +229,6 @@ msgid "Pontedera, IT"
 msgstr ""
 
 #: ../../training.rst:245
-msgid "20 Maggio 2018"
-msgstr ""
-
-#: ../../training.rst:245
 #: ../../training.rst:246
 #: ../../training.rst:247
 #: ../../training.rst:248
@@ -254,18 +250,25 @@ msgid "Berlino, DE"
 msgstr ""
 
 #: ../../training.rst:247
-msgid ":ref:`webgis`"
+msgid ":ref:`geodb`"
 msgstr ""
 
 #: ../../training.rst:247
+msgid "12-14 Settembre 2018"
+msgstr ""
+
+#: ../../training.rst:247
+msgid "15 Agosto 2018"
+msgstr ""
+
+#: ../../training.rst:248
+msgid ":ref:`webgis`"
+msgstr ""
+
 #: ../../training.rst:248
 #: ../../training.rst:249
 #: ../../training.rst:250
 msgid "da definire"
-msgstr ""
-
-#: ../../training.rst:248
-msgid ":ref:`geodb`"
 msgstr ""
 
 #: ../../training.rst:249

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-25 09:16+0200\n"
+"POT-Creation-Date: 2018-05-25 09:21+0200\n"
 "PO-Revision-Date: 2013-08-17 16:58+0200\n"
 "Last-Translator: Paolo Cavallini <cavallini@faunalia.it>\n"
 "Language-Team: Italiano <>\n"
@@ -747,11 +747,6 @@ msgstr "18-20 June 2018"
 msgid "Pontedera, IT"
 msgstr "Pontedera, IT"
 
-# 53d00af130964089957a33ca9154d0b3
-#: ../../training.rst:245
-msgid "20 Maggio 2018"
-msgstr "20 May 2018"
-
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
@@ -778,17 +773,26 @@ msgid "Berlino, DE"
 msgstr "Berlin, DE"
 
 #: ../../training.rst:247
+msgid ":ref:`geodb`"
+msgstr ":ref:`geodb`"
+
+# 5264f422ac9d4034a6d68c5b38458a39
+#: ../../training.rst:247
+msgid "12-14 Settembre 2018"
+msgstr "12-14 September 2017"
+
+# eafdbe68fb894344a151fb2d4142818d
+#: ../../training.rst:247
+msgid "15 Agosto 2018"
+msgstr "15th August 2018"
+
+#: ../../training.rst:248
 msgid ":ref:`webgis`"
 msgstr ":ref:`webgis`"
 
-#: ../../training.rst:247 ../../training.rst:248 ../../training.rst:249
-#: ../../training.rst:250
+#: ../../training.rst:248 ../../training.rst:249 ../../training.rst:250
 msgid "da definire"
 msgstr "to be decided"
-
-#: ../../training.rst:248
-msgid ":ref:`geodb`"
-msgstr ":ref:`geodb`"
 
 #: ../../training.rst:249
 msgid ":ref:`carto`"
@@ -1793,12 +1797,12 @@ msgid "Un giorno *full time*"
 msgstr "One day, full time"
 
 # 53d00af130964089957a33ca9154d0b3
+#~ msgid "20 Maggio 2018"
+#~ msgstr "20 May 2018"
+
+# 53d00af130964089957a33ca9154d0b3
 #~ msgid "09-11 Maggio 2018"
 #~ msgstr "09-11 May 2018"
-
-# eafdbe68fb894344a151fb2d4142818d
-#~ msgid "15 Aprile 2018"
-#~ msgstr "15th April 2018"
 
 #~ msgid "Python e QGIS: pyqgis e plugin (IT)"
 #~ msgstr "Python and QGIS: pyqgis and plugin"
@@ -1946,10 +1950,6 @@ msgstr "One day, full time"
 # b28a9fbcf9964ba28a693bb9feccab9b
 #~ msgid "15-17 Gennaio 2018"
 #~ msgstr "15-17 January 2018"
-
-# 5264f422ac9d4034a6d68c5b38458a39
-#~ msgid "20-22 Settembre 2017"
-#~ msgstr "20-22 September 2017"
 
 # 789f35850632463296adba2404463064
 #, fuzzy
