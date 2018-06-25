@@ -228,6 +228,11 @@ Spero in futuro di continuare ad approfondire queste materie ed ottenere sempre 
 
 **Marta Puppo**: "Utile. Intenso. Molto efficace! Ho seguito il corso perché avevo bisogno di realizzare un WebGis in tempi molto stretti. Paolo ci ha guidato nella realizzazione dell'applicazione fornendoci un server virtuale funzionante prezioso per replicare l'installazione su altre macchine. Prezioso anche il legame che si è creato tra i corsisti. Grazie di tutto!"
 
+.. image:: images/defilippis.jpg
+          :align: left
+
+**Giovanna De Filippis**, `Scuola Superiore Sant'Anna <http://www.freewat.eu/>`_: "Ho seguito i corsi di QGIS 3 e PyQGIS e plugin tenuti da Matteo Ghetta. Entrambi i corsi si sono rivelati ben organizzati, molto curati (per quanto riguarda il programma e il materiale didattico) e utilissimi per la mia carriera accademica. La professionalità, l'esperienza e l'infinita pazienza del relatore hanno rappresentato un valore aggiunto fondamentale per il raggiungimento degli obiettivi del corso. Ne è valsa assolutamente la pena!""
+
 ------
 
 **Vuoi lasciare anche tu il tuo commento?** `Scrivici`_  - Grazie!
@@ -242,12 +247,11 @@ Calendario
 =====================================================  ==================== ==============  =================== ========
 Corso                                                  Date e durata        Dove            Scadenza iscrizione Lingua
 =====================================================  ==================== ==============  =================== ========
-:ref:`pyqgis`                                          18-20 Giugno 2018    Pontedera, IT                       Italiano
-`Cartography with QGIS (EN) with Physalia`_            02-04 Luglio 2018    Berlino, DE                         Italiano
 :ref:`geodb`                                           12-14 Settembre 2018 Pontedera, IT   15 Agosto 2018      Italiano
 :ref:`webgis`                                          da definire          Pontedera, IT                       Italiano
 :ref:`carto`                                           da definire          Pontedera, IT                       Italiano
 :ref:`analisi`                                         da definire          Pontedera, IT                       Italiano
+:ref:`pyqgis`                                          18-20 Giugno 2018    Pontedera, IT                       Italiano
 =====================================================  ==================== ==============  =================== ========
 
 .. _Cartography with QGIS (EN) with Physalia: https://www.physalia-courses.org/courses-workshops/course35/
