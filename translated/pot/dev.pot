@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-09 15:05+0200\n"
+"POT-Creation-Date: 2018-06-29 12:05+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,7 +33,7 @@ msgid "Faunalia fornisce:"
 msgstr ""
 
 #: ../../dev.rst:19
-msgid "Sviluppo di plugin per QGIS_ (*core*: GDALTools, DB Manager; *custom*: `lista dei plugins sviluppati <http://plugins.qgis.org/search/?q=faunalia>`_)"
+msgid "Sviluppo di plugin per QGIS_ (*core*: GDALTools, DB Manager; *custom*: `lista dei plugins sviluppati <https://plugins.qgis.org/search/?q=faunalia>`_)"
 msgstr ""
 
 #: ../../dev.rst:20

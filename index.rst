@@ -143,7 +143,7 @@ Dopo tanti anni di continua, attiva e proficua collaborazione Paolo Cavallini
 
 Siamo onorati dalla fiducia che la comunità ha accordato, e continueremo a lavorare a questo progetto, pienamente cooperativo e democratico, per il progresso di uno strumento che consente a tutti di lavorare e creare liberamente.
 
-`http://blog.qgis.org/2018/04/13/qgis-annual-general-meeting-2018/ <http://blog.qgis.org/2018/04/13/qgis-annual-general-meeting-2018/>`_
+`https://blog.qgis.org/2018/04/13/qgis-annual-general-meeting-2018/ <https://blog.qgis.org/2018/04/13/qgis-annual-general-meeting-2018/>`_
 
 
 Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (1/8)
@@ -380,8 +380,6 @@ Paolo Cavallini @ ASITA
 
 * Nella prossima `conferenza ASITA <http://www.asita.it/>`_ (Federazione delle Associazioni Scientifiche per le Informazioni Territoriali e Ambientali) terremo un intervento nella sessione `Il software geografico libero: una reale opportunità di sviluppo? <http://www.asita.it/blog/il-software-geografico-libero-una-reale-opportunita-di-sviluppo/>`_ Siete i benvenuti, passate ed intervenite.
 
-.. figure:: http://www.asita.it/static/media/uploads/blog/lecco.jpg
-   :width: 300px
 
 Change the interface of your QGIS
 ++++++++++++++++++++++++++++++++++++++++

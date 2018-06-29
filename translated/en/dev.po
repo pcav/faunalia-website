@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-08 16:54+0100\n"
+"POT-Creation-Date: 2018-06-29 12:05+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -50,20 +50,21 @@ msgstr "Faunalia provides:"
 #: ../../dev.rst:19
 msgid ""
 "Sviluppo di plugin per QGIS_ (*core*: GDALTools, DB Manager; *custom*: "
-"`lista dei plugins sviluppati <http://plugins.qgis.org/search/?q=faunalia>`_)"
+"`lista dei plugins sviluppati "
+"<https://plugins.qgis.org/search/?q=faunalia>`_)"
 msgstr ""
 "Development of plugins for QGIS_(*core*: GDALTools, DB Manager; *custom*: "
-"`list of plugins developed by us <http://plugins.qgis.org/search/?"
-"q=faunalia>`_)"
+"`list of plugins developed by us "
+"<http://plugins.qgis.org/search/?q=faunalia>`_)"
 
 # 5b38585e1e384ef6bb57dfd79cb4902b
 #: ../../dev.rst:20
 msgid ""
-"Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/"
-"OGR <http://www.gdal.org/>`_"
+"Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, "
+"`GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
-"Development of core functions for QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/"
-"OGR <http://www.gdal.org/>`_"
+"Development of core functions for QGIS_, PostGIS_, GRASS_, MapServer_, "
+"`GDAL/OGR <http://www.gdal.org/>`_"
 
 # cf99310f7e6e429a841b3f255af7dd46
 #: ../../dev.rst:21
@@ -71,8 +72,8 @@ msgid ""
 "Riparazione dei malfunzionamenti per QGIS_, PostGIS_, GRASS_, MapServer_, "
 "`GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
-"Bug fixing for QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR <http://www."
-"gdal.org/>`_"
+"Bug fixing for QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR "
+"<http://www.gdal.org/>`_"
 
 # d650ef8ee81b4e4584a51093561c5e93
 #: ../../dev.rst:22
@@ -237,11 +238,9 @@ msgstr ""
 
 #: ../../dev.rst:104
 msgid ""
-"https://anitagraser.com/2017/12/06/data-exploration-with-data-plotly-for-"
-"qgis3/"
+"https://anitagraser.com/2017/12/06/data-exploration-with-data-plotly-for-qgis3/"
 msgstr ""
-"https://anitagraser.com/2017/12/06/data-exploration-with-data-plotly-for-"
-"qgis3/"
+"https://anitagraser.com/2017/12/06/data-exploration-with-data-plotly-for-qgis3/"
 
 #: ../../dev.rst:105
 msgid "http://millermountain.com/geospatialblog/2017/12/18/qgis-data-plotly/"

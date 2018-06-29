@@ -16,7 +16,7 @@ Sviluppo
 
 Faunalia fornisce:
 
-* Sviluppo di plugin per QGIS_ (*core*: GDALTools, DB Manager; *custom*: `lista dei plugins sviluppati <http://plugins.qgis.org/search/?q=faunalia>`_)
+* Sviluppo di plugin per QGIS_ (*core*: GDALTools, DB Manager; *custom*: `lista dei plugins sviluppati <https://plugins.qgis.org/search/?q=faunalia>`_)
 * Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR <http://www.gdal.org/>`_
 * Riparazione dei malfunzionamenti per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR <http://www.gdal.org/>`_
 * Sviluppo di applicazioni webGIS ad hoc
@@ -45,9 +45,9 @@ Faunalia ha sviluppato direttamente, già da molti anni, funzioni per tutti i so
 .. image :: images/postgis-logo-48x48.png
    :target: PostGIS_
 
-.. _QGIS: http://www.qgis.org/
-.. _PostGIS: http://postgis.net/
-.. _GRASS: http://grass.osgeo.org/
+.. _QGIS: https://www.qgis.org/
+.. _PostGIS: https://postgis.net/
+.. _GRASS: https://grass.osgeo.org/
 .. _MapServer: http://mapserver.org/
 
 

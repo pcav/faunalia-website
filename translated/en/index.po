@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-14 11:22+0200\n"
+"POT-Creation-Date: 2018-06-29 12:05+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -283,7 +283,7 @@ msgstr ""
 
 #: ../../index.rst:146
 msgid ""
-"`http://blog.qgis.org/2018/04/13/qgis-annual-general-meeting-2018/ <http://"
+"`https://blog.qgis.org/2018/04/13/qgis-annual-general-meeting-2018/ <https://"
 "blog.qgis.org/2018/04/13/qgis-annual-general-meeting-2018/>`_"
 msgstr ""
 "`http://blog.qgis.org/2018/04/13/qgis-annual-general-meeting-2018/ <http://"
@@ -1023,11 +1023,11 @@ msgstr ""
 "geografico-libero-una-reale-opportunita-di-sviluppo/>`_ Siete i benvenuti, "
 "passate ed intervenite."
 
-#: ../../index.rst:387
+#: ../../index.rst:385
 msgid "Change the interface of your QGIS"
 msgstr "Change the interface of your QGIS"
 
-#: ../../index.rst:389
+#: ../../index.rst:387
 msgid ""
 "It is now possible, in the development version of QGIS, to `choose and "
 "create your theme <http://nathanw.net/2015/08/29/ui-theme-support-now-core-"
@@ -1039,11 +1039,11 @@ msgstr ""
 "in-qgis/>`_. If you create something interesting, why not sharing it, so it "
 "may go in the next version, due in October?"
 
-#: ../../index.rst:395
+#: ../../index.rst:393
 msgid "Opinions on QGIS: today and the future"
 msgstr "Opinions on QGIS: today and the future"
 
-#: ../../index.rst:397
+#: ../../index.rst:395
 msgid ""
 "An `interview <https://exporttocanoma.blogspot.it/2015/08/intervista-paolo-"
 "cavallini.html>`_ with Paolo Cavallini about QGIS and more. In Italian, "
@@ -1053,11 +1053,11 @@ msgstr ""
 "cavallini.html>`_ with Paolo Cavallini about QGIS and more. In Italian, "
 "sorry, non-latins! :)"
 
-#: ../../index.rst:400
+#: ../../index.rst:398
 msgid "Customize your QGIS menus"
 msgstr "Customize your QGIS menus"
 
-#: ../../index.rst:402
+#: ../../index.rst:400
 msgid ""
 "The flux of plugins keeps on steady - just published: **Menu builder**: "
 "Create your own menus with your favorite layers. Easy configuration is done "
@@ -1067,11 +1067,11 @@ msgstr ""
 "Create your own menus with your favorite layers. Easy configuration is done "
 "with drag & drop from the qgis browser. More are in the queue, stay tuned."
 
-#: ../../index.rst:408
+#: ../../index.rst:406
 msgid "New QGIS Long Term Release"
 msgstr "New QGIS Long Term Release"
 
-#: ../../index.rst:410
+#: ../../index.rst:408
 msgid ""
 "`QGIS 2.8.3 'Wien' new bugfix release is out <https://qgis.org/en/site/"
 "forusers/download.html>`_. Hundreds of bugfixes `(see the list <https://"
@@ -1085,11 +1085,11 @@ msgstr ""
 "`More details on the QGIS blog <http://blog.qgis.org/2015/08/06/point-"
 "release-qgis-2-8-3-wien-is-ready/>`_"
 
-#: ../../index.rst:413
+#: ../../index.rst:411
 msgid "A new QGIS plugin: Natural earth data"
 msgstr "A new QGIS plugin: Natural earth data"
 
-#: ../../index.rst:415
+#: ../../index.rst:413
 msgid ""
 "Just published: `a new plugin <https://plugins.qgis.org/plugins/"
 "natural_earth_raster/>`_ to automatically download Natural Earth data. "
@@ -1101,11 +1101,11 @@ msgstr ""
 "Enjoy, and `report any issue <https://github.com/informeren/qgis-natural-"
 "earth-raster/issues>`_"
 
-#: ../../index.rst:418
+#: ../../index.rst:416
 msgid "Yet another interesting QGIS plugin: Cartograms"
 msgstr "Yet another interesting QGIS plugin: Cartograms"
 
-#: ../../index.rst:420
+#: ../../index.rst:418
 msgid ""
 "`Create distorted maps <https://plugins.qgis.org/plugins/cartogram/>`_, "
 "where areas of each polygon represents a variable in your data. An example:"
