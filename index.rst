@@ -82,6 +82,29 @@ Faunalia
 
 News
 --------------------------------------------------------------------------
+
+Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (6/8)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+**Metadati di progetto**
+
+Un nuovo menu permette di impostare i metadati del progetto che verranno esportati
+sia nel progetto che nelle composizioni di stampa.
+
+Nello specifico i metadati disponibili sono:
+
+* titolo
+* soggetto
+* parole chiave
+* creatore
+* produttore
+* data di creazione
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/l3oWNndNp2M" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+
 Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (5/8)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 **Gestione della visibilità di gruppi e legenda nei temi mappa**
