@@ -83,6 +83,20 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (7/8)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+**Blocco impostazioni dei layer**
+
+Questa funzionalità permette di avere un controllo maggiore sui layer che si vogliono
+bloccare nel progetto impedendone la rimozione per sbaglio. La loro modifica (di
+geometrie e/o di attributi) rimane possibile.
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/elX9qjB_ngE" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+
 Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (6/8)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 **Metadati di progetto**
