@@ -83,6 +83,13 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Mesh Layer in QGIS 3 master
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Stupenda nuova funzionalità in QGIS master (prossimo QGIS 3.4): supporto nativo
+per i Layer *Mesh*. Si possono fare analisi davvero incredibili:
+
+.. image:: images/mesh.png
+
 Nuove funzionalità in QGIS grazie a ARPA Piemonte e Faunalia (7/8)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 **Blocco impostazioni dei layer**
