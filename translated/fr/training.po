@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-25 11:23+0200\n"
+"POT-Creation-Date: 2018-07-31 09:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -765,27 +765,45 @@ msgstr "Italie"
 msgid ":ref:`webgis`"
 msgstr ""
 
-#: ../../training.rst:251 ../../training.rst:252 ../../training.rst:253
-msgid "da definire"
-msgstr "à décider"
+# 789f35850632463296adba2404463064
+#: ../../training.rst:251
+#, fuzzy
+msgid "03-05 Ottobre 2018"
+msgstr "16-18 Octobre 2016"
+
+# 5264f422ac9d4034a6d68c5b38458a39
+#: ../../training.rst:251
+#, fuzzy
+msgid "15 Settembre 2018"
+msgstr "20-22 Septembre 2017"
 
 #: ../../training.rst:252
 msgid ":ref:`carto`"
 msgstr ""
 
+# 789f35850632463296adba2404463064
+#: ../../training.rst:252
+#, fuzzy
+msgid "24-26 Ottobre 2018"
+msgstr "16-18 Octobre 2016"
+
+# 789f35850632463296adba2404463064
+#: ../../training.rst:252
+#, fuzzy
+msgid "10 Ottobre 2018"
+msgstr "Octobre 2017"
+
 #: ../../training.rst:253
 msgid ":ref:`analisi`"
 msgstr ""
 
+#: ../../training.rst:253 ../../training.rst:254
+msgid "da definire"
+msgstr "à décider"
+
 #: ../../training.rst:254
 msgid ":ref:`pyqgis`"
 msgstr ""
-
-# 5f579eacdfe14ef58b3777e851296a6b
-#: ../../training.rst:254
-#, fuzzy
-msgid "18-20 Giugno 2018"
-msgstr "1 Juin"
 
 #: ../../training.rst:259
 msgid "Le date sono soggette a cambiamento per esigenze logistiche."
@@ -1816,6 +1834,11 @@ msgstr ""
 msgid "Un giorno *full time*"
 msgstr "Trois jours à plein temps"
 
+# 5f579eacdfe14ef58b3777e851296a6b
+#, fuzzy
+#~ msgid "18-20 Giugno 2018"
+#~ msgstr "1 Juin"
+
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
 #, fuzzy
@@ -1961,18 +1984,9 @@ msgstr "Trois jours à plein temps"
 #~ msgid "15-17 Gennaio 2018"
 #~ msgstr "15-17 Janvier 2018"
 
-# 789f35850632463296adba2404463064
-#, fuzzy
-#~ msgid "23-25 Ottobre 2017"
-#~ msgstr "16-18 Octobre 2016"
-
 # f7db670e6b22473f88e2168c85cf783a
 #~ msgid "Dicembre 2017"
 #~ msgstr "Décembre 2017"
-
-# 789f35850632463296adba2404463064
-#~ msgid "Ottobre 2017"
-#~ msgstr "Octobre 2017"
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
 #~ msgid "Novembre 2017"

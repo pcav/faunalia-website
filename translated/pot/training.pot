@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-25 11:23+0200\n"
+"POT-Creation-Date: 2018-07-31 09:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -249,25 +249,36 @@ msgid ":ref:`webgis`"
 msgstr ""
 
 #: ../../training.rst:251
-#: ../../training.rst:252
-#: ../../training.rst:253
-msgid "da definire"
+msgid "03-05 Ottobre 2018"
+msgstr ""
+
+#: ../../training.rst:251
+msgid "15 Settembre 2018"
 msgstr ""
 
 #: ../../training.rst:252
 msgid ":ref:`carto`"
 msgstr ""
 
+#: ../../training.rst:252
+msgid "24-26 Ottobre 2018"
+msgstr ""
+
+#: ../../training.rst:252
+msgid "10 Ottobre 2018"
+msgstr ""
+
 #: ../../training.rst:253
 msgid ":ref:`analisi`"
 msgstr ""
 
+#: ../../training.rst:253
 #: ../../training.rst:254
-msgid ":ref:`pyqgis`"
+msgid "da definire"
 msgstr ""
 
 #: ../../training.rst:254
-msgid "18-20 Giugno 2018"
+msgid ":ref:`pyqgis`"
 msgstr ""
 
 #: ../../training.rst:259
