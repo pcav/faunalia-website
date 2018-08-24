@@ -83,6 +83,17 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+DataPlotly con funzioni di aggregazione
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Con il plugin `DataPlotly <https://github.com/ghtmtt/DataPlotly>`_ puoi usare
+le funzioni di aggregazione di QGIS senza creare layer intermedi. Guarda l'istogramma
+del numero di province per ogni regione:
+
+.. image:: images/dataplotly/aggregation.gif
+
+
+
+
 Mesh Layer in QGIS 3 master
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Stupenda nuova funzionalità in QGIS master (prossimo QGIS 3.4): supporto nativo
