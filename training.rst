@@ -247,7 +247,7 @@ Calendario
 =====================================================  ==================== ==============  =================== ========
 Corso                                                  Date e durata        Dove            Scadenza iscrizione Lingua
 =====================================================  ==================== ==============  =================== ========
-:ref:`geodb`                                           12-14 Settembre 2018 Pontedera, IT   15 Agosto 2018      Italiano
+:ref:`geodb`                                           12-14 Settembre 2018 Pontedera, IT                       Italiano
 :ref:`webgis`                                          03-05 Ottobre 2018   Pontedera, IT   15 Settembre 2018   Italiano
 :ref:`carto`                                           24-26 Ottobre 2018   Pontedera, IT   10 Ottobre 2018     Italiano
 :ref:`analisi`                                         da definire          Pontedera, IT                       Italiano

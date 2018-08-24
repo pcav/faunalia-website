@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-31 09:31+0200\n"
+"POT-Creation-Date: 2018-08-24 16:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -230,10 +230,6 @@ msgstr ""
 #: ../../training.rst:253
 #: ../../training.rst:254
 msgid "Pontedera, IT"
-msgstr ""
-
-#: ../../training.rst:250
-msgid "15 Agosto 2018"
 msgstr ""
 
 #: ../../training.rst:250

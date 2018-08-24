@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-31 09:31+0200\n"
+"POT-Creation-Date: 2018-08-24 16:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -744,12 +744,6 @@ msgstr "20-22 Septembre 2017"
 #: ../../training.rst:253 ../../training.rst:254
 msgid "Pontedera, IT"
 msgstr "Pontedera, IT"
-
-# eafdbe68fb894344a151fb2d4142818d
-#: ../../training.rst:250
-#, fuzzy
-msgid "15 Agosto 2018"
-msgstr "Avril 2018"
 
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
@@ -1833,6 +1827,11 @@ msgstr ""
 #, fuzzy
 msgid "Un giorno *full time*"
 msgstr "Trois jours à plein temps"
+
+# eafdbe68fb894344a151fb2d4142818d
+#, fuzzy
+#~ msgid "15 Agosto 2018"
+#~ msgstr "Avril 2018"
 
 # 5f579eacdfe14ef58b3777e851296a6b
 #, fuzzy
