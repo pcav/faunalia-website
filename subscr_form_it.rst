@@ -168,7 +168,7 @@ Modulo di iscrizione
 	<div class="form-group">
 	<label for="edit-submitted-dati-per-fatturazione" class="col-sm-3 control-label">Dati per fatturazione <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
 	<div class="col-sm-9">
-	<textarea id="edit-submitted-dati-per-fatturazione" name="dati_per_fatturazione" cols="60" rows="5" class="form-control"><?php echo htmlspecialchars($dati_per_fatturazione); ?></textarea>
+	<textarea id="edit-submitted-dati-per-fatturazione" name="dati_per_fatturazione" cols="60" rows="5" class="form-control" placeholder="Indirizzo completo, Partita IVA o Codice Fiscale"><?php echo htmlspecialchars($dati_per_fatturazione); ?></textarea>
 	</div>
 	</div
 
