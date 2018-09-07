@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-29 12:05+0200\n"
+"POT-Creation-Date: 2018-09-07 17:17+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -50,21 +50,21 @@ msgstr "Faunalia provides:"
 #: ../../dev.rst:19
 msgid ""
 "Sviluppo di plugin per QGIS_ (*core*: GDALTools, DB Manager; *custom*: "
-"`lista dei plugins sviluppati "
-"<https://plugins.qgis.org/search/?q=faunalia>`_)"
+"`lista dei plugins sviluppati <https://plugins.qgis.org/search/?"
+"q=faunalia>`_)"
 msgstr ""
 "Development of plugins for QGIS_(*core*: GDALTools, DB Manager; *custom*: "
-"`list of plugins developed by us "
-"<http://plugins.qgis.org/search/?q=faunalia>`_)"
+"`list of plugins developed by us <http://plugins.qgis.org/search/?"
+"q=faunalia>`_)"
 
 # 5b38585e1e384ef6bb57dfd79cb4902b
 #: ../../dev.rst:20
 msgid ""
-"Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, "
-"`GDAL/OGR <http://www.gdal.org/>`_"
+"Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/"
+"OGR <http://www.gdal.org/>`_"
 msgstr ""
-"Development of core functions for QGIS_, PostGIS_, GRASS_, MapServer_, "
-"`GDAL/OGR <http://www.gdal.org/>`_"
+"Development of core functions for QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/"
+"OGR <http://www.gdal.org/>`_"
 
 # cf99310f7e6e429a841b3f255af7dd46
 #: ../../dev.rst:21
@@ -72,8 +72,8 @@ msgid ""
 "Riparazione dei malfunzionamenti per QGIS_, PostGIS_, GRASS_, MapServer_, "
 "`GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
-"Bug fixing for QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR "
-"<http://www.gdal.org/>`_"
+"Bug fixing for QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR <http://www."
+"gdal.org/>`_"
 
 # d650ef8ee81b4e4584a51093561c5e93
 #: ../../dev.rst:22
@@ -116,10 +116,43 @@ msgstr ""
 "these projects."
 
 #: ../../dev.rst:55
+msgid "Plugin sviluppati da Faunalia"
+msgstr ""
+
+#: ../../dev.rst:56
+msgid ""
+"Faunalia ha sviluppato molti plugin per QGIS. Se sei un utilizzatore di un "
+"plugin ma hai bisogno di una nuova funzionalità o di altri miglioramenti "
+"contattaci `info@faunalia.eu <info@faunalia.eu>`_."
+msgstr ""
+
+#: ../../dev.rst:60
+msgid "Di seguito un elenco di plugin sviluppati."
+msgstr ""
+
+#: ../../dev.rst:63
+msgid "RT Omero"
+msgstr ""
+
+#: ../../dev.rst:64
+msgid ""
+"Un plugin per creare database complessi di edifici integrando rilevamenti su "
+"campo. Pensato per un uso specifico in Toscana può facilmente essere esteso "
+"ad altri casi d'uso."
+msgstr ""
+
+#: ../../dev.rst:68
+msgid ""
+"A `questo link <https://gitlab.com/faunalia/rt_omero>`_ puoi trovare il "
+"codice del progetto, mentre il manuale d'uso è consultabile a `questo link "
+"<https://gitlab.com/faunalia/rt_omero/blob/master/docs/manuale_uso.pdf>`_."
+msgstr ""
+
+#: ../../dev.rst:75
 msgid "DataPlotly un plugin per creare grafici interattivi in stile D3"
 msgstr "Interactive D3js plots in QGIS 3 with DataPlotly plugin"
 
-#: ../../dev.rst:56
+#: ../../dev.rst:76
 msgid ""
 "`DataPlotly <https://github.com/ghtmtt/DataPlotly>`_ è un plugin per QGIS 3 "
 "che permette la creazione di grafici interattivi in stile D3."
@@ -127,7 +160,7 @@ msgstr ""
 "`DataPlotly <https://github.com/ghtmtt/DataPlotly>`_ is a plugin for QGIS 3 "
 "that allows the creation of interactive D3 like plots."
 
-#: ../../dev.rst:59
+#: ../../dev.rst:79
 msgid ""
 "I grafici sono completamente interattivi ed *interagiscono* con gli elementi "
 "della mappa: cliccando o selezionando un elemento del grafico i relativi "
@@ -136,7 +169,7 @@ msgstr ""
 "The plots are completely interactive with map features: when clicking or "
 "selecting a plot element the corresponding map feature will be highlighted."
 
-#: ../../dev.rst:66
+#: ../../dev.rst:86
 msgid ""
 "DataPlotly permette di creare molti tipi di grafici diversi con enorme "
 "semplicità: ogni tipologia di grafico ha moltissime personalizzazioni "
@@ -146,7 +179,7 @@ msgstr ""
 "has many additional customizations that enhance the plot in many different "
 "ways."
 
-#: ../../dev.rst:70
+#: ../../dev.rst:90
 msgid ""
 "Oltre alla possibilità di creare un grafico singolo si possono sovrapporre "
 "grafici (anche ti tipo diverso) oppure si può decidere di collocare i "
@@ -156,7 +189,7 @@ msgstr ""
 "plots (even of different type) or the user can separate the plots in a plot "
 "grid."
 
-#: ../../dev.rst:74
+#: ../../dev.rst:94
 msgid ""
 "DataPlotly utilizza la libreria JavaScript `Plotly <https://plot.ly/>`_ "
 "costantemente sviluppata ed aggiornata. Grazie a diverse API, Plotly è "
@@ -167,13 +200,13 @@ msgstr ""
 "constantly developed and updated. Thanks to different API, Plotly can be "
 "used also with different programming languages (Python, R, NodeJS, etc.)."
 
-#: ../../dev.rst:76
+#: ../../dev.rst:96
 msgid ""
 "Ogni grafico è accompagnato dal codice html *grezzo* che lo compone: in "
 "questo modo l'utente può facilmente inserire il grafico in una cornice html."
 msgstr "Each plot has its raw html code that can be embedded everyway."
 
-#: ../../dev.rst:79
+#: ../../dev.rst:99
 msgid ""
 "Inoltre si possono salvare i grafici come immagini statiche (``png``) o come "
 "file ``html``: questi ultimi mantengono l'interattività e sono quindi "
@@ -182,11 +215,11 @@ msgstr ""
 "Furthermore plots can be saved as static (``png``) images of as ``html`` "
 "files: the latter keep the plot interactivity."
 
-#: ../../dev.rst:84
+#: ../../dev.rst:104
 msgid "Supporto multilingue"
 msgstr "Multilanguage support"
 
-#: ../../dev.rst:85
+#: ../../dev.rst:105
 msgid ""
 "DataPlotly è stato concepito per poter essere tradotto in altre lingue. Sia "
 "l'interfaccia utente che il manuale di utilizzo sono disponibili sul portale "
@@ -198,35 +231,35 @@ msgstr ""
 "hosted on`Transifex <https://www.transifex.com/dataplotly/>`_  where you can "
 "ask for your language and translate DataPlotly."
 
-#: ../../dev.rst:89
+#: ../../dev.rst:109
 msgid "Attualmente il plugin è disponibilie in:"
 msgstr "Currently the plugin is avilable in:"
 
-#: ../../dev.rst:91
+#: ../../dev.rst:111
 msgid "inglese"
 msgstr "English"
 
-#: ../../dev.rst:92
+#: ../../dev.rst:112
 msgid "italiano"
 msgstr "Italian"
 
-#: ../../dev.rst:93
+#: ../../dev.rst:113
 msgid "olandese"
 msgstr "Dutch"
 
-#: ../../dev.rst:94
+#: ../../dev.rst:114
 msgid "svedese"
 msgstr "Swedish"
 
-#: ../../dev.rst:95
+#: ../../dev.rst:115
 msgid "francese"
 msgstr "French"
 
-#: ../../dev.rst:99
+#: ../../dev.rst:119
 msgid "Parlano di DataPlotly"
 msgstr "DataPlotly enthusiasts"
 
-#: ../../dev.rst:100
+#: ../../dev.rst:120
 msgid ""
 "DataPlotly ha riscosso un grande successo fra gli utenti e gli sviluppatori "
 "di QGIS. Al |today| il plugin è stato scaricato circa 2000 download e conta "
@@ -236,29 +269,31 @@ msgstr ""
 "plugin counts around 2000 downloads and has many citations on websites and "
 "blogs:"
 
-#: ../../dev.rst:104
+#: ../../dev.rst:124
 msgid ""
-"https://anitagraser.com/2017/12/06/data-exploration-with-data-plotly-for-qgis3/"
+"https://anitagraser.com/2017/12/06/data-exploration-with-data-plotly-for-"
+"qgis3/"
 msgstr ""
-"https://anitagraser.com/2017/12/06/data-exploration-with-data-plotly-for-qgis3/"
+"https://anitagraser.com/2017/12/06/data-exploration-with-data-plotly-for-"
+"qgis3/"
 
-#: ../../dev.rst:105
+#: ../../dev.rst:125
 msgid "http://millermountain.com/geospatialblog/2017/12/18/qgis-data-plotly/"
 msgstr "http://millermountain.com/geospatialblog/2017/12/18/qgis-data-plotly/"
 
-#: ../../dev.rst:106
+#: ../../dev.rst:126
 msgid "https://geosupportsystem.wordpress.com/2017/12/13/diagram-i-qgis-3/"
 msgstr "https://geosupportsystem.wordpress.com/2017/12/13/diagram-i-qgis-3/"
 
-#: ../../dev.rst:107
+#: ../../dev.rst:127
 msgid "https://www.youtube.com/watch?v=SxtVAtZ4bjA&feature=youtu.be"
 msgstr "https://www.youtube.com/watch?v=SxtVAtZ4bjA&feature=youtu.be"
 
-#: ../../dev.rst:111
+#: ../../dev.rst:131
 msgid "Supporto a DataPlotly"
 msgstr "DataPlotly support"
 
-#: ../../dev.rst:112
+#: ../../dev.rst:132
 msgid ""
 "Sono molte le funzioni non ancora presenti in DataPlotly. Se sei interessato "
 "a supportare il plugin puoi richiedere l'aggiunta di funzionalità."
@@ -266,11 +301,11 @@ msgstr ""
 "Many other functionalities can be added in DataPlotly. If you are interested "
 "in supporting the plugin we can please your desires."
 
-#: ../../dev.rst:117
+#: ../../dev.rst:137
 msgid "Trucchi e consigli"
 msgstr "Tips & Tricks"
 
-#: ../../dev.rst:118
+#: ../../dev.rst:138
 msgid ""
 "Il plugin supporta nativamente tutte le funzionalità di QGIS (utilizzo di "
 "espressioni, stesse finestre di dialogo per la scelta dei colori, ecc..). Di "
@@ -279,11 +314,11 @@ msgstr ""
 "The plugin supports all the QGIS functions (expressions, dialog windows, "
 "color picker, etc.). Here a collection of tricks to use DataPlotly."
 
-#: ../../dev.rst:124
+#: ../../dev.rst:144
 msgid "Creare più grafici in righe e colonne diverse"
 msgstr "Create many plots in different columns"
 
-#: ../../dev.rst:125
+#: ../../dev.rst:145
 msgid ""
 "Oltre a poter sovrapporre grafici sia dello stesso tipo che diversi, "
 "DataPlotly permette di separare i grafici. Questa opzione è particolarmente "

@@ -51,6 +51,26 @@ Faunalia ha sviluppato direttamente, già da molti anni, funzioni per tutti i so
 .. _MapServer: http://mapserver.org/
 
 
+Plugin sviluppati da Faunalia
+-------------------------------------------------------------------------------
+Faunalia ha sviluppato molti plugin per QGIS. Se sei un utilizzatore di un plugin
+ma hai bisogno di una nuova funzionalità o di altri miglioramenti contattaci
+`info@faunalia.eu <info@faunalia.eu>`_.
+
+Di seguito un elenco di plugin sviluppati.
+
+RT Omero
+--------
+Un plugin per creare database complessi di edifici integrando rilevamenti su campo.
+Pensato per un uso specifico in Toscana può facilmente essere esteso ad altri
+casi d'uso.
+
+A `questo link <https://gitlab.com/faunalia/rt_omero>`_ puoi trovare il codice
+del progetto, mentre il manuale d'uso è consultabile a
+`questo link <https://gitlab.com/faunalia/rt_omero/blob/master/docs/manuale_uso.pdf>`_.
+
+
+
 DataPlotly un plugin per creare grafici interattivi in stile D3
 -------------------------------------------------------------------------------
 `DataPlotly <https://github.com/ghtmtt/DataPlotly>`_ è un plugin per QGIS 3 che
@@ -81,7 +101,7 @@ Inoltre si possono salvare i grafici come immagini statiche (``png``) o come fil
 
 
 Supporto multilingue
---------------------
+....................
 DataPlotly è stato concepito per poter essere tradotto in altre lingue. Sia l'interfaccia
 utente che il manuale di utilizzo sono disponibili sul portale di traduzione
 `Transifex <https://www.transifex.com/dataplotly/>`_ dove è possibile richiedere la propria lingua e tradurre DataPlotly in pochissimo tempo.
@@ -96,7 +116,7 @@ Attualmente il plugin è disponibilie in:
 
 
 Parlano di DataPlotly
----------------------
+.....................
 DataPlotly ha riscosso un grande successo fra gli utenti e gli sviluppatori di
 QGIS. Al |today| il plugin è stato scaricato circa 2000 download e conta diverse
 citazioni in siti e blog:
@@ -108,13 +128,13 @@ citazioni in siti e blog:
 
 
 Supporto a DataPlotly
----------------------
+.....................
 Sono molte le funzioni non ancora presenti in DataPlotly. Se sei interessato a
 supportare il plugin puoi richiedere l'aggiunta di funzionalità.
 
 
 Trucchi e consigli
-------------------
+..................
 Il plugin supporta nativamente tutte le funzionalità di QGIS (utilizzo di espressioni,
 stesse finestre di dialogo per la scelta dei colori, ecc..). Di seguito qualche
 trucchetto per sfruttare al meglio DataPlotly.
