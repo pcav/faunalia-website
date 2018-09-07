@@ -150,6 +150,7 @@ del progetto, mentre il manuale d'uso è consultabile a
 
 DockableMirrorMap
 ==================
+
 It allows to split the screen in two or more panels, that can be panned and zoomed both in sync and independently. In QGIS 3 this has become a native function.
 
 AniMove
@@ -158,28 +159,45 @@ AniMove
 Triangulation
 ==================
 
+Calculates animal locations from telemetry bearings, with a possibility to filter out unreliable ones.
+
 RandomHR
 ==================
 
+Randomization of home ranges within a study area.
+
 EQCAP
 ==================
+
 EarthQuake Catalogue Analysis Plugin
 
 LWGEOM
 ========================
 
+Adds `Make valid` and `Build area` to Processing.
+
 PS Tools
 ==================
+
+Expose PS Tools to Processing.
 
 PS Time series Viewer
 ======================
 
+Computation and visualization of time series of speed for Permanent Scatterers derived from satellite interferometry.
+
 Permaclim
 ==================
+
+Processing algorithms to estimate the amount of permafrost in soils from meteo data.
 
 RT Qspider
 ==================
 
+Convert the selected table to an event layer (based on an X,Y pair) or to a spider diagram (based on two X,Y pairs).
+
 Transformation Tools
 ======================
 
+Help using NTv2 grids or towgs84 parameters to transform -or reproject on the fly- vectors and rasters.
+Developing with funding from Regione Emilia Romagna.
