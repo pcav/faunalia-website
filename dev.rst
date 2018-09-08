@@ -1,12 +1,11 @@
+:tocdepth: 3
+
 .. meta::
    :description: Free and Open Source GIS development: QGIS, PostGIS, GDAL, MapServer, GRASS
    :keywords: Open Source, Free Software, Software libero, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, python, plugin, C++, sviluppo, programmazione, development, développement, desarrollo, risoluzione problemi, bug fixing
 
 .. toctree::
     :hidden:
-
-    LRS <lrs>
-    AniMove <animove>
 
 .. |it| image:: images/italy.png
 .. |pt| image:: images/portugal.png
@@ -57,7 +56,7 @@ Faunalia ha sviluppato molti plugin per QGIS. Se sei un utilizzatore di un plugi
 ma hai bisogno di una nuova funzionalità o di altri miglioramenti contattaci
 `info@faunalia.eu <info@faunalia.eu>`_.
 
-Di seguito un elenco di plugin sviluppati.
+Alcuni dei plugin sviluppati:
 
 DataPlotly
 ============
@@ -153,18 +152,10 @@ DockableMirrorMap
 
 It allows to split the screen in two or more panels, that can be panned and zoomed both in sync and independently. In QGIS 3 this has become a native function.
 
-AniMove
-==================
+AniMove, Triangulation, RandomHR
+==================================
 
-Triangulation
-==================
-
-Calculates animal locations from telemetry bearings, with a possibility to filter out unreliable ones.
-
-RandomHR
-==================
-
-Randomization of home ranges within a study area.
+See `Animove page <animove.html>`_
 
 EQCAP
 ==================
@@ -191,6 +182,9 @@ Permaclim
 
 Processing algorithms to estimate the amount of permafrost in soils from meteo data.
 
+Qproto
+=======
+
 RT Qspider
 ==================
 
@@ -201,3 +195,15 @@ Transformation Tools
 
 Help using NTv2 grids or towgs84 parameters to transform -or reproject on the fly- vectors and rasters.
 Developing with funding from Regione Emilia Romagna.
+
+Older plugins
+===============
+
+* SEXTANTE LWGEOM Provider
+* Linear referencing plugin
+* ARPAT plugin
+* SpatiaLite Manager
+* RT Postgres Extractor
+* RT Sql Layer
+* RT MapServer Exporter
+
