@@ -152,6 +152,10 @@ DockableMirrorMap
 ==================
 It allows to split the screen in two or more panels, that can be panned and zoomed both in sync and independently. In QGIS 3 this has become a native function.
 
+QPROTO
+======
+Porting of the QProto script. Founded by Politecnico di Torino (Regione Piemonte)
+
 AniMove
 ==================
 
@@ -182,4 +186,3 @@ RT Qspider
 
 Transformation Tools
 ======================
-
