@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
+<head>
+    <title>Translate your QGIS plugin in many languages - Faunalia</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="/../images/site/logo_faunalia.png" rel="icon">
+
+<link rel="canonical" href="/drafts/qgis-plugin-i18n-en.html">
+
+        <meta name="author" content="Matteo Ghetta" />
+        <meta name="keywords" content="qgis,i18n" />
+        <meta name="description" content="If you have used the …" />
+
+        <meta property="og:site_name" content="Faunalia" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Translate your QGIS plugin in many languages"/>
+        <meta property="og:url" content="/drafts/qgis-plugin-i18n-en.html"/>
+        <meta property="og:description" content="If you have used the …"/>
+        <meta property="article:published_time" content="2017-09-24" />
+            <meta property="article:section" content="en" />
+            <meta property="article:tag" content="qgis" />
+            <meta property="article:tag" content="i18n" />
+            <meta property="article:author" content="Matteo Ghetta" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="/theme/css/bootstrap.united.min.css" type="text/css"/>
+    <link href="/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
+
+
+
+
+
+</head>
+<body>
+
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+
+            <a href="/" class="navbar-brand">
+<img class="img-responsive pull-left gap-right" src="/images/site/logo_faunalia.png" width=""/> Faunalia            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+
+
+
+
+        <li class="active">
+
+        <!-- se il metadato unique è = a corsi, allora fai dropdown -->
+
+
+				<li class="dropdown">
+        <a href="#" data-toggle="dropdown" class="dropdown-toggle">
+					Formazione
+				<b class="caret"></b></a>
+
+          <!-- link relativi a pagine specifiche -->
+
+            <ul class="dropdown-menu">
+              <li>
+								<a href="/training.html">
+									<i class="fa fa-graduation-cap"></i>
+									Corsi
+								</a></li>
+
+								<!-- italiano -->
+              <li>
+								<a href="/it/training.html#calendario">
+									<i class="fa fa-calendar"></i><strong> Prossimi Corsi</strong>
+								</a>
+							</li>
+
+							<!-- inglese -->
+            </ul>
+        </li>
+
+        <li class="active">
+
+        <!-- se il metadato unique è = a corsi, allora fai dropdown -->
+
+         <li>
+          <a href="/support.html">
+             Assistenza
+          </a>
+        </li>
+
+
+        <li class="active">
+
+        <!-- se il metadato unique è = a corsi, allora fai dropdown -->
+
+         <li>
+          <a href="/development.html">
+             Sviluppo
+          </a>
+        </li>
+
+
+        <li class="active">
+
+        <!-- se il metadato unique è = a corsi, allora fai dropdown -->
+
+
+				<li class="dropdown">
+        <a href="#" data-toggle="dropdown" class="dropdown-toggle">
+					Chi siamo
+				<b class="caret"></b></a>
+
+          <!-- link relativi a pagine specifiche -->
+
+            <ul class="dropdown-menu">
+              <li><a href="/about.html">
+								<i class="fa fa-user-circle"></i>
+								Chi siamo</a>
+							</li>
+              <li><a href="/jobs.html">
+								<i class="fa fa-briefcase"></i>
+								Lavori</a>
+							</li>
+            </ul>
+        </li>
+
+        <!-- se invece il metdadato non è corsi, vai con il resto -->
+
+        <li class="active">
+
+        <!-- se il metadato unique è = a corsi, allora fai dropdown -->
+
+         <li>
+          <a href="/contact.html">
+             Contatti
+          </a>
+        </li>
+
+
+        <li class="active">
+
+        <!-- se il metadato unique è = a corsi, allora fai dropdown -->
+
+
+				<li class="dropdown">
+        <a href="#" data-toggle="dropdown" class="dropdown-toggle">
+					Blog
+				<b class="caret"></b></a>
+
+          <!-- link relativi a pagine specifiche -->
+
+            <ul class="dropdown-menu">
+              <li>
+								<a href="/blog.html">
+									<i class="fa fa-newspaper-o"></i>
+									Post
+								</a></li>
+              <li>
+								<a href="/tags.html">
+									<i class="fa fa-tags fa-lg"></i>Tag
+								</a></li>
+              <li>
+								<a href="/archives.html">
+									<i class="fa fa-th-list"></i>
+									Archivio</a></li>
+            </ul>
+        </li>
+
+
+
+
+
+  </ul>
+
+
+<!-- language options -->
+
+  <ul class="nav navbar-nav navbar-right">
+
+
+		<!-- set the default language button as active -->
+    <li class="active">
+
+    <a href=			"drafts/qgis-plugin-i18n-en.html"
+
+
+>Italiano</a>
+    </li>
+
+
+		<!-- set the default language button as active -->
+    <li>
+
+    <a href=    "/drafts/qgis-plugin-i18n-en.html"
+
+    <a href=>English</a>
+    </li>
+
+
+
+    <li><span>
+      <form class="navbar-search" action="/search.html">
+        <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input" required>
+      </form></span>
+    </li>
+
+  </ul>
+</div>
+<!-- /.navbar-collapse -->
+</div>
+</div> <!-- /.navbar -->
+
+<!-- Banner -->
+<!-- End Banner -->
+
+
+<!-- questo div mostra la home page di tutto, commentanto non si vede niente
+a parte navbar e footer -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-8">
+
+        <!-- block content mostra i contenuti della pagina.. da dove li prende?! -->
+
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="/drafts/qgis-plugin-i18n-en.html"
+                       rel="bookmark"
+                       title="Permalink to Translate your QGIS plugin in many languages">
+                        Translate your QGIS plugin in many languages
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+  <!--  -->
+  <!--  -->
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2017-09-24T00:00:00+02:00"> 24 Sep 2017</time>
+    </span>
+
+
+
+        <!-- <span class="label label-default">Tag</span> -->
+        <a href="/category/en.html"></a>
+
+
+<span class="label label-default">Tags</span>
+	<a href="/tag/qgis.html">qgis</a>
+        /
+	<a href="/tag/i18n.html">i18n</a>
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <p>If you have used the Plugin Builder to create the template of your plugin, good
+news! You already have a perfect suite on how to build both documentation and UI
+in different languages with a small effort.</p>
+<h2 id="ui-translation">UI translation<a class="headerlink" href="#ui-translation" title="Permanent link">&para;</a></h2>
+<p>The <code>Makefile</code> shipped with the Plugin Builder should become your best friend.
+In the first rows of the file you should see something like:</p>
+<div class=" codehilite"><pre><span></span>#Add iso code for any locales you want to support here (space separated)
+# default is no locales
+# LOCALES = af
+LOCALES =
+# If locales are enabled, set the name of the lrelease binary on your system. If
+# you have trouble compiling the translations, you may have to specify the full path to
+# lrelease
+#LRELEASE = lrelease
+#LRELEASE = lrelease-qt4
+
+# translation
+SOURCES = \
+    __init__.py \
+    data_plotly.py data_plotly_dialog.py
+
+PLUGINNAME = DataPlotly
+
+PY_FILES = \
+    __init__.py \
+    data_plotly.py data_plotly_dialog.py
+
+UI_FILES = data_plotly_dialog_base.ui
+</pre></div>
+
+
+<p>so, some variables are defined and some other are waiting for you.</p>
+<ol>
+<li>
+<p>add as many languages in the <strong>LOCALE</strong> variable (space separated) as you want:</p>
+<p>LOCALES = it es de</p>
+</li>
+<li>
+<p>uncomment the <strong>LRELEASE</strong> variable:</p>
+<div class=" codehilite"><pre><span></span><span class="p">#</span><span class="k">If</span> <span class="n">locales</span> <span class="n">are</span> <span class="n">enabled</span><span class="p">,</span> <span class="k">set</span> <span class="n">the</span> <span class="n">name</span> <span class="k">of</span> <span class="n">the</span> <span class="n">lrelease</span> <span class="n">binary</span> <span class="k">on</span> <span class="n">your</span> <span class="n">system</span><span class="p">.</span> <span class="k">If</span>
+<span class="p">#</span><span class="n">you</span> <span class="n">have</span> <span class="n">trouble</span> <span class="n">compiling</span> <span class="n">the</span> <span class="n">translations</span><span class="p">,</span> <span class="n">you</span> <span class="n">may</span> <span class="n">have</span> <span class="k">to</span> <span class="n">specify</span> <span class="n">the</span> <span class="n">full</span> <span class="n">path</span> <span class="k">to</span>
+<span class="p">#</span><span class="n">lrelease</span>
+<span class="n">LRELEASE</span> <span class="o">=</span> <span class="n">lrelease</span>
+</pre></div>
+
+
+</li>
+<li>
+<p>be sure that all the files that contains strings that have to be translated are
+listed in the <strong>PY_FILES</strong> and <strong>UI_FILES</strong>. If you have extended the plugin with
+other files or many other forms (UI) you have to add them here.</p>
+</li>
+<li>
+<p>The translation workflow is pretty simple:</p>
+</li>
+<li>
+<p>read all the source forms and py files with strings to be translated</p>
+</li>
+<li>create the corresponding <code>.ts</code> file <strong>for each</strong> language</li>
+<li>translate the strings using an editor (Qt Linguist recommended)</li>
+<li>compile the <code>.ts</code> file into <code>.qm</code> (the one QGIS can read)</li>
+</ol>
+<p>To accomplish this, the <code>Makefile</code> come with 2 useful command: <strong>transup</strong> and
+<strong>transcompile</strong>.
+The first calls the script <code>updaste-strings.sh</code> script and takes care of creating
+the <code>.ts</code> file while the second calls the <code>compile-strings.sh</code> script that creates
+the <code>.qm</code> file from the translations within <code>.ts</code></p>
+<p>QGIS will upload and read the file <code>your_plugin_language.qm</code> in the i18n directory,
+so if your plugin is called geocoding and you have translated it in Spanish, the
+name of the final <code>.qm</code> file <strong>must be</strong> <code>geocoding_es.qm</code> else the default source
+language is loaded.</p>
+<p>In order to do this, you have to make small adjustments to both <code>update-strings.sh</code>
+and <code>compile-strings.sh</code>.</p>
+<p>The only <em>hack</em> I introduced is add the <strong>PLUGINNAME</strong> variable as <code>yourPlugin_</code>
+so that the final file is correctly named (before this hack the translation files
+were named only with the language code).</p>
+<p>For the <code>update-strings.sh</code> script, add this variable at the beginning:</p>
+<div class=" codehilite"><pre><span></span>PLUGINNAME=&quot;myplugin_&quot;
+</pre></div>
+
+
+<p>and add this variable where needed:</p>
+<div class=" codehilite"><pre><span></span>for LOCALE in <span class="cp">${</span><span class="n">LOCALES</span><span class="cp">}</span>
+do
+  echo &quot;i18n/&quot;<span class="nv">$PLUGINNAME</span><span class="cp">${</span><span class="n">LOCALE</span><span class="cp">}</span>&quot;.ts&quot;
+  # Note we don&#39;t use pylupdate with qt .pro file approach as it is flakey
+  # about what is made available.
+  pylupdate4 -noobsolete <span class="cp">${</span><span class="n">PYTHON_FILES</span><span class="cp">}</span> -ts i18n/<span class="nv">$PLUGINNAME</span><span class="cp">${</span><span class="n">LOCALE</span><span class="cp">}</span>.ts
+done
+</pre></div>
+
+
+<p>while for <code>compile-strings.sh</code>:</p>
+<div class=" codehilite"><pre><span></span>LRELEASE=$1
+LOCALES=$*
+PLUGINNAME=&quot;myplugin_&quot;
+
+
+for LOCALE in <span class="cp">${</span><span class="n">LOCALES</span><span class="cp">}</span>
+do
+    echo &quot;Processing: <span class="nv">$PLUGINNAME</span><span class="cp">${</span><span class="n">LOCALE</span><span class="cp">}</span>.ts&quot;
+    # Note we don&#39;t use pylupdate with qt .pro file approach as it is flakey
+    # about what is made available.
+    <span class="nv">$LRELEASE</span> i18n/<span class="nv">$PLUGINNAME</span><span class="cp">${</span><span class="n">LOCALE</span><span class="cp">}</span>.ts
+done
+</pre></div>
+
+
+<p><strong>WARNING</strong> you have to re-run the <code>update-string.sh</code> script every time you add
+something in your plugin. You will not loose the old translation but if you don't
+run this script you cannot translate the newer strings.</p>
+<h2 id="small-note-for-dataplotly">Small note for DataPlotly<a class="headerlink" href="#small-note-for-dataplotly" title="Permanent link">&para;</a></h2>
+<p>All the scripts are within the Makefile.</p>
+<p>For the UI:</p>
+<ol>
+<li>if something is changed just run: <code>make txpush</code>. This command will call automatically
+the <code>transup</code> command that will look for newer strings and pushes them to tx</li>
+<li>translate only in tx. Once done run <code>make transcompile</code>. This command will download
+all translated strings from transifex, make the ts and compile the qm.</li>
+</ol>
+<p>For the manual:</p>
+<ol>
+<li>cd in the <code>help</code> directory</li>
+<li>run <code>make txpush</code>. This will take all the new and untranslated strings and push
+them to tx</li>
+<li>translate in tx then run <code>make html LANG=it</code> to automatically download the strings
+  from transifex and build the html. <strong>TO BE DONE FOR ALL LANGUAGES</strong></li>
+<li>given the big space required for each language (_images folder), after having
+  run <code>make html LANG=here the language</code> run <code>make replace</code>. This will run and
+  an additional script that does all the work (moving and removing folder and
+  replacing the paths of the images in each html).</li>
+</ol>
+<p><strong>IF SOMETHING IS NOT WORKING FOR UI OR MANUAL REMOVE THE TS FILE (UI) AND THE
+PO FILES (MANUAL) AND RE-PULL FROM TX (AND RECOMPILE)</strong></p>
+<h2 id="addendum-for-the-manual">Addendum for the MANUAL<a class="headerlink" href="#addendum-for-the-manual" title="Permanent link">&para;</a></h2>
+<ol>
+<li>
+<p>to <strong>upload</strong> new strings because the source changed just run <code>tx push</code>. It
+  calls automatically <code>gettext</code> that checks for strings updating</p>
+</li>
+<li>
+<p>to <strong>build</strong> the html just run <code>make html</code>. This command calls:</p>
+</li>
+<li>
+<p>txpullcomplete that pulls the translations from transifex</p>
+</li>
+<li>make clean to clean the build directory</li>
+<li>localehtml that build the html for each language with the translated strings</li>
+<li>the script that moves/replaces all the images and paths</li>
+</ol>
+<p><strong>IMPORTANT</strong> if new languages are added, the language code has to be added in
+both Makefile and replace_script (in the LOCALES variable)</p>
+<p><strong>SUPER IMPORTANT</strong> if new rst files are added you <strong>have to add them also in the
+.tx/config file</strong> and this file is hidden! Be careful!</p>
+            </div>
+            <!-- /.entry-content -->
+    <hr />
+    <!-- AddThis Button BEGIN -->
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <div class="addthis_inline_share_toolbox">
+        <!--             <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+            <a class="addthis_button_tweet"></a>
+            <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+ -->
+    </div>
+    <!-- AddThis Button END -->
+            <!-- old for DISQUS -->
+            <!--  -->
+            <!-- new to INTENSEDEBATE -->
+	<script>
+		var idcomments_acct = 'be394b01f4741443baeaa3300ae5b695';
+		var idcomments_post_id = 'qgis-plugin-i18n';
+		var idcomments_post_url;
+	</script>
+	<span id="IDCommentsPostTitle" style="display:none"></span>
+	<script type='text/javascript' src='http://www.intensedebate.com/js/genericCommentWrapperV2.js'>
+	</script>
+        </article>
+    </section>
+
+        </div>
+        <div class="col-sm-4" id="sidebar">
+            <aside>
+
+<section class="well well-sm">
+    <ul class="list-group list-group-flush">
+
+
+          <li class="list-group-item">
+            <h4>
+              <i class="fa fa-clock-o fa-lg"></i> Post recenti
+            </h4>
+              <ul class="list-group" id="recentposts">
+                  <li class="list-group-item">
+                    <span class="label label-default">15 May 2018</span>
+                      <a href="/view-geopackage.html">
+                        Aggiungere una vista in un geopackage
+                      </a>
+                  </li>
+                  <li class="list-group-item">
+                    <span class="label label-default">15 Apr 2018</span>
+                      <a href="/ciaociao.html">
+                        Inclusione
+                      </a>
+                  </li>
+              </ul>
+          </li>
+
+
+
+          <li class="list-group-item">
+            <a href="/tags.html">
+              <h4>
+                <i class="fa fa-tags fa-lg"></i> Tag
+              </h4>
+            </a>
+              <ul class="list-group" id="categories">
+                  <li class="list-group-item">
+                      <a href="/tag/rsync.html">
+                          rsync
+                      </a>
+                  </li>
+                  <li class="list-group-item">
+                      <a href="/tag/encrypt.html">
+                          encrypt
+                      </a>
+                  </li>
+                  <li class="list-group-item">
+                      <a href="/tag/nuovo.html">
+                          nuovo
+                      </a>
+                  </li>
+                  <li class="list-group-item">
+                      <a href="/tag/gpg.html">
+                          gpg
+                      </a>
+                  </li>
+                  <li class="list-group-item">
+                      <a href="/tag/gis.html">
+                          gis
+                      </a>
+                  </li>
+                  <li class="list-group-item">
+                      <a href="/tag/geopackage.html">
+                          geopackage
+                      </a>
+                  </li>
+                  <li class="list-group-item">
+                      <a href="/tag/backup.html">
+                          backup
+                      </a>
+                  </li>
+              </ul>
+          </li>
+
+
+          <li class="list-group-item">
+            <a href="/archives.html"><h4>
+              <i class="fa fa-th-list"></i>
+              Archivio</h4></a>
+          </li>
+
+    </ul>
+</section>            </aside>
+        </div>
+    </div>
+</div>
+<footer id="footer">
+   <div class="container">
+      <hr>
+      <!-- Container -->
+  		<div class="container" >
+        <div class="row" id="margins">
+         <div class="col-md-4">
+           <p><i class="fa fa-map-marker"></i><a href="https://www.openstreetmap.org/way/370389519#map=19/43.66193/10.63845"> Piazza Garibaldi, 5 - 56025 Pontedera (PI) Italia</a></p>
+           <p><i class="fa fa-paperclip"></i> VAT/IVA: IT-02297510501</p>
+           <p><i class="fa fa-envelope"></i><a href="mailto:info@faunalia.it"> info@faunalia.it</a></p>
+           <p><i class="fa fa-envelope"></i><a href="faunalia@pec.it"> faunalia@pec.it</a></p>
+           <p><i class="fa fa-phone"></i> Phone: +39 0587 346138</p>
+           <p><i class="fa fa-mobile-phone"></i> Mobile 1: +39 348 38 01 953 (+Viber/Line)</p>
+           <p><i class="fa fa-mobile-phone"></i> Mobile 2: +39 348 95 23 719 (+Viber/Line)</p>
+           <p><i class="fa fa-skype"></i> paolo.gg.cavallini</p>
+           <p><i class="fa fa-skype"></i> ghetta-86</p>
+           <p><i class="fa fa-google"></i> Hangout: paolo.cavallini</p>
+           <p><i class="fa fa-google"></i> Hangout: matteo.ghetta</p>
+         </div>
+         <div class="col-md-4">
+           <p>
+             <a href="/privacy.html">Informativa sulla privacy</a>
+           </p>
+         </div>
+         <div class="col-md-4">
+           <div class="text-center center-block">
+              <a href="https://www.facebook.com/Geopenguin-265477097196365/"><i class="fa fa-facebook-square fa-3x social"></i></a>
+              <a href="https://twitter.com/ghtmtt"><i class="fa fa-twitter-square fa-3x social"></i></a>
+              <a href="https://github.com/ghtmtt"><i class="fa fa-github-square fa-3x social"></i></a>
+              <a href="https://gitlab.com/ghtmtt"><i class="fa fa-gitlab fa-3x social"></i></a>
+              <a href="mailto:info@geopenguin.com"><i class="fa fa-envelope-square fa-3x social"></i></a>
+              <a href="https://www.linkedin.com/in/matteo-ghetta-90b05979/"><i class="fa fa-linkedin-square fa-3x social"></i></a>
+           </div>
+         </div>
+         <!-- <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div> -->
+       </div>
+
+
+        </div>
+      </div>
+</footer>
+<script src="/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="/theme/js/respond.min.js"></script>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-96942229-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+        <script type="text/javascript">var addthis_config = {"data_track_addressbar": true};</script>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58ea5b728ede68c1"></script>
+</body>
+</html>

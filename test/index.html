@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="it" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
+<head>
+    <title>Faunalia</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="/../images/site/logo_faunalia.png" rel="icon">
+
+
+        <meta name="author" content="Matteo Ghetta" />
+
+    <!-- Open Graph tags -->
+        <meta property="og:site_name" content="Faunalia" />
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="Faunalia"/>
+        <meta property="og:url" content=""/>
+        <meta property="og:description" content="Faunalia"/>
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="/theme/css/bootstrap.united.min.css" type="text/css"/>
+    <link href="/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="/theme/css/pygments/native.css" rel="stylesheet">
+    <link href="/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
+
+
+
+
+
+</head>
+<body>
+
+
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+
+            <a href="/" class="navbar-brand">
+<img class="img-responsive pull-left gap-right" src="/images/site/logo_faunalia.png" width=""/> Faunalia            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+
+
+
+
+        <li class="active">
+
+        <!-- se il metadato unique è = a corsi, allora fai dropdown -->
+
+
+				<li class="dropdown">
+        <a href="#" data-toggle="dropdown" class="dropdown-toggle">
+					Formazione
+				<b class="caret"></b></a>
+
+          <!-- link relativi a pagine specifiche -->
+
+            <ul class="dropdown-menu">
+              <li>
+								<a href="/training.html">
+									<i class="fa fa-graduation-cap"></i>
+									Corsi
+								</a></li>
+
+								<!-- italiano -->
+              <li>
+								<a href="/it/training.html#calendario">
+									<i class="fa fa-calendar"></i><strong> Prossimi Corsi</strong>
+								</a>
+							</li>
+
+							<!-- inglese -->
+            </ul>
+        </li>
+
+        <li class="active">
+
+        <!-- se il metadato unique è = a corsi, allora fai dropdown -->
+
+         <li>
+          <a href="/support.html">
+             Assistenza
+          </a>
+        </li>
+
+
+        <li class="active">
+
+        <!-- se il metadato unique è = a corsi, allora fai dropdown -->
+
+         <li>
+          <a href="/development.html">
+             Sviluppo
+          </a>
+        </li>
+
+
+        <li class="active">
+
+        <!-- se il metadato unique è = a corsi, allora fai dropdown -->
+
+
+				<li class="dropdown">
+        <a href="#" data-toggle="dropdown" class="dropdown-toggle">
+					Chi siamo
+				<b class="caret"></b></a>
+
+          <!-- link relativi a pagine specifiche -->
+
+            <ul class="dropdown-menu">
+              <li><a href="/about.html">
+								<i class="fa fa-user-circle"></i>
+								Chi siamo</a>
+							</li>
+              <li><a href="/jobs.html">
+								<i class="fa fa-briefcase"></i>
+								Lavori</a>
+							</li>
+            </ul>
+        </li>
+
+        <!-- se invece il metdadato non è corsi, vai con il resto -->
+
+        <li class="active">
+
+        <!-- se il metadato unique è = a corsi, allora fai dropdown -->
+
+         <li>
+          <a href="/contact.html">
+             Contatti
+          </a>
+        </li>
+
+
+        <li class="active">
+
+        <!-- se il metadato unique è = a corsi, allora fai dropdown -->
+
+
+				<li class="dropdown">
+        <a href="#" data-toggle="dropdown" class="dropdown-toggle">
+					Blog
+				<b class="caret"></b></a>
+
+          <!-- link relativi a pagine specifiche -->
+
+            <ul class="dropdown-menu">
+              <li>
+								<a href="/blog.html">
+									<i class="fa fa-newspaper-o"></i>
+									Post
+								</a></li>
+              <li>
+								<a href="/tags.html">
+									<i class="fa fa-tags fa-lg"></i>Tag
+								</a></li>
+              <li>
+								<a href="/archives.html">
+									<i class="fa fa-th-list"></i>
+									Archivio</a></li>
+            </ul>
+        </li>
+
+
+
+
+
+  </ul>
+
+
+<!-- language options -->
+
+  <ul class="nav navbar-nav navbar-right">
+
+
+		<!-- set the default language button as active -->
+    <li class="active">
+
+    <a href=			""
+
+
+
+>Italiano</a>
+    </li>
+
+
+		<!-- set the default language button as active -->
+    <li>
+
+    <a href=			"/en"
+
+
+>English</a>
+    </li>
+
+
+
+    <li><span>
+      <form class="navbar-search" action="/search.html">
+        <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input" required>
+      </form></span>
+    </li>
+
+  </ul>
+</div>
+<!-- /.navbar-collapse -->
+</div>
+</div> <!-- /.navbar -->
+
+
+<!-- questo div mostra la home page di tutto, commentanto non si vede niente
+a parte navbar e footer -->
+
+<!-- Carousel home page -->
+<div class="container-fluid">
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-slide-to="0" class="active"></li>
+      <li data-slide-to="1"></li>
+      <li data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+        <img src="/extras/index/header_map.png" alt="Los Angeles" style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="/extras/index/header_map.png" alt="Chicago" style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="/extras/index/header_map.png" alt="New york" style="width:100%;">
+      </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+<!-- fine Carousel -->
+
+
+<div class="container">
+  <div class="row">
+    <h2 class="featurette-heading text-center" id="home">
+      <a href="#home">Specialisti di QGIS, Database Geografici PostGIS e WebGIS</a>
+    </h2>
+  </div>
+  <div class="row">
+      <div class="col-md-12 portfolio-item">
+        <p>
+          <a href="https://www.qgis.org/">QGIS</a> e <a href="http://postgis.net/">PostGIS</a> mettono a disposizione un grande numero di funzionalità per visualizzare, gestire, editare e analizzare dati geografici e per creare stampe con simbologia cartografica avanzata
+        </p>
+        <p>
+          <a href="https://www.qgis.org/">QGIS</a> e <a href="http://postgis.net/">PostGIS</a> forniscono un modo semplice ed economico per gestire grandi volumi di dati (ad es. Catasto Urbano, Catasto Rurale, etc.) e per pubblicare servizi standard <a href="http://www.opengeospatial.org/">OpenGeospatialConsortium</a> (WMS, WFS, WCS), così come mappe on-line (WebGIS).
+        </p>
+      </div>
+      </div>
+</div>
+
+<br>
+
+<!-- products Faunalia-->
+<div class="container">
+  <div class="row">
+    <h2 class="featurette-heading text-center" id="services">
+      <a href="#services">I nostri servizi</a>
+    </h2>
+  </div>
+  <div class="row">
+      <div class="col-md-4 portfolio-item">
+          <h3 class="text-center">
+            <i class="fa fa-graduation-cap"></i>
+            <a href="/training.html">Corsi</a>
+          </h3>
+          <p>I migliori corsi per imparare il GIS in tutte le sue forme: QGIS, Database e WebGIS</p>
+          <div class="text-center">
+            <a href="/training.html" class="btn btn-success btn-md" role="button">
+              Maggiori Info
+            </a>
+          </div>
+      </div>
+      <div class="col-md-4 portfolio-item">
+          <h3 class="text-center">
+            <i class="fa fa-handshake-o"></i>
+            <a href="/support.html">Assistenza e supporto</a>
+          </h3>
+          <p>Vuoi la certezza e la tranquillità di un supporto costante per la soluzione dei tuoi problemi?</p>
+          <div class="text-center">
+            <a href="/support.html" class="btn btn-success btn-md" role="button">
+              Maggiori Info
+            </a>
+          </div>
+      </div>
+      <div class="col-md-4 portfolio-item">
+          <h3 class="text-center">
+            <i class="fa fa-cogs"></i>
+            <a href="/development.html">Sviluppo personalizzato</a>
+          </h3>
+          <p>Hai bisogno di un algoritmo, di un plugin per velocizzare il tuo lavoro o di correggere un bug?</p>
+          <div class="text-center">
+            <a href="/development.html" class="btn btn-success btn-md" role="button">
+              Maggiori Info
+            </a>
+          </div>
+      </div>
+  </div>
+</div>
+
+<br>
+<!-- /products Faunalia-->
+
+<!-- why choose us -->
+<div class="container">
+ <div class="row">
+   <h2 class="featurette-heading text-center" id="whyus">
+     <a href="#whyus">Perchè scegliere noi</a>
+   </h2>
+ </div>
+ <div class="row">
+     <div class="col-md-12 portfolio-item">
+       <p>
+         Scegliere i servizi di Faunalia è sinonimo di serietà, garanzia dei risultati e competenza. Siamo la <strong>migliore</strong> azienda italiana e fra le migliori aziende del panorama mondiale a offrire assistenza, sviluppo e formazione GIS a 360 gradi. I nostri numeri parlano chiaro:
+       </p>
+       <ul>
+         <li>
+           Siamo presenti da oltre <strong>15 anni sul mercato</strong>
+         </li>
+         <li>
+           Abbiamo effettuato più di <strong>350 corsi</strong> in tutto il mondo formando oltre <strong>5000 persone</strong> di enti pubblici e privati, in Italia e nel mondo
+         </li>
+         <li>
+           I corsi hanno un indice di gradimento superiore al <strong>93</strong> sulla base di questionari anonimi
+         </li>
+         <li>
+           Siamo l'<strong>unica</strong> azienda italiana a poter rilasciare una <a href="http://changelog.qgis.org/en/qgis/certifyingorganisation/qgis-faunalia/">certificazione</a> <strong>ufficiale e riconosciuta</strong> dalla fondazione internazionale QGIS.ORG
+         </li>
+         <li>
+           Paolo Cavallni è l'attuale <strong>presidente</strong> di <a href="http://blog.qgis.org/2018/04/13/qgis-annual-general-meeting-2018/">QGIS.ORG</a>
+         </li>
+         <li>
+           Partecipiamo <strong>attivamente</strong> al software libero che utilizziamo:
+           <ul>
+             <li>
+               Abbiamo tradotto il manuale di QGIS in italiano
+             </li>
+             <li>
+               Abbiamo scritto le guide degli algoritmi di Processing per QGIS 3.0
+             </li>
+             <li>
+               Partecipiamo <strong>da sempre</strong> alle <italic>HackFest</italic> di QGIS
+             </li>
+             <li>
+               Sviluppiamo e pubblichiamo <a href="http://plugins.qgis.org/search/?q=faunalia">plugin</a> per QGIS. Qualche esempio? <a href="https://plugins.qgis.org/plugins/DataPlotly/">DataPlotly</a>, <a href="https://plugins.qgis.org/plugins/pstimeseries/">PS Time Series</a> e molti altri che sono stati inclusi nel core di QGIS come i GDAL Tools
+             </li>
+             <li>
+               Segnaliamo e contribuiamo ad aggiustare i <a href="https://issues.qgis.org/projects/qgis/">bug del codice</a> che troviamo
+             </li>
+           </ul>
+         </li>
+         <li>
+           Paolo Cavallini e Matteo Ghetta hanno fondato <a href="http://www.qgis.it">QGIS Italia</a>
+         </li>
+         <li>
+           Collaboriamo con i <a href="/about.html#faunalia-team">principali sviluppatori</a> di QGIS e PostGIS. Per questo motivo la garanzia del risultato è assicurata.
+         </li>
+       </ul>
+
+       <p>Visita la pagina dei  <a href="/jobs.html"> nostri clienti</a> e naviga la  <a href="/jobs.html#mappa-interattiva">mappa interattiva</a> dei nostri lavori: ti renderai conto che difficilmente ci sono aziende che possono fornire un servizio come il nostro.</p>
+     </div>
+ </div>
+</div>
+<!-- /why choose us -->
+
+<!-- our vision -->
+<div class="container">
+  <div class="row">
+    <h2 class="featurette-heading text-center" id="vision">
+      <a href="#vision">La nostra visione</a>
+    </h2>
+  </div>
+  <div class="row">
+      <div class="col-md-12 portfolio-item">
+          <p>
+          Le nostre attività si basano sulla convinzione che il software libero e open source sia la scelta migliore e più efficace, in particolare in relazione ai GIS.
+          </p>
+          <p>
+          Utilizzare un GIS open source e libero offre numerosi vantaggi rispetto alle alternative proprietarie presenti sul mercato, sia per il cliente, sia per lo sviluppo sociale complessivo. Consente innanzitutto un controllo pieno e trasparente del software utilizzato e quindi una totale indipendenza del cliente rispetto ai fornitori.
+          </p>
+          <p>
+          Da un punto di vista tecnico, i GIS open source consentono la massima flessibilità e personalizzazione delle soluzioni sviluppate e un costante aggiornamento del software, garantito dal lavoro di una rete di sviluppatori internazionale. Inoltre, rispetto ai sistemi proprietari, assicurano la massima persistenza dei dati geografici nel tempo e, grazie all’impiego di standard aperti, un’alta interoperabilità tra sistemi informativi.
+          </p>
+          <p>
+          I software GIS liberi hanno un costo complessivo più basso dei software proprietari e l’assenza di costi di licenza d’uso rimuove una barriera importante all’ingresso che favorisce una adozione maggiore, presso una più ampia varietà di utilizzatori e sempre legale.
+          Utilizzare GIS open source significa incentivare il lavoro di sviluppatori locali, arricchendo il territorio, incrementando le competenze a livello nazionale, favorendo una maggiore competizione e quindi offrendo maggiori tutele per il cliente rispetto ad offerte di tipo monopolistico.</p>
+          </p>
+      </div>
+  </div>
+</div>
+<!-- /our vision -->
+
+<br>
+
+<!-- our values -->
+<div class="container">
+  <div class="row">
+    <h2 class="featurette-heading text-center" id="qualities">
+      <a href="#qualities">I nostri valori</a>
+    </h2>
+  </div>
+  <div class="row">
+      <div class="col-md-12 portfolio-item">
+          <p>
+          Le attività di Faunalia si basano su valori per noi fondamentali:
+          </p>
+          <ul>
+            <li>
+              <strong>Onestà</strong> è fondamentale nella relazione con il cliente per il rispetto dei reciproci ruoli e per la costruzione di un rapporto di fiducia e di reciproca soddisfazione
+            </li>
+            <li>
+              <strong>Centralità del cliente</strong> le esigenze del cliente sono il criterio guida delle nostre attività, non soltanto per perseguirne la completa soddisfazione, ma per renderlo pienamente in possesso delle soluzioni sviluppate e del know-how per il suo utilizzo, evitando di instaurare una dipendenza dal fornitore
+            </li>
+            <li>
+              <strong>Qualità</strong> garantiamo standard di qualità alti, anche mediante il nostro continuo aggiornamento teorico e pratico sui GIS e la collaborazione con i migliori sviluppatori nazionali e internazionali
+            </li>
+          </ul>
+          <p>
+            Faunalia è inoltre particolarmente impegnata a diminuire il più possibile l'impatto delle proprie attività sull'ambiente, quindi: riduciamo i nostri spostamenti, privilegiando il lavoro da remoto; utilizziamo, in modo accorto, l\u2019energia elettrica proveniente da fonti rinnovabili certificate; adottiamo cicli di utilizzo dell'hardware più lunghi di quelli standard, e favoriamo il riutilizzo delle singole componenti e il trashware.
+          </p>
+      </div>
+  </div>
+</div>
+<!-- /our values -->
+
+<br>
+
+
+
+
+<br>
+
+<footer id="footer">
+   <div class="container">
+      <hr>
+      <!-- Container -->
+  		<div class="container" >
+        <div class="row" id="margins">
+         <div class="col-md-4">
+           <p><i class="fa fa-map-marker"></i><a href="https://www.openstreetmap.org/way/370389519#map=19/43.66193/10.63845"> Piazza Garibaldi, 5 - 56025 Pontedera (PI) Italia</a></p>
+           <p><i class="fa fa-paperclip"></i> VAT/IVA: IT-02297510501</p>
+           <p><i class="fa fa-envelope"></i><a href="mailto:info@faunalia.it"> info@faunalia.it</a></p>
+           <p><i class="fa fa-envelope"></i><a href="faunalia@pec.it"> faunalia@pec.it</a></p>
+           <p><i class="fa fa-phone"></i> Phone: +39 0587 346138</p>
+           <p><i class="fa fa-mobile-phone"></i> Mobile 1: +39 348 38 01 953 (+Viber/Line)</p>
+           <p><i class="fa fa-mobile-phone"></i> Mobile 2: +39 348 95 23 719 (+Viber/Line)</p>
+           <p><i class="fa fa-skype"></i> paolo.gg.cavallini</p>
+           <p><i class="fa fa-skype"></i> ghetta-86</p>
+           <p><i class="fa fa-google"></i> Hangout: paolo.cavallini</p>
+           <p><i class="fa fa-google"></i> Hangout: matteo.ghetta</p>
+         </div>
+         <div class="col-md-4">
+           <p>
+             <a href="/privacy.html">Informativa sulla privacy</a>
+           </p>
+         </div>
+         <div class="col-md-4">
+           <div class="text-center center-block">
+              <a href="https://www.facebook.com/Geopenguin-265477097196365/"><i class="fa fa-facebook-square fa-3x social"></i></a>
+              <a href="https://twitter.com/ghtmtt"><i class="fa fa-twitter-square fa-3x social"></i></a>
+              <a href="https://github.com/ghtmtt"><i class="fa fa-github-square fa-3x social"></i></a>
+              <a href="https://gitlab.com/ghtmtt"><i class="fa fa-gitlab fa-3x social"></i></a>
+              <a href="mailto:info@geopenguin.com"><i class="fa fa-envelope-square fa-3x social"></i></a>
+              <a href="https://www.linkedin.com/in/matteo-ghetta-90b05979/"><i class="fa fa-linkedin-square fa-3x social"></i></a>
+           </div>
+         </div>
+         <!-- <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div> -->
+       </div>
+
+
+        </div>
+      </div>
+</footer>
+<button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa fa-arrow-up"></i></button>
+
+<script src="/theme/js/jquery.min.js"></script>
+<script src="/theme/js/main.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="/theme/js/respond.min.js"></script>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-96942229-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+</body>
+</html>
