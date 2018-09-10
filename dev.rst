@@ -182,7 +182,7 @@ Permaclim
 
 Processing algorithms to estimate the amount of permafrost in soils from meteo data.
 
-Qproto
+QProto
 =======
 
 RT Qspider
