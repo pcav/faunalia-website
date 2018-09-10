@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-08 16:56+0200\n"
+"POT-Creation-Date: 2018-09-10 18:26+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,195 +16,195 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../dev.rst:1
+#: ../../dev.rst:3
 msgid "Free and Open Source GIS development: QGIS, PostGIS, GDAL, MapServer, GRASS"
 msgstr ""
 
-#: ../../dev.rst:1
+#: ../../dev.rst:3
 msgid "Open Source, Free Software, Software libero, GIS, SIG, QGIS, Quantum GIS, GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, python, plugin, C++, sviluppo, programmazione, development, développement, desarrollo, risoluzione problemi, bug fixing"
 msgstr ""
 
-#: ../../dev.rst:15
+#: ../../dev.rst:14
 msgid "Sviluppo"
 msgstr ""
 
-#: ../../dev.rst:17
+#: ../../dev.rst:16
 msgid "Faunalia fornisce:"
 msgstr ""
 
-#: ../../dev.rst:19
+#: ../../dev.rst:18
 msgid "Sviluppo di plugin per QGIS_ (*core*: GDALTools, DB Manager; *custom*: `lista dei plugins sviluppati <https://plugins.qgis.org/search/?q=faunalia>`_)"
 msgstr ""
 
-#: ../../dev.rst:20
+#: ../../dev.rst:19
 msgid "Sviluppo di funzioni *core* per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
 
-#: ../../dev.rst:21
+#: ../../dev.rst:20
 msgid "Riparazione dei malfunzionamenti per QGIS_, PostGIS_, GRASS_, MapServer_, `GDAL/OGR <http://www.gdal.org/>`_"
 msgstr ""
 
-#: ../../dev.rst:22
+#: ../../dev.rst:21
 msgid "Sviluppo di applicazioni webGIS ad hoc"
 msgstr ""
 
-#: ../../dev.rst:24
+#: ../../dev.rst:23
 msgid "Garantiamo che tutto il codice sviluppato:"
 msgstr ""
 
-#: ../../dev.rst:26
+#: ../../dev.rst:25
 msgid "è pubblicato con licenza libera ed open source"
 msgstr ""
 
-#: ../../dev.rst:27
+#: ../../dev.rst:26
 msgid "viene incluso nel codice sorgente ufficiale dei rispettivi progetti"
 msgstr ""
 
-#: ../../dev.rst:29
+#: ../../dev.rst:28
 msgid "In questo modo sarete certi della sua fruibilità e facilità di manutenzione anche nel futuro."
 msgstr ""
 
-#: ../../dev.rst:31
+#: ../../dev.rst:30
 msgid "Faunalia ha sviluppato direttamente, già da molti anni, funzioni per tutti i software sopra elencati e fra i nostri collaboratori annoveriamo molti dei più importanti sviluppatori di questi progetti."
 msgstr ""
 
-#: ../../dev.rst:55
+#: ../../dev.rst:54
 msgid "Plugin sviluppati da Faunalia"
 msgstr ""
 
-#: ../../dev.rst:56
+#: ../../dev.rst:55
 msgid "Faunalia ha sviluppato molti plugin per QGIS. Se sei un utilizzatore di un plugin ma hai bisogno di una nuova funzionalità o di altri miglioramenti contattaci `info@faunalia.eu <info@faunalia.eu>`_."
 msgstr ""
 
-#: ../../dev.rst:60
-msgid "Di seguito un elenco di plugin sviluppati."
+#: ../../dev.rst:59
+msgid "Alcuni dei plugin sviluppati:"
 msgstr ""
 
-#: ../../dev.rst:63
+#: ../../dev.rst:62
 msgid "DataPlotly"
 msgstr ""
 
-#: ../../dev.rst:64
+#: ../../dev.rst:63
 msgid "`DataPlotly <https://github.com/ghtmtt/DataPlotly>`_ è un plugin per QGIS 3 che permette la creazione di grafici interattivi in stile D3."
 msgstr ""
 
-#: ../../dev.rst:67
+#: ../../dev.rst:66
 msgid "I grafici sono completamente interattivi ed *interagiscono* con gli elementi della mappa: cliccando o selezionando un elemento del grafico i relativi elementi della mappa vengono selezionati."
 msgstr ""
 
-#: ../../dev.rst:74
+#: ../../dev.rst:73
 msgid "DataPlotly permette di creare molti tipi di grafici diversi con enorme semplicità: ogni tipologia di grafico ha moltissime personalizzazioni disponibili che arricchiscono il grafico in molti modi diversi."
 msgstr ""
 
-#: ../../dev.rst:78
+#: ../../dev.rst:77
 msgid "Oltre alla possibilità di creare un grafico singolo si possono sovrapporre grafici (anche ti tipo diverso) oppure si può decidere di collocare i grafici in una vera e propria griglia."
 msgstr ""
 
-#: ../../dev.rst:82
+#: ../../dev.rst:81
 msgid "DataPlotly utilizza la libreria JavaScript `Plotly <https://plot.ly/>`_ costantemente sviluppata ed aggiornata. Grazie a diverse API, Plotly è utilizzabile anche con altri linguaggi di programmazione (Python, R, NodeJS, ecc.)."
 msgstr ""
 
-#: ../../dev.rst:84
+#: ../../dev.rst:83
 msgid "Ogni grafico è accompagnato dal codice html *grezzo* che lo compone: in questo modo l'utente può facilmente inserire il grafico in una cornice html."
 msgstr ""
 
-#: ../../dev.rst:87
+#: ../../dev.rst:86
 msgid "Inoltre si possono salvare i grafici come immagini statiche (``png``) o come file ``html``: questi ultimi mantengono l'interattività e sono quindi facilmente interrogabili."
 msgstr ""
 
-#: ../../dev.rst:92
+#: ../../dev.rst:91
 msgid "Supporto multilingue"
 msgstr ""
 
-#: ../../dev.rst:93
+#: ../../dev.rst:92
 msgid "DataPlotly è stato concepito per poter essere tradotto in altre lingue. Sia l'interfaccia utente che il manuale di utilizzo sono disponibili sul portale di traduzione `Transifex <https://www.transifex.com/dataplotly/>`_ dove è possibile richiedere la propria lingua e tradurre DataPlotly in pochissimo tempo."
 msgstr ""
 
-#: ../../dev.rst:97
+#: ../../dev.rst:96
 msgid "Attualmente il plugin è disponibilie in:"
 msgstr ""
 
-#: ../../dev.rst:99
+#: ../../dev.rst:98
 msgid "inglese"
 msgstr ""
 
-#: ../../dev.rst:100
+#: ../../dev.rst:99
 msgid "italiano"
 msgstr ""
 
-#: ../../dev.rst:101
+#: ../../dev.rst:100
 msgid "olandese"
 msgstr ""
 
-#: ../../dev.rst:102
+#: ../../dev.rst:101
 msgid "svedese"
 msgstr ""
 
-#: ../../dev.rst:103
+#: ../../dev.rst:102
 msgid "francese"
 msgstr ""
 
-#: ../../dev.rst:107
+#: ../../dev.rst:106
 msgid "Parlano di DataPlotly"
 msgstr ""
 
-#: ../../dev.rst:108
+#: ../../dev.rst:107
 msgid "DataPlotly ha riscosso un grande successo fra gli utenti e gli sviluppatori di QGIS. Al |today| il plugin è stato scaricato circa 2000 download e conta diverse citazioni in siti e blog:"
 msgstr ""
 
-#: ../../dev.rst:112
+#: ../../dev.rst:111
 msgid "https://anitagraser.com/2017/12/06/data-exploration-with-data-plotly-for-qgis3/"
 msgstr ""
 
-#: ../../dev.rst:113
+#: ../../dev.rst:112
 msgid "http://millermountain.com/geospatialblog/2017/12/18/qgis-data-plotly/"
 msgstr ""
 
-#: ../../dev.rst:114
+#: ../../dev.rst:113
 msgid "https://geosupportsystem.wordpress.com/2017/12/13/diagram-i-qgis-3/"
 msgstr ""
 
-#: ../../dev.rst:115
+#: ../../dev.rst:114
 msgid "https://www.youtube.com/watch?v=SxtVAtZ4bjA&feature=youtu.be"
 msgstr ""
 
-#: ../../dev.rst:119
+#: ../../dev.rst:118
 msgid "Supporto a DataPlotly"
 msgstr ""
 
-#: ../../dev.rst:120
+#: ../../dev.rst:119
 msgid "Sono molte le funzioni non ancora presenti in DataPlotly. Se sei interessato a supportare il plugin puoi richiedere l'aggiunta di funzionalità."
 msgstr ""
 
-#: ../../dev.rst:125
+#: ../../dev.rst:124
 msgid "Trucchi e consigli"
 msgstr ""
 
-#: ../../dev.rst:126
+#: ../../dev.rst:125
 msgid "Il plugin supporta nativamente tutte le funzionalità di QGIS (utilizzo di espressioni, stesse finestre di dialogo per la scelta dei colori, ecc..). Di seguito qualche trucchetto per sfruttare al meglio DataPlotly."
 msgstr ""
 
-#: ../../dev.rst:132
+#: ../../dev.rst:131
 msgid "Creare più grafici in righe e colonne diverse"
 msgstr ""
 
-#: ../../dev.rst:133
+#: ../../dev.rst:132
 msgid "Oltre a poter sovrapporre grafici sia dello stesso tipo che diversi, DataPlotly permette di separare i grafici. Questa opzione è particolarmente utile quando le unità di misura sono molto diverse e la sovrapposizione non darebbe un risultato visivamente utile."
 msgstr ""
 
-#: ../../dev.rst:142
+#: ../../dev.rst:141
 msgid "RT Omero"
 msgstr ""
 
-#: ../../dev.rst:143
+#: ../../dev.rst:142
 msgid "Un plugin per creare database complessi di edifici integrando rilevamenti su campo. Pensato per un uso specifico in Toscana può facilmente essere esteso ad altri casi d'uso."
 msgstr ""
 
-#: ../../dev.rst:147
+#: ../../dev.rst:146
 msgid "A `questo link <https://gitlab.com/faunalia/rt_omero>`_ puoi trovare il codice del progetto, mentre il manuale d'uso è consultabile a `questo link <https://gitlab.com/faunalia/rt_omero/blob/master/docs/manuale_uso.pdf>`_."
 msgstr ""
 
-#: ../../dev.rst:152
+#: ../../dev.rst:151
 msgid "DockableMirrorMap"
 msgstr ""
 
@@ -213,54 +213,102 @@ msgid "It allows to split the screen in two or more panels, that can be panned a
 msgstr ""
 
 #: ../../dev.rst:156
-msgid "QPROTO"
+msgid "AniMove, Triangulation, RandomHR"
 msgstr ""
 
-#: ../../dev.rst:157
-msgid "Porting of the QProto script. Founded by Politecnico di Torino (Regione Piemonte)"
+#: ../../dev.rst:158
+msgid "See `Animove page <animove.html>`_"
 msgstr ""
 
-#: ../../dev.rst:160
-msgid "AniMove"
-msgstr ""
-
-#: ../../dev.rst:163
-msgid "Triangulation"
-msgstr ""
-
-#: ../../dev.rst:166
-msgid "RandomHR"
-msgstr ""
-
-#: ../../dev.rst:169
+#: ../../dev.rst:161
 msgid "EQCAP"
 msgstr ""
 
-#: ../../dev.rst:170
+#: ../../dev.rst:163
 msgid "EarthQuake Catalogue Analysis Plugin"
 msgstr ""
 
-#: ../../dev.rst:173
+#: ../../dev.rst:166
 msgid "LWGEOM"
 msgstr ""
 
-#: ../../dev.rst:176
+#: ../../dev.rst:168
+msgid "Adds `Make valid` and `Build area` to Processing."
+msgstr ""
+
+#: ../../dev.rst:171
 msgid "PS Tools"
 msgstr ""
 
-#: ../../dev.rst:179
+#: ../../dev.rst:173
+msgid "Expose PS Tools to Processing."
+msgstr ""
+
+#: ../../dev.rst:176
 msgid "PS Time series Viewer"
 msgstr ""
 
-#: ../../dev.rst:182
+#: ../../dev.rst:178
+msgid "Computation and visualization of time series of speed for Permanent Scatterers derived from satellite interferometry."
+msgstr ""
+
+#: ../../dev.rst:181
 msgid "Permaclim"
 msgstr ""
 
-#: ../../dev.rst:185
+#: ../../dev.rst:183
+msgid "Processing algorithms to estimate the amount of permafrost in soils from meteo data."
+msgstr ""
+
+#: ../../dev.rst:186
+msgid "QProto"
+msgstr ""
+
+#: ../../dev.rst:189
 msgid "RT Qspider"
 msgstr ""
 
-#: ../../dev.rst:188
+#: ../../dev.rst:191
+msgid "Convert the selected table to an event layer (based on an X,Y pair) or to a spider diagram (based on two X,Y pairs)."
+msgstr ""
+
+#: ../../dev.rst:194
 msgid "Transformation Tools"
+msgstr ""
+
+#: ../../dev.rst:196
+msgid "Help using NTv2 grids or towgs84 parameters to transform -or reproject on the fly- vectors and rasters. Developing with funding from Regione Emilia Romagna."
+msgstr ""
+
+#: ../../dev.rst:200
+msgid "Older plugins"
+msgstr ""
+
+#: ../../dev.rst:202
+msgid "SEXTANTE LWGEOM Provider"
+msgstr ""
+
+#: ../../dev.rst:203
+msgid "Linear referencing plugin"
+msgstr ""
+
+#: ../../dev.rst:204
+msgid "ARPAT plugin"
+msgstr ""
+
+#: ../../dev.rst:205
+msgid "SpatiaLite Manager"
+msgstr ""
+
+#: ../../dev.rst:206
+msgid "RT Postgres Extractor"
+msgstr ""
+
+#: ../../dev.rst:207
+msgid "RT Sql Layer"
+msgstr ""
+
+#: ../../dev.rst:208
+msgid "RT MapServer Exporter"
 msgstr ""
 

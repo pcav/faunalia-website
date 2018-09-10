@@ -83,6 +83,34 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Convegno Input 2018 e terza edizione della HackFest italiana di QGIS a Viterbo
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Faunalia è stata invitata al convegno `INPUT 2018 <https://sites.google.com/view/input2018/home?authuser=0>`_
+dove Paolo Cavallini, in qualità di presidente di QGIS.ORG, ha presentato `QGIS <https://qgis.org/en/site/>`_
+e la fondazione QGIS.ORG alla sessione plenaria di giovedì. Matteo Ghetta ha
+coordinato la sessione GFOSS di venerdì dove ha presentato il plugin
+`DataPlotly <https://github.com/ghtmtt/DataPlotly>`_.
+
+Sabato ci siamo dedicati alla `HackFest <https://github.com/pcav/sito_qgis_it/wiki/QGIS-HackFest-3>`_.
+Una splendida atmosfera con molte nuove persone e molti nuovi spunti. Abbiamo
+sfoltito la lista delle issues della documentazione di QGIS, dato e ricevuto consigli.
+
+Una bellissima occasione che non vediamo l'ora di ripetere a Padova. Perchè, fra
+HackFest italiane e internazionali, non ne abbiamo saltata neanche una.
+
+Un grazie a Raffaele Pelorosso per l'organizzazione e all'Università della Tuscia
+per averci ospitato.
+
+Ed ecco il video di tutti i partecipanti (grazie a Luca Mandolesi e Salvatore Fiandaca
+per il montaggio):
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe width="661" height="372" src="https://www.youtube.com/embed/o8iUxKG0CWI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
+
 DataPlotly con funzioni di aggregazione
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Con il plugin `DataPlotly <https://github.com/ghtmtt/DataPlotly>`_ puoi usare
