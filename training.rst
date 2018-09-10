@@ -249,6 +249,7 @@ Corso                                                  Date e durata        Dove
 =====================================================  ==================== ==============  =================== ========
 :ref:`geodb`                                           12-14 Settembre 2018 Pontedera, IT                       Italiano
 :ref:`webgis`                                          03-05 Ottobre 2018   Pontedera, IT   15 Settembre 2018   Italiano
+:ref:`qgis3`                                           23 Ottobre 2018      Pontedera, IT   10 Ottobre 2018     Italiano
 :ref:`carto`                                           24-26 Ottobre 2018   Pontedera, IT   10 Ottobre 2018     Italiano
 :ref:`analisi`                                         da definire          Pontedera, IT                       Italiano
 :ref:`pyqgis`                                          da definire          Pontedera, IT                       Italiano
@@ -529,6 +530,8 @@ Durata
 
 Tre giorni *full time*
 
+
+.. _qgis3:
 
 Aggiornamento a QGIS 3
 ==================================
