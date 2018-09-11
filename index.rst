@@ -107,7 +107,7 @@ per il montaggio):
 .. raw:: html
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe width="661" height="372" src="https://www.youtube.com/embed/o8iUxKG0CWI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/o8iUxKG0CWI" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">></iframe>
     </div>
 
 
