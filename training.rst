@@ -251,7 +251,8 @@ Corso                                                  Date e durata        Dove
 :ref:`webgis`                                          03-05 Ottobre 2018   Pontedera, IT   15 Settembre 2018   Italiano
 :ref:`qgis3`                                           23 Ottobre 2018      Pontedera, IT   10 Ottobre 2018     Italiano
 :ref:`carto`                                           24-26 Ottobre 2018   Pontedera, IT   10 Ottobre 2018     Italiano
-:ref:`analisi`                                         da definire          Pontedera, IT                       Italiano
+:ref:`qfield`                                          26 Novembre 2018     Pontedera, IT   10 Novembre 2018    Italiano
+:ref:`analisi`                                         27-29 Novembre       Pontedera, IT   10 Novembre 2018    Italiano
 :ref:`pyqgis`                                          da definire          Pontedera, IT                       Italiano
 =====================================================  ==================== ==============  =================== ========
 
@@ -262,7 +263,7 @@ Le date sono soggette a cambiamento per esigenze logistiche.
 Costi
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-* Tutti i corsi standard (3 giorni), eccetto Python-QGIS e Aggiornamento a QGIS 3: 360 € per i privati, 340 € + IVA per aziende/partite IVA, 370 € IVA esclusa per enti pubblici. Corso Python-QGIS: 450 € per i privati, 430 € + IVA per aziende/partite IVA, 470 € IVA esclusa per gli enti pubblici. Corso di Aggiornamento a QGIS 3: 125 € per i privati, 125 € + IVA per aziende/partite IVA, 130 € IVA esclusa per gli enti pubblici.
+* Tutti i corsi standard (3 giorni), eccetto Python-QGIS, Aggiornamento a QGIS 3 e QField: 360 € per i privati, 340 € + IVA per aziende/partite IVA, 370 € IVA esclusa per enti pubblici. Corso Python-QGIS: 450 € per i privati, 430 € + IVA per aziende/partite IVA, 470 € IVA esclusa per gli enti pubblici. Corso di Aggiornamento a QGIS 3 e QField: 125 € per i privati, 125 € + IVA per aziende/partite IVA, 130 € IVA esclusa per gli enti pubblici.
 
 * **Sconti**: 5% per l'iscrizione simultanea a più corsi
 * **Certificazione QGIS.ORG**: Faunalia è **l'unica azienda italiana** a poter rilasciare una `certificazione ufficiale riconosciuta dalla fondazione internazionale di QGIS <http://changelog.qgis.org/en/qgis/certifyingorganisation/qgis-faunalia/>`_. Puoi richiedere questa certificazione ad un costo aggiuntivo di 50 €. Questi fondi sono destinati allo sviluppo di QGIS.
@@ -384,6 +385,36 @@ Durata
 ...................................................................................................
 Tre giorni *full time*
 
+
+.. _qfield:
+
+QField
+===================================================
+
+Per imparare ad acquisire dati su campo con QField e sincronizzarli con QGIS.
+Si può infatti creare un progetto complesso in QGIS, sincronizzare i dati sul proprio
+smartphone o tablet e uscire in campagna per acquisire nuovi dati.
+
+Al termine del corso l'utente sarà in grado di creare un progetto di QGIS, sincronizzarlo
+sul dispositivo remoto, acquisire i dati all'aperto e ri-sincronizzarli con il
+progetto originale.
+
+Argomenti principali
+.............................................................................
+
+* Breve introduzione al caricamento dei dati in QGIS
+* Migliori pratiche per la gestione di un progetto di QGIS
+* Ottimizzazione stilistica per i layer
+* Creazione di moduli personalizzati per facilitare l'inserimento dei dati
+* Introduzione a QField
+* Sincronizzazione progetto di QGIS e dati su dispositivo remoto
+* Utilizzo di QField in campagna
+* Acquisizione dei dati
+* Sincronizzazione dati acquisiti con QField a QGIS
+
+Durata
+................................................
+Un giorno *full-time*
 
 .. _geodb:
 
