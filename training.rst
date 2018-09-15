@@ -247,13 +247,13 @@ Calendario
 =====================================================  ==================== ==============  =================== ========
 Corso                                                  Date e durata        Dove            Scadenza iscrizione Lingua
 =====================================================  ==================== ==============  =================== ========
-:ref:`geodb`                                           12-14 Settembre 2018 Pontedera, IT                       Italiano
 :ref:`webgis`                                          03-05 Ottobre 2018   Pontedera, IT   15 Settembre 2018   Italiano
 :ref:`qgis3`                                           23 Ottobre 2018      Pontedera, IT   10 Ottobre 2018     Italiano
 :ref:`carto`                                           24-26 Ottobre 2018   Pontedera, IT   10 Ottobre 2018     Italiano
-:ref:`qfield`                                          26 Novembre 2018     Pontedera, IT   10 Novembre 2018    Italiano
+:ref:`qfield_corso`                                    26 Novembre 2018     Pontedera, IT   10 Novembre 2018    Italiano
 :ref:`analisi`                                         27-29 Novembre       Pontedera, IT   10 Novembre 2018    Italiano
 :ref:`pyqgis`                                          da definire          Pontedera, IT                       Italiano
+:ref:`geodb`                                           da definire          Pontedera, IT                       Italiano
 =====================================================  ==================== ==============  =================== ========
 
 .. _Cartography with QGIS (EN) with Physalia: https://www.physalia-courses.org/courses-workshops/course35/
@@ -386,12 +386,13 @@ Durata
 Tre giorni *full time*
 
 
-.. _qfield:
+.. _qfield_corso:
 
 QField
 ===================================================
 
-Per imparare ad acquisire dati su campo con QField e sincronizzarli con QGIS.
+Per imparare ad acquisire dati su campo con `QField <https://www.qfield.org/>`_ e
+sincronizzarli con QGIS.
 Si può infatti creare un progetto complesso in QGIS, sincronizzare i dati sul proprio
 smartphone o tablet e uscire in campagna per acquisire nuovi dati.
 
