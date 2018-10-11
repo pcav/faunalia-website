@@ -83,7 +83,7 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
-Nuovo algorito per l'intervisibilità fra punti
+Nuovo algoritmo per l'intervisibilità fra punti
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Abbiamo appena pubblicato un nuovo script python per Processing (QGIS >= 3.2)
 che permette lo studio di intervisibilità fra punti. Lo script concatena diversi
