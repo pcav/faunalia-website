@@ -83,6 +83,18 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Nuovo algorito per l'intervisibilità fra punti
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Abbiamo appena pubblicato un nuovo script python per Processing (QGIS >= 3.2)
+che permette lo studio di intervisibilità fra punti. Lo script concatena diversi
+algoritmi nativi di QGIS: dati un insieme di punti in ingresso con un campo
+rappresentante l'altezza di ogni punto, un DTM, un raggio e un'opzionale target
+offset, l'algoritmo restituisce un multipoligono per ogni punto della zona
+visibile.
+
+Lo script è disponibile sul repository `gitlab <https://gitlab.com/faunalia/points-intervisibility>`_
+di Faunalia.
+
 Convegno Input 2018 e terza edizione della HackFest italiana di QGIS a Viterbo
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Faunalia è stata invitata al convegno `INPUT 2018 <https://sites.google.com/view/input2018/home?authuser=0>`_
