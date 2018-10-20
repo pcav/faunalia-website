@@ -247,13 +247,13 @@ Calendario
 =====================================================  ==================== ==============  =================== ========
 Corso                                                  Date e durata        Dove            Scadenza iscrizione Lingua
 =====================================================  ==================== ==============  =================== ========
-:ref:`webgis`                                          03-05 Ottobre 2018   Pontedera, IT   15 Settembre 2018   Italiano
-:ref:`qgis3`                                           23 Ottobre 2018      Pontedera, IT   10 Ottobre 2018     Italiano
-:ref:`carto`                                           24-26 Ottobre 2018   Pontedera, IT   10 Ottobre 2018     Italiano
 :ref:`qfield_corso`                                    26 Novembre 2018     Pontedera, IT   10 Novembre 2018    Italiano
 :ref:`analisi`                                         27-29 Novembre       Pontedera, IT   10 Novembre 2018    Italiano
+:ref:`carto`                                           da definire          Pontedera, IT                       Italiano
 :ref:`pyqgis`                                          da definire          Pontedera, IT                       Italiano
+:ref:`qgis3`                                           da definire          Pontedera, IT                       Italiano
 :ref:`geodb`                                           da definire          Pontedera, IT                       Italiano
+:ref:`webgis`                                          da definire          Pontedera, IT                       Italiano
 =====================================================  ==================== ==============  =================== ========
 
 .. _Cartography with QGIS (EN) with Physalia: https://www.physalia-courses.org/courses-workshops/course35/

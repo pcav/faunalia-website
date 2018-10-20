@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-15 09:47+0200\n"
+"POT-Creation-Date: 2018-10-20 10:30+0200\n"
 "PO-Revision-Date: 2013-08-17 16:58+0200\n"
 "Last-Translator: Paolo Cavallini <cavallini@faunalia.it>\n"
 "Language-Team: Italiano <>\n"
@@ -744,13 +744,15 @@ msgid "Lingua"
 msgstr "Language"
 
 #: ../../training.rst:250
-msgid ":ref:`webgis`"
-msgstr ":ref:`webgis`"
+#, fuzzy
+msgid ":ref:`qfield_corso`"
+msgstr ":ref:`qgis3`"
 
-# 789f35850632463296adba2404463064
+# bdc24911e5b54efc9a5a5d9ce5940acc
 #: ../../training.rst:250
-msgid "03-05 Ottobre 2018"
-msgstr "03-05 October 2018"
+#, fuzzy
+msgid "26 Novembre 2018"
+msgstr "November 2017"
 
 # 768ef41660e8444b834e3d11d5ef4934
 # 69abb73e3dbe4ec59cc72dd9e0314203
@@ -763,10 +765,11 @@ msgstr "03-05 October 2018"
 msgid "Pontedera, IT"
 msgstr "Pontedera, IT"
 
-# 5264f422ac9d4034a6d68c5b38458a39
-#: ../../training.rst:250
-msgid "15 Settembre 2018"
-msgstr "15 September 2017"
+# bdc24911e5b54efc9a5a5d9ce5940acc
+#: ../../training.rst:250 ../../training.rst:251
+#, fuzzy
+msgid "10 Novembre 2018"
+msgstr "18-20 November 2013"
 
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
@@ -780,66 +783,39 @@ msgid "Italiano"
 msgstr "Italian"
 
 #: ../../training.rst:251
-msgid ":ref:`qgis3`"
-msgstr ":ref:`qgis3`"
+msgid ":ref:`analisi`"
+msgstr ":ref:`analisi`"
 
-# 789f35850632463296adba2404463064
+# 98d67ad8d1324a71a5b91e8e65dc3716
 #: ../../training.rst:251
-msgid "23 Ottobre 2018"
-msgstr "23 October 2018"
-
-# 789f35850632463296adba2404463064
-#: ../../training.rst:251 ../../training.rst:252
-msgid "10 Ottobre 2018"
-msgstr "10 October 2018"
+#, fuzzy
+msgid "27-29 Novembre"
+msgstr "28 November"
 
 #: ../../training.rst:252
 msgid ":ref:`carto`"
 msgstr ":ref:`carto`"
 
-# 789f35850632463296adba2404463064
-#: ../../training.rst:252
-msgid "24-26 Ottobre 2018"
-msgstr "24-26 October 2018"
-
-#: ../../training.rst:253
-#, fuzzy
-msgid ":ref:`qfield_corso`"
-msgstr ":ref:`qgis3`"
-
-# bdc24911e5b54efc9a5a5d9ce5940acc
-#: ../../training.rst:253
-#, fuzzy
-msgid "26 Novembre 2018"
-msgstr "November 2017"
-
-# bdc24911e5b54efc9a5a5d9ce5940acc
-#: ../../training.rst:253 ../../training.rst:254
-#, fuzzy
-msgid "10 Novembre 2018"
-msgstr "18-20 November 2013"
-
-#: ../../training.rst:254
-msgid ":ref:`analisi`"
-msgstr ":ref:`analisi`"
-
-# 98d67ad8d1324a71a5b91e8e65dc3716
-#: ../../training.rst:254
-#, fuzzy
-msgid "27-29 Novembre"
-msgstr "28 November"
-
-#: ../../training.rst:255
-msgid ":ref:`pyqgis`"
-msgstr ":ref:`pyqgis`"
-
+#: ../../training.rst:252 ../../training.rst:253 ../../training.rst:254
 #: ../../training.rst:255 ../../training.rst:256
 msgid "da definire"
 msgstr "to be decided"
 
-#: ../../training.rst:256
+#: ../../training.rst:253
+msgid ":ref:`pyqgis`"
+msgstr ":ref:`pyqgis`"
+
+#: ../../training.rst:254
+msgid ":ref:`qgis3`"
+msgstr ":ref:`qgis3`"
+
+#: ../../training.rst:255
 msgid ":ref:`geodb`"
 msgstr ":ref:`geodb`"
+
+#: ../../training.rst:256
+msgid ":ref:`webgis`"
+msgstr ":ref:`webgis`"
 
 #: ../../training.rst:261
 msgid "Le date sono soggette a cambiamento per esigenze logistiche."
@@ -1905,6 +1881,26 @@ msgstr "new label system and temporary information storage"
 #: ../../training.rst:596
 msgid "Un giorno *full time*"
 msgstr "One day, full time"
+
+# 789f35850632463296adba2404463064
+#~ msgid "03-05 Ottobre 2018"
+#~ msgstr "03-05 October 2018"
+
+# 5264f422ac9d4034a6d68c5b38458a39
+#~ msgid "15 Settembre 2018"
+#~ msgstr "15 September 2017"
+
+# 789f35850632463296adba2404463064
+#~ msgid "23 Ottobre 2018"
+#~ msgstr "23 October 2018"
+
+# 789f35850632463296adba2404463064
+#~ msgid "10 Ottobre 2018"
+#~ msgstr "10 October 2018"
+
+# 789f35850632463296adba2404463064
+#~ msgid "24-26 Ottobre 2018"
+#~ msgstr "24-26 October 2018"
 
 # 5264f422ac9d4034a6d68c5b38458a39
 #~ msgid "12-14 Settembre 2018"

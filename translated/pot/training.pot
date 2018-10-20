@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-15 09:47+0200\n"
+"POT-Creation-Date: 2018-10-20 10:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -217,11 +217,11 @@ msgid "Lingua"
 msgstr ""
 
 #: ../../training.rst:250
-msgid ":ref:`webgis`"
+msgid ":ref:`qfield_corso`"
 msgstr ""
 
 #: ../../training.rst:250
-msgid "03-05 Ottobre 2018"
+msgid "26 Novembre 2018"
 msgstr ""
 
 #: ../../training.rst:250
@@ -235,7 +235,8 @@ msgid "Pontedera, IT"
 msgstr ""
 
 #: ../../training.rst:250
-msgid "15 Settembre 2018"
+#: ../../training.rst:251
+msgid "10 Novembre 2018"
 msgstr ""
 
 #: ../../training.rst:250
@@ -249,16 +250,11 @@ msgid "Italiano"
 msgstr ""
 
 #: ../../training.rst:251
-msgid ":ref:`qgis3`"
+msgid ":ref:`analisi`"
 msgstr ""
 
 #: ../../training.rst:251
-msgid "23 Ottobre 2018"
-msgstr ""
-
-#: ../../training.rst:251
-#: ../../training.rst:252
-msgid "10 Ottobre 2018"
+msgid "27-29 Novembre"
 msgstr ""
 
 #: ../../training.rst:252
@@ -266,41 +262,27 @@ msgid ":ref:`carto`"
 msgstr ""
 
 #: ../../training.rst:252
-msgid "24-26 Ottobre 2018"
-msgstr ""
-
-#: ../../training.rst:253
-msgid ":ref:`qfield_corso`"
-msgstr ""
-
-#: ../../training.rst:253
-msgid "26 Novembre 2018"
-msgstr ""
-
 #: ../../training.rst:253
 #: ../../training.rst:254
-msgid "10 Novembre 2018"
-msgstr ""
-
-#: ../../training.rst:254
-msgid ":ref:`analisi`"
-msgstr ""
-
-#: ../../training.rst:254
-msgid "27-29 Novembre"
-msgstr ""
-
-#: ../../training.rst:255
-msgid ":ref:`pyqgis`"
-msgstr ""
-
 #: ../../training.rst:255
 #: ../../training.rst:256
 msgid "da definire"
 msgstr ""
 
-#: ../../training.rst:256
+#: ../../training.rst:253
+msgid ":ref:`pyqgis`"
+msgstr ""
+
+#: ../../training.rst:254
+msgid ":ref:`qgis3`"
+msgstr ""
+
+#: ../../training.rst:255
 msgid ":ref:`geodb`"
+msgstr ""
+
+#: ../../training.rst:256
+msgid ":ref:`webgis`"
 msgstr ""
 
 #: ../../training.rst:261
