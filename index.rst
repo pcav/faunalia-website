@@ -83,6 +83,15 @@ Faunalia
 News
 --------------------------------------------------------------------------
 
+Identifica geometrie anche in mappa 3D
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Grazie alla collaborazione fra Faunalia e il Politecnico di Torino (Dipartimento di
+Ingegneria dell'Ambiente, del Territorio e delle Infrastrutture (DIATI)),
+nella prossima versione di QGIS 3.4 sarà disponibile una nuova funzionalità di
+identificazione delle geometrie anche nella nuova mappa 3D:
+
+.. image:: images/3d_identify.gif
+
 Nuovo algoritmo per l'intervisibilità fra punti
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Abbiamo appena pubblicato un nuovo script python per Processing (QGIS >= 3.2)
