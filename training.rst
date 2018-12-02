@@ -228,10 +228,26 @@ Spero in futuro di continuare ad approfondire queste materie ed ottenere sempre 
 
 **Marta Puppo**: "Utile. Intenso. Molto efficace! Ho seguito il corso perché avevo bisogno di realizzare un WebGis in tempi molto stretti. Paolo ci ha guidato nella realizzazione dell'applicazione fornendoci un server virtuale funzionante prezioso per replicare l'installazione su altre macchine. Prezioso anche il legame che si è creato tra i corsisti. Grazie di tutto!"
 
+------
+
 .. image:: images/defilippis.jpg
           :align: left
 
-**Giovanna De Filippis**, `Scuola Superiore Sant'Anna <http://www.freewat.eu/>`_: "Ho seguito i corsi di QGIS 3 e PyQGIS e plugin tenuti da Matteo Ghetta. Entrambi i corsi si sono rivelati ben organizzati, molto curati (per quanto riguarda il programma e il materiale didattico) e utilissimi per la mia carriera accademica. La professionalità, l'esperienza e l'infinita pazienza del relatore hanno rappresentato un valore aggiunto fondamentale per il raggiungimento degli obiettivi del corso. Ne è valsa assolutamente la pena!""
+**Giovanna De Filippis**, `Scuola Superiore Sant'Anna <http://www.freewat.eu/>`_: "Ho seguito i corsi di QGIS 3 e PyQGIS e plugin tenuti da Matteo Ghetta. Entrambi i corsi si sono rivelati ben organizzati, molto curati (per quanto riguarda il programma e il materiale didattico) e utilissimi per la mia carriera accademica. La professionalità, l'esperienza e l'infinita pazienza del relatore hanno rappresentato un valore aggiunto fondamentale per il raggiungimento degli obiettivi del corso. Ne è valsa assolutamente la pena!"
+
+------
+
+.. image:: images/imbrsea.png
+          :align: left
+
+**Various Testimonials**, `International Master in Marine Biological Resources (IMBRSea) <http://www.imbrsea.eu/>`_: "Many of us here still talk about our night out and the courses and some are redoing their bachelor thesisses in QGIS. We have learned a lot and have nice memories of that week!"
+
+------
+
+.. image:: images/fvg.png
+          :align: left
+
+**Dario Colombi**, `Regione Friuli Venezia Giulia <http://www.regione.fvg.it>`_: "Molto soddisfatto del corso sia per contenuti che per professionalità del docente."
 
 ------
 
@@ -247,8 +263,8 @@ Calendario
 =====================================================  ==================== ==============  =================== ========
 Corso                                                  Date e durata        Dove            Scadenza iscrizione Lingua
 =====================================================  ==================== ==============  =================== ========
-:ref:`qfield_corso`                                    26 Novembre 2018     Pontedera, IT   10 Novembre 2018    Italiano
-:ref:`analisi`                                         27-29 Novembre       Pontedera, IT   10 Novembre 2018    Italiano
+:ref:`qfield_corso`                                    da definire          Pontedera, IT                       Italiano
+:ref:`analisi`                                         da definire          Pontedera, IT                       Italiano
 :ref:`carto`                                           da definire          Pontedera, IT                       Italiano
 :ref:`pyqgis`                                          da definire          Pontedera, IT                       Italiano
 :ref:`qgis3`                                           da definire          Pontedera, IT                       Italiano
