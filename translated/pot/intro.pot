@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-25 08:25+0200\n"
+"POT-Creation-Date: 2018-12-04 15:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -238,5 +238,9 @@ msgstr ""
 
 #: ../../intro.rst:105
 msgid "*Tel/WhatsApp/Signal/Telegram*: +39-348-9523719"
+msgstr ""
+
+#: ../../intro.rst:109
+msgid "La nostra azienda"
 msgstr ""
 

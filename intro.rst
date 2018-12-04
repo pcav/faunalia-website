@@ -103,3 +103,14 @@ Matteo Ghetta
 
 * *email* matteo.ghetta@faunalia.eu
 * *Tel/WhatsApp/Signal/Telegram*: +39-348-9523719
+
+
+La nostra azienda
+...............................................................................
+
+.. raw:: html
+
+    <br>
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://gitpitch.com/faunalia/slides_repo/presentazione_azienda?grs=gitlab#" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
