@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-02 10:20+0100\n"
+"POT-Creation-Date: 2018-12-18 09:27+0000\n"
 "PO-Revision-Date: 2013-08-17 16:58+0200\n"
 "Last-Translator: Paolo Cavallini <cavallini@faunalia.it>\n"
 "Language-Team: Italiano <>\n"
@@ -773,14 +773,13 @@ msgid "Lingua"
 msgstr "Language"
 
 #: ../../training.rst:266
-msgid ":ref:`qfield_corso`"
-msgstr ":ref:`qfield_corso`"
+msgid ":ref:`carto`"
+msgstr ":ref:`carto`"
 
-#: ../../training.rst:266 ../../training.rst:267 ../../training.rst:268
-#: ../../training.rst:269 ../../training.rst:270 ../../training.rst:271
-#: ../../training.rst:272
-msgid "da definire"
-msgstr "to be decided"
+# 5f579eacdfe14ef58b3777e851296a6b
+#: ../../training.rst:266
+msgid "26-28 Febbraio 2019"
+msgstr "26-28 February 2017"
 
 # 768ef41660e8444b834e3d11d5ef4934
 # 69abb73e3dbe4ec59cc72dd9e0314203
@@ -792,6 +791,11 @@ msgstr "to be decided"
 #: ../../training.rst:272
 msgid "Pontedera, IT"
 msgstr "Pontedera, IT"
+
+# b28a9fbcf9964ba28a693bb9feccab9b
+#: ../../training.rst:266
+msgid "10 Febbraio 2019"
+msgstr "10 February 2018"
 
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
@@ -808,25 +812,40 @@ msgstr "Italian"
 msgid ":ref:`analisi`"
 msgstr ":ref:`analisi`"
 
-#: ../../training.rst:268
-msgid ":ref:`carto`"
-msgstr ":ref:`carto`"
+# eafdbe68fb894344a151fb2d4142818d
+#: ../../training.rst:267
+msgid "Aprile 2019"
+msgstr "April 2019"
 
-#: ../../training.rst:269
+#: ../../training.rst:268
 msgid ":ref:`pyqgis`"
 msgstr ":ref:`pyqgis`"
 
-#: ../../training.rst:270
-msgid ":ref:`qgis3`"
-msgstr ":ref:`qgis3`"
+# 5f579eacdfe14ef58b3777e851296a6b
+#: ../../training.rst:268
+msgid "Giugno 2019"
+msgstr "June 2019"
 
-#: ../../training.rst:271
+#: ../../training.rst:269
 msgid ":ref:`geodb`"
 msgstr ":ref:`geodb`"
 
+#: ../../training.rst:269 ../../training.rst:270 ../../training.rst:271
 #: ../../training.rst:272
+msgid "da definire"
+msgstr "to be decided"
+
+#: ../../training.rst:270
 msgid ":ref:`webgis`"
 msgstr ":ref:`webgis`"
+
+#: ../../training.rst:271
+msgid ":ref:`qfield_corso`"
+msgstr ":ref:`qfield_corso`"
+
+#: ../../training.rst:272
+msgid ":ref:`qgis3`"
+msgstr ":ref:`qgis3`"
 
 #: ../../training.rst:277
 msgid "Le date sono soggette a cambiamento per esigenze logistiche."
@@ -1938,10 +1957,6 @@ msgstr "One day, full time"
 #~ msgid "15 Agosto 2018"
 #~ msgstr "15th August 2018"
 
-# 5f579eacdfe14ef58b3777e851296a6b
-#~ msgid "18-20 Giugno 2018"
-#~ msgstr "18-20 June 2018"
-
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
 #~ msgid "`Cartography with QGIS (EN) with Physalia`_"
@@ -2052,10 +2067,6 @@ msgstr "One day, full time"
 #~ msgstr "29th January 2017"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
-#~ msgid "16 Febbraio 2018"
-#~ msgstr "16 February 2018"
-
-# b28a9fbcf9964ba28a693bb9feccab9b
 #~ msgid "02 Febbraio 2018"
 #~ msgstr "02 February 2018"
 
@@ -2120,14 +2131,6 @@ msgstr "One day, full time"
 # ba3fdc3d2ad640b29794101635a439cb
 #~ msgid "Due giorni *full time*"
 #~ msgstr "Two days, full time"
-
-# 5f579eacdfe14ef58b3777e851296a6b
-#~ msgid "22-24 Febbraio 2017"
-#~ msgstr "22-24 February 2017"
-
-# eafdbe68fb894344a151fb2d4142818d
-#~ msgid "19-21 Aprile 2017"
-#~ msgstr "19-21 April 2017"
 
 # 53d00af130964089957a33ca9154d0b3
 #~ msgid "29-31 Marzo 2017"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-02 10:20+0100\n"
+"POT-Creation-Date: 2018-12-18 09:27+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -742,14 +742,14 @@ msgid "Lingua"
 msgstr "Language"
 
 #: ../../training.rst:266
-msgid ":ref:`qfield_corso`"
+msgid ":ref:`carto`"
 msgstr ""
 
-#: ../../training.rst:266 ../../training.rst:267 ../../training.rst:268
-#: ../../training.rst:269 ../../training.rst:270 ../../training.rst:271
-#: ../../training.rst:272
-msgid "da definire"
-msgstr "à décider"
+# 5f579eacdfe14ef58b3777e851296a6b
+#: ../../training.rst:266
+#, fuzzy
+msgid "26-28 Febbraio 2019"
+msgstr "22-24 Février 2017"
 
 # 768ef41660e8444b834e3d11d5ef4934
 # 69abb73e3dbe4ec59cc72dd9e0314203
@@ -761,6 +761,12 @@ msgstr "à décider"
 #: ../../training.rst:272
 msgid "Pontedera, IT"
 msgstr "Pontedera, IT"
+
+# b28a9fbcf9964ba28a693bb9feccab9b
+#: ../../training.rst:266
+#, fuzzy
+msgid "10 Febbraio 2019"
+msgstr "Février 2018"
 
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
@@ -777,24 +783,41 @@ msgstr "Italie"
 msgid ":ref:`analisi`"
 msgstr ""
 
-#: ../../training.rst:268
-msgid ":ref:`carto`"
-msgstr ""
+# eafdbe68fb894344a151fb2d4142818d
+#: ../../training.rst:267
+#, fuzzy
+msgid "Aprile 2019"
+msgstr "19-21 Avril 2017"
 
-#: ../../training.rst:269
+#: ../../training.rst:268
 msgid ":ref:`pyqgis`"
 msgstr ""
 
-#: ../../training.rst:270
-msgid ":ref:`qgis3`"
-msgstr ""
+# 5f579eacdfe14ef58b3777e851296a6b
+#: ../../training.rst:268
+#, fuzzy
+msgid "Giugno 2019"
+msgstr "1 Juin"
 
-#: ../../training.rst:271
+#: ../../training.rst:269
 msgid ":ref:`geodb`"
 msgstr ""
 
+#: ../../training.rst:269 ../../training.rst:270 ../../training.rst:271
 #: ../../training.rst:272
+msgid "da definire"
+msgstr "à décider"
+
+#: ../../training.rst:270
 msgid ":ref:`webgis`"
+msgstr ""
+
+#: ../../training.rst:271
+msgid ":ref:`qfield_corso`"
+msgstr ""
+
+#: ../../training.rst:272
+msgid ":ref:`qgis3`"
 msgstr ""
 
 #: ../../training.rst:277
@@ -1946,11 +1969,6 @@ msgstr "Trois jours à plein temps"
 #~ msgid "15 Agosto 2018"
 #~ msgstr "Avril 2018"
 
-# 5f579eacdfe14ef58b3777e851296a6b
-#, fuzzy
-#~ msgid "18-20 Giugno 2018"
-#~ msgstr "1 Juin"
-
 # 9df10e3690b541f18c1a208a812d8836
 # 3d3d613c57f54cc694e2872191f90b33
 #, fuzzy
@@ -2067,11 +2085,6 @@ msgstr "Trois jours à plein temps"
 
 # b28a9fbcf9964ba28a693bb9feccab9b
 #, fuzzy
-#~ msgid "16 Febbraio 2018"
-#~ msgstr "Février 2018"
-
-# b28a9fbcf9964ba28a693bb9feccab9b
-#, fuzzy
 #~ msgid "02 Febbraio 2018"
 #~ msgstr "07-09 Février 2018"
 
@@ -2107,14 +2120,6 @@ msgstr "Trois jours à plein temps"
 # ba3fdc3d2ad640b29794101635a439cb
 #~ msgid "Due giorni *full time*"
 #~ msgstr "Deux jours à plein temps"
-
-# 5f579eacdfe14ef58b3777e851296a6b
-#~ msgid "22-24 Febbraio 2017"
-#~ msgstr "22-24 Février 2017"
-
-# eafdbe68fb894344a151fb2d4142818d
-#~ msgid "19-21 Aprile 2017"
-#~ msgstr "19-21 Avril 2017"
 
 # 53d00af130964089957a33ca9154d0b3
 #~ msgid "29-31 Marzo 2017"

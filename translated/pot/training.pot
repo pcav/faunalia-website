@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-02 10:20+0100\n"
+"POT-Creation-Date: 2018-12-18 09:27+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -225,17 +225,11 @@ msgid "Lingua"
 msgstr ""
 
 #: ../../training.rst:266
-msgid ":ref:`qfield_corso`"
+msgid ":ref:`carto`"
 msgstr ""
 
 #: ../../training.rst:266
-#: ../../training.rst:267
-#: ../../training.rst:268
-#: ../../training.rst:269
-#: ../../training.rst:270
-#: ../../training.rst:271
-#: ../../training.rst:272
-msgid "da definire"
+msgid "26-28 Febbraio 2019"
 msgstr ""
 
 #: ../../training.rst:266
@@ -246,6 +240,10 @@ msgstr ""
 #: ../../training.rst:271
 #: ../../training.rst:272
 msgid "Pontedera, IT"
+msgstr ""
+
+#: ../../training.rst:266
+msgid "10 Febbraio 2019"
 msgstr ""
 
 #: ../../training.rst:266
@@ -262,24 +260,39 @@ msgstr ""
 msgid ":ref:`analisi`"
 msgstr ""
 
-#: ../../training.rst:268
-msgid ":ref:`carto`"
+#: ../../training.rst:267
+msgid "Aprile 2019"
 msgstr ""
 
-#: ../../training.rst:269
+#: ../../training.rst:268
 msgid ":ref:`pyqgis`"
 msgstr ""
 
-#: ../../training.rst:270
-msgid ":ref:`qgis3`"
+#: ../../training.rst:268
+msgid "Giugno 2019"
 msgstr ""
 
-#: ../../training.rst:271
+#: ../../training.rst:269
 msgid ":ref:`geodb`"
 msgstr ""
 
+#: ../../training.rst:269
+#: ../../training.rst:270
+#: ../../training.rst:271
 #: ../../training.rst:272
+msgid "da definire"
+msgstr ""
+
+#: ../../training.rst:270
 msgid ":ref:`webgis`"
+msgstr ""
+
+#: ../../training.rst:271
+msgid ":ref:`qfield_corso`"
+msgstr ""
+
+#: ../../training.rst:272
+msgid ":ref:`qgis3`"
 msgstr ""
 
 #: ../../training.rst:277

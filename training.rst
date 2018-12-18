@@ -263,13 +263,13 @@ Calendario
 =====================================================  ==================== ==============  =================== ========
 Corso                                                  Date e durata        Dove            Scadenza iscrizione Lingua
 =====================================================  ==================== ==============  =================== ========
-:ref:`qfield_corso`                                    da definire          Pontedera, IT                       Italiano
-:ref:`analisi`                                         da definire          Pontedera, IT                       Italiano
-:ref:`carto`                                           da definire          Pontedera, IT                       Italiano
-:ref:`pyqgis`                                          da definire          Pontedera, IT                       Italiano
-:ref:`qgis3`                                           da definire          Pontedera, IT                       Italiano
+:ref:`carto`                                           26-28 Febbraio 2019  Pontedera, IT   10 Febbraio 2019    Italiano
+:ref:`analisi`                                         Aprile 2019          Pontedera, IT                       Italiano
+:ref:`pyqgis`                                          Giugno 2019          Pontedera, IT                       Italiano
 :ref:`geodb`                                           da definire          Pontedera, IT                       Italiano
 :ref:`webgis`                                          da definire          Pontedera, IT                       Italiano
+:ref:`qfield_corso`                                    da definire          Pontedera, IT                       Italiano
+:ref:`qgis3`                                           da definire          Pontedera, IT                       Italiano
 =====================================================  ==================== ==============  =================== ========
 
 .. _Cartography with QGIS (EN) with Physalia: https://www.physalia-courses.org/courses-workshops/course35/
