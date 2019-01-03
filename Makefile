@@ -95,7 +95,8 @@ html:
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html/<language>."
 
 cv:
-	-php /usr/local/src/website_scripts/pdf/multi_generator.php
+	cd ../cv-scripts/ && ./make_cv
+	# -php /usr/local/src/website_scripts/pdf/multi_generator.php
 
 pdf:
 	@for lang in $(LANGUAGES);\
