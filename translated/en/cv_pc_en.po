@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../cv_pc_en.rst:2
 msgid "Curriculum Vitæ Dr. Paolo Cavallini"
-msgstr ""
+msgstr "Curriculum Vitæ Dr. Paolo Cavallini"
 
 # b712f8cfcbb74a4babff645f44b07a58
 #~ msgid "Paolo Cavallini"
