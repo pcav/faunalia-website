@@ -73,7 +73,7 @@ Paolo Cavallini
 * Oltre 10 anni di esperienza sui GIS liberi
 * Dottore di ricerca
 * `Curriculum Vitae (html) <cv_pc_it.html>`__
-* `Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) <pdf/Cavallini_CV_eu_it.pdf>`__
+* `Curriculum Vitae (pdf) <pdf/Cavallini_CV_eu_it.pdf>`__
 * `Alcune mie conferenze <https://www.youtube.com/channel/UCgfHOBPf0zh_FiQ-AC4ktZQ/>`_
 * `My recent contributions to free software <https://github.com/pcav>`_
 
@@ -99,7 +99,7 @@ Matteo Ghetta
 * Autore del plugin `DataPlotly <https://github.com/ghtmtt/DataPlotly>`_
 * Revisore della traduzione italiana di QGIS
 * `Curriculum Vitae (html) <cv_mg_it.html>`__
-* `Curriculum Vitae (pdf) <pdf/Ghetta_CV_it.pdf>`__ - `europeo (pdf) <pdf/Ghetta_CV_eu_it.pdf>`__
+* `Curriculum Vitae (pdf) <pdf/Ghetta_CV_eu_it.pdf>`__
 
 * *email* matteo.ghetta@faunalia.eu
 * *Tel/WhatsApp/Signal/Telegram*: +39-348-9523719

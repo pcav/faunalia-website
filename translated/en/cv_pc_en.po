@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-12 13:22\n"
+"POT-Creation-Date: 2019-01-09 09:37+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,7 +20,10 @@ msgstr ""
 "X-Language: en_GB\n"
 "X-Source-Language: it_IT\n"
 
-# b712f8cfcbb74a4babff645f44b07a58
 #: ../../cv_pc_en.rst:2
-msgid "Paolo Cavallini"
-msgstr "Paolo Cavallini"
+msgid "Curriculum Vitæ Dr. Paolo Cavallini"
+msgstr ""
+
+# b712f8cfcbb74a4babff645f44b07a58
+#~ msgid "Paolo Cavallini"
+#~ msgstr "Paolo Cavallini"

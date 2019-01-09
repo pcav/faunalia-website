@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-03 16:17+0100\n"
+"POT-Creation-Date: 2019-01-09 09:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -349,19 +349,15 @@ msgstr "Over 10 years of experience on free and open source GIS"
 msgid "Dottore di ricerca"
 msgstr "PhD"
 
-# 7e88d4c193e8445f9729faedcd714934
+# 95dca4087d374ece822ccbd1aee35dec
 #: ../../intro.rst:75
 msgid "`Curriculum Vitae (html) <cv_pc_it.html>`__"
 msgstr "`Curriculum Vitae (html) <cv_pc_en.html>`__"
 
 # 70801919d32d45a49f60c7c3c9ff8b2e
 #: ../../intro.rst:76
-msgid ""
-"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `europeo (pdf) "
-"<pdf/Cavallini_CV_eu_it.pdf>`__"
-msgstr ""
-"`Curriculum Vitae (pdf) <pdf/Cavallini_CV_it.pdf>`__ - `European (pdf) "
-"<pdf/Cavallini_CV_eu_en.pdf>`__"
+msgid "`Curriculum Vitae (pdf) <pdf/Cavallini_CV_eu_it.pdf>`__"
+msgstr "`Curriculum Vitae (pdf) <pdf/Cavallini_CV_eu_en.pdf>`__"
 
 # 556122cf766c45969fe434d2a09b2cfd
 #: ../../intro.rst:77
@@ -442,12 +438,8 @@ msgstr "`Curriculum Vitae (html) <cv_mg_en.html>`__"
 
 # 8630faa3be4b4cda952d6b505825b794
 #: ../../intro.rst:102
-msgid ""
-"`Curriculum Vitae (pdf) <pdf/Ghetta_CV_it.pdf>`__ - `europeo (pdf) "
-"<pdf/Ghetta_CV_eu_it.pdf>`__"
-msgstr ""
-"`Curriculum Vitae (pdf) <pdf/Ghetta_CV_it.pdf>`__ - `European (pdf) "
-"<pdf/Ghetta_CV_eu_en.pdf>`__"
+msgid "`Curriculum Vitae (pdf) <pdf/Ghetta_CV_eu_it.pdf>`__"
+msgstr "`Curriculum Vitae (pdf) <pdf/Ghetta_CV_eu_en.pdf>`__"
 
 # 12db5196f90647d8b593e6b4c685d9d4
 #: ../../intro.rst:104
@@ -463,6 +455,11 @@ msgstr "*Tel/WhatsApp/Signal/Telegram*: +39-348-9523719"
 #: ../../intro.rst:109
 msgid "La nostra azienda"
 msgstr "Our company"
+
+# 7e88d4c193e8445f9729faedcd714934
+#, fuzzy
+#~ msgid "`Curriculum Vitae (html) <Cavallini_CV_it.html>`__"
+#~ msgstr "`Curriculum Vitae (html) <cv_pc_en.html>`__"
 
 # 7fbaf8236c9e46d590fb8cc752c2198a
 #~ msgid "Renzo Cavallini"
