@@ -90,11 +90,11 @@ sistemistica a 360°. Un esempio? Il nostro ultimo repository per la generazione
 automatica di CV con un template standard e un template EUROPASS. I dati sono
 aggiornati in un DB PostgreSQL, scaricati e processati con uno script Python,
 gestiti da Git per controllo versione, spediti al server che aggiorna il
-repository, scarica i dati dal DB, scrivi i file "grezzi" (rst e tex) che
-vengono compilati in html, pdf e pdf con template Europass.
+repository, scarica i dati dal DB, scrive i file "grezzi" (rst e tex) che
+vengono compilati in html e pdf con template Europass.
 
 Il prossimo passo sarà quello di generalizzare la struttura del database e
-quella dello script in modo da renderla fruibile a tutti, ovviamente con
+quella dello script in modo da renderla fruibile a tutti Il tutto ovviamente con
 software libero.
 
 Tutto il lavoro è disponibile nel `repository dedicato <https://gitlab.com/faunalia/cv_pg_generator>`_.
