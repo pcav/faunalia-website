@@ -290,6 +290,10 @@ Iscrizione
 Ti preghiamo di iscriverti appena ti è possibile, in modo da consentirci di organizzare al meglio la logistica.
 
 * **Iscrizione**: confermata al versamento di una caparra di 100 €, saldo prima dell'inizio del corso; è possibile versare l'intera quota in unica soluzione; in caso il corso non si svolga per qualunque motivo, la quota versata verrà interamente restituita
+
+.. note:: indicare nell'oggetto del bonifico la dicitura **Caparra**, esempio:
+  ``Caparra Corso Cartografia Mario Rossi``. 
+
 * **Conferma**: il corso sarà confermato al raggiungimento del numero minimo di partecipanti
 * **Requisiti**: computer portatile in buono stato di funzionamento; i programmi necessari verranno installati durante il corso
 * **Attestato**: la partecipazione al corso dà diritto ad un attestato di partecipazione

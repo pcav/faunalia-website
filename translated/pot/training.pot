@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-18 09:27+0000\n"
+"POT-Creation-Date: 2019-01-18 10:41+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -327,716 +327,720 @@ msgstr ""
 msgid "**Iscrizione**: confermata al versamento di una caparra di 100 €, saldo prima dell'inizio del corso; è possibile versare l'intera quota in unica soluzione; in caso il corso non si svolga per qualunque motivo, la quota versata verrà interamente restituita"
 msgstr ""
 
-#: ../../training.rst:293
+#: ../../training.rst:294
+msgid "indicare nell'oggetto del bonifico la dicitura **Caparra**, esempio: ``Caparra Corso Cartografia Mario Rossi``."
+msgstr ""
+
+#: ../../training.rst:297
 msgid "**Conferma**: il corso sarà confermato al raggiungimento del numero minimo di partecipanti"
 msgstr ""
 
-#: ../../training.rst:294
+#: ../../training.rst:298
 msgid "**Requisiti**: computer portatile in buono stato di funzionamento; i programmi necessari verranno installati durante il corso"
 msgstr ""
 
-#: ../../training.rst:295
+#: ../../training.rst:299
 msgid "**Attestato**: la partecipazione al corso dà diritto ad un attestato di partecipazione"
 msgstr ""
 
-#: ../../training.rst:296
+#: ../../training.rst:300
 msgid "**Pagamenti**: bonifico sul conto corrente di Faunalia (IBAN IT30W 05232 71131 0000000 13294), indicando nella causale nome e cognome dell'iscritto e nome del corso; si raccomanda di inviare tutti i dati necessari per la fatturazione tramite il modulo qui di seguito"
 msgstr ""
 
-#: ../../training.rst:300
+#: ../../training.rst:304
 msgid "`Iscriviti qui <subscr_form_it.html>`_"
 msgstr ""
 
-#: ../../training.rst:303
+#: ../../training.rst:307
 msgid "Logistica"
 msgstr ""
 
-#: ../../training.rst:305
+#: ../../training.rst:309
 msgid "**Sede**: Pontedera (PI), presso `Pont-Tech <http://www.pont-tech.it/contatti/>`_, oppure `Faunalia <http://www.openstreetmap.org/#map=19/43.66184/10.63806>`_, facilmente raggiungibili con mezzi pubblici (treno ed aereo). `Dettagli sulla città <http://www.comune.pontedera.pi.it/cittadino/Citta_index/ufficio-turistico/ufficio_turistico>`_ (incluse strutture ricettive). Convenzione con `Il Piccolo <http://www.ilpiccolorooms.it/>`_, per il pernottamento: 45/60/80 € per camere singole/doppie/triple."
 msgstr ""
 
-#: ../../training.rst:308
+#: ../../training.rst:312
 msgid "Programmi"
 msgstr ""
 
-#: ../../training.rst:313
+#: ../../training.rst:317
 msgid "Cartografia con QGIS"
 msgstr ""
 
-#: ../../training.rst:315
+#: ../../training.rst:319
 msgid "Per imparare ad installare ed utilizzare QGIS, ad accedere ai dati, tematizzarli in modo sofisticato e produrre mappe di alta qualità grafica ed informativa, ad elevato contenuto informativo e ad alta qualità grafica. Vedi `alcuni esempi <https://www.flickr.com/groups/qgis/>`_ di cosa sarà possibile realizzare. Con QGIS puoi produrre anche animazioni:"
 msgstr ""
 
-#: ../../training.rst:320
+#: ../../training.rst:324
 msgid "Movimenti di renne in Norvegia."
 msgstr ""
 
-#: ../../training.rst:322
+#: ../../training.rst:326
 msgid "Adatto a tutti, sia esperti del GIS che principianti. È necessario avere dimestichezza con l'uso del PC."
 msgstr ""
 
-#: ../../training.rst:325
-#: ../../training.rst:372
-#: ../../training.rst:420
-#: ../../training.rst:448
-#: ../../training.rst:495
-#: ../../training.rst:535
-#: ../../training.rst:593
+#: ../../training.rst:329
+#: ../../training.rst:376
+#: ../../training.rst:424
+#: ../../training.rst:452
+#: ../../training.rst:499
+#: ../../training.rst:539
+#: ../../training.rst:597
 msgid "Argomenti principali"
 msgstr ""
 
-#: ../../training.rst:327
+#: ../../training.rst:331
 msgid "Breve introduzione a QGIS e ai Sistemi Informativi Geografici *open source*"
 msgstr ""
 
-#: ../../training.rst:328
+#: ../../training.rst:332
 msgid "Installazione di QGIS nei vari sistemi operativi"
 msgstr ""
 
-#: ../../training.rst:329
+#: ../../training.rst:333
 msgid "Interfaccia utente e criteri di utilizzo"
 msgstr ""
 
-#: ../../training.rst:330
+#: ../../training.rst:334
 msgid "Configurazione dell'ambiente di lavoro"
 msgstr ""
 
-#: ../../training.rst:331
-#: ../../training.rst:394
+#: ../../training.rst:335
+#: ../../training.rst:398
 msgid "Gestione delle proiezioni"
 msgstr ""
 
-#: ../../training.rst:332
+#: ../../training.rst:336
 msgid "Progetti"
 msgstr ""
 
-#: ../../training.rst:333
+#: ../../training.rst:337
 msgid "Gestione dei plugins"
 msgstr ""
 
-#: ../../training.rst:334
+#: ../../training.rst:338
 msgid "I dati geografici vettoriali"
 msgstr ""
 
-#: ../../training.rst:336
+#: ../../training.rst:340
 msgid "proprietà, importazione ed esportazione, conversione fra formati"
 msgstr ""
 
-#: ../../training.rst:337
+#: ../../training.rst:341
 msgid "tematizzazione vettoriale ed etichettatura avanzata"
 msgstr ""
 
-#: ../../training.rst:338
+#: ../../training.rst:342
 msgid "tabelle dati, attributi ed azioni; importazione di dati tabellari"
 msgstr ""
 
-#: ../../training.rst:340
+#: ../../training.rst:344
 msgid "Interfacciamento con GPS"
 msgstr ""
 
-#: ../../training.rst:341
+#: ../../training.rst:345
 msgid "Digitalizzazione dei vettori, vettorializzazione avanzata di tipo \"CAD\""
 msgstr ""
 
-#: ../../training.rst:342
+#: ../../training.rst:346
 msgid "I geodatabase e QGIS: PostGIS e SpatiaLite"
 msgstr ""
 
-#: ../../training.rst:343
+#: ../../training.rst:347
 msgid "Caricare dati dal web: soluzioni proprietarie, libere e standard (Google Maps, OpenLayers, WMS, WFS, WFS-T, CSW, WPS)"
 msgstr ""
 
-#: ../../training.rst:344
+#: ../../training.rst:348
 msgid "Gestione di fotografie georeferenziate"
 msgstr ""
 
-#: ../../training.rst:345
+#: ../../training.rst:349
 msgid "Esportazione dati per Google Earth"
 msgstr ""
 
-#: ../../training.rst:346
+#: ../../training.rst:350
 msgid "I dati geografici raster"
 msgstr ""
 
-#: ../../training.rst:348
+#: ../../training.rst:352
 msgid "caratteristiche e proprietà, tematizzazione"
 msgstr ""
 
-#: ../../training.rst:349
+#: ../../training.rst:353
 msgid "gestione dei sistemi di riferimento, mosaici"
 msgstr ""
 
-#: ../../training.rst:350
+#: ../../training.rst:354
 msgid "georeferenziazione"
 msgstr ""
 
-#: ../../training.rst:352
+#: ../../training.rst:356
 msgid "Creazione di animazioni"
 msgstr ""
 
-#: ../../training.rst:353
+#: ../../training.rst:357
 msgid "Visualizzazione 3D"
 msgstr ""
 
-#: ../../training.rst:354
+#: ../../training.rst:358
 msgid "Stampa avanzata, stampa seriale"
 msgstr ""
 
-#: ../../training.rst:357
-#: ../../training.rst:401
-#: ../../training.rst:433
-#: ../../training.rst:478
-#: ../../training.rst:521
-#: ../../training.rst:577
-#: ../../training.rst:610
+#: ../../training.rst:361
+#: ../../training.rst:405
+#: ../../training.rst:437
+#: ../../training.rst:482
+#: ../../training.rst:525
+#: ../../training.rst:581
+#: ../../training.rst:614
 msgid "Durata"
 msgstr ""
 
-#: ../../training.rst:358
-#: ../../training.rst:402
-#: ../../training.rst:479
-#: ../../training.rst:523
-#: ../../training.rst:579
+#: ../../training.rst:362
+#: ../../training.rst:406
+#: ../../training.rst:483
+#: ../../training.rst:527
+#: ../../training.rst:583
 msgid "Tre giorni *full time*"
 msgstr ""
 
-#: ../../training.rst:363
+#: ../../training.rst:367
 msgid "Analisi con QGIS"
 msgstr ""
 
-#: ../../training.rst:365
+#: ../../training.rst:369
 msgid "Per imparare a realizzare analisi raster e vettoriali, e modellistica spaziale, unendo la potenza di elaborazione GIS di `GRASS <https://grass.osgeo.org/>`_, `SAGA <http://www.saga-gis.org/>`_, `Orfeo ToolBox <https://www.orfeo-toolbox.org/>`_, ecc., con la semplicità d'uso di QGIS. Al termine del corso, l'utente avrà appreso a gestire con facilità l'ambiente di lavoro di QGIS, e ad effettuare analisi anche molto complesse in modo semplice ed intuitivo."
 msgstr ""
 
-#: ../../training.rst:367
+#: ../../training.rst:371
 msgid "Adatto a chi desidera approfondire l'uso analitico e predittivo dei GIS, avendo già delle nozioni di base."
 msgstr ""
 
-#: ../../training.rst:369
+#: ../../training.rst:373
 msgid "È necessaria una conoscenza base del GIS. È altamente consigliabile una conoscenza di base di QGIS."
 msgstr ""
 
-#: ../../training.rst:374
+#: ../../training.rst:378
 msgid "Le alternative disponibili entro QGIS: quale la più adatta per ogni scopo"
 msgstr ""
 
-#: ../../training.rst:375
+#: ../../training.rst:379
 msgid "Analisi vettoriali di base"
 msgstr ""
 
-#: ../../training.rst:377
+#: ../../training.rst:381
 msgid "dissolve, merge, overlay, buffer, gestione delle tabelle di attributi, ecc."
 msgstr ""
 
-#: ../../training.rst:379
+#: ../../training.rst:383
 msgid "Correzione di errori topologici e semplificazione dei vettori"
 msgstr ""
 
-#: ../../training.rst:380
+#: ../../training.rst:384
 msgid "Analisi raster"
 msgstr ""
 
-#: ../../training.rst:382
+#: ../../training.rst:386
 msgid "analisi geomorfologica: creazione di modelli digitali del terreno, curve di livello, mappe di pendenza, esposizione, ombreggiatura"
 msgstr ""
 
-#: ../../training.rst:383
+#: ../../training.rst:387
 msgid "interpolazioni"
 msgstr ""
 
-#: ../../training.rst:384
+#: ../../training.rst:388
 msgid "analisi di distanza"
 msgstr ""
 
-#: ../../training.rst:385
+#: ../../training.rst:389
 msgid "riclassificazione dei raster, algebra delle mappe"
 msgstr ""
 
-#: ../../training.rst:386
+#: ../../training.rst:390
 msgid "statistiche zonali"
 msgstr ""
 
-#: ../../training.rst:387
+#: ../../training.rst:391
 msgid "esempi: analisi di intervisibilità, idrologiche, multi criterio: mappe di priorità, mappe di rischio"
 msgstr ""
 
-#: ../../training.rst:389
+#: ../../training.rst:393
 msgid "Analisi d'immagine"
 msgstr ""
 
-#: ../../training.rst:391
+#: ../../training.rst:395
 msgid "classificazione automatica dell'uso del suolo"
 msgstr ""
 
-#: ../../training.rst:392
+#: ../../training.rst:396
 msgid "estrazione di elementi"
 msgstr ""
 
-#: ../../training.rst:395
+#: ../../training.rst:399
 msgid "Calcolatore raster e vettoriale"
 msgstr ""
 
-#: ../../training.rst:396
+#: ../../training.rst:400
 msgid "Creazione di modelli tramite interfaccia grafica"
 msgstr ""
 
-#: ../../training.rst:397
+#: ../../training.rst:401
 msgid "Automazione di analisi ricorsive ed in serie tramite interfaccia grafica"
 msgstr ""
 
-#: ../../training.rst:398
+#: ../../training.rst:402
 msgid "Script per l'automazione di processo"
 msgstr ""
 
-#: ../../training.rst:408
+#: ../../training.rst:412
 msgid "QField"
 msgstr ""
 
-#: ../../training.rst:410
+#: ../../training.rst:414
 msgid "Per imparare ad acquisire dati su campo con `QField <https://www.qfield.org/>`_ e sincronizzarli con QGIS. Si può infatti creare un progetto complesso in QGIS, sincronizzare i dati sul proprio smartphone o tablet e uscire in campagna per acquisire nuovi dati."
 msgstr ""
 
-#: ../../training.rst:415
+#: ../../training.rst:419
 msgid "Al termine del corso l'utente sarà in grado di creare un progetto di QGIS, sincronizzarlo sul dispositivo remoto, acquisire i dati all'aperto e ri-sincronizzarli con il progetto originale."
 msgstr ""
 
-#: ../../training.rst:422
+#: ../../training.rst:426
 msgid "Breve introduzione al caricamento dei dati in QGIS"
 msgstr ""
 
-#: ../../training.rst:423
+#: ../../training.rst:427
 msgid "Migliori pratiche per la gestione di un progetto di QGIS"
 msgstr ""
 
-#: ../../training.rst:424
+#: ../../training.rst:428
 msgid "Ottimizzazione stilistica per i layer"
 msgstr ""
 
-#: ../../training.rst:425
+#: ../../training.rst:429
 msgid "Creazione di moduli personalizzati per facilitare l'inserimento dei dati"
 msgstr ""
 
-#: ../../training.rst:426
+#: ../../training.rst:430
 msgid "Introduzione a QField"
 msgstr ""
 
-#: ../../training.rst:427
+#: ../../training.rst:431
 msgid "Sincronizzazione progetto di QGIS e dati su dispositivo remoto"
 msgstr ""
 
-#: ../../training.rst:428
+#: ../../training.rst:432
 msgid "Utilizzo di QField in campagna"
 msgstr ""
 
-#: ../../training.rst:429
+#: ../../training.rst:433
 msgid "Acquisizione dei dati"
 msgstr ""
 
-#: ../../training.rst:430
+#: ../../training.rst:434
 msgid "Sincronizzazione dati acquisiti con QField a QGIS"
 msgstr ""
 
-#: ../../training.rst:434
+#: ../../training.rst:438
 msgid "Un giorno *full-time*"
 msgstr ""
 
-#: ../../training.rst:439
+#: ../../training.rst:443
 msgid "Geodatabase: PostgreSQL e PostGIS"
 msgstr ""
 
-#: ../../training.rst:441
+#: ../../training.rst:445
 msgid "Per apprendere a creare e gestire banche dati geografiche complesse, e realizzare analisi approfondite con visualizzazione in tempo reale delle analisi fatte. Il corso permette di familiarizzare con la gestione dei dati vettoriali tramite SQL, con l'importazione dei dati geografici e l'interrogazione di dati sia geografici che alfanumerici tramite numerose applicazioni."
 msgstr ""
 
-#: ../../training.rst:443
+#: ../../training.rst:447
 msgid "Al termine del corso, i discenti avranno a loro disposizione una **server PostGIS virtualizzato**, completamente **funzionante ed efficiente**, pronto per essere utilizzato in un qualsiasi provider."
 msgstr ""
 
-#: ../../training.rst:445
+#: ../../training.rst:449
 msgid "Preferibile, ma non indispensabile, una conoscenza anche rudimentale del linguaggio SQL. È necessario avere piena dimestichezza con l'uso del PC."
 msgstr ""
 
-#: ../../training.rst:450
+#: ../../training.rst:454
 msgid "Breve introduzione ai Sistemi Informativi Territoriali *open source*"
 msgstr ""
 
-#: ../../training.rst:451
+#: ../../training.rst:455
 msgid "Vantaggi dell'uso di un database nel GIS"
 msgstr ""
 
-#: ../../training.rst:452
+#: ../../training.rst:456
 msgid "Introduzione a `PostgreSQL <https://www.postgresql.org/>`_"
 msgstr ""
 
-#: ../../training.rst:453
+#: ../../training.rst:457
 msgid "Prima configurazione del database: i files di configurazione, gestione del server"
 msgstr ""
 
-#: ../../training.rst:454
+#: ../../training.rst:458
 msgid "Ottimizzazione di PostgreSQL"
 msgstr ""
 
-#: ../../training.rst:455
+#: ../../training.rst:459
 msgid "Introduzione a `PostGIS <http://postgis.net/>`_ (standard `Open Geospatial Consortium <http://www.opengeospatial.org/>`_)"
 msgstr ""
 
-#: ../../training.rst:456
+#: ../../training.rst:460
 msgid "Geodatabase: struttura e formato dati"
 msgstr ""
 
-#: ../../training.rst:457
+#: ../../training.rst:461
 msgid "Amministrazione da riga di comando: psql"
 msgstr ""
 
-#: ../../training.rst:458
+#: ../../training.rst:462
 msgid "Amministrazione da interfaccia grafica: QGIS, PhpPgAdmin, PgAdmin 3, OpenOffice, ecc."
 msgstr ""
 
-#: ../../training.rst:459
+#: ../../training.rst:463
 msgid "Amministrazione del database e accesso ai dati: ruoli, utenti, gruppi, permessi, accessi"
 msgstr ""
 
-#: ../../training.rst:460
+#: ../../training.rst:464
 msgid "Schemi, tabelle, viste, funzioni"
 msgstr ""
 
-#: ../../training.rst:461
+#: ../../training.rst:465
 msgid "Creazione di un database geografico"
 msgstr ""
 
-#: ../../training.rst:462
+#: ../../training.rst:466
 msgid "PostGIS e QGIS"
 msgstr ""
 
-#: ../../training.rst:464
+#: ../../training.rst:468
 msgid "importazione ed esportazione shapefile ed altri formati"
 msgstr ""
 
-#: ../../training.rst:465
+#: ../../training.rst:469
 msgid "digitalizzazione"
 msgstr ""
 
-#: ../../training.rst:466
+#: ../../training.rst:470
 msgid "query, *plugins* avanzati, storicizzazione, ecc."
 msgstr ""
 
-#: ../../training.rst:468
+#: ../../training.rst:472
 msgid "Analisi spaziali in SQL: esercizi pratici, di base ed avanzati"
 msgstr ""
 
-#: ../../training.rst:469
+#: ../../training.rst:473
 msgid "Indici spaziali"
 msgstr ""
 
-#: ../../training.rst:470
+#: ../../training.rst:474
 msgid "Benchmarking"
 msgstr ""
 
-#: ../../training.rst:471
+#: ../../training.rst:475
 msgid "Funzioni avanzate di geodatabase"
 msgstr ""
 
-#: ../../training.rst:472
+#: ../../training.rst:476
 msgid "Sistemi di riferimento spaziale, conversione tra sistemi di coordinate"
 msgstr ""
 
-#: ../../training.rst:473
+#: ../../training.rst:477
 msgid "I raster in PostGIS"
 msgstr ""
 
-#: ../../training.rst:474
+#: ../../training.rst:478
 msgid "Cenni sulla topologia"
 msgstr ""
 
-#: ../../training.rst:475
+#: ../../training.rst:479
 msgid "Copia e salvataggio"
 msgstr ""
 
-#: ../../training.rst:484
+#: ../../training.rst:488
 msgid "WebMapping con QGIS"
 msgstr ""
 
-#: ../../training.rst:486
+#: ../../training.rst:490
 msgid "Per apprendere in breve tempo il più innovativo e semplice ambiente di sviluppo per WebGIS e WebMapping, basato su QGIS."
 msgstr ""
 
-#: ../../training.rst:488
+#: ../../training.rst:492
 msgid "Consente di pubblicare sul web le mappe sviluppate e configurate tramite QGIS Desktop, senza necessità di complesse operazioni di configurazione del loro aspetto grafico."
 msgstr ""
 
-#: ../../training.rst:490
+#: ../../training.rst:494
 msgid "Al termine del corso, i discenti avranno a loro disposizione una **server WebGIS virtualizzato**, completamente **funzionante ed efficiente**, pronto per essere utilizzato in un qualsiasi provider."
 msgstr ""
 
-#: ../../training.rst:492
+#: ../../training.rst:496
 msgid "Sono necessarie nozioni di base sui GIS, sulla cartografia e sul web. È consigliabile una conoscenza di base di QGIS. È necessario avere piena dimestichezza con l'uso del PC."
 msgstr ""
 
-#: ../../training.rst:497
+#: ../../training.rst:501
 msgid "Come scegliere il WebGIS che fa per te"
 msgstr ""
 
-#: ../../training.rst:498
+#: ../../training.rst:502
 msgid "La pubblicazione semplicissima: generazioni di semplici applicazioni `Leaflet <http://leafletjs.com/>`_ e `OpenLayers <http://openlayers.org/>`_ a partire da progetti QGIS, con pochi click"
 msgstr ""
 
-#: ../../training.rst:499
+#: ../../training.rst:503
 msgid "Creazione di semplici applicazioni web 3D navigabili"
 msgstr ""
 
-#: ../../training.rst:500
+#: ../../training.rst:504
 msgid "Gli standard *Open Geospatial Consortium* per la pubblicazione WebGIS"
 msgstr ""
 
-#: ../../training.rst:502
+#: ../../training.rst:506
 msgid "WMS, WFS, WFS-T, WCS, WPS"
 msgstr ""
 
-#: ../../training.rst:504
+#: ../../training.rst:508
 msgid "Crea il tuo server"
 msgstr ""
 
-#: ../../training.rst:505
+#: ../../training.rst:509
 msgid "Ottimizzazione del server"
 msgstr ""
 
-#: ../../training.rst:506
+#: ../../training.rst:510
 msgid "Sicurezza del server"
 msgstr ""
 
-#: ../../training.rst:507
+#: ../../training.rst:511
 msgid "Installazione e configurazione di QGIS server"
 msgstr ""
 
-#: ../../training.rst:508
+#: ../../training.rst:512
 msgid "Pubblicare servizi WMS e WFS"
 msgstr ""
 
-#: ../../training.rst:509
+#: ../../training.rst:513
 msgid "WebGIS ricchi di funzioni: `QGIS web client <https://github.com/qgis/QGIS-Web-Client/>`_ (`demo <https://gis.uster.ch/>`_) e `LizMap <https://www.3liz.com/lizmap.html>`_"
 msgstr ""
 
-#: ../../training.rst:510
+#: ../../training.rst:514
 msgid "Approfondimento su `LizMap <https://www.3liz.com/lizmap.html>`_"
 msgstr ""
 
-#: ../../training.rst:512
+#: ../../training.rst:516
 msgid "funzionalità di base"
 msgstr ""
 
-#: ../../training.rst:513
+#: ../../training.rst:517
 msgid "guida per l'utente"
 msgstr ""
 
-#: ../../training.rst:514
+#: ../../training.rst:518
 msgid "guida per l'amministratore: installazione e configurazione"
 msgstr ""
 
-#: ../../training.rst:515
+#: ../../training.rst:519
 msgid "gestione di utenti e gruppi"
 msgstr ""
 
-#: ../../training.rst:516
+#: ../../training.rst:520
 msgid "guida per chi pubblica le mappe: visualizzazione dei dati, foto, files"
 msgstr ""
 
-#: ../../training.rst:517
+#: ../../training.rst:521
 msgid "come rendere veloce il tuo WebGIS: criteri di ottimizzazione"
 msgstr ""
 
-#: ../../training.rst:518
+#: ../../training.rst:522
 msgid "editing online: WFS-T"
 msgstr ""
 
-#: ../../training.rst:528
+#: ../../training.rst:532
 msgid "Python e QGIS: pyqgis e plugin"
 msgstr ""
 
-#: ../../training.rst:530
+#: ../../training.rst:534
 msgid "Per capire come potenziare QGIS con il linguaggio di programmazione Python. La finalità principale è quella di fornire gli strumenti e i concetti base per sviluppare script in Python e creare plugins. Dopo una breve introduzione a Python, i partecipanti saranno guidati passo a passo nella creazione di script e di un plugin."
 msgstr ""
 
-#: ../../training.rst:532
+#: ../../training.rst:536
 msgid "È preferibile, ma non obbligatoria, una conoscenza di base di Phyton. È necessaria una conoscenza di base dei principi di programmazione."
 msgstr ""
 
-#: ../../training.rst:537
+#: ../../training.rst:541
 msgid "Introduzione alla programmazione python in QGIS"
 msgstr ""
 
-#: ../../training.rst:539
+#: ../../training.rst:543
 msgid "la sintassi Python (variabili, cicli, funzioni e classi)"
 msgstr ""
 
-#: ../../training.rst:540
+#: ../../training.rst:544
 msgid "importazione moduli esterni"
 msgstr ""
 
-#: ../../training.rst:542
+#: ../../training.rst:546
 msgid "Le classi principali delle API Qt"
 msgstr ""
 
-#: ../../training.rst:544
+#: ../../training.rst:548
 msgid "il modulo QtCore (QObject, QString, QAction, QFile, ...)"
 msgstr ""
 
-#: ../../training.rst:545
+#: ../../training.rst:549
 msgid "il modulo QtGui (QWidget, QDialog, QMessageBox, QFileDialog, ...)"
 msgstr ""
 
-#: ../../training.rst:546
+#: ../../training.rst:550
 msgid "accedere alla API QT tramite Python: PyQt (tipi Qt mappati da tipi nativi Python, parametro di uscita)"
 msgstr ""
 
-#: ../../training.rst:547
+#: ../../training.rst:551
 msgid "gestione del sistema di segnali/slot di PyQt"
 msgstr ""
 
-#: ../../training.rst:549
+#: ../../training.rst:553
 msgid "Le principali classi API QGIS e le loro relazioni"
 msgstr ""
 
-#: ../../training.rst:551
+#: ../../training.rst:555
 msgid "classi di base e impostazioni: classi Qgis, QgsProject, QApplication"
 msgstr ""
 
-#: ../../training.rst:552
+#: ../../training.rst:556
 msgid "area mappa, strati e legenda: QgsMapCanvas, QgsMapLayer, QgsProject, QgsMapLayerRegistry, QgsLayerTree"
 msgstr ""
 
-#: ../../training.rst:553
+#: ../../training.rst:557
 msgid "strati vettoriali: QgsVectorLayer, QgsField, QgsFeature, QgsGeometry"
 msgstr ""
 
-#: ../../training.rst:554
+#: ../../training.rst:558
 msgid "strati raster: QgsRasterLayer"
 msgstr ""
 
-#: ../../training.rst:555
+#: ../../training.rst:559
 msgid "strumenti di mappa e banda elastica: QgsMapTool, QgsMapToolEmitPoint"
 msgstr ""
 
-#: ../../training.rst:556
+#: ../../training.rst:560
 msgid "elementi della mappa: QgsMapCanvas"
 msgstr ""
 
-#: ../../training.rst:557
+#: ../../training.rst:561
 msgid "classi dei sistemi di riferimento: QgsCoordinateReferenceSystem, QgsCoordinateTransform"
 msgstr ""
 
-#: ../../training.rst:559
+#: ../../training.rst:563
 msgid "Creazione di un plugin"
 msgstr ""
 
-#: ../../training.rst:561
+#: ../../training.rst:565
 msgid "uso delle classi e dei metodi principali per la creazione in un plugin"
 msgstr ""
 
-#: ../../training.rst:562
+#: ../../training.rst:566
 msgid "Plugin Builder e Plugin Reloader"
 msgstr ""
 
-#: ../../training.rst:563
+#: ../../training.rst:567
 msgid "creare interfacce utente con QtDesigner (.ui)"
 msgstr ""
 
-#: ../../training.rst:564
+#: ../../training.rst:568
 msgid "gestione dei metadati per la pubblicazione del plugin"
 msgstr ""
 
-#: ../../training.rst:565
+#: ../../training.rst:569
 msgid "corretti metodi di gestine di un plugin"
 msgstr ""
 
-#: ../../training.rst:567
+#: ../../training.rst:571
 msgid "Utilizzo di software di controllo versione (git)"
 msgstr ""
 
-#: ../../training.rst:569
+#: ../../training.rst:573
 msgid "introduzione a git"
 msgstr ""
 
-#: ../../training.rst:570
+#: ../../training.rst:574
 msgid "vantaggi di un sistema di versionamento"
 msgstr ""
 
-#: ../../training.rst:571
+#: ../../training.rst:575
 msgid "comandi principali di git (git add, git commit, git pull, git push)"
 msgstr ""
 
-#: ../../training.rst:572
+#: ../../training.rst:576
 msgid "utilizzare i branch di git e gestione dei conflitti"
 msgstr ""
 
-#: ../../training.rst:573
+#: ../../training.rst:577
 msgid "pubblicazione del plugin su un hosting remoto (github, gitlab, ...)"
 msgstr ""
 
-#: ../../training.rst:574
+#: ../../training.rst:578
 msgid "corretta gestione di un issue/bug tracker"
 msgstr ""
 
-#: ../../training.rst:585
+#: ../../training.rst:589
 msgid "Aggiornamento a QGIS 3"
 msgstr ""
 
-#: ../../training.rst:586
+#: ../../training.rst:590
 msgid "Per imparare a utilizzare tutti i nuovi strumenti della prossima versione di QGIS 3. Il corso è rivolto a tutte le persone che intendono imparare le novità della nuova versione di QGIS."
 msgstr ""
 
-#: ../../training.rst:589
+#: ../../training.rst:593
 msgid "È obbligatoria una buona conoscenza di QGIS in quanto non verranno trattati nuovi argomenti, ma verranno mostrate le nuove funzionalità di QGIS 3."
 msgstr ""
 
-#: ../../training.rst:595
+#: ../../training.rst:599
 msgid "nuove modalità di aggiunta dei dati"
 msgstr ""
 
-#: ../../training.rst:596
+#: ../../training.rst:600
 msgid "nuova interfaccia delle proprietà di vettore e raster"
 msgstr ""
 
-#: ../../training.rst:597
+#: ../../training.rst:601
 msgid "nuova interfaccia di digitalizzazione"
 msgstr ""
 
-#: ../../training.rst:598
+#: ../../training.rst:602
 msgid "cad tools e creazione figure geometriche"
 msgstr ""
 
-#: ../../training.rst:599
+#: ../../training.rst:603
 msgid "3D"
 msgstr ""
 
-#: ../../training.rst:600
+#: ../../training.rst:604
 msgid "nuovo compositore di stampe"
 msgstr ""
 
-#: ../../training.rst:601
+#: ../../training.rst:605
 msgid "task manager e processi in background"
 msgstr ""
 
-#: ../../training.rst:602
+#: ../../training.rst:606
 msgid "impressionante miglioramento di Processing"
 msgstr ""
 
-#: ../../training.rst:603
+#: ../../training.rst:607
 msgid "multi mappe"
 msgstr ""
 
-#: ../../training.rst:604
+#: ../../training.rst:608
 msgid "novità di interrogazione layer"
 msgstr ""
 
-#: ../../training.rst:605
+#: ../../training.rst:609
 msgid "integrazione con GeoNode"
 msgstr ""
 
-#: ../../training.rst:606
+#: ../../training.rst:610
 msgid "nuovo sistema di etichettatura e storage di informazioni temporanee"
 msgstr ""
 
-#: ../../training.rst:612
+#: ../../training.rst:616
 msgid "Un giorno *full time*"
 msgstr ""
 
