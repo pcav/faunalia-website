@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-09 12:57+0100\n"
+"POT-Creation-Date: 2019-01-22 10:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -38,13 +38,68 @@ msgstr ""
 "GRASS, SAGA, OTB, PostGIS, PostgreSQL, OsGeo, OGC, support, bug fixing, "
 "migration, développement"
 
+#: ../../support.rst:10
+msgid "Novità! Supporto alla migrazione QGIS 2 -> QGIS 3"
+msgstr ""
+
+#: ../../support.rst:11
+msgid ""
+"Dopo oltre 2 anni di supporto la versione 2.18 Las Palmas di QGIS ha "
+"raggiunto il suo termine. In verità QGIS 2 ha raggiunto la fine del suo "
+"ciclo vitale: a febbraio 2018 è stata rilasciata la prima versione stabile "
+"di QGIS 3 *Girona*."
+msgstr ""
+
+#: ../../support.rst:13
+msgid ""
+"Questo significa che QGIS 2.18 non sarà più supportato: se verranno trovati "
+"dei bug non verranno sistemati e non verranno più aggiunte funzionalità "
+"nuove."
+msgstr ""
+
+#: ../../support.rst:15
+msgid "**Ma cosa comporta a livello pratico il passaggio da QGIS 2 a QGIS 3?**"
+msgstr ""
+
+#: ../../support.rst:17
+msgid ""
+"**aggiornamento dei progetti**: sono infatti disponibili molte simbologie in "
+"più e non sempre la compatibilità è garantita"
+msgstr ""
+
+#: ../../support.rst:18
+msgid ""
+"incompatibilità dei plugin. **Tutti** i plugin di QGIS 2 sono "
+"**incompatibili** con QGIS 3 e necessitano quindi di essere aggiornati"
+msgstr ""
+
+#: ../../support.rst:19
+msgid ""
+"i **modelli di Processing** devono essere aggiornati: Processing è la parte "
+"di codice che ha subito più miglioramenti e di conseguenza i modelli scritti "
+"in QGIS 2 devono essere adattati a QGIS 3"
+msgstr ""
+
+#: ../../support.rst:20
+msgid ""
+"**modelli di stampa**: anche i modelli di stampa devono essere aggiornati al "
+"nuovo motore di QGIS 3"
+msgstr ""
+
+#: ../../support.rst:22
+msgid ""
+"Faunalia offre **piena assistenza di migrazione** da QGIS 2 a QGIS 3. "
+"Abbiamo infatti già *adattato* diversi plugin e fornito diversa assistenza "
+"durante la migrazione."
+msgstr ""
+
 # e4147a488126479887c42ebe2997e327
-#: ../../support.rst:9
+#: ../../support.rst:26
 msgid "Assistenza"
 msgstr "Assistance"
 
 # 78d8555ca6d64dc485ccdfed4709f286
-#: ../../support.rst:10
+#: ../../support.rst:27
 msgid ""
 "Faunalia è la prima società in Italia a fornire assistenza tecnica per "
 "QGIS_. La nostra assistenza assicura, in caso di problemi, un intervento "
@@ -65,7 +120,7 @@ msgstr ""
 "administrations publiques et les entreprises commerciales."
 
 # 1b26eeb1960f4a4aa19a2de96f8e55ac
-#: ../../support.rst:12
+#: ../../support.rst:29
 msgid ""
 "In particolare, Faunalia garantisce `servizi professionali per QGIS <http://"
 "www.qgis.org/en/site/forusers/commercial_support.html>`_ (Desktop, Server e "
@@ -76,12 +131,12 @@ msgstr ""
 "GRASS_, PostgreSQL_ `et PostGIS <http://postgis.net/support>`_:"
 
 # f085741ebad245a78e054d8936399bf6
-#: ../../support.rst:14
+#: ../../support.rst:31
 msgid "Installazione, configurazione e aggiornamento"
 msgstr "Installations, configuration et mise à jour"
 
 # 87388a1633154706b13c18ed33ad5af0
-#: ../../support.rst:15
+#: ../../support.rst:32
 msgid ""
 "Migrazione da GIS proprietari (es. ArcGIS e Oracle Spatial) a GIS liberi "
 "(es. QGIS_ e PostGIS_)"
@@ -90,22 +145,22 @@ msgstr ""
 "solutions libres (p.ex. QGIS_ et PostGIS_)"
 
 # 7e6a9430a67d4ebcaaecfd9b0a4f50ee
-#: ../../support.rst:16
+#: ../../support.rst:33
 msgid "Assistenza email e telefonica"
 msgstr "Assistance téléphonique et en ligne"
 
 # 1e18ab0a307646ca83cc3d12b6518f1b
-#: ../../support.rst:17
+#: ../../support.rst:34
 msgid "Assistenza on site"
 msgstr "Assistance à domicile"
 
 # 4b174ce7f2514316ad43390a97d38bc9
-#: ../../support.rst:18
+#: ../../support.rst:35
 msgid "Bug fixing su richiesta"
 msgstr "Réparation des dysfonctionnements (bugfix) sur demande du client"
 
 # bf3417e766704b4b8ac5e295057fbc60
-#: ../../support.rst:19
+#: ../../support.rst:36
 msgid ""
 "Abbonamento agli annunci sulle novità importanti sui software GIS open "
 "source e liberi"
