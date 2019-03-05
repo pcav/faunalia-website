@@ -263,7 +263,7 @@ Calendario
 =====================================================  ==================== ==============  =================== ========
 Corso                                                  Date e durata        Dove            Scadenza iscrizione Lingua
 =====================================================  ==================== ==============  =================== ========
-:ref:`analisi`                                         7-9 Maggio 2019      Pontedera, IT                       Italiano
+:ref:`analisi`                                         7-9 Maggio 2019      Pontedera, IT   24 Aprile 2019      Italiano
 :ref:`geodb`                                           Settembre 2019       Pontedera, IT                       Italiano
 :ref:`webgis`                                          Ottobre 2019         Pontedera, IT                       Italiano
 :ref:`pyqgis`                                          Novembre 2019        Pontedera, IT                       Italiano

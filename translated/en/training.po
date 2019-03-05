@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Faunalia\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-18 10:41+0100\n"
+"POT-Creation-Date: 2019-03-05 15:11+0100\n"
 "PO-Revision-Date: 2013-08-17 16:58+0200\n"
 "Last-Translator: Paolo Cavallini <cavallini@faunalia.it>\n"
 "Language-Team: Italiano <>\n"
@@ -773,13 +773,13 @@ msgid "Lingua"
 msgstr "Language"
 
 #: ../../training.rst:266
-msgid ":ref:`carto`"
-msgstr ":ref:`carto`"
+msgid ":ref:`analisi`"
+msgstr ":ref:`analisi`"
 
-# 5f579eacdfe14ef58b3777e851296a6b
+# 53d00af130964089957a33ca9154d0b3
 #: ../../training.rst:266
-msgid "26-28 Febbraio 2019"
-msgstr "26-28 February 2017"
+msgid "7-9 Maggio 2019"
+msgstr "7-9 May 2018"
 
 # 768ef41660e8444b834e3d11d5ef4934
 # 69abb73e3dbe4ec59cc72dd9e0314203
@@ -792,10 +792,10 @@ msgstr "26-28 February 2017"
 msgid "Pontedera, IT"
 msgstr "Pontedera, IT"
 
-# b28a9fbcf9964ba28a693bb9feccab9b
+# eafdbe68fb894344a151fb2d4142818d
 #: ../../training.rst:266
-msgid "10 Febbraio 2019"
-msgstr "10 February 2018"
+msgid "24 Aprile 2019"
+msgstr "24th April 2019"
 
 # d46e64fc0c7e494b826fb2dc83e7df1d
 # d46e64fc0c7e494b826fb2dc83e7df1d
@@ -809,39 +809,48 @@ msgid "Italiano"
 msgstr "Italian"
 
 #: ../../training.rst:267
-msgid ":ref:`analisi`"
-msgstr ":ref:`analisi`"
-
-# eafdbe68fb894344a151fb2d4142818d
-#: ../../training.rst:267
-msgid "Aprile 2019"
-msgstr "April 2019"
-
-#: ../../training.rst:268
-msgid ":ref:`pyqgis`"
-msgstr ":ref:`pyqgis`"
-
-# 5f579eacdfe14ef58b3777e851296a6b
-#: ../../training.rst:268
-msgid "Giugno 2019"
-msgstr "June 2019"
-
-#: ../../training.rst:269
 msgid ":ref:`geodb`"
 msgstr ":ref:`geodb`"
 
-#: ../../training.rst:269 ../../training.rst:270 ../../training.rst:271
-#: ../../training.rst:272
-msgid "da definire"
-msgstr "to be decided"
+# 1477ed8907e24345b0045abe4fb7372a
+#: ../../training.rst:267
+msgid "Settembre 2019"
+msgstr "September 2019"
 
-#: ../../training.rst:270
+#: ../../training.rst:268
 msgid ":ref:`webgis`"
 msgstr ":ref:`webgis`"
 
-#: ../../training.rst:271
+# 789f35850632463296adba2404463064
+#: ../../training.rst:268
+msgid "Ottobre 2019"
+msgstr "October 2019"
+
+#: ../../training.rst:269
+msgid ":ref:`pyqgis`"
+msgstr ":ref:`pyqgis`"
+
+# bdc24911e5b54efc9a5a5d9ce5940acc
+#: ../../training.rst:269
+msgid "Novembre 2019"
+msgstr "November 2019"
+
+#: ../../training.rst:270
 msgid ":ref:`qfield_corso`"
 msgstr ":ref:`qfield_corso`"
+
+#: ../../training.rst:270 ../../training.rst:271 ../../training.rst:272
+msgid "da definire"
+msgstr "to be decided"
+
+#: ../../training.rst:271
+msgid ":ref:`carto`"
+msgstr ":ref:`carto`"
+
+# b28a9fbcf9964ba28a693bb9feccab9b
+#: ../../training.rst:271
+msgid "10 Febbraio 2019"
+msgstr "10 February 2018"
 
 #: ../../training.rst:272
 msgid ":ref:`qgis3`"
@@ -1922,10 +1931,13 @@ msgstr "new label system and temporary information storage"
 msgid "Un giorno *full time*"
 msgstr "One day, full time"
 
-# bdc24911e5b54efc9a5a5d9ce5940acc
-#, fuzzy
-#~ msgid "26 Novembre 2018"
-#~ msgstr "November 2017"
+# 5f579eacdfe14ef58b3777e851296a6b
+#~ msgid "26-28 Febbraio 2019"
+#~ msgstr "26-28 February 2017"
+
+# 5f579eacdfe14ef58b3777e851296a6b
+#~ msgid "Giugno 2019"
+#~ msgstr "June 2019"
 
 # bdc24911e5b54efc9a5a5d9ce5940acc
 #, fuzzy
@@ -1944,10 +1956,6 @@ msgstr "One day, full time"
 # 5264f422ac9d4034a6d68c5b38458a39
 #~ msgid "15 Settembre 2018"
 #~ msgstr "15 September 2017"
-
-# 789f35850632463296adba2404463064
-#~ msgid "23 Ottobre 2018"
-#~ msgstr "23 October 2018"
 
 # 789f35850632463296adba2404463064
 #~ msgid "10 Ottobre 2018"
@@ -1976,10 +1984,6 @@ msgstr "One day, full time"
 
 #~ msgid "Berlino, DE"
 #~ msgstr "Berlin, DE"
-
-# 53d00af130964089957a33ca9154d0b3
-#~ msgid "20 Maggio 2018"
-#~ msgstr "20 May 2018"
 
 # 53d00af130964089957a33ca9154d0b3
 #~ msgid "09-11 Maggio 2018"
@@ -2131,10 +2135,6 @@ msgstr "One day, full time"
 # f7db670e6b22473f88e2168c85cf783a
 #~ msgid "Dicembre 2017"
 #~ msgstr "December 2017"
-
-# 1477ed8907e24345b0045abe4fb7372a
-#~ msgid "Settembre 2017"
-#~ msgstr "September 2017"
 
 # ba3fdc3d2ad640b29794101635a439cb
 #~ msgid "Due giorni *full time*"
