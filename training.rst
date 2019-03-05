@@ -263,12 +263,12 @@ Calendario
 =====================================================  ==================== ==============  =================== ========
 Corso                                                  Date e durata        Dove            Scadenza iscrizione Lingua
 =====================================================  ==================== ==============  =================== ========
-:ref:`carto`                                           26-28 Febbraio 2019  Pontedera, IT   10 Febbraio 2019    Italiano
-:ref:`analisi`                                         Aprile 2019          Pontedera, IT                       Italiano
-:ref:`pyqgis`                                          Giugno 2019          Pontedera, IT                       Italiano
-:ref:`geodb`                                           da definire          Pontedera, IT                       Italiano
-:ref:`webgis`                                          da definire          Pontedera, IT                       Italiano
+:ref:`analisi`                                         7-9 Maggio 2019      Pontedera, IT                       Italiano
+:ref:`geodb`                                           Settembre 2019       Pontedera, IT                       Italiano
+:ref:`webgis`                                          Ottobre 2019         Pontedera, IT                       Italiano
+:ref:`pyqgis`                                          Novembre 2019        Pontedera, IT                       Italiano
 :ref:`qfield_corso`                                    da definire          Pontedera, IT                       Italiano
+:ref:`carto`                                           da definire          Pontedera, IT   10 Febbraio 2019    Italiano
 :ref:`qgis3`                                           da definire          Pontedera, IT                       Italiano
 =====================================================  ==================== ==============  =================== ========
 
@@ -292,7 +292,7 @@ Ti preghiamo di iscriverti appena ti è possibile, in modo da consentirci di org
 * **Iscrizione**: confermata al versamento di una caparra di 100 €, saldo prima dell'inizio del corso; è possibile versare l'intera quota in unica soluzione; in caso il corso non si svolga per qualunque motivo, la quota versata verrà interamente restituita
 
 .. note:: indicare nell'oggetto del bonifico la dicitura **Caparra**, esempio:
-  ``Caparra Corso Cartografia Mario Rossi``. 
+  ``Caparra Corso Cartografia Mario Rossi``.
 
 * **Conferma**: il corso sarà confermato al raggiungimento del numero minimo di partecipanti
 * **Requisiti**: computer portatile in buono stato di funzionamento; i programmi necessari verranno installati durante il corso
